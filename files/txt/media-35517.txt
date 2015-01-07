@@ -1,0 +1,280 @@
+VALIANTSURF (VS):
+
+ 
+
+Ll
+
+Beneﬁdaﬂes
+
+ 
+
+ 
+
+ 
+
+ 
+
+VAUANT RF
+. . SU CES & OTP & TOPIs Link Access CES
+Capability Level LONGHAUL 556
+A Key Recovery, no on-site X
+decryption
+B Key Recovery, on-site SW
+Decryption , XKS X X
+SIGDEV
+C Key Recovery, on-site SW
+Decryption, XKS SIGDEV , X X X
+
+offsite processing of
+full take decrypt
+
+ 
+
+D Key Recovery, on-site SW
+Decryption, XKS SIGDEV ,
+on-site packet and X X X X
+session selection and
+forwarding of decrypt
+
+ 
+
+E Key Recovery, on-site HW
+Decryption, XKS SIGDEV ,
+
+NOTE:  addecfcapab Iity o§er pr or leve)|(
+decrypt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—
+VALIANTSURF (VS): Success Criteria
+
+1 DNC (Data Network Cipher) target development performed using metadata
+
+2 TURMOIL DNC targeting in place (via U'I'I' & KEYCARD) and needed CASNs on cover
+3 lTx connectivity between CES backend and CA Servers at site
+
+4 CA Servers at site accessible, hardened, loaded and functioning
+
+5 Pairing exists for the targeted DNC IP addresses
+
+a LONGHAUL is able to exploit the traffic
+
+7 VS-compatible TURMOIL software loaded
+
+a XKS retrospective available for DNC plain text target development (i.e. determine selectors)
+9 Bandwidth available and policy approves
+
+m. Plain text selectors loaded in TURMOIL and XKS
+
+11 Needed mission applications available in TURMOIL stage 1 prime
+
+1;. XKEYSCORE-Stage 2 functioning
+
+13. CA Server with hardware acceleration in place with sufficient TU network configuration
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . Success Criteria Required
+VS Capability
+1 1 1
+LEVel 1 2 3 4 5 6 7 8 9 10 1 2 3
+A X X X X X X
+B X X X X X X X X
+C X X X X X X X X X
+D X X X X X X X X X X X X
+E TOXSECXET/CEMINXHREXTJX X X X X X X X
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+USA,FVEY
+
+ 
+
+VALIANTSURF (VS): Current Capability
+Status
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vs
+Capabilit VS Dependencies 13. CA HW
+Site y 2 6 8 XKS 10 WT 11 Stage Cavium
+A B C D E SIES'EV TARGE'I'I'IN 3. ITx $3; Pai5rin Exploitabl 7. TML/vs Retro- 9'55?! & Selector 1'  ngfer Included
+G g e spective y 5 Apps g ?
+IBM
+IMUSC 3650 yes
+HP
+IXCUT DLlSO no
+Dell
+ITEC 2950 no
+Dell
+IMHS 2950 no
+Dell
+.61 2950 no
+Dell
+IG3 2950 no
+Dell
+IS 56 2950 no
+Dell
+IS BCH 2950 no
+IBM Eventua
+9” 3650 ||y*
+JCE IBM
+_20(3** 3650 yes
+2406 IBM
+(6/11) 3650 yes
+PSK
+Defensi IBM Eventua
+ve 3650 ||y*
+(1/11)
+Remaini
+“9 - - IBM Eventua
+Defensi * CaVIum cards sun to be ordered for these 5 tes 3650 NW
+:ﬁelsg) **JCE 206 is a dev system
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

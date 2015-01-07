@@ -1,0 +1,172 @@
+TemplatezPOISONNUT Product - Wikilnfo
+
+The accredited security level of this system is: TOP SECRETIISl-GAMMAITALENT KEYHOLEIIORCONIPROPINIRELIDOIREL To USA, FVEY *
+TOP SECRETHSIHREL TO USA, FVEY
+
+(U) Template:POISONNUT Product
+
+From WikiInfo
+
+Contents
+
+1 (TS/IREL) Overview
+2 (TS/IREL) Design
+3 (TS/IREL) Capabilities
+3.1 (TS/lREL) Can Attack
+3.2 (TS/lREL) Submit Attack
+3.3 (TS/lREL) Submission to Output Correlator
+3.4 (TS/IREL) Cancel Attack
+3.5 (TS/IREL) Attack Output Processor
+3.6 (TS/IREL) Was Attack Successful
+4 (U/lFOUO) Infrastructure
+I 4.1 (Ul/FOUO) Channel Guide
+5 (Ul/FOUO) Metrics
+6 (U/lFOUO) Issues
+
+(TS/l REL) Overview
+
+I (TS/IREL) Description: This complex element is responsible for scheduling ESP attacks.
+I (Ul/FOUO) Input Channel(s): incomingE SPAttack
+
+I (SI/REL) Output Channel(s): successfulE SPAttack (successful attack)
+
+I See the poisonnut-phaseprocessing-phaseattack Maven Project.
+
+(TS/l REL) Design
+
+ 
+
+ 
+
+ 
+
+Can Attack VRI Outpul
+
+| Canmam Channalz I: SumnAnaak Channel3 } Aﬁﬂ‘mfﬂm‘n .— Chan-19:4 }
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time oul"
+Gamma" Canmlled
+Cannot Auadc
+Am LI:
+Channel 7 P on": Chamel 6 Channel 5 l Cancel Amdt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1La
+
+ 
+
+(TS/IREL) ESP Attack Desgin
+
+(TS/l REL) Capabilities
+
+(TS/IREL) Can Attack
+
+I (TS/lREL) Description: Determines if the data that is available for the Phasel Attack is enough to do the current
+attack in the attack plan. If it is not, it sets the result text and returns the cannotAttack route. The strategy is not
+marked as failed, this is left for the object on the other side of the channel to decide how to handle the failure. If
+no plan is set or the plan has no attacks, it returns the cannotAttack route. If there are strategies but all of them
+have been exhausted, the plan will throw an IllegalStateException.
+
+(TSI'IREL) Submit Attack
+
+I (TS/IREL) Description: Creates the Attack command and submits it to the VRI with the Resource of the Attack
+Strategy. The VRI correlation id must be set with the Phasel data.
+
+(TSI'IREL) Submission to Output Correlator
+
+I (TS/IREL) Description: Correlates the Phasel with it's VRI Output. The VRI Correlation id will be used for the
+correlation. There will be a time out on the phasel that will indicate that we never got the VRI Output.
+
+10f2
+
+TemplatezPOISONNUT Product - WikiInfo
+
+(TSI'IREL) Cancel Attack
+I (TS/IREL) Description: Sends a message to the VRI that the job has been canceled.
+(TSI'IREL) Attack Output Processor
+
+I (TS/IREL) Description: Processes the output of the Attack. This output may not even be there if the Attack timed
+out. The Attack Strategy needs to be marked as successful or failed based on the data the Attack gives back.
+
+(TSI'IREL) Was Attack Successful
+I (TS/IREL) Description: Checks to see if the current Attack Strategy was successful. This component could use
+
+the Has Phasel Key Material Content Based Router implementation with a different input channel/output
+channel conﬁguration.
+
+(U/IFOUO) Infrastructure
+
+(UHFOUO) Channel Guide
+
+(TS/IREL) Spring Integration Channel Guide
+
+Channel Name Type Payload
+CanAttack Input 1 (Channel L) incomingPhaseAttack Direct IKE Phasel
+CanAttack Output 1 canAttackPhasel Direct IKE Phasel
+CanAttack Output 2 cannotAttackPhasel Direct IKE Phasel
+
+RequestResponseCorrelator Input 1 attackRequestSubmitted Direct VRISubmission
+RequestResponseCorrelator Input 2 attackResponseReceived Direct VRIResponse
+
+RequestResponseCorrelator Output 1 attackCompleted Direct VRISubmission
+RequestResponseCorrelator Output 2 attackTimedOut Direct VRISubmission
+
+(U/IFOUO) Metrics
+{{{metrics}}}
+(Ul/FOUO) Issues
+{{{issues}}}
+
+Retrieved from
+Category: POISONNUT products
+
+Derived From: SI Classmcauon Gmde. 0201. Dated: 20060?11
+and NSNCSSM 1762. Dated: ZDDFDHJE
+Declassify On: 20320108
+
+TOP SECRETHSIHREL TO USA. FVEY
+
+20f2
+

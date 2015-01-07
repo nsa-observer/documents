@@ -1,0 +1,340 @@
+HOME PAGE TODAY‘S PAPER VIDEO MOST POPULAR us. Edition Subscribe: Digital/ Home Delivery Log In RegisterNow Help
+
+Eh: New Hark amcﬁ U S Search All NYTimes.com H
+
+ 
+
+WORLD U.S. N.Y./REGION BUSINESS TECHNOLOGY SCIENCE HEALTH SPORTS OPINION ARTS STYLE TRAVEL JOBS REAL ESTATE AUTOS
+
+POLITICS EDUCATION TEXAS
+
+Q
+
+Published: September 5, 2013 FACEBOOK TWITTER GOOGLE+ E-MAIL SHARE
+
+Secret Documents Reveal N.S.A. Campaign Against Encryption
+
+Documents show that the N.S.A. has been waging a war against encryption using a battery of methods that include working
+with industry to weaken encryption standards, making design changes to cryptographic software, and pushing international
+
+encryption standards it knows it can break. Related Article »
+
+Excerpt from 2013 Intelligence Budget Request Bullrun Briefing Sheet
+
+This excerpt from the N.S.A.’s 2013 budget request outlines the ways in which the agency circumvents the encryption
+protection of everyday Internet communications. The Sigint Enabling Project involves industry relationships, clandestine
+changes to commercial software to weaken encryption, and lobbying for encryption standards it can crack.
+
+ 
+
+TOP SLGHETr.-'SI.FTK-'.I'NOFOFIN
+
+{L'J COMPUTER NETWORK OPERA'I'lDNs
+(U) SIGINT ENABLING
+
+ 
+
+This Exhibit is SIsCRL-Tfi'i‘il'JFURN
+
+ 
+
+FY 2M2 Erineled FY ZIIIJRuqul'S'I: EY ZIHZ —— H" 2U13
+n' am I1
+5i-
+nctuai Bits;- [JILTO ' Ilium.- 0C0 Total Change
+
+ 
+
+ 
+
+Change
+Funding {$M] lgﬁﬁ ‘ 275.4 254.9 1545.3 EU 4 -'I'
+
+ 
+
+Ch'ilian FT}: I4.“ -- l4] HI 2 ]
+
+ 
+
+l[Tii‘ilictn Positions ' I43 I41 |=l-| 9 l
+
+ 
+
+I‘l—l ilitairyI I'cisiliuns — —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lineludc; maxed NICO run-ling Tl'llun- mu}- Im'. :ic-J dur l-IF ltIllliJil'l":
+
+ 
+
+ 
+
+ 
+
+{U} Project Description
+
+was, the Slt'ilis'l' Enabling iippnuacli uses animus-rule] technology and ghl to milling: the increasing; (Tl-ii nrlii
+inclinicnl ulnallengcsni'd;scovcriits: and successfully csploiiing systems Di llllﬂfﬂnl Wilillil. the ever more inleercitud
+and st'utirily-l'txzusctl global communications environmcnl.
+
+{TSr'i'S].".-'R]'-.l. TO USA, I’VE?) This Project supports ihu (Twin-.fn'elicnsiue National C}-‘hersccurity
+lnitiiniw: tCNC‘I] hy- invesring in commie partnerships nntl providing new ucucss [0 inlalligenu: sources.
+mduclng collection and ekp'oilniicii irn-lls ni'exiiizng sources. and enabling cspnndcd network operation and
+inielligcncc exploitation to suppur: nutwurk defense and C}'i)l_'l' situalinnal awareness. This Projccl contains |i'.-L'
+SIGIHT [Enabling Suh—l'i'ojc‘ct.
+
+{U} Bust: resources in this [rule-c1 are L;st to:
+
+TSi'i'SI.-".-'RF-'.[. TE) USA. FVEY}
+
+[TSi'_iS[i,-'REL To USA. |7\-']'-.Y} Collect Iaigef network clam and tTlCil‘lLitlltl rm ClKFPL‘Hlli‘l-‘L' network carriers
+aniji'm' increased control over CUR: networks
+
+["TSfi'Sli'iRELTO USA, FVEY] Leverage corrirricrciu] tzazlubilities to remotely dclivcr or receive infummlion
+[U and Irwin largel endpoints.
+
+[TSr'i'Sli'i'Rl-‘J. TU USA. Fill-“EU Exploit foreign truslud winpuliiig ];|al1'ornis and technologies.
+
+ITS-'-"SI-"-"Rl‘-1- To “Set FrE‘r'i —
+
+l'l'S.-'."Sl.".-'REL TO US.-'\, WET] Make specific and aggressive investments in fiicililnlc the dcvclunnwiil til"
+2 robust exploitation cup-“bully against Neal—Generation Wireless. (NEW) communications.
+
+{Uh-'l-‘OLIEI‘J Maintain understanding ofuvmmcntiral business and technology-I trends.
+{LL-'i'l-ULJU} Fromm products for inici'rml cvaliiuiinn.
+
+{l:,-'.'}-'()L_'{}) Par-mar with ind-Jun}- zlntiglu.’ gut-eminent agencies :n developing technologies of strategic
+irttciusl Ii: NSAICSS.
+
+TOP SEC FlET.‘.'S!.'T Kr'INGI OH ‘4
+
+The N.S.A.‘s Sigint Enabling Project is a $250 million-
+a—year program that works with Internet companies to
+weaken privacy by inserting back doors into encryption
+products. This excerpt from a 2013 budget proposal
+outlines some methods the agency uses to undermine
+encryption used by the public.
+
+The agency works with companies to insert back doors
+into the commercial products. These back doors allow the
+agency, and in theory only the agency, to gain access to
+scrambled information that it would not be able to view
+otherwise.
+
+Because the N.S.A has long been considered the world‘s
+top authority on encryption, it has dual, sometimes
+competing, roles. One responsibility of the agency is to
+safeguard United States communications by promoting
+encryption standards, and the other is to break codes
+protecting foreign communications. Part of the Sigint
+Enabling Project‘s goal is to influence these standards —
+which are often used by American companies — and
+weaken them.
+
+ 
+
+1 OP SEC FtETﬂSl-"I' (L'NO PORN
+
+t ETSI.'I.'SI_.'II'REL TL) USA. F'VFEY] Support the SIGINT exploitation of NEW. :1 MIPNJP collective
+investment, This request reflects only the NIP portion of the PI'UJJJ'HTI'I Refer to MIP Nil-“R volume fordclnils
+on HIP related activities.
+
+(TﬁltrﬁLlli'kL-{L '1'0 L'Srtl F‘VEY‘i vaitlu I'or cominuutt partnerships with major telewnutattticalinns carriers
+to shape the global network to benefit other culicclinn activities and BJlilW In: CﬂniinUtllilJﬂ UT PtlleT'lllE 'W'Jll
+commercial Managed Security Service Providers anti 1hrc'ctr researchers. doing threati's'ulncrabihly analysis
+[TS-"ETIERTTJ. TU USA. l"‘l-"t-."I'J Continue relationships with commercial 11' partners and capitalize on new
+opportunjlica. including, the enabling of cryptography used by the
+
+Igns-ummcms;cnctbk [he encryptinn being used in a high interest Hiltcllilc signal, which ul lows access to the
+communications being Carried on a cununei'cinl satellite provider.
+
+{Ll} There are no new :tclivilies in '.l'|l'1' Project for FY 2013.
+{U i The CCP expects- lhis Project to accomplish the l'nilowing :11 FY EUJl:
+The agency defines capability as “the NSA/CSS ability to
+- i‘TSH-“Sli'i‘NFi Reach an initial upcrating, capability lorSlCﬂXT access lo data. flowing Itnvngli u commercial exploit a specific technology,” according to a 2010
+Arabic langrlage-"i‘diddlc Etlsl—tsriettTetl anonymous internet service. [CCI’__lJlJ-UU9F document outlining the Bullrun program. Here, the agency
+
+ I _ _  II I II _ II I I_ I _ 1 II __ _ {I _ . II I. is claiming that it can gain accessto the text and audio of
+(lbnhltillli F0 LSA. H EYl Rcacli full equaling capahln} For SIGINT access to cata Hun-Int through an Internet Chat service It is unclear from the documents
+
+a hub for a ittajor commcrcral communications providcrtzntl asset-s II» long term henchth. that The New York Times and Propublica have access to
+S.t-'5l.-'.-'R EL 'E'U ESSA. I-‘s-‘EY which service this document refers to.
+
+'T.  l.-'.-'RF.l. TD [:3 . -'V L ‘- I I
+I 9 5 A 1 Hr ICC? 00mg] Large Internet companies use dedicated hardware to
+— scramble traffic before it is sent. In 2013, the agency
+
+rTS.",-'S[,f,"RE]_ TU L'SA Hit-iv] Make gains in enabling decryption and Computer Ne1wurk Exploitation planned to be able to decode traffic that was encoded by
+[L‘Nlil access to fourth gttm‘ttlliun."l..t)l'|_l=‘, Term Evolution [46:] .'l't.'J networks via enabling. [CCJLUQKJU‘H one of these two encryption chips, either by working with
+
+the manufacturers of the chips to insert back doors or by
+
+['l'S.-'i'Sl.t.-"RE.L TO LISA. F‘v’EY] Assess enislin‘t,r wireless calling metadata access-cs and balance flou- of this . . . . . . .
+explorting a security flaw in the chips design.
+
+tlata inn) NSMCSS will] lhc abilily to ingest and clilize this inl'on'nalion. IC'.U_[K}U='-T‘.
+tTS.-'."Si.tJRil'-.l. TIL] USA, FVl-LY'J Assess existing, commercial cyber inltsnrlalic-n ﬂows and balance the How
+of" this data into “SA-"CHE with the ability to ingest and analyze this infon'nation to support cyber situational
+awareness [CO 00067]
+(TS’FISUI'NFI Shape the worldwide cornmcruia] cryptography marketplace to make it more tractable to
+advanced eryptnnalytic capabilities being develop-ed by VSAKTSS. ICEIE’JHJUEPUI
+{LI} Changes From FY 2012 to FY 2013:
+{Si'lel'} SIGIN'I' Enabling: -$20.4 million [$20.4 Base}, -2 civilian |wsilions. The aggregate decrease is
+the result 01':
+' tU] Increases:
+— l’TSi'Sl-'.-'.\'F] Sit: million reflects additional level of investment In enabling exploitation capabiLilics
+tiguinsl NGW rtitabilL‘ antl data r1l:ll.'l-'l'll'ii.h..
+
+[‘[Si'ltSIﬁtth-‘Li $4.] million enables; additional suppnﬂ to Endpoint operations. Support lu thls missmn
+area: require? SJGINT Enabling tn mvesr in new infrastructurc and capabilities with commercial
+partners.
+
+[SHNFJ $0.4 million in civiiian pay anti beneﬁts.
+
+-_DP '3 ECRE_.-'.-'E IITKI'i'NDFU HN
+
+ 
+
+TOP SECRET-H'SIJ'I'KJ'J'NDFOFIN
+
+[Srﬁrxilii Hail] mil Iiun ﬁL‘c m :‘L‘l-‘licd economic assuluplluns
+- [Li] D'LEL'IL‘AFL'SI
+
+{ITS NF] 5.2[LE 'Tlilliun trf'ccmLI'a-ﬂm' I'DLlucLiuJH 10 Fund priorjl} Cum '1}; invt‘allnt‘r . which
+in1chLCT5‘I1E abality In sustain and uspurarl activities. rinructl; HLlppﬁl'ELtZg x; at mi'orrnaticrml mfu'ilb-
+{'1  "Ni-J Uct'rumc 01' SIO [i niillimi i1| HlIFIJHJI'. ui' deﬁuzi reduction cfr'orls. which rc:|L:L'<:‘~'
+ci'lculn-ultuss taint-3cm: supporting inlulligclluc utlllwiivn dud Eilidpu'ml Llpul'mmlls.
+ij'l'3.-'.:Sl.-'rNI-'J Two civiiim Tmsilj'nm rudut‘u-i :iur-ulnpmonr of ﬁl:'£J'.{‘PlC tnpuhllltrcs whirling.r
+uryprugruphiu EIleLiultUll of target uommuniunliom to min-rum: NS.—\.-'(‘.‘iﬁ' unisszmis.
+
+ 
+
+‘1' ‘ N'I' I-fnuhljnj: Project Iilltlgui [hurl-
+
+FY 2M3 Bud girl. Request I13 Appi'crpriuliun Accuuul
+This E‘IIiIJit is SECRET--’.\TJI"ORN Fulld'.‘ — Ilullarea in “illinns
+HuhprnjL-L'E | Description Rumnrring l-'\' mu m 3' 2m; 3 Hr zuu
+Funds Lilil Iii-Mid HGHZ
+
+Posfnbm U? M2 Hi
+
+ 
+
+ 
+
+ 
+
+Operation and Mm'mruam-P. twenty-Hide
+
+ 
+
+ITi:'1'.I11ilniu.1t.0m .'_I1-'_1 U li'Jl Its Emu [2 (IE
+
+ 
+
+[.‘i:.1.Lr:Ict .‘scr'i .L'rs. 1545i; | Ir: J  -- . HF- 5‘”
+
+ 
+
+liqulpntclll line 2 E51]
+
+ 
+
+$1Ei[.'\":|' [-llmhling Pily EITLI liurlvlm hrs-v. |h'.l’=T-'
+n-i'ﬁll. (“II
+
+ 
+
+ 
+
+Ir'unt'l .1IIII '|'|_I'H.l‘.tlll:||i:|n HIENL' L47
+
+ 
+
+P-Jn' I‘. ICJIH
+I-'und.v
+
+F’m‘r'ﬁrmx
+
+ 
+
+ 
+
+Rattan J4 , Jkl'efnpmem, Tush and Evaluation, ﬂefemr- Hide-
+
+ 
+
+L.‘um:t:un|c:|‘.lcin~ and L t.|IIIi.'3- Han:
+
+ 
+
+LIvr. 'L'rvIL'L'F “inf H‘. ii?
+
+ 
+
+l:t:_u|]1|||ur|l Raw | H2
+
+ 
+
+SlLi]i\"]'1£naI'rJl:n_L: 9in mid Hrlwf'llx Rm:
+
+ 
+
+Sup-plum: :J'ILI V—nturiuh Hum
+
+ 
+
+Tun—c: iInLl 'I'riII->5JurL=-.I'UII ELIM-
+
+ 
+
+Plniliﬂllh
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'L-.r.:'.|-' IIIL'_\. ll:ll Iidi: [|_I|_' I::- l1IL.I':Zi 1;
+
+ 
+
+ 
+
+TOP SEC H E T-"-'S| PUG-NO FOR N
+
+ 
+
+© 2013 The New York Times Company Site Map Privacy Your Ad Choices Advertise Terms of Sale Terms of Service Work With Us RSS Help Contact Us
+Site Feedback
+
+ 
+

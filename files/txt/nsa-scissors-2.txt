@@ -1,0 +1,694 @@
+DI
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+Core 880 Team:
+
+ 
+
+TOP SECRET/ISIIINOFORN
+
+TOP SECRET/ISIIINOFORN
+
+Address Books
+
+- Email address books for most major webmail are collected as
+stand-alone sessions (no content present*)
+
+- Address books are repetitive, large, and metadata-rich
+- Data is stored multiple times (MARINA/MAINWAY, PINWALE, CLOUDS)
+- Fewer and fewer address books attributable to users, targets
+
+- Address books account for ~ 22% of SSO’s major accesses (up
+from ~ 12% in August)
+
+ 
+
+'Access (10 Jan 12) Total Sessions Address Books ' Provider Collected Attributed Attributed%
+US—3171 1488453 237067 (16% of trafﬁc) Yahoo 444743 11009 2.48%
+DS—ZOOB 938378 311113 (33% of trafﬁc) Hotmail 105053 1115 1.05%
+US-3261 94132 2477 (3% of trafﬁc) Gma“ 33597 2350 5.97%
+US-3145 177663  (16% Of trafﬁc) Facebook 82857 79437 95.87%
+US—3180 269794 40409 (15% of traffic) Other 22881 1175 5.14%
+US—3180 (16 Dec 11) 289318 91964 (32% of traffic) TOTAL 689246 95086 13.80%
+TOTAL 3257738 712366 (22% of traffic)
+
+TOP SECRET/ISIIINOFORN
+
+TOP SECRET/ISIIINOFORN
+
+Address Books
+
+- Enabled in SCISSORS for various 880 sites:
+
+— JPMQ (metadata: QMPJ) - Ds—2003 (MUSCULAR) 29 Feb 2012
+— DGOT (metadata: TOGD) - us—3171 (DANCINGOASIS) 13 Mar 2012
+— DGOD (metadata: DOGD) - us—3171 (DANCINGOASIS) 13 Mar 2012
+— SPNN (metadata: NNPS) — US-3180 (SPINNERET) 03 May 2012
+— EGLP (metadata: PLGE) — us—3145 (MOONLIGHTPATH) 08 May 2012
+
+ 
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+TOP SECRETIISIIINOFORN
+
+ 
+
+140,000
+1 20,000
+100,000
+80,000
+60,000
+40,000
+20,000
+
+O
+
+ 
+
+ 
+
+ 
+
+3/1/2012
+3/6/2012
+3/11/2012
+3/16/2012 3 =
+3/22/2012 ‘ _
+3/27/2012
+4/1/2012
+4/6/2012
+
+4/11/2012 g;
+4/16/2012
+4/ 21/ 2012 3====
+4/26/2012 #—
+5/1/2012 _
+5/6/2012 %_
+5/11/2012
+5/16/2012
+5/21/2012
+5/26/2012
+
+5/31/2012
+6/5/2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6/10/2012 1===_
+6/15/2012 #
+6/20/2012 #—
+6/25/2012 #—
+6/30/2012 #-
+
+7/5/2012 3===—
+7/10/2012
+7/15/2012
+7/20/2012
+7/25/2012
+
+7/30/2012 @—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+>
+O.
+Q.
+2
+CD
+(I)
+w
+W
+O
+O
+2.
+m
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(SI/SI) Ownerless Address Books Blocked by SCISSORS (MB)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l Total
+
+ 
+
+ 
+
+TOP SECRETIISIIINOFORN
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+ 
+
+0
+
+7/1/2012 I \
+
+7/2/20121
+7/3/2012 A
+7/4/2012
+7/5/2012
+7/6/20l2
+7/7/2012
+7/8/2012
+7/9/2012A
+
+7/10/2012
+
+7/11/2012
+
+7/12/2012:
+
+7/13/2012
+
+7/14/2012:
+
+7/15/2012A
+
+7/16/2012
+
+7/17/2012!
+
+7/18/2012
+
+7/19/2012
+
+7/20/2012‘
+
+7/21/2012
+
+7/22/2012
+
+7/23/2012
+
+7/24/2012
+
+7/25/2012‘
+
+7/26/2012
+
+7/27/2012
+
+7/28/2012
+
+7/29/2012
+
+7/30/2012:
+
+7/31/2012
+8/1/2012‘
+
+8/2/20121 "
+
+8/3/2012
+
+8/4/2012 ‘ ‘_
+
+8/5/2012
+816/2012‘
+8/7/2012
+8/8/2012
+(bunk):
+
+.0-
+
+US-3105
+US-3145
+
+—US-3101M
+
+—UKJ-260D
+
+5000 7
+
++ U KC-302A
+
+—UKC-206D
+— U KC-215
+
+10000
+
+—DS-410
+-O-DS-800
++NZC-333
++ U KC-125
+
+15000 v
+
+20000 -
+
+25000 -
+
+30000 7
+
+35000
+
+ 
+
+ 
+
+— D5-300
+
+— DS-ZOOX
+
++ DS-ZOOB
+
+—CAC-98CG
+-— DS-ZOOA
+
+ 
+
++AUC-393
++AUC-395
+
+*H
+
+40000
+
+ 
+
+ 
+
+ 
+
+>
+O.
+Q.
+2
+CD
+(/1
+w
+W
+O
+O
+2.
+(/1
+
+TOP SECRET/ISIIINOFORN
+
+TOP SECRET/ISIIINOFORN
+
+Selector Detasks
+
+ 
+
+ 
+
+Emergency Detasks
+
+140
+120
+100
+80
+60
+4O
+20
+
+Nov-11 Dec-11 Jan.12 Fob.12 Mar-12 Apr-12 May-12
+
+ 
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+TOP SECRET/ISIIINOFORN
+
+So What?
+
+- Store less of the wrong data
+— 20% reduction (so far) in content to long-term repositories
+— Data still resides at site for SIGDEV
+- Increase data variety
+— Hole left by “wrong data” filled with more “right data”
+— More signals and case notations can be tasked at site
+- Shifting collection philosophy at NSA
+
+— “Memorialize what you need” versus “Order one of
+everything off the menu and eat what you want”
+
+ 
+
+WlKl: https://wiki.nsa.ic.gov/wiki/Collection_Optimization
+XKEYSCORE: fingerprint/defeats/atrouter and fingerprint/defeats/atxks
+
+TOP SECRET/ISIIINOFORN
+
+Print Notes
+
+1of2
+
+http://www.documentcloud.org/notes/print?docs[]=804765
+
+Collection Optimization
+7 Pages - Contributed by Matt DeLong, Washington Post - Oct 14, 2013
+
+This is another presentation on problems with NSA overcollection.
+
+ 
+
+scram rp. 31
+
+- Enabled in SCISSDRS fur various 530 sites:
+— 4m imam: mil-J} - manna {lineman} 2! Fun 11:12
+- new {rm-darn: roam - new :-'1 mammals; 13 Mar 2012
+— Daub mam: poem — Lisam Wimm 13 Mar 11:12
+- mu Wu: HHPE} r usman [SHNNEREH in may 2:112
+— EGLP {rnalﬁdnlm PLGEJ . LIE—3145 rummumwATI-t} as m 2m:
+
+ 
+
+—!..
+
+ 
+
+ 
+
+Diwali-es: admins limit! blacked by 5¢ISSDR5 tp. I1}
+
+#-
+
+[smn annulus Address Books Blocked by 5:15.5an3]
+
+ITI‘III
+
+J
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+when“: adult-In book: blockrd. by points of access :9. St
+
+_|_
+*m m
+II-l-III. 4n
+—ur mo.
+'9‘ 1"“
+—I—|'.'u HI
+—m.m
+—Di-NEI
+—PI-J:U
+*MHF
+III-Mr"! III
+*1“ If!
+—L-Ir. m
++13: :|.'I
+—I—|.-I: ma
+-—-|.Iu Jill
+—L|I-IIDI.U
+—h'l II|TI
+-I-ln|'Iu IHﬁ
+
+ 
+
+ 
+
+ 
+
+ 
+
+12/11/201312211 PM
+
+Print Notes http://www.documentcloud.org/notes/print?docs[]=804765
+
+ 
+
+Emergency tie-tasks to. ﬁt
+
+ 
+
+Emergenwr Detasks
+Ht}
+120-
+100
+31:!
+
+#0
+JD
+
+him-11 DEL-l] tan-l2 Fob-11' Mar-12 Apr-12 May-IE
+
+ 
+
+ 
+
+ 
+
+moose {p. :r;
+
+- Store toes of the wrong data
+- 2W: reduction {so far] in content to long-tem'l repositorieo
+— Data still resides at site for SIGDEV
+
+ 
+
+ 
+
+"EhH'tlh-g collection Whose-p11? at PISA" lip. 7"]
+
+* Shiﬁing collection philosophy at NSA
+- “Memoriatize what you need' ver5u5 "Order one of
+euerything oft the menu and eat what you want“
+
+ 
+
+ 
+
+ 
+
+20f2 12/11/201312211 PM
+

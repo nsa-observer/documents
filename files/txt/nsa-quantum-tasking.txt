@@ -1,0 +1,878 @@
+(TS) NSA QUANTUM Tasking Techniques
+for the R&T Analyst
+
+PGC: I: }
+TAD FETD | Team — 3002 Allen Hamilton SD82
+
+ 
+
+ 
+
+(TSHSIHREL) Only RAT Analysts can submit QUANTUMTHEDRY Tasking tn the
+QUANTUM team. TDPI Anaiysts can submit QUANTUMNATiC-N Tasking threugh
+Target Prefiler. The biggest difference is QUANTUMTHEDRY depldys a stagel implant
+called UALIDATDR {seen te be COMMONDEER} and QUANTUMNATIDN depleys a
+stageﬂ implant ealled SEASUNEDMDTH (SMDTH). SMUTHs die within 30 days of
+deployment unless requested to extend the life.
+
+(TSHSIHREL) This presentatien dues net seuer FAA QUANTUM but if yeu identify an
+active selector, epmpare the SIGAD in Marinate the SIG-AD en the GO QUANTUM wiki
+page td see if FAA QUANTUM is an eptidn.
+
+(TSHSWREL) This presentatien is geared tewards targets seen at US—
+unfamiliar 1with this SIGAD. it is equivalent to a TSHNF SlGAD that eannet be
+mentiened in this PdwerPdint. You can eentaet the PDC at this brief for mere
+infermatien.
+
+. If yeti are
+
+IUI" atuhtmarriHEL Utah. Hula. Lid-us. unn, “LL
+
+WED BTQWSllﬂg (Exploit with QUANTUM
+
+- Themcept man—on—the-side}
+
+- QUANTUM is a man—on—the—side capability. If your target has a selector
+that is actiye in the last 14 days, yulnerable to the QUANTUM technique,
+and seen by an 550 site that has QUANTUM capabilities. then there might
+be the opportunity to detect that communication in real-time and piggy
+back with the requested content back into the target’s network and
+implant the host.
+
+QUANTUMTHEORY can be used only if a TAO Project is set up [must
+coordinate with your R&T Analyst}
+
+QUANTUMNATIDN can be used regardless of a TAD Project {TGPI does the
+tasking in Target Profiler)
+
+The biggest difference is QUﬂNTUMTHEDR‘r’ deploys a stagel implant
+called VALIDATOR {soon to be COMMONDEER) and QUANTUMNATFDN
+deploys a stageU implant called SEASUNEDMOTH (SMOTH). SMOTHs die
+within 3G days of deployment unless requested to extend the life. The
+exploit technique is the same.
+
+EilIf-ilhll i lieuelurilnen! I ELIH'JHUH
+
+.'__d.
+
+TDP SECRETI-‘CUMINTHREL TIZ'J USA. FUE‘r’ 3
+
+ 
+
+What i5 QUANTUM?
+
+QUANTUM Generic Animatinn — High Level 0f How It Wurks
+
+Inrer-ner Router 
+II
+
+‘ I
+
+I
+
+Yahoo‘s
+WEI: Server
+
+550 SHE
+
+5|G|H1 | lenluprnen! | Sun-um:
+
+IUI" acun: INCH-"HEI— U-JH, HUG. LII-HI“. “DH-l. I‘ll—I.- d
+
+ 
+
+What i5 QUANTUM?
+
+QUANTUM Generic Animatien — High Level ef How It Werks
+
+1. Target legs into his
+
+Yam“: Emu” Inierner Renter -'
+II
+at ' 'r r'
+
+r Yahoo‘s
+
+[7
+
+Web Server
+
+550 SHE
+
+5|G|H1 | lJevelepmen! | Sun-Her:
+
+IUI" acun: INCH-"HEI— U-JH, HUG. LII-HI“. “DH-l. I‘ll—I.- d
+
+ 
+
+What is QUANTUM?
+
+QUANTUM Generic Animatien — High Level ef Hew It Werks
+
+1. Target logs into his
+
+YEIE‘IDD ﬂtﬁﬂum Internet Renter
+
+1: ' “r
+F ' ' "r'ahee‘s
+
+WEI) Server
+
+550 SHE
+
+2. SSC: SITE sees the
+QUANTUM tasked Val-lee
+selectors packet and forwards
+it to TAGS FOE-{ACID Sewer
+
+IUI“ JEhﬁl: li-HJIH‘HEL LII-3H, HUG. MHIH, LID“... I‘ll—I.-
+
+EE-IESINI | Development | Sun-ear:
+
+:1.
+
+ 
+
+What is QUANTUM?
+
+QUANTUM Generic Animatien — High Level of Hew It Works
+
+:1. Yahoo sewer reeewes ﬂ'le
+packet requesting email centeni
+
+II'IEEITIEI RGLJTEF
+
+Yahoo‘s
+Web Serum
+
+550 Site
+Tm: FDEACID
+Sewer
+3. FDKACID infects a FDKACID urE
+mm the packet and sends it baﬂk [D
+the target's computer
+
+EIESINI | Development | Sun-um:
+
+IUI“ JEhﬁl: “hill-HEEL LII-3H1 HUG. MHIHI LID“... I‘ll—I.- d
+
+ 
+
+What is QUANTUM?
+
+QUANTUM Generic Animatinn — High Level of Haw It Works
+
+II'IEE‘I'HEE RDLJT‘EF
+_ #- I
+ﬁll—
+
+Target
+
+5. Fiji-{ACID packet beats the
+Tahoﬂ packet back [0 111-: I
+endpnim I
+
+550 SHE
+
+IUI" 13:15:“; lil-"JIH‘HEL LII-3H, HUG.
+
+- I
+'-':'
+
+"r'ahou‘s
+We]: Samar
+
+TM] FDKAEID
+Server
+
+SEE-EMT I Dewhfmant! Suppull
+
+MHIH, uun, HILL. ‘1
+
+ 
+
+What is QUANTUM?
+
+QUANTUM Generic Animatien — High Level ef Hew It Werks
+
+II'IEEITIEI RGLJTEF
+
+Yahoo‘s
+T319“ Web Sewer
+E. The target‘s Yahee wehpege is
+leaded but in the background the
+FDKACID URL made umich
+redireete to Ihe FDKACID Expledt
+SBWEI‘ 550 Site
+
+TAO FDKAEID
+Sewer
+
+SHE-NT | Devehpmentl Supper!
+HI"!
+
+IUI“ JEhﬁl: “hill-HEEL LII-3H1 HUG. MHIHI LID“... I‘ll—I.- d
+
+ 
+
+What is QUANTUM?
+
+QUANTUM Generic Animatien — High Level 0f Haw It Werks
+
+II'IEE‘ITIEI RDLJT‘EF
+_ #- I
+ﬁll—
+
+. I
+t-_;.
+
+Yemen‘s
+Web Sewer
+
+550 Site
+
+TAﬂ FDXACID
+Sewer
+1 If The browser is exploitable
+and the PSPIs sate. FBI-{ACID
+deploys a Stage 1 implant haul-t
+It: the target
+
+SHE-HT | [Javelin-plum” Support
+hill
+
+IUI“ JEhﬁl: “hill-HEEL LII-3H1 HUG. MHIHI LID“... I‘ll—I.- d
+
+ 
+
+What i5 QUANTUM?
+
+QUANTUM Generic Animatien — High Level ef How It Works
+
+II'IEEITIEI RGLJT‘EF
+_ ﬁt I
+ﬁll—
+
+- l
+|.-:-.
+
+Yah 00‘s
+“’93! Web Server
+
+Target Implanted!
+
+550 Site
+
+TAD FDKACID
+Server
+T. If the hreweer Is exploitable
+and the PSPIE safe. FDKACED
+depleys a Stage 1 implant back
+to the target
+
+SIGHT | Deveiupmentl Support
+.III'!
+
+IUI“ GEL-HI: INCH-HEEL LII-3H1 HUG. Lu-Hl‘ll “DH... I‘ll—L d
+
+ 
+
+QUANTUM Capabilities — NSA
+
+{TSHSIHRELJ NSA QUANTUM has the greatest success against strange}. sfaeeheeke,
+and Static IP Addresses. New QUANTUM realms are eften changing. so cheek the
+wiki page er the QUANTUM SpySpaee page re get mere tip—te—ttate news.
+
+NSA QUANTUM is capable of targeting the following realms:
+- - |Pv4_public - mailrqucu
+- alibabaFerumUser - msnMaith::|<en6-ﬂr
+deubleclicle - qq
+
+emailAddr - facebeek
+recketmail - simbarUuid
+hiSUid - twitter
+hetmailClD - yahee
+linkedin - yaheeBceekie
+mail - ymail
+
+mailrqucu - yeuTube
+msnMailTeken64 - WatcherlD
+
+Eillf-HMI i lleuelunlnenl I ﬁrrnrrtarl
+.'._1
+
+TOP SECRETI-‘CUMINTHREL TIZ'J USA. FUE‘r‘ E
+
+ 
+
+QUANTUMTHEQRY — GCHQ
+
+If a Partnering Agreement Form PAF is set up with GCHQ for
+the CNO project, then the R&T Analyst can utilize GCHQ
+QUANTUMTHEORY to include additional capabilities such as:
+
+- - ALIBABA - AOL
+BEBo_EMAIL - DOUBLE_CLICK
+FACEBOOK_CUSER - GOOGLE_PREFID
+GMAIL - H|5
+
+HOTMAIL ' LINKEDIN
+
+MA|L_RU - MICROSOFT_MUID
+MICROSOFT_ANONA -RAMBLER
+RADIUS - SIMBAR
+
+- TWITI'ER . YAHOO_B
+
+- YAHOO_LJY - YANDEX_EMAIL
+
+- YOUTUBE - IP Address
+More information on: https:iiiii'iiiir-ti.gchg;If IQUANTUM_BISCUIT
+If you cannot get to the link try: httpdi‘
+
+Elf-Hall i lieueltmlnen! I ﬁlluuurl
+
+.'._1
+
+TOP SECRETHCUMINTHREL TIZ'J USA. F's-“El” 1E:
+
+ 
+
+UANTUM EV — QiZDS
+
+(TSHSI iREL) Find all Selectors associated to your target (Yahoo,
+Yahoo B Cookies, Facebook, Hotmail, etc} using Marina, NSA or
+GCHQ QFDs.
+
+NSA SATC QFDS:
+
+ALTEREGCI QFD:
+
+GCHC
+
+ 
+
+ﬂueried selector Alternate Selector lSiuerieli alternate Intersection Scare
+
+Selecrei Selecter I1-I-2IIJ-
+Degree Elegree
+
+DDGCDLLAR QFD:
+
+Eelertrr lira:- Enri-:hrr-eii"eli.e emotions Fraser Dare Lari Seen Date
+:[-_1 - :5. 1‘.
+
+Skip to Step 5 once you have all of your selectors“.
+
+EilIf-ll-‘Ml i lieuelurilnent I kilnmrarl
+.'__d.
+
+TDP SECRETI-‘CUMINTHREL Tli'J USA. FUE‘r’ E:
+
+ 
+
+QUANTUM SEGDEV — Marina
+
+Step 1: Skip to Step 5 if 1yruu used the QFDs te ideruzifyr alternate selectors
+
+-' {TSHSIHRELJ if ysu do not use the GCHQ er NSA QFDs you can use Marina. Run 61
+Marina Seiecterﬂdenﬁﬁer Preﬁie (Federated) search fer a 3 munth range m issk fer
+additional selectors.
+
+_n'
+u.' '-
+—: '
+.n.
+.—
+:l '
+
+HIE-HM! i Ileuelnnlru—m! I Elmrlcarl
+
+IUI" DEMHEIH-L‘IIHHEL UDH.‘ HUD. hHli‘ UDH,1‘ILL
+
+ 
+
+-' {TSHSIHREL} Once the query finishes, leak at the Equivalent tDs section. This will shew
+ydu ether seieeters that grew target is using. This is determined by linking eentent
+(leginsiemail registratidnsi’ete). it is werth verifying that these are indeed seieetdrs
+asseeiated te yeur target. NSA QUANTUM works best against syahees and
+r:faeeidisek‘sa Atthdugh, it is werth making note at a sgmails seleetdr fer pessible GCHQ
+QUANTUM suppdrt er tdr year dwn netes.
+
+ 
+
+ 
+
+ 
+
+ 
+
+New Selle-mm I-tnnwn Eeteetdr
+
+ 
+
+ 
+
+ 
+
+ 
+
+1;"
+
+ 
+
+ll1-:-- ‘. -l' "—I huf _-..--: i—re-n v - -:--.»-.I--—'i v -:. v ' -- + ~‘7/lm-i -- --'—
+. Applnulmn llllltyﬂ. I  {a } n B InuLll‘I'ltj' ll, Ilallt'rli
+
+ 
+
+ 
+
+HIE-HM! i HH'IJ'EIHHIHHHI I Elmrltarl
+
+IUI" DEMHEIH-L‘IIHHEL UDH.‘ HUD. hHli‘ UDH,1‘ILL a
+
+ 
+
+ 
+
+(TSHSIHREL) it year search was en a syaheee email address, then click en Machine
+IDs and leek fer a recent syaheeBceekiee. YaheeBceekie's are unique te a speciﬁc
+cernputer and can held ether syaheee addresses that are being legged inte en that
+cemeuter as Ieng as the user dees net clear brewser ceelcies. If yee see multiple
+syaheeBceekie} pick the mest recent Last Heard date. Alse higher the Nam Heare‘ is,
+the mere liker that selecter dees net change.
+
+ 
+
+ 
+
+NEW SCIECTGI’
+
+r-..II
+
+ 
+
+ 
+
+" I- : ""1. : - - . .
+"".-II hull“! “ i Flnl HI'.'III: III-II III"'I1rI1
+
+If P...
+
+ 
+
+.Llniaee.Selectmafeund;
+' tit-“EMU? {Known Seiecter]
+
+; @grnailcerncgeegle: {New Selecterj
+cyaheeBceei-tieh [New Eelecter]
+
+ 
+
+ 
+
+Eilf-iIMl i lieut—‘Itmlriertt I Ellen-:3”
+
+IUI" DEMHEIH-L‘IIHHEL UDH.‘ HUD. hHI'ﬁ. UDH,1‘ILL 9
+
+TDP SECRETHSIHREL USA... ALIS. CAN. GER. NZL
+
+ 
+
+New cgeegle} eeIEctm
+
+ 
+
+ 
+
+ 
+
+Iﬂlll'fﬂ   E} } g i .I'L-I1I'h'thr
+' - 'l-f- a. ' ..
+
+.l-
+
+ 
+
+{TSHSWREL} Since - ' - is a new select-atr you will want to
+dc a Marina Selectcr Pralile query.r an it to see if there are additianal acccunta
+aasc-ciated to the target. Remember NSA QUANTUM canncit target the cgccglea
+aetectcr.
+
+(TSHSWREL)     -F
+
+YD” can an "|:J:ll:l.plplic;l:-lcln Eintiilei'i-nr r Imrlllrhllh' - - m TN-   H- T Entlt'gEl
+
+this by    ..  . .  
+
+clicking an the I 
+
+aelectcr, acrcll I  ' "  '5 ' 1' ""'-"‘*'-“
+
+dawn tc Selectcr ' -- -— 
+
+Profile, and click "'“"""
+
+Range.
+
+ 
+
+'u—I- |.-| :|u' —
+«'VJJ ELI £-:..-r a
+. ._ Li-n: ﬁr) '- r},
+‘3'- I c'r'c-sc :.l:.-:::'C|.5 Lu
+
+_ F"---"r - E'r-I '
+g): .:l'IL ‘!-:;:=--.'-;I.'*:: L
+
+'tarel Lctal
+
+:- |-. HI
+
+Sll’ﬁlMl'l in'u'EitJII1IWEl1fI 5“anan
+
+IUl" bEhHEIH-DIHHEL UJH1HUD, LrHI'h UDH. PILL
+
+ 
+
+-' (TSHSIHREL) Change the query m search for the last 3 Months and click SUBMET
+‘ '3.- [--I |--I i":-.a|'.!-- '74- -'- I1
+
+l'":"i :"i I‘l"':i:"
+‘“'“FM“" BuEuLmlkuﬁQ[ iygndﬂzﬂn<QUJJEr3
+
+_'_'5'.I'I'_3'.IZI'I
+
+201 lliLLI “ 02:03:33 V '_' r' 1'" LEHIJE'IE- " 23:59.59 "‘
+hr.!::fn':= _‘---'=’
+'-'-~I —- I-n'
+High-n.” -ﬂ.'l'I-I'|-.r- 1g- '|-|.-_'\.I.._-._-.,
+La: 'I.. : :E-
+_| i;- =IL'.I|-|.|
+
+.__..J:.:-Irn.|.| i Ifll'.‘|".-
+
+IF.‘ H I'III
+
+Eli-“Irl'i'” I'..'I l'
+
+I '_-r:rr-:t-:-; :__
+
+...I.
+
+_1cr*.:| .: :1 launch”:  3:3:
+I'- H wrf-z-c "'"IT‘
+
+I'_:'._I:h_.L
+
+F.‘IJ'I|.'|.'_"'.- _ _ _
+
+.':;.'-
+
+Frl :III'l':'u- -_.-_ :_-___.-_
+
+I..II|I:-|Illl u;.. i___r.'|..|_-._ _ "v'LlI
+_1VI|I' n.
+'EI-d’
+nvwr.
+:mv
+
+ﬁn” armwh
+
+HIE-WK” i HEEL'FIIIIIHIT'IHF'II I Elmrlcarl
+
+IUI“ htuHEllI-L‘IIHHEL UQ'JH.‘ HUD. LrHJ'ih UDHT PILL 11
+
+ 
+
+(TSHSIHREL) Once the query finishes, look at the Equivalent IDs section and make
+note of any new syshoo; shotmaile. syahooBoookie‘e-E and sfeeebooke seleotors and
+
+do the some process to identify additional selectors.
+
+--r
+
+ ,. 1... _,
+ﬂuulilnliull EIILilyl‘.  [E] } ﬂtlivity
+
+Flllih-‘H
+
+ 
+
+El?
+
+ 
+
+ 
+
+ 
+
+New Faoehoolt Selector
+
+ 
+
+I
+r
+
+Ir'
+
+ 
+
+ 
+
+Ali Unioue Selectors Found From Both Searches:
+- syahooe [Known Selector
+l
+@gmeiltomsgoogle} INew Selector}
+sysltooEeooI-ttee {New Seleelm}
+slaceboolte [NIE'H'J Soloﬂtor}
+
+IUI" hthﬁtlllhlfIHEL UDH. HUD. UH.qu UDH, I‘ILL
+
+Eillf-llMl i |]l:'!'I.I'II—'|I22Ir_lll‘III-',r1lIfﬁ-IIEZ-[lliiurl
+
+12
+
+ 
+
+{TSHSIHREL} Dnee yeu haye a list at yeur seleeter(s)_. yeu 1.ririll want to leak at each ene
+separatety te cheek fer the iikeliheed ef successfully expieiting your target yia NSA
+QUANTUM. We are checking to see if the target itseif is seen at US- and if it is aetiye.
+
+(TSHSIHREL) First we want he run a Marina Active UserfPresence (Federated) search err
+fer the east 1:1 days.
+
+ 
+
+ 
+
+ 
+
+1-1 Days
+
+ 
+
+-=-i-'I.-l'.e-:i if:
+' thr-‘IC’I‘I'F
+
+Huh-I“: i‘ctw 'Jse' Mes-cc I'e
+
+_ Alh—rIL.-.,'r.--<.---- .Fn—In-IIr-I; "' " CPI—“I'll "' '-"Ji "= E'Jl'sJ-t’J:
+'J'JI-Jr Preserve L11: LL'.‘ l:-' led Ir 1-
+- GE—l.}F‘-u::-:~w- 2 FM: tF».--'..L-i~:.ur-
+Ln'nl'rihﬁ';
+I_:ﬁ':J'.'JF
+_ I-_'-'_'h_"'_s
+' L.'|'H-.-'|=+~ I"|-cI --;I.- Free-H 
+- I"___-i-':-:
+- i‘Em-JE-h
+l_ F‘ei-‘r-a- mat-maven
+|..‘i-:ur|ie-F'e"y
+- Lu Earn-:-
+; [=3 thl .‘u.;=.-r_:'1:d:stu'.lldr:'.ine';ﬂ::-
+-  I"! I IIi._-"I-I'\H'
+i_ Van-rehab
+
+ 
+
+if yeu have DVSClTUD. cheek this
+if has re search ECHQ databases
+
+ 
+
+ 
+
+ 
+
+E-I-EE'nir L'e"-.'-1L|.=l'|'ﬁ‘|'t "
+
+Eillf-iIMT | Iliaut—‘ItJrJInt-gnt I 5|I:5[It3rl
+
+IUI" hthﬁtlﬂhlfIHEL UDH. HUD. UH.qu UDH, I‘ILL 13
+
+ 
+
+ 
+
+{TSHSIHREL} “fee will either have results er net have results. The key is te leek at the
+SIGAD fer the results and it the SIGAD is eapable ef deing QUANTUM then you mest
+liker have a vulnerable target! Te check for SIGADs that NBA and GCHQ QUANTUM
+can target type _ in yeur brewser. if GCHQ QUANTUM is needed then
+
+werk with yeur RAT Analyst te feliew the apprepriate steps en the wiki te set up a PAF.
+
+[TSi’iSIHRELju Yeu will want te leek at the Marina results and make nete ef the mest
+frequent SIGADHP CIDR fer eaeh Active UserrPreseeee (Federated) queryr
+
+1] Selecter
+a] SlGAD
+
+ls} Active User iF' CiDH — The CIDR will he added te the TLNis Whitelist.
+
+~A TLN's Whitelist is a list eentaining the IP CIDFEs yeur target uses. it is where the
+
+FOXACED sewer will enly eentinue with expleitatien if the external IP Address at
+the targetlredireetien is en the Whitelist fer the TLN yeur RAT Analyst requests
+
+Eillf-iIA-li i lieutT'ItmIne-nt I ﬁlluutarl
+.'._1
+
+IUI" atuhtlrialrirtzL Utah. Hilda. LrHl'lh unn, NLL H
+
+is My Selector Tasked for
+QUANTUM?
+
+If you sent your R&T analyst a selector to task for
+QUANTUMTHEORY and you want to see if it has been tasked yet,
+you can enter the selector in Target Profiler and if you see “tasked
+for survey” and the Technique to be QUANTUMTHEORY or
+QUANTUMNATION then it is tasked! You can also see when the last
+FOXACID redirection took place.
+
+IELt-i'inﬁud F:'III_I.1-_l| 3!:- ‘g’LIlJ EI!!.|_|r |:I1 1_J__.IJ_I:I:'_il a!
+
+'hlulnlJE-Li i 'i: -:'-' T-' '- 1.5 ':1 ,
+
+Technique: QL-J'l-‘ITUi-ITHE '33.?
+
+Taslrnd1SUE‘E-ﬁoq-T: l-I _ _
+'. .' - - -i._ I I ‘3' - L '.‘__.'I.
+Tu... “Ltmmnmlﬂjlbmurm If“ I1. _-. J _. _ _I. lit unml 34 UL: My LII ll. 11 J I
+
+a: . . . .I if
+
+Tnchn'rqup: Qt II-HTI.=-"1N£-T'[ Cull
+Tasl-te-éﬂﬂLB-Jao-E'Q in
+tort mth11e|npt:;rllll I--=|_'-J.‘.é¢ L'sc-coes:
+
+Eillf-lIM'l | Iliaxrteltmlnen! I killnutar
+
+.'._1
+
+TOP SECRETHCUMINTHREL TIZ'J USA. FUE‘r‘ 1E:
+
+ 
+
+QUANTUMNATlON
+
+QUANTUMNATiON uses new Trio CNE tradecraft and automation to drive broad
+scale initial access, specificallv an SEC: cloud-analvtic to identify selectors in 550
+passive collection that are viable for end-point access, and the use of lightweight
+CNE implants to obtain initial access and survey data delivered to the TOPI offices
+via corporate SiGINT repositories. For More Information on QUANTUMNATION check
+the QUANTUMNATIDN wiki page
+
+Target Profiler now shows if a selector is vulnerable to a QUANTUM exploit. If your
+target is valid for QUANTUMNATiON, A "Vulnerable" link in Target Profiler will
+
+appear. Simply click the link that sends an email to request DUANTUMNATIDN
+tasking.
+
+ 
+
+leuile-I'v-J Hill: L1 _«'LI1.J i‘L'LI A; 1.3.1.1.IJU .IL !.
+
+Ir.- I.';I.. .
+
+vul1IIII'JIII'HIIJ:l-_l -I I I I ;".2 |_5-I|l.- -I_;Il‘i
+|.dl_ Hun-r Aqr-Ilh Mural-.35.? liP'dJII: '33 '53 "T. I"_‘] 'ir..-§ hlun': I}? 1-”?! I-'.'.'.|.I—Ii.I‘1'.fI I"i|'_-"""_.-1.I1-IEL f-‘i-‘ITHI 1hr. {IAN-l. .:I "-|'+l Hulda 1 “I 'EI'IHI'IlH—'I-_F
+
+. _"1 ﬂ. ij-illﬁi  7i _!
+
+Note: QUANTUMNATION and standard QUANTUM tasking results in the same
+exploitation technique. The main difference is QUANTUMNATION deplovs a stage D
+implant and is able to be submitted by the TDF‘l. Anv ios device will always get
+VALIDATDR deployed.
+
+Elli-Hall i lievelunlnen! I Eillnuurl
+
+.'._1
+
+TOP SECRETHCUMINTHREL TIZ'J USA. F'v'E‘r‘ 1T
+
+ 
+
+-' (TSHSIHRELJ Dnce yeti have a selecter. SiGAD. and IP CIDR. 5rch are readyr tc start
+the process fer a FDXACID TLN and Tag request.
+
+4 (TSHSIHREU Depending en the teams. either an REL-r analyst er the Branch IChief can
+create a TLN (Twist Leela}; Number). Centact yeur Branch Chief fer inferrnaticn cn
+creating a TLN fer each selecter yeu want tn target.
+
+4 (TSHSIHRELJ Nate: Yen will need 1 TLN and 1 FOXACID Tag per selector y'CILi task with
+QUANTUM.
+
+Eillf-HMI i lieutT'ItmInt-int I killuutarl
+.'._1
+
+IUI" atuhtlrialriﬂzL Utah. Ana. Lil-1H. unn, “ILL 13
+
+ 
+
+Step 8:
+
+- {TSHSIHREL} Dt‘ice you have a TLN, you will need to submit a FDXACID Tag request.
+(TSHSIHREL) Ge [0 ' and [ill eut the eppmririate
+infermatieh in the tap and within the bed}; at the ticket update this infermatieh aeeerdingly. Here is an example:
+
+ELL}! .ﬁeﬂzﬂl Non-CT
+
+Seemed Parttri'Perthering: Nu
+Ce e. L1H}! .Eteeiueﬂme;
+Fi-EriﬁﬁTeteet; Ne
+
+It'eeetﬂp; QUANTUM
+wiﬂtieﬂm; Nu
+Emieetﬂeteeg
+
+I_|:H_;12345 '=' Insen: Iit"uur TLN
+
+.LE‘uﬂaﬂgg; " Insert Your Active User IF' CIDR i' WHITELEST
+MAC Addreseﬁ Unknewn
+
+Eeztteettﬂetteegtett; iital
+Weemeaet
+eage-
+hﬁﬂiutleﬁt Ne
+
+EiIIf-HMF i HHUIZT'IIZIIrJII‘III-ﬁﬂl I 17LIIE5ut3rI
+.'__d.
+
+IUI" atuhtlnamﬂcL Utah. Hula. ILA-1H. unn, “LL lg
+
+ 
+
+(TSHSIHREL) Once the EleE‘I is eertteletedr tree will receive an email with the FDXACID
+Tag fer yeer TLN.
+
+(TSHSIHREL) Ge te htteea'l .nsa.ie.getr. lindettphp and
+fill eat the apprepriate infermatien in the term te task year eeleeter and tag fer
+QUANTUM.
+
+(TSHSIHRELJ Ghee yeer eeleeter is tasked fer QUANTUM yeu will see the status
+changed te eemplete.
+
+(TSHSIHREL) The last Step it te merriter the TLN in FDXSEARCH
+httpeelr .nea te leek fer
+
+redireetiene and update the elegihe er WHITELlST if needed.
+
+[TSHSIHFEELJ De—taek yeer QUANTUM reeueet wheh tree heel: yeur target!
+
+Eilf-iIMl i Brett-Hummer“ I ELIIEZ-[IIIJFI
+
+IUI" hthﬁtlﬂhlfIHEL UDH. HUD. LiHI'lh UDH,1"ILL EU
+
+ 
+
+1f you have any questiﬂns or mmments abnut this presentatinn, please send an email
+to -at-@n5a.ic.gnv
+
+ENE-UNI i ITIHVEIIJrJIm-gnt I ELIIEZ-[Jliiurl
+.'__d.
+
+IUI" hthﬁtlﬂhlfIHEL UDH. HUD. LrHI'i‘ UDH,1"ILL El
+
+ 
+

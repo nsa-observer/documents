@@ -1,0 +1,201 @@
+POISONNUT - Wikilnfo
+
+The accredited security level of this system is: TOP SECRETffSl-GAMMAJTALENT KEYHOLFHnRCnNIPR nPlNJRF‘I InnfRF‘l Tn USA F'VF'V *
+TOP SECREI'HSIHREL To USA. FVEY (U, pmSONNUTMnmban
+
+(SI/REL) POISONNUT
+
+" This Project page has moved to the: CES 2P
+- ) PIQ Wiki
+
+‘____
+
+Contents
+
+ 
+
+I 1 (U) Overview
+I 2 (U) Development Process and Standards
+I 3 (U) History
+I 4 (U) Current Architecture
+
+I 4.1 (U) Testing/Integration
+
+I 4.2 (U) Developer Resources
+I 5 (U) Future
+6 (U) Contact Info
+
+I 6.1 (U) Related Wiki Pages
+
+I 7 (U) References
+I 8 (U) See also
+
+(U) Overview
+
+ 
+
+This page is registered as i; Thisapplicaﬁon makes use onhe
+
+“f Java programming language.
+go punt _ W
+(URN mm alias —
+
+(TS/[SI/IREL) POISONNUT, also known as the Virtual Private Network Attack Orchestrator (VAO), is a message driven cryptologic
+exploitation service for VPNs with the main focus on IPSec. Currently, the list of POISONNUT clients includes TURMOIL,
+WEALTHYCLUSTER and the TEe. Each POISONNUT client can connect to POISONNUT using ISLANDTRANSPORT. Once
+connected to POISONNUT, clients send and receive XML messages encrypted using ISLANDHIDEAWAY.
+
+ 
+
+ 
+
+ 
+
+(U) Development Process and Standards
+
+(Ul/FOUO) POISONNUT follows the LONGHAUL Development Process which uses the NSA Way.
+
+(U) History
+
+(TS/[SI/IREL) The VPNAttack Orchestrator (VAO) has existed in various conﬁgurations since 2003. Originally developed as a
+standalone application by the Network Security Products branch, the later became a key crypt application integrated with
+corporate collection frameworks such as WC2 andTURMOIL. As of 2006, the Heritage VAO, as it is now known, was stood up inside
+of aJBoss server. In November 2008, a new development effort was stood up in order to increase the throughput and stability of
+the VAO. The new VAO system, under the cover term POISONNUT, has a major development milestone scheduled for September
+2009. POISONNUT is the ﬁrst component which will be available under the LONGHAUL project. This new development is being
+undertaken by developers in the T342P and the 831243 VPN Team.
+
+   
+
+(UIIFOUO) Modern
+
+(UHFOUO) Early POISONNUT Graphic
+
+VAO Graphic
+
+(U) Current Architecture
+
+10f2
+
+POISONNUT - Wikilnfo
+
+(UHFOUO) The POISONNUT system is composed of several components. Each component is composed of one or more products. A
+description of our business model for POISONNUT is available: here.
+(UHFOUO) These are the high level components for the POISONNUT system:
+
+T8.” S III REL
+
+ESP Key Req uest
+
+   
+   
+ 
+  
+
+E SPKayRaspon-se
+
+ 
+
+ESPRequosi
+Dispatcher
+
+      
+ 
+ 
+   
+ 
+ 
+
+  
+
+ESPDa'H
+
+ESP
+lSLAND HlUEAWAY
+
+llx In
+
+ 
+
+IKE PhaseZ
+Processor
+
+IKE Phase1
+Processor
+
+      
+ 
+      
+   
+  
+
+ISLAND Hl DEAWAV
+
+ 
+
+lehP'ISHEP
+
+ 
+
+It! Oul
+
+    
+   
+ 
+
+(UHFOUO) Lite VPN Summary
+
+lKEMesseqe lKEMgssaga
+
+Dispatcher
+
+(TSHREL) Components High Level Design
+
+(U) Testing/Integration
+I VALIANTSURF/ POISONNUT Integration Notes
+(U) Developer Resources
+
+I (U) VAO Developers Calendar/ Meeting Notes
+
+I [TS/[REL] VPN_Metrics
+
+(U) Future
+
+I (U) VAO Client
+
+(U) Contact Info
+
+I (Ui/FOUO) POISONNUT Development Team email alias:
+
+  
+    
+ 
+
+I (Ui/FOUO) Jabber Chat Room:
+- [U/IFOUO) LONGHAULJSignou group
+I [U/IFOUO) Developer AIL
+
+(U) Related Wiki Pages
+
+I [U/IFOUO) LONGHAUL — the Parent Project
+I (Ui/FOUO) SCARLETFEVER : a Sibling LONGHAUL Project
+(U) References
+
+I (Ci/REL) PICARESQUE information about Virtual Private Network Attack Orchestrator
+
+(U) See also
+
+- POISONNUT Experts List —
+- VPN Experts List—
+
+Retrieved from
+Categories: Applications using Java | URN l VPN | POISONNUT l TechExp projects l Decryption systems l LONGHAUL
+
+Derived me: SI Classmcauon GUlﬂQ 02-01 Dated: 20050711
+and NSNC SSM 1.752. Daled: 200701.03
+Declassily On: 203201.03
+
+TOP SECREI'HSIHREL TO USA. FVEY
+
+20f2
+

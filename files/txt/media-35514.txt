@@ -1,0 +1,73 @@
+0>_._.>z._.<<><m®mom_m
+0>_._.>z._.<<><m © <o_:3m
+
+ 
+
+ 
+
+Requirements
+
+§ @Scale
+
+* Deploy more widely
+* Leverage peering with partner
+
+§ @Volume
+
+7 Increased system size: 106 -> 406 -> 1006
+- Increased target volumes: CORNERKICK ++
+
+ 
+
+—
+@Scale
+
+Need
+
+§ Peer to forward “ ‘missing’ attack-events to LONGHAUL”, to LONGHAUL, so
+LONGHAUL can use them to complete single-sided processing.
+
+§ LONGHAUL to reciprocate.
+Approach
+
+§ LONGHAUL to become aware of which ‘Events’ are not pairing local to agency
+and to request peer to send (copy) of such events to LONGHAUL
+
+§ Minimise bandwidth required to communicate requests
+§ Peering is a back-end (KPS <-> LONGHAUL)
+
+§ Peers process independently
+
+ 
+
+Single-sided A->B using peering
+
+  
+    
+
+ 
+
+event[B->A]
+
+ 
+
+event[B->A]
+
+Filtered pairing
+
+ 
+
+event[B->A]
+event[E-> F]
+
+event[A-> B]
+event[C->|2]
+
+. ﬂ
+.0
+.
+
+ 
+
+ 
+

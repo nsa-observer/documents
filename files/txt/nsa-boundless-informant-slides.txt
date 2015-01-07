@@ -1,0 +1,140 @@
+.u e.
+
+‘ i'lobal Acces Operations?
+
+U
+
+?' Describing Mission Capabilities from Metadata Records
+
+13 Juiy 2012
+
+ 
+
+ 
+
+7" 
+""5 nneve ‘°‘
+
+ 
+ 
+
+TOP SECRET/ISl/INOFORN
+
+  
+ 
+   
+ 
+
+“
+
+ 
+
+(unroum Tvpical SIGINT Data Calls/Questions
+
+LO
+
+How many sites do we have in the region? How many records are they
+producing?
+What type of coverage do we have on country X?
+
+What type of collection and volume do we get out of site A? How do these
+
+types/volumes compare against site B? Against site C?
+
+(U//FOUO) Wavs to Get Answers
+
+Map out the physical location of SIGINT assets
+
+Send out a data call based on best guesses for who can answer the
+quesﬁon
+
+Review static reports/spreadsheets from previous data calls
+Ask a 301 earfﬂSl '
+
+  
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+ 
+
+TOP SECRET/lSl/INOFORN
+
+ 
+  
+
+ 
+
+(U//FOUO) Use Big Data technology to query SIGINT collection in the cloud to
+
+produce near real-time business intelligence describing the agency’s available
+SlGlNT infrastructure and coverage.
+
+ 
+
+ 
+
+ 
+
+‘ (U/lFOUO) Kev Questions
+
+’l. How many records are collected for an organizational unit (e.g. FORNSAT) or
+country?
+
+ Are there any visible trends?
+
+What assets collect against a specific country? What type of collection?
+4. What is the field of view for a specific site? What type of collection?
+
+90
+
+(U/lFOUO) Potential Users
+1. Strategic decision makers (leadershipteam)
+2. Tactical users (mission and collection managers)
+
+TOP SECRETl/Sl/INOFORN
+
+ 
+
+ 
+
+     
+
+TOP SECRET/ISl/INOFORN
+
+  
+
+* DETAILS
+
+1) (U/IFOUO) Current focus is on SlGlNT/COMINT
+
+2) (U//FOUO) Review every valid DNI and DNR metadata record passing
+through the NSA SlGlNT infrastructure
+
+a) (U/IFOUO) For the Map View, only display aggregated counts of records with a
+
+normalized number or an administrative region populated.
+
+b) (U//FOUO) For the Org View, display aggregated counts of every valid record.
+
+3) (U//FOUO) Raw data, analytics, and back—end database are all conducted in
+the cloud (HDFS, MapReduce, Cloudbase).
+
+ 
+
+ 
+
+(U//FOUO) BOUNDLESSINFORMANT is hosted entirely on corporate services
+and leverages FOSS technology (i.e. available to all NSA developers).
+
+ 
+
+TOP SECRET/ISIIINOFORN
+
+ 
+
+ 
+
+ 
+

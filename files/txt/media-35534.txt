@@ -1,0 +1,619 @@
+(U//FOUO) Net Defense
+from Encrypted Communications
+
+Enkrl I"\V'\l  ‘)
+
+ 
+
+SECRET/ISI/IREL TO USA, FVEY
+
+Increment 3 Requirement
+
+SYSREQlO322.2
+
+(SI/REL) TURMOIL shall reinject decrypted
+lP traffic into BLUESNORT for malicious
+
+network activity detection.
+
+SECRETIISIIIREL TO USA, FVEY
+
+I.
+
+2.
+
+3.
+
+TOP SECRET/ISIIIREL TO USA, FVEY
+
+Three-Feather Solution
+
+GALLANTWAVE application
+
+- Same module supports NetDef and SlGiNT
+
+- Supports dynamic update of targeting via UTT
+- Supports static target updates
+
+GALLANTWAVE Reinjection application
+- Same module supports NetDef and SlGiNT
+
+_ Supports re-injection of decrypt into TURMOlL for detection by BLUESNORT
+
+BLUESNORT in Stage 1 Prime application
+, Emits events off decrypted, re-packetized, reinjected data
+
+TOP SECRETIISIIIREL TO USA, FVEY
+
+SECRET/ISI/IREL TO USA, FVEY
+
+HIGH Level Data Flow
+Net Defense and SIGINT sites
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TURMOIL/
+
+Mission
+
+Application
+U'I'I' s >
+
+i
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+HTBOSS I
+
+I
+
+I
+
+TI
+
+ 
+
+=LONGHAUL
+
+>XKEYSCORE
+
+ 
+
+V
+PS (Bluesnort Events)
+
+SECRET/ISI/IREL TO USA, FVEY
+
+SECRET/ISI/IREL TO USA, FVEY
+
+Status
+
+- Running on MHS DEV ESO T5 and T22
+
+- Transform, Reinjection, Signature Hits
+confirmed
+
+- Signatures need further development
+to produce true hits vs. false positives
+
+- NTOC POC reviewing XKS hits to
+generate new signatures.
+
+SECRETIISIIIREL TO USA, FVEY
+
+SECRET/ISI/IREL TO USA, FVEY
+
+Issues/Risks
+
+1. CA Servers at Net Defense Sites
+5) iTx Connectivity to LONGHAUL
+
+w NTOC requires stand-up of separate dev and live iTX fabric
+
+i. - H/W funding may be needed
+ii. - Need paperwork for update to firewall — submission expected by 25 Feb
+a Expected completion was 29 Feb; now delayed to TBD
+
+a) SSH connectivity
+
+e; Short term: via BLUEBOX CA Servers at Pentagon - done
+
+a Longer term: via deployment ofservers within the NTOC enclave that connect to CA Servers in the field
+
+2. GALLANTWAVE Targeting Challenges
+5) MAiLORDER/Ni-Fl not yet available
+
+a) Mitigation: Manually load static targeting files
+
+SECRETIISIl/REL TO USA, FVEY
+
+SECRET/ISI/IREL TO USA, FVEY
+
+CA Capabilities Planned for NCC-3 Test
+Events
+
+ 
+
+DTIOA 2 (June 2012) DTIOA 3 (June 2013
+)
+
+ 
+
+Capability
+
+Defensive SIGINT Defensive SIGINT
+Sensor Sensor Sensor Sensor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CA Reinjection
+
+ 
+
+SECRET/ISI/IREL TO USA, FVEY
+
+SECRET/ISI/IREL TO USA, FVEY
+
+Near-term Schedule
+
+ 
+
+Capability Date
+
+ 
+
+GW-R Gate 2
+
+ 
+
+GW-R Gate 3
+
+ 
+
+GW-R Gate 5
+
+ 
+
+GW-R Deploy to U sites
+
+ 
+
+lTx Dev Fabric at NetDef sites
+
+ 
+
+CA Server ssh connectivity
+
+ 
+
+Initial Live Dev Test TURTLEZOO
+
+ 
+
+GW-R Core 4.0
+
+ 
+
+GW Core 4.0
+
+ 
+
+ 
+
+ITx Live Fabric
+
+ 
+
+ 
+
+SECRET/ISI/IREL TO USA, FVEY
+
+Players
+
+ 
+
+BACKUP SLIDES
+
+SECRET/ISI/IREL TO USA, FVEY
+
+CCA Capabilities Planned for NCC-3 Test
+Events
+
+ 
+
+DTIOA 2 (June 2012) DTIOA 3 (June 2013)
+
+ 
+
+Capability Defensive SIGINT Defensive SIGINT
+Sensor Sensor Sensor Sensor
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETFLOW
+
+ 
+
+BLUESNORT (updates)
+
+POPQUIZ
+
+Performance Testing
+
+Wireless reinjection “
+
+CA Reinjection
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cyber Tasking
+
+Updated Cloudshield Interface “
+
+Metrics and Monitoring
+
+ 
+
+ 
+
+ 
+
+ 
+
+— Orange items are being revisited. Requirements without explicit TML Core 4 dependency
+need mission documentation to justify not being covered in DT/OA 2.
+
+SECRET/ISI/IREL TO USA, FVEY
+
+(SI/REL) Dynamic Defense Logical Diagram
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD
+INTERNET (SHRED
+“ Network Normalized
+, Interface TUMULT Packets Defea-
+Active Response Stage 0
+Block,
+Reroute,
+Alter
+Alert
+
+Comman
+
+ 
+
+Action
+
+     
+
+Decide
+
+Legend:
+
+ 
+
+C233
+Protected Internal Network TUMULT
+(T113)
+
+ 
+
+12
+
+— — - - - - — — — — - - - - - — — — - --+JSA
+
+ 
+
+ 
+
+PPEXXX
+
+ 
+
+ 
+
+ 
+
+TE-STAGEl-
+GALLANTWAVE.XXX
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHRELTO
+,4va —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#{GALLANTWAV
+E-SERVICE}
+
+ 
+
+ 
+
+ 
+
+ 
+
+V
+
+ 
+
+X (EYSQQ SECRETHCOMINTHJR
+
+RE USA, FVEY
+
+  
+    
+
+ 
+
+GW—Ta rg etM a n a g e r respo n d s to‘"'"iaa'a'ta"raa't'§"'ré'a'uést
+from CoreSSC, pulls the GW IP addresses from the
+Targeting database; issues control—flow messages
+for each IP:Port combination and sends periodic
+updates for those.
+
+FCP responds to control—flow messages by
+promoting all packets to/from the targeted IP:port
+combinations, and PacketRouter ensures these
+packets are sent to GW—FIP for sessionization. GW—
+FIP outputs 'raw' SOTF session—fragments to the
+TE—GW service on the same host.
+
+GW-SessionFilter identifies sessions containing
+target technology—of—interest by applying an
+appropriate appld tag to each session—fragment.
+GW—FragmentFilter removes session—fragments not
+containing an appropriate appld for the target
+technology—of—interest. Additionally, as a work—
+around for an issue in FIP 3.1.10, erroneous
+session—fragments missing a specific metadata
+filed are removed. GW—MI applies SRI obtained
+from Dfid Allocator.
+
+EGWEMI applies SRI obtained from the DFID
+
+allocator.
+
+f‘lll] I -_-III_.__-._._ -I—I..._.__ I-..££_.__-I -I—L— ..-L- _
+
+SECRETI/COMINTHRELTO USA, FVEY
+
+Delivery to both XKEYSCORE and
+Stage 1 Prime Reinjection
+
+ 
+
+ 
+
+_____________ _ _ .
+TU RMOIL  |
+  '
+
+  
+  
+
+I _ _ _ _ _ _ _ _ _ _ _ _ _ . _ _ _ _
+GW-SessionManager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECRET/lCOMINT/IREL TO USA, FVEY
+
+TURMOIL
+Stage 1 Prime Reinjection
+
+    
+ 
+
+Decrypted flow
+
+ 
+
+ 
+
+SECRETf/COIVIINTHREL TO USA, FVEY
+
+ 
+
+/ % Proposed Tasking Flow
+for TUTELAGE LONGHAUL
+
+ 
+
+ 
+
+ 
+
+Cryptanalytic Capability
+
+ 
+
+Key exchang - ITX
+
+ 
+
+U'I'I' /
+Network Technology CA Server/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+     
+ 
+
+ 
+
+ 
+
+       
+
+        
+
+     
+
+A
+IP tasking file I [ GALLANTWAVE ]
+response - SSL
+" \ K i /
+N'F' / TU RMOIL \
+IPs
+Corporate Instance promoted
+for Decryp ed data
+dec tion
+h
+DF - FTF B E ,_ ,_ “E’
+U z n U D: D: .:
+‘_Cnller_t_ 4’ u z m 0 0 n.
+"1 o m m H
+‘ Events 5 Q E I. u Lu ‘1,
+IP tasking file I g I; 8 3 3 3
+response - SSL n m m m a
+
+     
+  
+
+  
+
+ 
+
+ 
+
+TUIC
+NiFi
+NTOC Instance J
+
+NiFi local
+
+V
+
+ 
+
+ 
+
+ 
+
+  
+
+IL
+
+IP tasking file]
+response - SSL
+
+ 
+

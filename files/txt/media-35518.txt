@@ -1,0 +1,209 @@
+“20291123
+
+.|'
+|.
+
+ And ESP Metadata Flows
+ 1 ' IKE/ASDF Records
+I
+
+ 
+
+ 
+
+ 
+
+I External components used by I Existing Turmoil Component
+TML
+
+El I New Turmoil Component
+Metadata Components
+
+Figure 3. VALIANTSURF Redesigned Metadata Flow
+
+I New/modified VS component
+
+I New LONGHAUL component
+
+ 
+
+ 
+
+“20291123
+
+..-
+. .- ....-_
+
+:.'|-||:.|I.I|.I
+
+_- -l'l'i:].'.| I.
+
+VF? MALI-B
+
+QAGE 1
+|
+
+ éFransform Flow PPF
+
+ 
+
+L O NTRO LFLOW
+
+External components used by
+
+TML I Exnstlng Turmonl Component
+
+I New Turmoil Component
+
+Figure 1. VALIANTSU RF Redesigned Software Decrypt Flow I Newlmwiﬁe‘i VS c°mp°nent
+
+ 
+
+ 
+
+TC‘P SECRETHCONHNTURE'. TO USA, ."-‘US, CAN, GBR, NZLH20291123
+
+ 
+
+- - - - - IE- - Setected
+
+Packets Pac ket
+Router
+
+ 
+
+ 
+
+ 
+
+3ackel‘ Flows For: Home
+PSEC Services
+
+ 
+
+llllI‘IIlIIIFIIIIIIIIIIIIII
+
+: I Metadata v6Protocol VPN- 
+Pﬁaﬁzs“  :
+
+gill
+R
+
+ 
+
+Faileﬂ
+_ Transfo rmgtions}
+To FCE
+ed
+
+(FUTUBE) i "63:53; METT Wrer v6Protocol Packet
+5 i Converter ln'ector
+- FlowVia 
+
+LABEL/Request lnteiface
+I
+
+ 
+
+ 
+
+(Logical) VALIANTSURF TE
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETIICOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+
+ 
+
+CONTROLFLOW
+(survey) 
+
+“Hits” services
+
+Selected
+Packets Packet ______ __ Event DFA
+Router Filter Proxy
+
+routingCategory=SiGDE V
+
+Packet Fiows For:
+'VS Transformations
+
+ 
+
+ 
+
+ 
+
+\
+
+Fast VS
+I P M etad ata Sessions
+Processor InIeCt
+
+(III-D
+(FIP)
+
+_|
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+XKEYSCORE
+Session Processing
+
+ 
+
+ 
+
+VALIANTSURF Survey TE /
+
+ 
+
+ 
+
+ 
+
+TOP SECRETIICOMINTHREL TO USA, Aus, CAN, GBR, NZLii20291123
+

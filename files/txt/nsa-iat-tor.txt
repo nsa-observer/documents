@@ -1,0 +1,377 @@
+TOP SECRET.»"'..»"'SI..v"}-"'REL TO USA,FVEY E
+(C//REL) Types of IAT — Advanced Open Source Multi-Hop
+
+ 
+
+ 
+
+ 
+
+N
+
+.‘p‘.
+z
+
+. (S//REL) Open Source Multi-Hop Networks
+
+(S//REL) Tor
+(S//REL) Very widely used worldwide
+
+(SI/REL) Open Source
+
+. (S//REL) Active Development
+. (S//REL) Mitigates Threats
+
+(S//REL) Very Secure
+(S//REL) Low enough latency for most TCP uses
+(S//REL) Still the King of high secure, low latency Internet Anonymity
+
+o (S//REL) There are no contenders for the throne in waiting
+
+ 
+
+ 
+
+TOP SECRETs‘fCOMINT REL TO USA.FVEY
+
+TOP SECRET/"CI'SI,»""/"REL TO USA,FVEY
+
+ 
+
+(S//REL) Tor Operation (1 )
+
+‘v
+
+. \
+
+ 
+
+ 
+
+ 
+
+m How Tor Works: 1
+
+Alice
+
+; Step 1: Alice's Tor
+; client obtains a list
+3 of Tor nodes from
+: a directory server.
+
+I!
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETIE'COMINT REL TO USA.FVEY
+
+ 
+
+TOP SECRET/"’18I.»'"'/'REL TO USA,FVEY
+
+(S//REL) Tor Operation (2)
+
+V‘v
+
+ 
+
+( .
+
+m How Tor Works: 2 III} 
+
+. .. 1"‘n'r‘Lrylz-tt‘ci‘ '15-.
+—. 4‘11: 'yph‘w} I‘m-x
+
+Alice
+
+Step 2: Alice's Tor client Gua'd
+picks a random path to
+
+destination server. Green -
+links are encrypted. red
+
+links are in the clear.
+
+ 
+
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETx’x‘COMINT REL TO USA.FVEY
+
+ 
+
+TOP SECRET/lsI.r"]»"'REL TO USA,FVEY
+
+(S/lSl/lREL) Passive Tor Traffic Analysis
+
+ 
+
+ 
+
+ 
+
+‘
+
+. ‘y
+. h.’ﬂi.
+
+(S//Sl//REL) For Normal SIGINT flow, need to identify Tor traffic!
+— (S/lSl//REL) Only outer TLS layer visible —) How to Distinguish?
+
+— (S//S|//REL) Tor developers attempt to remain anonymous by blending in
+with myriad other TLS traffic
+
+(S//S|//REL) Tor TLS has changed over the years
+
+(S//Sl//REL) There ARE some server —> client features which are
+recognizable
+
+w (S//Sl//REL) Certificate: Specific Difﬁe-He/lman (DH) Modulus — byte search
+
+(S//Sl//REL) Certificate: Issuer and Subject random names of same form — ex:
+CN=www.ofszdjxvrss.net — regex match
+
+(S//Sl//REL) Certificate: always 2 hour lifetime — ASN.1 parsing, more computation
+e (S//Sl) Multiple XKS fingerprints from multiple parties deployed
+
+ 
+
+TOP SECRETffCOMINT REL TO USA.FVEY
+
+ 
+
+TOP SECRET/../"SI.»"".«"'REL TO USA,FVEY
+
+(S//REL) Tor Project Censorship Driven Activity
+
+ 
+
+ 
+
+ 
+
+‘
+
+. ‘y
+. h.’ﬂi.
+
+(S//REL) Driven by Censorship Circumvention, Hide Signature
+
+— (S//REL China and Iran still main adversaries
+— (S//REL Researching better bridge distribution strategies
+
+)
+)
+- (S//REL) Claim by Tor Project is 8000 requests/day for <1000 total
+(S//REL)Around Feb 2011, changed the TLS handshake
+(
+
+S/IREL) Signature more like Apache web-server
+(S//REL) Different DH Modulus
+(S/lSll/REL) New XKS Signatures address this
+(TS//S|//REL) Proposed eventual change will kill identification!
+
+(S//REL) Each Tor node will generate random-ish signatures in a volatile
+way specifically designed to look like normal website TLS traffic!
+
+ 
+
+TOP SECRETffCOMINT REL TO USA.FVEY
+
+ 
+
+TOP SECRET/"£8[xiv/REL TO USA,FVEY
+(S/lREL) Censorship Driven Protocol Obfuscation — Psiphon 3/ Tor
+
+ 
+
+w
+
+‘
+
+.ﬁ.
+. hy-
+
+(S//REL Extreme Censorship blocking: Common encrypted protocols
+(S//REL) In the case of Psiphon 3: SSH
+(S//REL) In the case of Tor. TLS
+(S//REL) Make deep packet inspection (XKS 2-) ) work harder
+(Sl/REL) Both use work of a open source project (brl/obfuscated-openssh)
+ (S//REL Idea is both sides transmit random seed and verifier information
+I (S//REL) Verifier is hash of seed and other data
+a". (Sl/REL) If verifier passes data used from both side seeds to generate key
+(S//REL) Key used in symmetric cipher to encrypt native SSH or SSL protocol
+(S//REL) So for random stream, need to de-obfuscate and test for SSH/ SSL
+(S//REL) Details for Psiphon 3
+- (S//REL) Hash used for verifier, key generation: 6000 iterations SHA-1
+- (S//REL) Symmetric cipher is RC-4
+(S//REL) Details for Tor Obsfproxy
+- (SI/REL) Hash used for verifier, key generation: 100K iterations SHA-256
+- (S//REL) Symmetric cipher is AES-CTR-128
+- (S//REL) Key uses seed from both sides!
+
+TOP SECRETffCOMINT REL TO USA.FVEY
+
+)
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHSI.»"".«"'REL TO USA,FVEY
+
+(S//REL) Tor Project and friends Recent Activity
+
+‘
+
+ 
+
+(S//REL Tor on non-traditional platforms
+
+S//REL) Tor Router Project — Modified Linksys Router (everything over Tor)
+
+)
+
+a (S/lREL) ORBOT, Tor for Android smartphones —Associated browser, easy to use!
+(
+(
+
+S/lREL) Hide-My-lP-Address
+
+- (S//REL) Proprietary replacement for Tor Browser Bundle
+
+- (S//REL) From “WCCL Network" not part of Tor Project
+
+- (S//S|//REL) Looked at based on reference by CT target
+(S//REL) Tor Project working on improving support for circumvention
+
+» (S//REL) Handshake obfuscation (discussed)
+
+ 
+
+» (SI/REL) Better bridge proliferation / distribution
+
+(S//REL) Tails: Complete Bootable OS on CD for anonymity — includes Tor
+
+- (S//REL) Adds Severe CNE misery to equation
+
+- (S/lSl/IREL) Has been discussed by CT targets
+TOP SECRET.I',.‘C()MINTWREL T() USA.FVEY
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/"HSI.«"'.«'"REL TO USA,FVEY
+
+(S//REL) Tor Project and friends Recent Activity
+
+ 
+
+ 
+
+ 
+
+ x
+If"
+
+(S//REL Advanced Tor “Obfuscation” Project: SkypeMorph
+S//REL Another option for pluggable transport
+
+S//REL More sophisticated concept than Obfsproxy
+
+L Encapsulate Tor in encrypted data mimicking Skype Video Traffic
+S//REL Sort of traffic flow steganography vice content steganography
+
+)
+
+( )
+
+( )
+
+( ) Open connection to Skype server with “bridge Skype ID”
+( )
+
+( )
+
+( )
+
+S//REL True Public Key cryptography vice obfuscation with known key
+7 (Sl/REL) Product of University research — Non-trivial to deploy
+(TS//Sl//REL) Most Recent SIGINT Work on Exploiting Tor
+i (TS//Sl//REL) REMATION || Workshop (US/UK) at MHS spring 2012
+(S//Sl//REL) Unleashed Networking/ONE legions...
+
+(Sl/REL) See later talk by_for the scoop
+
+TOP SECRET/.r’COMINT REL TO USA.FVEY
+
+ 
+
+TOP SECRETHSI.»"".«"'REL TO USA,FVEY
+
+(S//REL) Tor Project and friends Recent Activity
+
+‘
+
+ 
+
+. \
+.wﬂi.
+
+‘ ~(S//REL) Online Feud between 2 IAT Products: Ultrasurfand Tor
+(S//REL) “ Technical Analysis of the Ultrasun‘proxying software” (Applebaum)
+(S//REL) Analysis (including some SRE) — highly critical
+(S//REL) Single hop, controlled by one authority
+(SI/REL) Security by obscurity
+( )
+( )
+
+S//REL No perfect forward secrecy (forensic traces exploitable)
+
+ 
+
+S//REL Responsible Disclosure: U/trasurf notified 12/2011, published 04/2012
+(S//REL) “TO/’s critique of U/trasun‘: A reply from the U/trasurfdevelopers”
+(S//REL) Posted on U/trasurf site days after Tor published critique
+(S//REL) All talk and no show
+(S//REL) Not fully analyzed
+( )
+
+))
+
+S//REL One Approach to IAT: Tor— higher anonymity, smaller scale
+
+ 
+
+ 
+
+(SHEEI: E I “I.” :_E . . . I
+
+TOP SECRETIXCOMINT REL TO USA.FVEY 48
+
+ 
+

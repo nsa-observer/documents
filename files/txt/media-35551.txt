@@ -1,0 +1,3239 @@
+__.-'
+.r"
+
+(S//Sl//REL) What Your
+Mother Never Told
+You About SIGDEV
+
+Ana'ys's—
+SSGZl Net Pursuit
+Network Analysis Center
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g
+..-"
+
+(U//FOUO) What have I learned in
+my first two years in
+
+SmIQlEDYI'mpottant to understand the data that
+
+you are searching against
+
+=' (S//S|//REL) Important to understand the hidden
+treasures and nuances in various SIGDEV tools
+
+=' (U//FOUO) Nothing is 100%: there are always
+exceptions to the tools and the rules
+
+=' (S//S|//REL) Took a network view of VPNs
+
+ 
+
+g
+.-"
+
+(TS//S|//REL)What Makes
+
+SIGDEV Analysis Challenging?
+
+:' (U//FOUO) Requires knowledge of.....
+= (S//S|//REL) Access and collection
+=' (S//S|//REL) Network protocols
+‘ (S//S|//REL) Routing
+=’ (TS//S|//REL) Encryption
+
+ 
+
+g
+.-"
+
+(U//FOUO) Challenges etc....
+
+(TS//Sl//REL) Technical jargon and abbreviations
+=' IPSEC
+=' IKE
+=’ MPLS
+=’ PSK
+=’ PPTP
+=L2TP
+=’ GRE
+=' Cisco commands
+
+ 
+
+,a'
+
+(TS//S|//REL)Cha||enges etc....
+
+(S//S|//REL) Tools
+=' How to use them
+=' Knowing that they exist
+
+=' Multiple query languages
+=' SQL for TOYGRIPPE
+
+=' Oracle Text Query in DISCOROUTE
+=' Quantity
+
+ 
+
+ 
+
+....®LOE CEMEZH
+
+EOme .n
+m<_>_m_m3m<m_m._. .n
+mmOUm>mv_X .n
+
+Z_ZOm w m_v_Z .n
+m__>_OZD v_mO>>._.m_ZD .n
+mEEmD>OF .n
+1E<mmv_u<n_m_ .n
+mFDOmOUmE .n
+
+m_OO._. AODOn—\\Dv
+
+3..
+.1.
+
+ 
+
+WSW/REL) Building Network
+BLACKPEEikﬁCKPE’RLr-I OW I ed 9 e
+
+TOYGRIPPEOYGR'PPE
+
+XKEYSCOKEEYSCORE
+
+ 
+
+ 
+
+ 
+
+Maximize the “of the tools for
+
+ 
+
+ 
+
+g
+..-"
+
+(SI/SlllRE L)
+
+DISCOROUTE
+
+NAC’s router configuration database
+
+ 
+
+—
+W
+
+ (U//FOUO) DISCOROUTE
+
+=' (C) NAC project to acquire, parse, database
+and display configuration files from network
+devices
+
+=' (C) Allows analysts to mine device configs for
+SIGDEV discovery
+
+lllll
+l
+
+ 
+
+ 
+
+    
+  
+
+Router co  rich source
+
+formation
+
+lllll
+
+ 
+
+ 
+
+network 
+
+ 
+
+ 
+
+ 
+
+g
+.-"
+
+(S//S|//REL) 
+ IIQQMmportant because they all
+
+belong to a device and they all have a purpose in
+the network
+
+=’ (S//Sl//REL) Search for
+=’ Endpoint lPs
+=' Loopback lPs
+=' Opposite end of a point-to-point connection
+=’ lPs found in pings and telnets
+
+=’ (S//Sl//REL) Make note of the source and
+destination lPs of the config
+
+ 
+
+,J
+..-"
+
+(U//FOUO) DISCOROUTE
+U//FOUO) Cou§r§a FC h ES
+
+U//FOUO) IP Search
+
+U//FOUO) Text Query
+
+TS//S|//REL) Manifest Tag Selection
+=’ K — Crypto Keys
+
+=’ H — TAO Pop
+
+=’ M — Multihop
+
+=' (S//S|//REL) VPN report
+
+:1
+
+=1
+
+:1
+
+=1
+
+AAAA
+
+ 
+
+g
+..-"
+
+(S//S|//REL) DISCOROUTE: Country
+
+Search
+
+=' (S//S|//REL) IPGeo lookup on every IP address
+that is parsed
+
+=' (S//S|//REL) Configs with only private IPs will
+not show up in the results of a country search
+
+ 
+
+—
+(S//Sl//REL) DISCOROUTE: Searching for IP
+
+=' (S//SI//REL) Textquad/negcgagg
+
+= searches through the payload
+
+= If you only search using this field, then you will miss
+= configs that have your lPs of interest as the source and
+destination address
+
+= configs where your IP falls within the range of the interface mask
+
+=' (S//Sl//REL) IP address field search
+
+= searches through the parsed file
+
+= If you only search using this field, then you will miss configs with
+your lPs of interest in pings, telnets, arp commands
+
+ 
+
+—
+WagiDISCOROUTE Search 1Feb
+
+to 1 3 Apr:
+=' (S//Sl//REL) — in the payload
+
+=' 3 results
+
+=' (S//Sl//REL) IP Address Search: searching for the IP in the
+parsed file
+
+=' Exact IP search
+
+=' De-duped by most recent
+
+=' 28 results (27 had — as the source IP)
+=' (S//Sl//REL) Somalia Country search: 66 results
+
+(12 of those had a source IP of—)
+
+=' (S//Sl//REL) Difference: IP was the source IP for configs more
+times than it occurred in the payload data
+
+ 
+
+ 
+
+g
+..-"
+
+/:;HLJJ’ I
+(S//S|//REL) Why fewer configs for
+
+— in the country
+
+search?
+
+=' (S//S|//REL) 12 as opposed to 27
+=' (S//S|//REL) Geo location fo—
+
+was Hong Kong for a period of time
+
+=' (S//S|//REL) Geo is assigned to router configs
+at the time of ingest and not changed if the IP
+location is corrected
+
+ 
+
+(S//S|//REL) Data Found in a Text Query:
+Inner Network IPs in a Huawei Config
+
+<LN$>dis firew se *
+04:19:05 2011/06/18
+Current total sessions : 19
+
+udp VPN: public -> public—
+
+Inner IPs
+
+Press CTRL+K to abort
+
+Connected to_ 
+
+g
+..-"
+
+(S//S|//REL) DISCO R0 UTE
+=' (TS//S|//REL|)\|/-'  the router
+
+=' (S//S|//REL) M - multihop router. The admin telnetted
+into a router and then telnetted again to another
+device. Potential goldmine of information about your
+network, but be careful when looking through them to
+make sure you are associating an IP with the correct
+device.
+
+=' (TS//S|//REL) K — crypto keys
+
+ 
+
+g
+..-"
+
+(S//Sl//REL) VPNs In Router
+
+Conﬁgs
+
+‘ (TS//Sl//REL) DISCOROUTE sets manifest tags to
+‘K’ for configs with crypto information
+
+= (S//Sl//REL) Separate parsers developed for each
+vendor to pull out the endpoints and the pre-
+shared keys
+
+=' Cisco
+=' Huawei
+='Juniper
+
+ 
+
+WUVPN Information in a Cisco
+
+(S//S|//REL) Endpoint (E0 Pﬂclligand Description Fields
+crypto isakmp key VpnsAreCooI address—
+
+crypto map VPNS-ROCK 10 ipsec-isakmp
+set peer—
+
+interface Tunnell
+description Tunnel TO theStars
+bandwidth 512
+ip address—
+ip tcp adjust-mss 1350
+load-interval 3O keepalive 5 2
+
+tunnel source—
+
+tunnel destination —
+crypto map VPNS-ROCK
+
+ 
+
+ 
+
+g
+..-"
+
+(S//S|//REL)VPN Information In a
+
+(S//S|//REL) NetstriGngEsar  Community &
+
+omain ames
+
+Username deb privilege 5 password 7
+082C495AOC1617
+
+snmp-server community dancer RW 70
+
+snmp-server community tangosnmp RW 60
+
+ip domain name lifesabeach
+
+ 
+
+g
+..-"
+
+ sﬂsv/RELNPN Information in a
+Z 2:: 22:3??inZilii‘iZSE‘TEZHTJ awe i C o nf i g
+
+exchange-mode aggressive pre-shared-key GoHokies
+ike-proposal 60
+
+undo version 2
+
+local-id-type name
+
+remote-name svn
+
+remote-address—
+
+remote-address authentication-address—
+nat traversal
+
+# ipsec proposal GoHokies
+
+# ipsec policy helloworld 6O isakmp
+
+security acl 3060
+
+ike-peer proposal GoHokies
+
+# interface Virtual-Templatel  More ----.[42D .[42D
+ip address—
+
+remote address pool 1
+
+# interface GigabitEthernetO/O/O
+
+ip address—
+
+# interface GigabitEthernetO/O/l
+
+description GigabitEthernetO/O/l Interface
+
+ip address—
+
+ipsec policy helloworld
+
+ 
+
+—
+
+
+(S//Sl//REL) VPN Information in a Juniper
+Conﬁg
+
+set ike gateway "BadguyVPN" address— Main outgoing-interface "untrust" preshare
+"xGe7YOYfo3DNGsp4GCq+fgCdondsCBQtio/3YvabR7szDerVD4=" proposal "pre-g2-3des-sha" "pre-g2-
+3des-md5"
+
+set ike gateway "BadguyVPN" cert peer-ca all
+
+set ike gateway "BadguyVPN Backup" address— Main outgoing-interface "untrust" preshare
+"YWZprUvNGQvasiXdev3pxRDnLEAx09877SfJFLng9uthSyYPP|=" proposal "pre-g2-3des-sha" "pre-g2-
+3des-md5"
+
+set ike gateway "To Mouse" address— Main outgoing-interface "untrust" preshare
+"fn3VGSElNI+amHsDeyChcquVHnustj4w==" proposal "pre-g2-3des-sha"
+
+set ike respond-bad-spi 1
+
+set vpn "BadguyVPN" gateway "BadguyVPN" no-replay tunnel idletime 0 proposal "nopfs-esp-3des-sha"
+set vpn "BadguyVPN" monitor optimized rekey
+
+set vpn "BadguyVPN" id 5 bind interface tunnel.3
+
+set vpn "backup BadguyVPN" gateway "BadguyVPN Backup" no-replay tunnel idletime 0 proposal "nopfs-esp-
+3des-sha" "nopfs-esp-3des-sha" "nopfs-esp-3des-sha" "nopfs-esp-3des-md5"
+
+set vpn "backup BadguyVPN" monitor optimized rekey
+
+set vpn "backup BadguyVPN" id 4 bind interface tunnel.l
+
+set vpn "From Rat" gateway "To Mouse" no-replay tunnel idletime 0 proposal "nopfs-esp-des-md5"
+set vpn "From Rat" monitor optimized rekey
+
+set vpn "From Rat" id 6 bind interface tunnel.2
+
+ 
+
+g
+..-"
+
+(S//S|//REL) VPN Report Search
+
+=' (S//SI//REL) Some of FhleGiladgthat you can search
+in...
+
+=' Country
+
+=' IP Address
+
+=' SIGAD/Case Notation
+
+=' Descriptions: crypto map and interface
+=' Netstrings: Username, Domain Name
+=' Pre-shared keys
+
+=' Device Hostname
+
+=TAO Project Name
+
+ 
+
+    
+
+(‘Jersion 2.1?) I
+
+Query Reports * Network Mgmt Query Wiki Feedback
+
+VPNReportForm g E E a I I I E a 
+
+Query  Results I
+
+Date I I   a  IP.I\ddresso
+
+IP Address:
+
+Start Date: 2012-03-14 00:00:00:  U  h I  I (MM)
+
+End Date: 2012-04-13 23:59:59 S
+
+ 
+
+ 
+
+D Tunnel Source D VPN Source
+
+' =' I D Tunnel Dest D VPN Remote
+G) D01 0 Load Date 0 Entire Database  h 
+
+D Interface
+
+Hostname:
+
+Pre-Shared Keys:
+SIGAD:
+
+Snmp Community:
+Case:
+
+Interface Descr:
+Country:
+
+Crypto Descr:
+
+TAO Project Name 0: Username:
+
+Session ID: Domain Name:
+
+ 
+
+Generate Report I IGenerate Report in New Window I ICIear Panel
+
+ 
+
+ 
+
+Powered b the SIGDEUI Lab
+Version Number: 2.1?ﬁ
+NAG Last Modified Date: March 28J 2012
+— Last Reviewed Date: March 28 2012
+
+Content Steward
+Page Publisher:'
+
+ 
+
+ 
+
+ 
+
+'5.
+
+/S|//REL) VPN Report
+
+£3 Discolloute
+
+ 
+
+Query Reports“ NetworkMgthuery Wiki Feedback
+
+ 
+
+VPN Report Form
+
+Query Results
+
+ 
+
+Session ID:1332289408998
+
+   
+ 
+
+ 
+
+   
+  
+  
+  
+ 
+
+ 
+
+  
+
+Hostname Vendor Sigad Case Notation Collection Source Country TAO Project TAO Pop
+IBL_Bagndad_Router cisco USJ-?59A EQBDJBBBBBMDBBB XKeyscore LB No
+Interfaces
+Interface ID IP Address Network Mask Description
+LeepbackB 255255255255 UDlCE trafﬁc
+FestEthernetB/U 255255255240 Connected To ASA/Firewall
+FestEthernetB/l 25525525524B Connected To 2MB DSL
+SerialD/l/D 255255255240 Connected To DVB
+Tunnels
+ID Source Dest Description
+Tunnell Tunnel TO Beirut
+Tunnell Tunnel TO Beirut
+Tunnell Tunnel TO Beirut
+Tunnell Tunnel TO Beirut
+VPN Peers
+ID Router IF' Remote IP VPN Type PSKs Description
+SerialB/l/B ipsec IblBaghdad
+Tunnell ipsec IblvoiceVpn
+SerialB/l/B ipsec IblBaghdad
+Tunnell ipsec IblvoiceVpn
+SerialB/l/B ipsec IblBaghdad
+Tunnell ipsec IblvoiceVpn
+SerialB/l/B ipsec IblBaghdad
+Tunnell ipsec IblvoiceVpn
+
+ 
+
+ 
+
+ 
+
+g
+..-"
+
+(S//S|//REL) VP N Re [30 rt
+hliugltém USe the VPN report as a start but not as the
+
+final answer for VPNs from a country or a SIGAD
+
+=' (C) Query in different ways to make sure you get as much
+of the data as possible
+
+=' (TS//S|//REL) Depending on your scenario you may want to
+
+start with a country search, an IP range or a descriptive
+term
+
+ 
+
+ 
+
+VPN Peers
+. iii
+endponnt \
+
+can be ent
+
+ontains the
+ii _
+VPN Wthh
+
+ii.
+
+   
+   
+
+ 
+
+ 
+
+i
+i
+i
+
+ 
+
+ 
+
+ 
+
+g
+..-"
+
+(S//SI//REL) Description &Net Strings
+
+Searches
+
+= (S//Sl//REL) Suppose you do a general VPN report
+
+query
+=' Search by country
+
+=' Search by SIGAD
+= (S//Sl//REL) Find a VPN of interest
+
+= (S//Sl//REL) Analyze the NetStrings and the
+description fields
+
+ 
+
+g
+.-"
+
+(S//SI//REL) NetStrings
+Iﬁ§followcn VPN report using a
+
+netstring specific to your network
+=' Snmp community string: pegasus
+=' Domain name: badguy.com
+
+=' Username
+
+=' (S//S|//REL) Search ROYALNET
+
+=’ Analytics to find other netstrings related to your
+target
+
+=’ Analytics to find links likely to carry your
+target’s communications
+
+ 
+
+g
+..-"
+
+(U//FOUO)
+BLAC KPEARL
+
+(S//S|//REL) NAC tool enabling automated DNI link and
+network characterization against survey collection
+across the SIGINT system
+
+ 
+
+ 
+
+g
+..-"
+
+(S//S|//REL) B LAC KP EARL
+S(§/QJLE)hC§%raI Query
+
+=' (S//S|//REL) Customized reports
+=‘ VPN report
+=* DNI Access Essentials
+= MPLS report
+= Five Tuple Report
+
+ 
+
+ 
+
+g
+..-"
+
+(gm/REL) BLACKPEARL IP
+swarms
+
+=' Interface IPs
+
+=' Loopback IPs
+
+=' Source or destination IPs of the router config
+file
+
+=' Inner network IPs
+
+=' Analyze other IPs on the link
+
+ 
+
+g
+..-"
+
+(U//FOUO) B LAC KP EAR L
+
+=' (S//Sl//REL) Search ‘All traffic’ and include
+subchannels and tunnels if no results found
+under limited search
+
+=' (S//Sl//REL) lf link is identified as MPLS then
+look at the other lPs in inner labels, if present
+
+=' (S//S|//REL) Use BLACKPEARL for finding
+access and gathering information on your
+network
+
+ 
+
+g
+..-"
+
+(S//S|//REL) Search for Inner
+
+Tu n neled IPs
+=' (S//S|//REL) Query BLACKPEARL with an endpoint
+
+IP
+
+=’ Find other tunneled IPs — inner network IPs that
+you can do follow on searches
+
+=' (S//S|//REL) Query DISCOROUTE with any new IPs
+found
+
+=' (TS//S|//REL) Success: Discovered information on
+Somalia’s Hormuud network
+
+ 
+
+g
+.-"
+
+(TS//S|//REL) Example: Hormuud
+
+Network
+
+=' (S//S|//REL) Began with loopback IPs from a
+spreadsheet
+
+=—
+=' (S//S|//REL) Found configs for 2 of the 12
+loopbacks in a text query in DISCOROUTE
+
+='— and — were in the payload
+
+but not parsed
+
+=' (S//S|//REL) Took the IPs from those configs
+and found other configs, one with hostname
+‘LNS’
+
+ 
+
+ 
+
+W;
+
+I, (U) Example
+CQ/EIELﬂpBgAQKPEARL hit on LNS IP
+
+=’ Inner IPs in L2TP tunnels
+
+=’ DR search for inner IPs from the L2TP tunnels
+and found more configs
+
+=' (U//FOUO) Many of the configs were multi-hop
+
+=' (S//S|//REL) Information compiled for TAO
+=' ~4OO IPs for over 50 devices
+
+ 
+
+ 
+
+[Mil/REL) BLACKPEARL Search:
+
+ 
+
+ 
+
+ 
+
+L2TP tunne ' e es — ' ' s ——
+Number of |l=ive Tuple: C I I élﬁamee  SS
+
+# Source Address Dest Address Source Port Dest Port Next Protocol "/6 Packets # Pacl
+
+1 — =i _ gin 22 4527 TCP (6) 100.0 43
+= ‘—
+
+L2TP tunnel =1  and Destination Address 2 —
+Number of Five Tuples: 6 8 a
+
+# Source Address Dest Address Source Port Dest Port Next Protocol Ufa Packets # Pacl
+
+ 3101 53771 TCP (6) 67.2 33
+_ 6006 53770 TCP (6) 3.6
+_ II 6000 53050 TCI" (6) 6.0
+6006 53733 TCP (6) 6.3
+_ 6000 53773 TCP (6) 5.2
+6000 53732 TCP (6) 5.2
+
+L2TP tunnel Source Address 2 —and Destination Address 2 —
+
+Number of Five Tuples: 2 24 total packets
+7-7 Source Address Dest Address Source Port Dest Port Next Protocol "/6 Packets 7-7 Pacl
+23 3073 TCP (6) 33.3 20
+
+1
+2 - - 23 3080 W cm 16-7 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LULU-PAm
+
+ 
+
+U‘IU'I-l-‘IEOMl-II
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Content Steward:_ General Support: Contact the Mission Support Team_ Contact Us
+
+ 
+
+V—lﬁ
+rwi/REL) BLACKPEARL MPLS
+
+ll 5 T935 255 A
+I *-Tl.lpTl LIE‘I (Inﬁll ﬂlﬂt III-Gill, 1‘33):
+1 7211 2 5-5
+
+1- TI-III‘I'I Uﬂ (Hull stack Ind-hill, 32:1):
+
+9 665D 2 55
+: + Tum un (Inn-I mu: Ind-um, use):
+' 9 6-305 2 55
+
+=« mmymhha I.#.IQF_1.!1.!§11 ELEM}:
+
+ 
+
+ 
+
+Iron-cal
+I I am Address but mg: Numb" Flu. count
+BlF‘P- ESP
+: :I. 01' 1.
+1D TIBIZI 2 55
+
+_ 1.;I'up1'a ﬁst'qiuhm an; ink-iii, high:
+
+1.1 3120 2 5-5
+.- Tup'ra up: {label sud: Ill-1641!, Inn):
+
+12 5-315 255
+'.-1qpra_lel_n_ﬂqga_l_ssm_1m4m awn
+# Em Address Dist Mich-Bis
+
+ 
+
+III-atom!
+Numhur
+
+EIDF' 'ESF'
+
+1 _ m, 1
+5rF‘F*E5D
+
+2 _ {an}. 5
+
+Flu" Gaunt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5WD- ESP
+3 _ — (so) 1
+.
+STUD-ESP
+4 — — 1
+. (so)
+4 of 4
+I 13 Has 2 55
+I HTIII'ﬂ'I 'I It? {Inhll ﬁnd! "II-541R. um“: I
+:an; mus-Ila ‘mtamywil [Inﬂatde
+ _ ii
+
+ 
+
+   
+
+g
+..-"
+
+(U//FOUO) TOYGRI PPE
+
+(S//S|//REL) VPN Metadata Repository
+
+ 
+
+(S//Sl//REL)Building VPN Network
+
+Knowledge
+
+=' (S//Sl//REL)VPNs are part of a larger network
+
+=' (S//Sl//REL)lnner or tunneled lPs are a peek
+inside the target’s network
+
+=' (S//Sl//REL)Beneficial to look beyond the
+endpoints of your VPN
+
+=' (S//Sl//REL)Combine information from as many
+SIGDEV databases as you can
+
+ 
+
+ 
+
+g
+..-"
+
+(U/FOUO) TOYG RI PPE
+S(€/§Jma$ch 3 months at a time
+
+=' (U//FOUO) Keep going back in time if no results
+found
+
+=' (S//S|//REL) Take endpoint IPs found here and
+search in
+=’ DISCOROUTE -- device information
+=’ BLACKPEARL -- inner tunneled IPs
+
+=' (S//S|//REL) Country report
+
+ 
+
+ 
+
+g
+..-"
+
+(U//FOUO) TOYG RI PPE
+ note of other connections to the
+
+IP of interest and search for them separately
+
+=' (S//Sl//REL) You might not find what you are looking
+for, but it still may be important
+
+=' (S//Sl//REL) Convert the target domain name to
+hex and search for it in the idData field
+
+=' badguy.com z. 6261646775792e636f6d
+=' (idData LIKE ‘%6261646775792e636f6d’)
+
+ 
+
+g
+..-"
+
+(U//FOUO) End pOInt IP
+
+S(%ﬁ5r/$.RH)Query each IP in TOYGRIPPE
+
+separately
+
+=’ Try to determine the importance of the
+connecﬂons
+
+=’ Note other VPN connections: a|| IPs are
+important until proven otherwise
+
+=' (TS//S|//REL)Success: Discovered Iranian
+corporate intranet
+
+ 
+
+ 
+
+__.-I'
+..-'"
+II.
+
+(S//S|//REL) Building a VPN
+Intranet:
+Izm§gﬁrching back thﬁugh
+
+alaysia
+
+' Wm RV
+Istanbul & < >) & (< > & Armenia
+
+ 
+
+ 
+
+/ Tehr\
+Ankara & 1’ A
+
+All branches of the same company. & South Korea
+Hub was in Tehran.
+
+ 
+
+ 
+
+fM;/REL) Finding Suspicious VPN
+Connchons
+
+m Q 1%
+ an  a > &
+
+Armenia
+/ A Tem\
+Ankara & b ‘ A
+South Korea
+
+Izmir Malaysia
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS//S|//REL)Two connections outside the target company
+
+ 
+
+g
+.-"
+
+(S//S|//REL) Discovery of a Data
+
+Center
+
+ 
+
+/ /
+
+ 
+
+ 
+
+ 
+    
+
+_i-'
+
+And was looking for VPN connections to
+
+Ihad IPA, an IP B, whi3h|did notfnd...
+
+endpoint IP from a
+router config . ..
+
+ 
+
+ 
+
+/
+
+ 
+
+ 
+
+....bu1 in the proc ss of
+
+looking, I found PN
+
+connections to I C in
+TOYC‘RIPPE.... r
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d
+
+ 
+
+g
+..-"
+
+(S//Sl//REL) Discovery of a Data
+
+Cente
+
+...and when It
+search in TOY
+
+ 
+
+ 
+
+< >
+_i—l _i—l
+lid 6 fOHOW 0“ ...I only found it only established
+ORIPPE for 'P C---- VPN connections to IP A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+K
+
+Later discovered that IP
+
+W nged to a data center in
+anot I! ntry
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+  
+
+ 
+
+K J
+
+ 
+
+ 
+
+ 
+
+g
+.-"
+
+(S//S|//REL) Search for other
+
+end of the point-to-point
+
+=' (S//S|//REL) Whacmy‘qmﬁgatiLOIm/e VPN endpoints
+from a GNOME report or a TOYGRIPPE search
+
+=' (S//S|//REL) Search for that IP in the DISCOROUTE
+VPN report GUI — you don’t find it
+
+=' (S//S|//REL) Try to search for the other end of what
+would be a point-to-point connection in DISCOROUTE
+to find the customer edge router
+
+=' (S//S|//REL) END GOAL: find more information about
+the network
+
+ 
+
+(S//S|//REL) Customer Edge
+Routers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g
+..-"
+
+(U//FOUO) N KB a “d
+ NSA’s Network Knowledge Base
+
+delivering target communications’ DNI and
+enrichment data
+
+(S//S|//REL) RONIN is a device characterization
+database and one of the enrichments to NKB
+
+ 
+
+g
+..-"
+
+(U//FOUO) N KB
+
+=' (S//S|//REL) RONIN data
+
+=’ Server Analytics: VPN identified through
+
+application layer information in ASDF
+=' Wiki: VPN Metadata in ASDF
+
+=’ VPN Analytics: endpoint in TOYGRIPPE
+
+=’ Router Config: new descriptive information
+coming soon to include tunnel & VPN
+information for lPs
+
+=’ Example: Kenya VPN IP—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De
+
+I5 saw-mu Ian-r Interface
+WHITE-1 'FascEthe-meta" 0:1 the 05:
+Hardware la 51: .. .. .
+m , _ 5.: - mama-I rem . wﬂJ-‘u neu-nask arlﬁ emu-mean
+I“ Hch'RﬂUT ER ﬁemut'lﬂ EF- duscrlptlnn ' --- 'ID DEL prov-d ur“ .
+ll CD UTE;I
+I': 'GIFI'WIWIJ h'f' Intarfann-
+Hardware fa 5t count-E 'FascEtrerne14" cm trua- Cnsch-GLQE".
+m , _ 5cm I'I'ﬂll'E-l "(Er-'0'. w:LH-1etmasL am: 3311-0115 12‘
+lr'I".-EI1atEI.RﬂUTE'-‘: E'TJﬁErr'I-ELIF' ﬂu dﬂhnlpnnn - 1-D EIEL pruwd Hr..-
+serum??? Iqturfann
+count-l . ' on a- CI;.:::: rn-urp-r ham-a:
+mu 'ﬁnﬂdﬁfgnﬂurm unL-"nwnnﬂ- scuﬁr aiﬁr iinI-i :ar  mm harms-5|: eon-0:4;
+Iﬁ- and damp-um "--- To DEL wanna-I".
+I: :e'wlmd |:I'.-' Interfaue
+Hardwam muntI-J MEL... nun" :n th_-a- III'E‘ZD rum-hr
+mm: I,” "we WUTER unkr'nwmlp snur -R r ruf- .rno-:.Ie| "FETIII". With HEW-35H emu-0:143
+' ' In -W and daicnmm "—- To DEL urn under"
+3 t-Dul'l‘t- I
+Sew-ca _ _ w en m a SEEM? route w-th a _ _ -
+m I'Irm‘acEﬂGUI—ER :EUTE'MUTW :13er “mar can“ mun-router ‘B'DJDEIIIY 2011 SE": '2;
+I+1..2I:Iﬁ-.52.:3'?.I'I?E‘ we: I'ULI‘H: {5- !he EF' FurzrﬁE'I-I'Ecle n
+Hardwam Fm mqu ._-..-..=..............-. a... .. .—.-..,. ........... ........... .. mm
+m um Hate-:FEGLITEFE ethem-am-p :53” 'R“ r E "f' WHITE-5':
+T|:n:|rIE1rl 5nurc-E-9EF'1-J'Ei ﬁﬁ'ﬂ'lﬂ
+Il'IIILuIr'I'E'SCI .-
+m f‘r‘fgﬁfmﬂmﬂ 'u-pn:l-':E-r1 :curt: --;Ewe -F'"'"
+' Epﬁﬁ
+count! 1'35
+m Sam“ WH.CI5-:p EST—135'” Ar“: I I .
+“WHERE” :a-H WW- W”: D i':
+- IF' -
+Dara _
+
+  
+
+\lif‘Q ng'I-ailc
+
+“WU NKB Search for
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I" "Emu-Ir I! new; a .n.
+
+[Nerf-ace- ROUTEE II) “"“"‘-""" " U
+Sen-“Ice _ I:I=I
+rntanA:9:P:CILITE$-t II) “3' “CUTE-“WEN BF .3.
+Hanan-are _
+
+'1 Interface: RULJTEQ. m Fa“ 'ﬂhemul-lp 2;]
+513mm _
+rnt-prfaca: EFﬂ'u'EF! .33 VW- TEFL-'1
+SEN-CE 
+Interface: EEK-JEFF. [E W“ ‘35:“: m I'll. - 
+Hardware J
+Imerrace- POWER :1. Fa“ EIHEMEI-[p
+Hard-Ivar:
+[Nerf-ace- ROUTE? m “MHUHn 1p  {IE-EU
+Hard-rare _ __-
+rntmracp: lac-LITE: II) '-""""“=”""'- -F
+
+   
+ 
+ 
+   
+ 
+    
+
+III‘I I1I'I1IIII'I r
+
+'hrJ'IHII I -r_|'|'J ru I I I'
+
+lrur
+
+l-‘rIIpI-r'l I r1.
+
+ 
+
+   
+   
+  
+
+ 
+
+ 
+ 
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+  
+  
+   
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+I .u I '1-r I'll
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g
+..-"
+
+(U//FOU0) G N ETWO RK
+ to extract and correlate
+
+information from a variety of NAC, $56, $50, NTOC
+and other metadata databases
+
+ 
+
+g
+..-"
+
+(S//Sl//REL) Keep an Eye on the Entire
+
+Netblock
+
+=’ (S//Sl//REL) Multiple VPNs for one
+target
+
+=’ different purposes
+=' different clients
+
+ 
+
+
+(S//S|//REL) GNOME Task: Private
+
+IP VPNS
+
+=' (S//Sl//REL) Find a public lP associated with
+your private IP
+
+=’LoopbacklP
+=’ Another interface IP
+
+=' (S//S|//REL) Use those for your GNOME report
+and look for your private IP on the same link
+
+=' (S//S|//REL) Data presented in the VPN tab in
+GNOME report is limited
+
+ 
+
+g
+..-"
+
+(U//FOUO) Network
+Patterns...
+
+ 
+
+g
+..-"
+
+(S//Sl//REL) lP Patterns
+
+=' (S//Sl//REL) Admins are people -- lean towards
+predictability in assignment of lPs to make
+theirjob easier
+
+=' (S//Sl//REL) IP or a combination of the octets
+could be an indication of:
+=’ network provider
+=' location
+
+=' specific purpose in the network
+
+ 
+
+g
+.-"
+
+WREL) Example #1:Private IP VPN
+
+=' (S//S|//REL) Clienltlsei \eNcgltKe
+
+- Second octet indicated the network provider
+
+=' 20 = network provider #1
+
+=' 21 = network provider #2
+- Second and third octet = country
+
+=' 20.30 and 21.30 were the same country but different providers
+- 40 = individual target entity in that country
+
+=' (S//S|//REL) Server side of the VPN: —
+
+- Second octet indicated network provider
+
+=' 51: network provider #1
+=' 52 = network provider #2
+
+ 
+
+g
+..-"
+
+(S//S|//REL) Example #2 : Network
+
+Patterns
+(S//S|//REL) Public lP VPN: —.#
+
+='Third octet = country location of this IP (three
+possible)
+
+=' Fourth octet: country location of the other side
+of the VPN connection
+
+AnalyZed
+andidEnt
+octet Val ““““““ ll
+Public
+know the '
+
+ 
+
+ 
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+
+167 4th
+W hen this
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+,a'
+
+._.'-‘
+
+(U//FOUO) Final Thoughts...
+
+=' (S//S|//REL) Just because you don’t get results doesn’t
+mean the answer isn’t there
+
+=' If you’re looking for a connection from A to B and don’t
+find it, then maybe you need to look for one from A to C
+
+to B
+=' (S//S|//REL) Try the query a different way
+
+=' Widen the search either by wildcarding (if permitted) or
+by selecting a different drop-down option
+
+=' Enter information in a different field
+
+ 
+
+g
+..-"
+
+
+(U//Fou0)Final Thoughts...
+
+=' (S//Sl//REL) All lPs are important until proven otherwise
+='They all serve a purpose and belong to a device
+
+=' Make note of what you find even if you don’t know at the
+time what it means
+
+=' (S//Sl//REL) Search for data even if results are unlikely
+=' (S//Sl//REL) Don’t necessarily discard dated information
+
+ 
+
+ 
+
+fmoﬁum Final Thoughts...
+
+=4 (U//FOUO) Understand the data that you are searching and
+what the fields in the GUI are searching for
+
+=' (U//FOUO) Take an iterative approach: start searches wide,
+then narrow them down, then widen back out again
+
+=4 (S//Sl//REL) Bounce between the different databases and use
+the tools for every aspect of your network analysis
+
+ 
+
+__.-I'
+..-'"
+II.
+
+[Hum/REL) VPN SIGDEV:
+
+Build the network knowledge...
+
+=' (TS/lSl/lREL) Dig beyond paired collection,
+PSKs and persistence
+
+=' (S//Sl//REL) Discovery of the inner lPs of the
+VPN is possible in ways other than decryption
+
+=' (S//Sl//REL) Investigate device lPs
+=' (U//FOUO) Look for patterns
+=' (S//Sl//REL) Discover the ‘N’ of your VPN
+
+ 
+
+g
+..-"
+
+(U//FOUO) Questions?
+
+ 
+
+—
+88621 Net Pursuit
+
+Network Analysis Center
+
+ 
+
+—
+W”
+
+(SI/SIIIRE L)
+Simplifying and
+Automating VPN
+
+Network Analysis Center
+
+ 
+
+g
+..-"
+
+(U//FOUO)The Ultimate Goals
+
+=' (S//Sl//REL) Integrate VPN information into
+mainstream analytic tools and knowledge bases.
+
+=' (S//Sl//REL) Give analysts the ability to discover,
+develop, and track known targets using VPNs.
+
+=' (S//Sl//REL) Give analysts the ability to discover new
+targets using VPNs.
+
+ 
+
+g
+..-"
+
+(W/FouoiThe Start . . .
+
+=(S/lSI/IREL) Develop new corporate VPN tool
+(DARKSUNRISE).
+
+=4 Joint collaboration between CES and the NAC.
+=4 Take advantage of cloud architecture.
+
+=4 Strive to meet the needs of the entire VPN
+community.
+
+ 
+
+g
+..-"
+
+(U//FOUO) TO Th e C I O U C“
+
+° (S//Sl//REL) Data stored in MDR-Z, the
+corporate metadata repository.
+=' Stores one year of DNI metadata.
+
+=’ Enables filtering, aggregating, and transforming
+large datasets quickly.
+
+=' Manage high data volumes.
+=’ Answer VPN questions efficiently and easily.
+
+ 
+
+g
+..-"
+
+(S//Sl//REL) What are Some Of the
+
+Needs of the VPN SIGDEV
+Community?
+
+=' (S//Sl//REL) Allow SIGDEVers to spend time analyzing data
+instead of gathering and processing the data first.
+
+=' (S//Sl//REL) Make VPN SIGDEV more widely understood by
+simplifying and automating the SIGDEV process.
+
+=' (S//Sl//REL) Robust Structure
+
+=' Allow for multiple VPN and network encryption
+='piﬁdtowoﬂer incorporation of new analytics.
+
+ 
+
+g
+..-"
+
+(WSW/REL) What are Some of the
+Questions?
+
+=' (S/lSI/IREL) Basic Questions
+=' Is my target using a VPN?
+
+=' What are all of the VPNs from country
+BadGuyLand?
+
+=' Tell me all of the VPNs where domain = sita*.
+
+=' Tell me all of the VPNs where the vendor ID =
+Cisco.
+
+ 
+
+g
+..-"
+
+MSW/REL) What are Some of the
+=' (S//S|//REL) Specialiﬂltg®3toirg [15?
+
+=' What are all of the VPNs that are bi-directional?
+=' What are all of the VPNs that are paired?
+
+=' Tell me all of the VPNs (and how many) that a particular
+VPN talks to (persistent hubs/centrality).
+
+=' What are all of the VPNs that are of interest (via Target
+Network Service)?
+
+=' What VPNs are associated to a router config?
+=' What are all of the VPNs that are persistent?
+=' For which VPNs do we have a PSK?
+
+ 
+
+g
+..-"
+
+MSW/REL) What are Some of the
+=' (S/lSI/IREL) SyntlQiikGhStriﬁlmﬁﬁon
+
+=' What are all of the VPNs that are bi-directional,
+persistent, and of interest?
+
+=' What are all of the VPNs that are paired,
+persistent, and for which we have a PSK?
+
+=' What are all of the VPNs from country
+BadGuyLand that are paired, associated to a
+router config, and of interest?
+
+ 
+
+(U//FOUO) DARKS U N RI 5 E
+
+ 
+
+ 
+
+= U/FOUO) This is a prototype GUI.  
+
+: (U//FOUO) Comingg Fall 2012
+
+ 
+
+ 
+
+ 
+
+     
+
+' Mc-zilla Fire-fox
+
+   
+  
+   
+ 
+      
+
+        
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+Be Bit ﬂew risk” IBM Innis ﬂab
+lwmdnivalzmmwkwmmgaupe... VI — XI Rnydm‘mmtype‘ XI :1 V I amemfn V IE—x I +| v
+E — W ~ ' I" 1
+IE MPresmIH-hdex .TCWCIZIPPE x—mscomz {jdsidge
+Main Centralro; 5mm GeneralQuenes
+5R1 SOIIIOE Desﬁnaﬁon BID”. Protocol DETESOUI'CE CIESSTHCEHIO" FIISTSEEH [3315688
+STGAD CASN Realm Country Domain IP Realm Country Domain
+D92008 PK‘TSO‘IT TPv4_ounTic SE TPv-Loumic . IPSEC VPNeTU TSJ'ISTHRELTD USA. C
+D92008 PKTSOM TPviLoubTic RD TPvtLoubTic . IPSEC VPN-TU TSJ'ISWRELTD USA.
+Shadawnet liters 7 _ _
+D92008 PKTSO‘H TPV4_pubTIc RD TPV4_pubTIc . IPSEC VPN-TU TSJ'ISWRELTD USA.
+‘ SIGN): D92008 PKTSO‘H TPV4_pubTic TR TPV4_pubTic O IPSEC VPN-TU TSJ'ISWRELTD USA.
+‘ CA5": [192009 PK‘TSG'I‘T TPV4_pumIc TR TFV4_punTIo o IPSEC VPN-TU TSJ'ISTHRELTD USA.
+I Protocol: D92008 PK‘TSO‘IT TPv4_ounTic AE TPv-Loumic a IPSEC VPNeTU TSJ'ISTHRELTD USA.
+I 1P Ranga: D92008 PKTSO‘H TPV4_pubTic AE TPV4_pubTic Q IPSEC VPN-TU TSJ'ISWRELTD USA.
+. source IP: D92008 PKTSOM TPviLoubTic AE TPvtLoubTic o IPSEC VPN-TU TSJ'ISWRELTD USA.
+. Datination 1P: D92008 PK‘TSO‘IT TPv4_ounTic CZ TPv-Loumic . IPSEC VPNeTU TSJ'ISTHRELTD USA.
+‘ Domain: D92008 PK‘TSO‘IT TPwLounTic CZ TPv-Loumic . IPSEC VPNeTU TSJ'ISTHRELTD USA. 7
+D92008 PKTSO‘H TPV4_pubTic AE TPV4_pubTic a IPSEC VPN-TU TSJ'ISWRELTD USA.
+‘ ExchangeTvpeId:
+V d Id D92008 PKTSOM TPviLoubTic TR TPvtLoubTic . IPSEC VPN-TU TSJ'ISWRELTD USA.
+' an or I
+D92008 PK‘TSO‘IT TPwLounTic NL TPvtLoumic . IPSEC VPN-TU TSJ'ISTHRELTD USA.
+‘ EDWWCME no rmnn ml4nn44 m... mm. Mn m... mm. A mm Unm 1-H TnumunI—T w...“ ‘1
+. WEVOHIV H v1 Page-Off} I' III .2' CheckmgTNS.FTni5hed!?FinTsned!? ClearFTIters Reports csu html x|5 ren TumT DTSp‘ﬁS‘TNQT-TUU (0236 PageSTze 100
+I BIDIrectIonal wwnm I i
+7 First Seen:
+IIKB Localjon Data FPTP Demo IPSec Dams VIpNet Dams
+Start: ° X
+7 Source IP
+E d: 7 X
+" IP:
+munuycode: RD
+- Last Seen: Countryllame: ROMANIA
+_.u City: BUCHAREST
+Start: - x Domain: RDMTELECDMNET
+_ Company: RDMTELECDM DATA NETWORK
+End! "- X A91: 9050
+5mm 7 Destination ]P
+1P: _
+- Countrwode: PK
+Clear aTI FITters Count II : PAKISTAN
+0W: _ KARACHI
+Gray Theme v Domam: TW1.COM
+Company: GRUPM
+LL91: 38193
+CTear Cache
+Content Steward-eneral Support: Contact the SHADOWNET Team_ feedback
+
+ 
+
+ 
+
+   
+   
+
+ 
+   
+
+' Mozilla Firefox
+
+ 
+
+(TS//S|//REL)
+
+ 
+
+   
+
+ 
+
+     
+ 
+  
+   
+   
+ 
+     
+  
+    
+   
+  
+    
+  
+   
+   
+  
+     
+   
+   
+   
+ 
+   
+  
+ 
+  
+    
+   
+ 
+
+Main Centramy Stats
+
+Shadownetﬂtas —
+I SIGAD:
+. CA5":
+
+Protocol:
+
+IP Ranges:
+
+Source ID:
+
+Destination 1P:
+
+Domain:
+
+ExchangeTvpeId:
+Vend orId:
+
+FVEVOnlv
+BiDimectional
+
+First Seen:
+
+- Lint Seen:
+start: T". X
+
+End: ". X
+
+Suomxt
+
+Clear 3” FITIETS
+
+Gray Tnerne V
+
+Clear Cache
+
+IE MPresmIH-hdex Imam: x- msconE
+
+  
+    
+
+Genera‘ Queries
+
+5
+CASN
+PKWSOM
+PK150M
+PK150M
+PK‘TSU‘H
+PK150M
+PKWSOM
+
+SIGAD
+
+DS~200B
+[IS-2008
+[ls-2008
+[IS-2003
+DS—200E
+DS~200B
+DS~200B PKWSOM
+[IS-2003 PK‘TSUM
+EDS-2005
+DS—200E
+[IS-2003
+
+PK‘TSOM
+PK150M
+PK‘TSU‘H
+
+EDS—2005 PK‘TSOM
+
+[IS-200B PK150M
+
+raw/45mm
+
+— Souroe IP
+
+IP:
+Counlnthde:
+Counlryllame:
+City:
+
+Domain:
+Company:
+As":
+
+— Mtination IP
+
+IP:
+Count-mode:
+Count-wane:
+(ity:
+
+ 
+
+
+
+PPTP Demo;
+
+_
+RD
+ROMANIA
+BUCHAREST
+RDMTELECDMNET
+
+IPSec De:me
+
+Realm
+IPwLoublic
+|Pu4_pub|i:
+|Pu4_oublic
+IPmLpuollc
+IPunLoublic
+IPwLoublic
+IPwLoublic
+IPmLpuollc
+|Pu4_pun|ic
+IPunLoublic
+IPmLpuollc
+|Pu4_pun|ic
+|Pu4_oublic
+
+mm: mm.
+
+RDMTELECDM DATA NETWORK
+
+9050
+
+—
+PK
+PAKISTAN
+KARACHI
+Tw1.coM
+GRUPM
+35193
+
+Country Domaxn
+SE
+R0
+R0
+TR
+TR
+AE
+AE
+AE
+
+Rig
+
+PageofB lv H C' CheckingTnsnnisnedl'l’nnishew'f ClearFmers
+
+prNet Demib
+
+   
+ 
+
+Destination
+
+ReaTm
+|Pv4_ouolic
+|Pv4_oub|ic
+|Pv4_ouolic
+IPu'tLpuollc
+IPmLouolic
+|Pv4_ouolic
+|Pv4_ouolic
+IPu'tLpuollc
+IPwLpumic
+IPmLouolic
+IPu'tLpuollc
+IPwLpumic
+|Pv4_ouolic
+
+mun mom.
+
+enera‘ Support: Contact the SHADOWNET Team
+
+PK
+PK
+PK
+PK
+PK
+AF
+
+PK
+PK
+PK
+PK
+AF
+
+PK
+PK
+
+Country Domain
+
+  
+
+DOOOOOOOOOOOOO
+
+BiDn. .
+
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+IPSEC
+
+InN—n
+
+    
+
+PTOIOCO‘
+
+feedback
+
+D313 SOUTCE
+
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+VPN-TU
+
+mm TIT
+
+ 
+
+CTassiﬁcaIion FirsISeen LastSeen
+
+| >
+
+TSHSWREL TO USA.
+TSHSWREL TD USA.
+TSffSTIIREL TO USA.
+TSHSWREL TD USA.
+TSffSWREL TO USA.
+TSHSWREL TO USA.
+TSHSWREL TO USA.
+TSHSWREL TD USA.
+TSHSWREL TO USA.
+TSffSWREL TO USA.
+TSHSWREL TD USA.
+TSHSWREL TO USA.
+TSffSWREL TO USA.
+
+Tnm‘mm’l Tﬂ I ma
+
+Reports. osv hlml sz ren iva Dwsmaying‘I-‘IOOoTZBE PageS‘Le 100
+
+v
+
+ 
+
+ 
+
+(TS//S|//REL) The IPSEC DEtaiIS DrilldOWH
+
+ 
+
+ 
+
+,a'
+._-"
+
+Boomer“ “0'5 H '-_----_—--------_V
+
+ 
+
+     
+
+     
+
+ 
+
+ 
+
+ 
+
+"3.. Centaur,—
+aniredl pmbw. Dana Source :
+Country
+sham ms 7 US 0 IP55:
+7 5:55.). US 0 IP55:
+56 0 "=55:
+" x FK o ":1:
+7 as": pK . IPE£C
+moton Us 0 IPE£C
+7 x p>< .3 pic
+pK . .pszc
+J“ 1" “‘“eg Err) . .psrr,
+’ S°“"‘=e 1"- PK 0 IP55:
+V >< RD o IP55:
+7 npﬂimnnn 1p: K4 0 “’th
+, Domain: ’* ‘ I“ ’" ' ' :
+>-< Checking TNs Flnxshm 'l’ wear Filters Reports .sv mm. m“: D'snlavlncl 1 7 25 DF74 page 5.2.: 29
++ 1
+7 u.=...u.,.—n.= nuns bur—.- Data pm Demlls IPse: Delal s ViDNet Delalls
+7 Country (ode- 7 Source 1:-
+war on» m _
+WEY om, $3221: gx‘sNGAPDRE
+_ SIN-3m:an
+, Dirmbnz. on _= LHLACCPAC.CDM
+(nmnanv: ARH m—ERNEr er LTD
+
+ 
+
+|:I mnirecbonal canny
+
+. 5.1mm .
+w: —
+K
+
+mm p
+. car all mum's . WWII-I:
+Gm: ISLAMABAD
+Chm-K ATEL PK
+me Thems v (amp-m chaowgr BROADBAND (pm LTD.
+as: $74
+
+. gear (23an .
+
+ 
+
+mnfenr Sfewﬁ n1 funeral ,7. man?» rum—ma.» the sHAmwm-rr Team
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Ta/swat) Automatic Identification
+of
+
+E e Edlt mew Huetury Eookmaﬂa Iools ﬁelD - ‘
+
+'Ci‘ {Er ﬁv
+
+-
+IE am Presenter —Ir1de)( - mameee 2.: )ocEYsCQRE j .e E ‘ - -
+ewemeemm... 3 meta . , .. .. , .. - _ We.“ 3 E— v
+
+   
+
+   
+
+ 
+
+           
+
+ 
+
+   
+
+He.- Ceneeimy
+sm SaIJrDe Desiirlaiiarl EDIreGDE Prnlnonl Data Souree c
+SIGAD CASN Realm Gnu nlry Realm sou ntry Durnain
+sham Mrs e ogre-Duel PK15D1 1 IPv47DubIII: no IPvlipubliI: PK 0 IPEEC vPNeru e
+e SIGAD: 1352995 P61D1 1 IPI14_pubIII: PK uPu4_pumie R0 0 IPSEC VPNeru
+DSZOOB v x 1352053 PK15D1 1 lPU-linubln: no IPUAlipubliI: PK 0 IPSEC VPNeru
+1352995 PK15D1 1 IPII‘iinublll: K2 lPU‘ipuDliI: PK 0 IPSEC VPNeru
+‘ 05213-03 PK15D1 1 lPuﬂinubllc E5 lPUAiuuDlic PK 0 IPSEC VPNeru
+* 1352995 P61D1 1 IPII‘iinublll: PK IPU47DuDIiI: us a IPSEC VPNeru
+* 1352053 PIG1-D1 1 lPU-linubln: PK IPUAlipubliI: Us 0 IPSEC VPNeru
+7 1352995 P61D1 1 IPII‘iinublll: PK IPU47DuDIiI: PK a IPSEC VPNeru
+>< 13521155 PIG1-D1 1 lP‘v‘Iipublil: PK IP‘U‘7DuinI: PK 9 IPSEC vPNeru
+$ 1352993 PK51'D1 1 IPv47DuDIIG PK vaAipuDIiG us 0 IPSEC. VPNeru
+1352995 PK15D1 1 IPIJ‘iinub e GE lPU‘ipuDliI: PK 0 IPSEC VPNeru
+D&2D-DB PKs1u1 1 IPv479ub c PK vaAipuDIiI: GB 0 IPSEC VPNeru
+NAYATEL. P K X e I >
+* ExchangeTYDEnt Pa . r4 P Pu ti:- Checklng rusrinenea 1 Clear Fitters Reports .31., mm: le D'splaylng 1 e 21: DF74 Page 5|ze 21:
+* Vemri‘t I'm-(Wis
+* (°“"trv (“E was Loancn Data PP'I'P Detalls mas-e: neteis VIDNet Detalls
+e war Duh! , 1P5
+FVE" Dn'Y Encrvrni-n A19 11): 1 * rich-n: DES—CBC ID Date: —
+11) type: i Privatl: Attr Val-u: i vendnr nan-e: i e
+e nioirectionel RSA Sgnemre
+Wei- neum Ink 55005 entree-mm Hen—.1: mm Iniﬁalnr ~_’
+|:I BiDIrecmonal only
+e Ike Vendor Ids
+Vendor ID: vm tyne: BralldfPMl: netaishrersi-u:
+5” Drum
+(year an Pmers
+5 ray Th e me v
+e Bechange Type Ids
+Clear cache
+lam-I9: 1v»: )1): emu-9c Yral'IsIalzi-s
+Content stewe rd: enerei support: Contact the sHADomer Teern feedback
+
+ 
+
+ 
+
+icon means this record hits
+against the Target Network Service (TNS).
+
+ 
+
+ 
+
+ 
+
+,a'
+
+(mgr/REL) utomatic Identification
+of
+
+  
+   
+
+Mc-zil I a F i refc-x
+
+               
+   
+  
+    
+ 
+ 
+ 
+
+   
+
+     
+
+ 
+ 
+  
+
+        
+
+         
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+Elle Edit ﬂew Hi§bury Eookmaria Icols dell}
+r c e _
+IE DNI Presenter -ll"lde)( - TD‘YGRIPPE 3‘ XICEYSCDRE Q d
+“hammer-km a e- -- v
+Centrality
+5 H a ‘I II I i-- 5m Source a - animation EIDIchtK Prolopul Data Sci-u role I:
+‘ ‘-'- u ' I CASN IP Realm Country
+—' —' 7 A
+P515111 1 IPu4_pu bli: R0 IPv4_pu blic o IP55: VPN—TIJ —
+P551111 1 IPu4_pu bli: P5 IPv4_pu blic o IP55: VPN—TIJ
+P515111 1 IPu4_pu bli: R0 IPv4_pu blic o IP55: VPN—TIJ
+P515111 1 IPu4_pu bli: 52 IPv4_pu blic o IP55: VPN—TU
++
+P515111 1 IPu4_pu bli: 55 IPv4_pu blic o IP55: VPN—TU
++ Pmm'= DS—Zﬂ-DB P551111 1 IPu4_pul:ilic P5 IPv4_pul:-Iic 9 IP55: VPN—TU
++ 1" Ranges: D5—21111EI P551111 1 IPu4_pul:ilic P5 IPv4_pul:-Ilc o IP55: VPN—TU
+— Source 1P: D5—21111EI P551111 1 IPu4_pu bli: P5 IPv4_pu bllc o IP55: VPN—TU
+V x ngﬂ rum“, we. , t. , m, WM. , L. , _ .nerc VPNJU
+[15211-03 T Ta ! rks X ‘ VPN TU
++ Destination 1P: ’ '
+9323.53 FUEY Command ranges v value 202.69.15.145 Realm IPv4 public v Submut : VPNeTU
+e Den-aim
+[15211-03 Target Indiator Realm Category :lassiﬁaﬁon Agency Priority Description Source 1 VPNeTU
+x _
+NF‘YATEL'pK : IPv4_publi: TARGEI’ TSHSIHREL TO use, FuEY NSA state; PK Telenor uPN‘iu-pn node GNEI'WORKGNOMK :
++ Exchange-[vpe-Id; . . Pad IPquublic TnRGEr SIJ'SIIIREL TO use, FVEY NSA Routine Telennr GPR5\TeIener's GPRS Subne GNEI'WDRKGNDM! — 20 of 74 Page Size 211
++ VB I dd: D "I IPv4_publi: TARGEI’ TOP SECREI'HCOMINTJIREL TO use NSA pri3 TELENOR PK; Karachi, PK; L‘I'ELENOF TU PROMOTION
++ Country Code: NKB Loam,
+— FVEY Only 7 IPSEC A
+FVEY Only mwm i
+m ‘I'VpI: i 7
+— BiDirectional
+Anti-enti: I
+|:| BiD-irectional Only
+7 Ike VE
+er m ‘_ I Z
+5'15"“ Page 1 3F 1 1% Page size 20 Displaying 1 e 3 9F 3
+Clear all Fillers
+Gray Theme V
+— Exchange Type Ills
+:Iaar (Lash-e
+land-any: TVIIE 1D: Bad-align: TranslatinI:
+Contth stewa rd _eneral Supp-art: Contact the SHADOWNEI’ Team _ feed back
+
+ 
+
+ 
+
+Done 5
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Lm- x mmtmmwe‘ x ﬁcuz:mnmmnuamism,,, x Ilahumrmm,,mmmthm x I’mﬁk IMMBEmngL" X  (QC)
+
+x IE—EL
+: ard 
+
+ 
+
+ 
+
+if elivwheredmwmm
+
+' (S//S|//REL) Find all VPNS that talk to a
+
+base VPN.
+=' Discover persistent hubs.
+
+0mm Steward em. snow: mm the SHADOWS Tem- Feedback
+
+ 
+
+=' Can continue chaining outwards.
+
+ 
+
+,a'
+._-"
+
+Mm Ala FIrE-ftnx
+
+ 
+
+ 
+
+x $0.: mTlmﬁllilbl—ﬂsmm
+
+ 
+
+ 
+
+ﬁ (2' I v where dc You get e ca: ard
+
+ 
+
+Mam (anraitv Ems Generalquenes
+
+   
+     
+
+ 
+
+(“mm-1m; e (untraily 7
+_ IF RIMES: Andreas A Ream Centra‘rty
+V x \W47Dubllc 2
+m
+|5ubmn| , if
+nmuwmw “mum. \ WWW 4n; mumum« mummme» mmmm \
+
+ 
+
+w :‘E ,m
+
+ 
+
+Ku.
+
+m’m
+
+ 
+
+m m e um
+
+ 
+
+ 
+
+nepewy 71w \ pages“ an
+
+ 
+
+ 
+
+‘ Mg MW W I W eSHADowva— m
+
+|_ MEN" 1 WM WA “mm a I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mm Ala FIrE-
+
+ 
+
+Ems General Queries
+7 (ultraily
+Andreas - Ream
+K waju Dllc
+
+|5qun|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bentham!
+2
+a: m mm mm mm m w 7
+lwmmrrkmkwmom x MM- x Rm:th x mm mrhmumm x E— melmmmnul x
+,zTZ
+Wmnzsunurmu .mm Envme ' 3mm}:
+ mm m 
+mama“ , (mm 7
+w“ E‘ MnrusA Ream Bum-1W
+mnmr— A mur_ A
+mm Wm mm “m mm mm,
+
+ 
+
+on.un «w Minna»
+
+asphwgmmn PagaSnza an
+
+ 
+
+ 
+
+  0mm“ 5 WWW Tun-feedback
+
+ 
+
+0mm 5m“
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MCIZIIIE Flref
+as an
+
+  
+ 
+
+ 
+
+ 
+
+. mum“ In:va xmgcmg : ‘- ..
+
+ 
+
+x
+
+ 
+
+MMt‘Pmmlym‘
+
+xmmmmmwlé—
+
+ 
+
+ 
+
+5mm|mmmngL x ICDCn-mmnmmmuc)
+
+ 
+
+ 
+
+Mam cm.
+
+Cunraitv Etcls
+7 IP RaWEs
+
+_><
+
+\ 5mm
+
+7 (unriitv
+mug A Realm Centra‘lry
+_ Mum 2
+
+ME-zllla FIrE-ft-x
+‘ ﬁe an mew Ryan W
+
+   
+ 
+
+ 
+
+uwmmmmmwm
+
+ 
+
+General Quemas
+
+(altraity ﬁrms 7 (ultraity
+
+new. mm,
+X \Pv47Du bl": 2
+mum m—
+
+I 5”...“ I Realm
+m4)“ mu:
+
+m4)“ mu:
+
+ 
+
+i
+
+ 
+
+ 
+
+ 
+
+a» EH
+
+where do you geta CAC aid
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+y mamm—
+
+gammy Ana res Ream!
+3 wtw bl":
+3 wtw bl":
+wtw bl":
+
+I <
+
+ 
+
+Klenlralﬂy
+7
+3
+2
+>
+
+ 
+
+mnem—
+Mm Ream.
+PM.th
+PM.th
+PM.th
+PM.th
+PM.th
+PM.th
+PM.th
+
+ 
+
+i
+
+ awn—em. gnaw mm the SHADQWNH Tam_ 
+
+ 
+
+Centramy
+
+Ammmmm‘
+
+ 
+
+anhylng 1 r 1 DF1 a“,us :uD
+
+ 
+
+in
+
+MSW/REL) The Centrality Tab
+
+' mudme
+a: an Em mm mm w: 5*
+
+   
+     
+    
+
+[ax
+
+> out Emma-mm X _ ’WMIMVMm-Ert > {Emmmm x _v
+
+w E  v whazdnmactatAEmm
+
+  
+
+lemmmmvmgom < 11mm
+
+  
+ 
+  
+    
+  
+  
+
+ 
+
+mmmjmmxmm ‘ Mg
+
+ 
+
+ 
+
+Van (amalv Stat Gairz‘Quau
+mummy: 7 Many
+
+’ w “"1" Marx A Ream rgm‘ry
+
+       
+
+Mr villa FIrE-ft-x
+EB
+
+      
+       
+ 
+   
+
+Eat yew “Eta
+
+ 
+
+ 
+
+@wmmvamnemkwmugow x I nomtmmtwe‘ x I ﬁas:=cmerEnuua-ansm,,, x
+
+   
+
+ 
+
+ 
+
+v where do Yuu geta CAC and
+
+  
+
+General Queries
+
+ 
+
+CultraiI-‘V 3
+“mag A Realm Centramy
+pajama 2
+Partnerg— >< Partners m— x Fartnelsaf_ >< Partners m— X
+1 5mm ‘ Addrzss Realm nenuahty Addrzss Realm nennahty Address Rw‘m Cemralﬂy Address Realm nenlravty
+wtnumm 3 Pvtpumm 7 IPv4Jumh: 4 thumm 31
+1W47Dubllc 3 MLDuunc 3 IPv4Jun11c 3 wtpumm m
+Pvamm 2 IPv4Jun11: a Mtpubnc 7
+IPv4Juh11: 3
+upwJumc 3
+IPv4Jum1: a
+quum: 1
+
+1A
+
+ 
+
+‘6
+
+ 
+
+ 
+
+         
+
+ 
+
+A e Clear Filters Dsptaymg 1 ,1 of1 P392512: 30
+
+0mm. yawn—33331 Suppm mm the SHADOWNH Team-
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U//Fou0) The Metrics Tab
+
+' (S//S|//REL) Count distinct VPN
+records, grouping them by one or
+more of the following attributes:
+
+=' SIGAD
+
+ =' Source
+
+93‘ i =' VPN Type
+
+ =’ Case Notation
+
+ =' Date
+
+ 
+
+ 
+
+ 
+
+hm mm in"
+
+ 
+
+,a'
+._-"
+
+(U//Fou0) he Metrics Tab: One
+
+anma Hem:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+     
+
+     
+
+ 
+
+   
+
+ 
+
+          
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+1 x 1 n m | z
+_ + W, .2. W 
+Nan Cmraky 5m: Girira wens 1131 m 1- n ‘21 [m 5121: u-mmm
+ﬁles [sumo] * 1] u- Ins ' W11“
+[WM Tvve] ‘lbv 11!
+7 KW Headers: 1m 'M'M"
+51M ESP 1KE_ESP_NA'_ 11cm KM PEEK) FP'P :nP 55+ wxy mm A :1 1m 1'1 I E ' t 3‘3"] B"? Kin W W 93' W in!
+513m) v H ,1 -1 m 11 _ .
+usﬂsn 50577 7 53m m 11 1 1.111 1
+* WWI" We“! Dsma 31231 M 31225 1 n “W M“ 3‘3" >‘
+VPN 1,» v H US$722 212 m s 1 rm H U 6‘
+nsmammc 10723 12723 7, 220111115: 11111
+- SIGN}: 'WD‘
+um; ' 1 1 + .s. 1
+“S'ME'UKC'HSM ' H mama 551 45272 '44533 5341 125552 51 u _: 1 J'mm'mv W“ ‘1’ “m 5'“
+, 59m; um1155w 24 24 1 1 Jam mm 11 La
+77 . 1 1 _ 251m L
+we semw v1 1 “5‘ 5° 1 12 N v 1 12
+usnss 4212 4212 ‘1 29.111 my
+, 1 71m 1
+“MTV” mama 1 '25: 1257 E E‘ W H“) 11'?
+ERMVJ,”TFVPN\ V H 1a211w 42042 '44522 5341 327121 a: 11 ; :1 31134 WW” x11
+- Date I) *M
+5m: 11 x r_ 1: gr PX
+Em: H x 1: :1 m
+112L121 “ M
+1m my 11%»
+11171112221 1
+11.5 Repnn W
+RWHeaders mu «m 117113125111
+mmw reams wipe 1mm:
+Fﬂierb/SIAD:DS'ZWB,UKC'115MU§31W,US'3HIBUSDIWITEC,“SF790,LS:75§,.JSJ'7595.US]'799 1:m>11mm:.m1;'\.m .ELEM HMHMW
+FHterbySou'ce mose1ac1m~ «mm
+War by VPN 3 iFm,PrrF,\nFm -
+Cnn:mtsmwavc-sansv;1swam CnntacﬁtwsiHADﬂWNEF'eam-feedtsck mx-inmh‘ﬂl mlmzml mummxnzwm
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+' (TS//S|//REL) Total number of VPN type per SIGAD.
+
+ 
+
+g
+..-"
+
+(U//FOUO)The Ultimate Goals
+
+=' (S//Sl//REL) Integrate VPN information into
+mainstream analytic tools and knowledge bases.
+
+=' (S//Sl//REL) Give analysts the ability to discover,
+develop, and track known targets using VPNs.
+
+=' (S//Sl//REL) Give analysts the ability to discover new
+targets using VPNs.
+
+ 
+
+(U//I=ou0) Questions?
+
+ 
+
+88622
+Network Analysis Center
+
+ 
+

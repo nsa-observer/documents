@@ -1,0 +1,704 @@
+UK TOP SECRET STRAPl COMINT
+
+A potential technique to deanonymise
+users of the TOR network
+
+OPC-MCR, GCHQ
+
+ 
+
+(GCHQ‘ —
+
+UK TOP SECRET STRAP1 COMINT
+Outline
+
+TOR and the need for deanonymisation
+Data transformation
+
+Sconng
+
+Results
+
+Current status
+
+Software
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+What is TOR?
+
+- “The Onion Router”
+
+- Hides source of traffic by passing encrypted
+versions of your internet traffic between multiple
+
+TOR routers
+
+- Notation:
+— “Client” — the initiator of communication
+— “Guard node" — the TOR router the client contacts
+
+— “Exit node" — the TOR router that relays your traffic to
+the final destination (with no extra encryption so this
+link can be exploited by SIGINT system)
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ 0—
+
+© Crown Copyright. All rights reserved.
+
+UK SECRET STRAP1 COMINT
+What is TOR?
+
+ 
+
+Client
+
+   
+
+   
+   
+ 
+ 
+    
+ 
+
+Onion
+Router
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+-Quuuunuu| 3..
+
+Router Exit Node
+
+ 
+
+Router
+B
+
+ 
+
+ 
+
+ 
+
+ 
+
+w \ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ 0|
+
+ Q  Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Who uses TOR?
+
+- TOR was created by the US government and is
+now maintained by the Electronic Frontier
+Foundation (EFF)
+
+° EFF will tell you there are many pseudo-legitimate
+uses for TOR
+
+- We’re interested as bad people use TOR, in
+particular:
+
+— Terrorists
+— Paedophiles
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exam tion under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ 0*
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Aim
+- Find client IP address associated with TOR
+exit node traffic
+- Attack based on externals — specifically packet
+timings
+— Strong crypt is being used
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exam tion under
+CG ? other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Aim
+- We’ll make our task easier by assuming we own
+
+the exit node being used
+
+— Allows us to see all the traffic associated with a TOR
+circuit
+— Demultiplex traffic by (unknown) user
+
+ 
+
+ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on—
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Side note: Circuit tracing
+
+- One suggestion was to track packets through each
+hop in the TOR network
+
+- We experimented with spotting all links in circuits
+created by GCHQ
+
+- Visibility was too low to be a sensible approach
+— 13 out of 8294 potential inter-TOR-router links were seen
+
+- We will directly correlate:
+— exit node traffic, and
+— traffic between client and guard node
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ on—
+
+© Crown Copyright. All rights reserved.
+
+UK SECRET STRAPl COMINT
+
+ 
+
+ 
+      
+
+Client <
+Router
+
+A
+
+ 
+
+ 
+
+ 
+
+Collect
+through
+
+SIGINT
+\
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w \ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on —
+ Q  Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Test data collection
+
+- Used the standard “TOR button" web-browser
+package to access TOR
+
+- Made minor changes to ensure we could collect exit
+node traffic
+1. "News": Search for news, visit news websites
+
+2. “TOR”: Browse the TOR website and then use a privacy
+checking website
+° Split into 2a and 2b as TOR changed circuit mid-way through
+
+1. “Download”: visit to SlashDot followed by downloading a
+large PDF file.
+
+2. "Forum": Search on Google followed by browsing a PC
+technical help forum.
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+(C Q? other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Flattening of timing patterns
+
+- _(lCTR-NE) observed that TOR can
+flatten out timing patterns
+
+° TOR uses a rate-limiting store-and-forward
+procedure at each TOR router
+
+- Graph shows bytes of exit node traffic in green
+and client traffic in red whilst downloading a 1MB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+me (ﬁgure from —)
+50000
+| | 2500B
+.| || . ll.l.....|ll..   millill... |l....|l|l lll....ll|l lll .llll lll llll ill llll llll|llllllllll lllllllllllllll
+05 so; 1005 1505 2005
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+C j other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+GCHQ'
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Cumulative packet counts
+
+Exit —
+Guard
+
+ 
+
+ 
+
+ 
+
+- Our new insight is to  f1  ,1
+
+0 10002500
+l
+0 10002500
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+use cumulative packet 2 I {Ff/ff :  I I I
+ CI 13:215218 15:50 15:52 15:54 15:2: 1:205:43 15:50 15:52 15:54 15::I
+W i
+- Hope packets are II  
+approximately  II 55222   F3, 3:222   2b
+preserved  pf“  ’ﬂj%
+_    E 0101305 16:04 16:06 16:0: Olsigioc 15:04 16:06 16:0:
+
+ 
+
+é
+
+repacketises data 3 
+_r—/=’/// _
+
+0 2000 5000
+
+Illll
+\
+
+0 4000
+
+ 
+
+.    16:12 16:14 16:16 16:18 — 16:12 16:14 16:16 16:18
+
+ 
+
+CtoS 4 StOC 4
+
+ 
+
+£1”:
+
+ 
+
+ 
+
+ 
+
+E‘ /,,__:—'-ﬂ’f
+
+0 500
+
+ 
+
+ 
+
+| | | l | | | |
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+
+ 
+
+Time (hh:mm)
+
+w This information is exempt from disclosure under the Freedom of Infor ' ' '
+(CC H P other UK information legislation. Refer disclosure requests to GCHQ 0
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Scoring: basic idea
+
+° An idea of —
+
+— Bin time into intervals
+— For each interval get a pair (E, G.)
+
+- Cumulative exit node packets upto time i
+- Cumulative guard node packets upto time i
+
+— Measure the correlation between these pairs
+- We use is time-windows
+
+— Easy for the SIGINT system
+
+— Seems to work
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+(CC H P other UK information legislation. Refer disclosure requests to GCHQ mi
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Scoring: refinements
+
+- We also expect counts to be similar
+
+— Fit a linear model
+° GI : 0”" BE:
+
+— Only accept sessions where 1/2 < [3< 2
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+CG ? other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Scoring: refinements
+
+- There may be an unknown time-offset
+— Traffic takes time to relay through the TOR network
+— SIGINT clocks may not be synchronised
+
+— We slide the traces against each other and find the best
+match
+
+— Truncate to exit node trace (we know that it is a
+complete TOR circuit)
+
+ 
+
+ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on —
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+Self-comparison
+
+ 
+
+ 
+
+° We show how the score :f‘f '  ‘ '1:
+behaviouras afunction 21:; /;::\ /7¢§:\\
+
+ 
+
+ 
+
+of time slide  “‘28  233.:
+° See high correlation 3 pm pm
+
+ 
+
+ 
+
+(pink) at small time
+
+1.5 W
+
+ 
+
+ 
+
+offset 33’ Z:‘i7\ M’i’ﬂx
+- Also generally see B  \ A
+
+ 
+
+ 
+
+(blue) inasensible E .47” \ ./7 \ 3°25
+range i1 ’
+
+/’ / “
+o 5 /// K\\ ,///“\\
+
+0:0 : /_j/// —‘ \\_\ {ﬂ \\\\\
+| | l l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ on —
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+False positives
+
+Want an algorithm with very low false positive rate
+
+Used 2 hours of (timestamp, source IP, destination
+IP) tuples captured from 4 106 internet bearers
+
+Filtered to tuples between a guard node and a non-
+TOR node
+
+Allow time to arbitrarily slide +/- 2 hours
+— In real redeployment one would restrict this slide
+
+Allow us to plot ROC curves for the technique
+
+ 
+
+This information is exempt from disclosure under the Freedom of Inform
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ation Act 2000 and mai be sub'ect to exemition under
+
+© Crown Copyright. All rights reserved.
+
+UK    Server to client
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+False positives ;
+. E ..
+0 Linear — log ROC curve plot  0' ‘
+° Server-to-client good  3' ‘
+— We miss the very short “2a” C‘ *
+session with no false-positives 3 * I r I i
+— Threshold r2=0.998  if”   
+° High as comparing increasing p
+fUl’lCtiOHS Client to server
+
+ 
+
+° Client-to-server direction — s —
+many false positives t J/
+— There’s less structure in data as . _
+
+less data flows in this direction _ 7 [
+
+ 
+
+True positive rate
+0 2 0 4 0 6 0 a
+
+ 
+
+ 
+
+ 
+
+when web-browsing
+
+w This information is exempt from disclosure under the Freedom of Info: 18-06 1e-04 15-02 1e+og
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ c
+
+False positive rate
+
+0.0
+
+ 
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+A larger experiment
+
+- We want to find some false hits to understand worst
+case accuracy for the server-to-client direction
+
+- Let’s open the aperture very wide
+— 2027 bearer hours of logs with any time slide
+— Filter to all traffic involving a TOR node
+- Not just likely guard-to-client traffic as before
+
+- We find some false hits (540) but rate is assessed
+to be low enough.
+
+- 92% of false hits are against the big download
+session which has little structure
+
+ 
+
+other UK information legislation. Refer disclosure requests to GCHQ on—
+
+© Crown Copyright. All rights reserved.
+
+ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+UK TOP SECRET STRAP1 COMINT
+The next step
+
+- We are collecting the required logs of packet
+times with TOR guard nodes in SIGINT
+
+- GTE / JTRIG have adapted some TOR exit nodes
+we own to collect the required exit node data
+— We are keen to engage with others with exit nodes too
+
+° Then run the attack
+— Expect to basically work
+
+— Some extra work might be required to only allow
+queries on sessions with enough structure
+° Need the bulk data first to progress this question
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+(CC  other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+
+UK TOP SECRET STRAP1 COMINT
+R package
+
+- An R iackaie can be downloaded from
+
+- Includes algorithm and the collected web-browsing
+data
+
+- Recommend R packages for sharing analytics, can
+contain:
+— R / C / Fortran code
+— Example data
+— Runnable examples and documentation
+— Unit tests
+
+ 
+
+ 
+
+W
+CGCHQ‘ —
+
+UK TOP SECRET STRAP1 COMINT
+Conclusion
+
+- Have shown a potential externals-based
+deanonymisation attack for TOR
+
+— Requires SIGINT collection of guard-to-client packet
+times
+
+— Requires TOR collection from exit nodes we own
+- Hope to get this running live at GCHQ soon
+
+- Full paper and software available from
+
+ 
+
+ 
+
+W
+(GCHQ‘ —
+
+UK TOP SECRET STRAPl COMINT
+
+Questions?
+
+ 
+
+° Work by
+
+ 
+
+ 
+
+ 
+
+other UK information legislation. Refer disclosure requests to GCl—lQ on—
+
+ Crown Copyright. All rights reserved.
+
+: \ This information  exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+

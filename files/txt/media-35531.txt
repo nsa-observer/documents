@@ -1,0 +1,198 @@
+TOP SECRET STRAPl COMINT
+
+BULLRUN Col — Briefing Sheet
+
+Introduction
+
+1.
+
+The ability to exploit targets’ encrypted communications is extremely fragile and is
+often enabled through sensitive ECI programmes. The need to take additional
+measures to protect that capability has Ion been recognised. Currentiy, virtually
+all decryption is carried out by PTD ﬂ processing with decrypts going to
+the HE in the NDCDN Col; some decrypts are placed in the ENDUE Col due to
+the sensitivity or fragility of the exploitation capability.
+
+In recent years there has been an aggressive effort; lead by NSA, to make major
+improvements in defeatng network security and privacy involving multiple
+sources and methods, all of which are extremely sensitive and fragile. These
+include: Computer Network Exploitation (CHE); collaboration with other
+Intelligence Agencies; investment in high—performance computers; and
+development of advanced mathematical techniques. Several ECI compartments
+may apply to the specific sources, methods, and techniques involved.
+
+Making the best use of these new capabilities requires that decryption processing
+be widely deployed beyond PTD and the results of that processing be available to
+awide range of analysts. This inevitably makes it harder to protect this sensitive
+and fragile capability and we need to counterbalance this by introducing
+measures to control access to this material and heighten awareness of the
+sensitivities amongst those who have access.
+
+To achieve this, NSA has introduced the BULLRUN Col to protect our abilities to
+defeat the encryption used in network communication technologies. This covers
+both the "fact of‘ acapability against a specific technology and resulting decrypts
+(which may be either plaintext or metadata (events). GCHQ is also introducing
+EULLRUN. (CSEC, DSD and GCSB are expected to do likewise.)
+
+Control Authority
+
+5.
+
+The BULLRUN Col is owned by the Deputy Director for Penetrating Target
+Defences (PTD). Authority to manage the Col is dele ated to the PTD Lead for
+Special Operations and Policy (currently and the PTD Security
+and Release Authority (DPC—SEC, currentiy_}.
+
+BULLRUN Sensitivity and Coverage
+
+5.
+
+:- 'Illx 'l --..::- _:-..:: -.I-: I - --
+
+It is imperative to protect the fact that GCHQ, NSA and their Sigint partners have
+capabilities against speciﬁc network security technologies as well as the number
+and scope of successes. These capabilities are among the Sigint community’s
+most fragile, and the inadvertent disclosure of the simple "fact of‘ could alert the
+adversary and result in immediate loss of the capability. Con sequently, any
+admission of "fact of” a capability to defeat encryption used in speciﬁc network
+communication technologies or disclosure of details relating to that capability
+must be protected by the BULLRUN CDI and restricted to those specifically
+
+lofril
+
+TOP SECRET STRAPl COMINT
+
+_.|..|_!:.__._.|::|..l:__  .:.:. |_.
+
+TOP SECRET STRAPl COMINT
+indcctrinated fcr EULLRUN. The varicus types cf security ccvered by BULLRUN
+in clude, but are net limited to, TLSiSSL, https (e.g. webmail}, SSH, encrypted
+chat; lv’F’Ns and encrypted ‘v'DIP. The speciﬁc instances cf these technclcgies
+that can be explcited will be published in a separate Annexe (available tc
+BULLRUN indcctrinated staff}.
+
+T. In additicn tc the specific technclcgies that GCHQ cr its Sigint partners are able
+to explcit; the methcds used tc achieve the explcitaticn must alsc be prctected.
+These include suppcrt frcm cther crganisaticns, bcth internal and external tc
+GCHQ. Access tc BULLRUN dces NUT imply any "need—tc—kncw" the details cf
+scurces and methcds used tc achieve explcitaticn and, in general, there will be
+NO "need—tc—kncw”. Requests fcr access to infcrmaticn cn scurces and methcds
+shculd be sent tc UPC—SEC; if ccnsidered apprcpriate, this access may require
+clearance fcr certain ECls.
+
+B. BULLRUN material, data and details must be prctected with the use cf the
+EULLRUN Gel and be marked with the label "BULLRUN," in additicn tc the
+required privacy marking and ether descriptcrs. Use at the BULLRUN marking
+is restricted to GCHQ and its Sigth 2"" Parties.
+
+Access and Security
+
+9. Requests for access tc the |Ccl must be spcnscred by a GCB cr abcve and must
+be acccmpanied by a business case cutlining the "need—tc—kncw”. Access fcr
+ccntractcrs will be limited and will require a strcng business case; such requests
+shculd be discussed with the |Ccl Authcrity’s delegates befcre submissicn.
+Requests for access are to be sent by email tc PTDAccesses.
+
+1f]. Kncwledge cf BULLRUN infcrmaticn and access tc the BULLRUN |Ccl will cnly
+be granted to indcctrinated individuals.
+
+11. It is the respcnsibility cf spcnscrs (cr their successcrs} tc nctify UPC—SEC (via
+PTDAccesses} when an individual nc lcnger require access to EULLRUN.
+
+Handling Precedures
+
+12. IIleners cf BULLRUN materials are respcnsible fcr ccrrectly marking the
+infcrmaticn and fcr ensuring that it is handled acccrding tc guidelines fcr
+prctecting classified cr CDI infcrmatjcn.
+
+13. Repcrts derived frcm BULLRUN material shall nct reveal (cr imply} thatthe
+scurce data was decrypted. The netwcrk ccmmunicaticn technclcgy that carried
+the ccmmunicatjcn shculd nct be revealed.
+
+14. Further disseminaljcn, cther than in prcduct repcrts, cf any data cr infcrmaticn
+
+derived frcm BULLRUN data must be thcrcughly justified and receive pricr
+apprcval frcm UPC—SEC.
+
+:.I :: I‘llxu'I-Ei'liJih' I. .I:::.I:.::I :.|.:::I| -:';';I. :.  :. ;.:;.:: I'..':._-H:;-,  I  ' J' i' -='-': :-.: :: .. - ;_; . _. : .
+TOP SECRET STRAPl COMINT
+
+TOP SECRET STRAPl COMINT
+
+15. All questions or concerns regarding BULLRUN material and information should
+be directed to UPC—SEC.
+
+Protective Marking Guidance
+
+The following offers some guidance on Protective lvlarkings {PM} for BULLRUN
+material. Questions regarding Plvls can be directed to the |Col Authority’s delegates.
+
+At SECRET STRAPl CCMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ has unspecified capabilities against network security
+technologies eg TLSi'SSL. HTTPS. SSH. VPNs. IPSec. NE capability does not
+necessarily equate to decryption capability.
+
+At TOP SECRET STRAPl CCMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ or its 2"“ Party partners has some capability againstthe
+
+encryption used in a class or type of network communications technology. For
+example. VPNs. IPSec. TSUSSL. HTTP S. SSH. encrypted chat. encrypted ‘v'olP.
+
+At TOP SECRET STRAPZ CCMINT BULLRUN AUSCANZUKUS EYES :
+
+The fact that GCHQ or a 2"“ Party partner has a capability against a speciﬁc
+encrypted network security technology — see Annexe for details. (At a minimum.
+specific capabilities may be protected by additional ECls and restriction on "Eyes".}
+
+The fact that GCHQ or its partners exploits speciﬁc encrypted network
+communications — see Annexe for details. (At a minimum. speciﬁc capabilities may
+be protected by additional ECls and restriction on "Eyes".}
+
+Decrypts (plaintext or derived events it metadata} obtain ed ﬁom BULLRUN
+capabilities. (At a minimu m. speciﬁc capabilities may be protected by additional
+restriction on "Eyes" and. in afew cases. additional ECIs.)
+
+GLCSSARY
+
+{U} HTTPS — HTTP trafﬁc secured inside an SSLl'TLS session. indicated by the
+htIpszt'tIr URL. commonly using TCP port 443
+
+{U} IPSEC -- IPSec. or IP Security. is the Internet Engineering Task Force (IETFJ
+standard for layer 3 real—time communication security. IPSec allows two hosts for two
+gateways} to establish a secure connection. sometimes called atunnel. All traffic is
+protected at the network layer.
+
+{U} SSH — Secure Shell. A common protocol used for secure remote computer
+access
+
+{U} SSL— Secure Sockets Layer. Commonly used to provide secure network
+communication. Widely used on the internet to provide secure web browsing.
+webmail. instant messaging. electronic commerce. etc.
+
+3of4
+
+ 
+
+:- 'Illx 'l --t.::- _::..:: -.I-: I - --
+
+TOP SECRET STRAPl COMINT
+
+TOP SECRET STRAPl COMINT
+
+[U] TLS — Tran spcrt Layer Security. The fcllcw—cn tc SSL, SSLv3 and TLSvlﬂ are
+nearly id entical.
+
+[U] VcIP — ‘v'cice cver Internet Prctcccl. A general term fer the using IP netvvcrks tc
+make vcice phcne calls. The applicaticn layer prctcccl can be standards—based (e.g.,
+H.323, SIP}, cr prcprietary (e.g., Skype}.
+
+[U] 'v'PN — Virtual Private Netwcrk. A private netwcrk that makes use cf the public
+teleccmmunicaljcns infrastructure, maintaining privacy via the use cf a tunneling
+prctcccl and security prccedures that typically include encrypticn. |Ccmmcn prctcccls
+include IPSEC and PPTP.
+
+1..  I‘llxu' |-:E'l-.=III' I. _-: -:.:.=:I :.|.I:III    I.  :  :I  —':: I  : " -=' " -='.'1 -. : ;; ._ . :: . . . .
+TOP SECRET STRAPl COMINT
+

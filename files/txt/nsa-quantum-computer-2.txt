@@ -1,0 +1,114 @@
+Q
+
+NATIONAL SECURITY AGENCY
+CENTRAL SECURITY SERVICE
+
+(U) CLASSIFICATION GUIDE FOR
+NSA/CSS QUANTUM COMPUTING RESEARCH
+10—25
+
+Effective Date: 21 September 2011
+
+Revised Date(s):
+
+CLASSIFIED BY: //s//
+
+REASON FOR CLASSIFICATION: 1.4 (c), (g)
+DECLASSIFY ON: 25 years"
+
+ 
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+Description of Information Classiﬁcation/ CategOFF Declass Remarks
+Markins
+
+A. U General
+
+ 
+
+U) C00 eration With Other 0r anizations
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+(U) Research In armation
+
+(U) Breakthrou hs
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+B. U Level A/Level B QC Research
+
+C. (U) QC Alorithm Research
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+D. U Prorams and Plans
+
+E. U Information Assurance
+E. l. (U) The fact of a vulnerability TOP SECRET
+of a specific US. Government
+
+cryptosystem to QC attack. See Remarks
+
+E.2. (U) The fact that NSA is
+attempting to design classical
+public-key cryptography that is
+secure a ainst QC attack.
+
+F. (U) Materials
+
+UNCLAS SIFIED
+
+See Remarks
+
+1.4 (c)(g)
+
+25 years*
+
+(U) Refer to the
+
+3-02. 8 July 2005. concerning
+foreign releasability of
+
+information on cryptanalytic
+vulnerabilities of US. svstems.
+(U) Details may require handling
+as UNCLASSIFIED//FOR
+OFFICIAL USE ONLY or may be
+classified.
+
+ 
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+
+TOP SECRET//SI//REL TO USA, AUS, CAN, GBR, NZL
+

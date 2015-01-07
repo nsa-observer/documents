@@ -1,0 +1,105 @@
+U
+
+The accredited security level of this system is:
+
+TOP SECRET // SI-GAMMA / TALENT KEYHOLE // ORCON/
+PROPIN / RELIDO/ REL TO USA, FVEY
+
+TOP SECRET//SI//REL TO USA, FVEY
+
+[ ] (U) SSO Collection Optimization Overview
+
+(S//SI//REL USA, FVEY) This Wiki article collects and documents the
+activities Within SSO to optimize collection from SSO sites. It is a direct
+result of the activities and findings from the
+
+(LAB) Working Group. Optimization activities can be categorized as:
+impacting primarily content collection, i.e., feeding repositories like
+PINWALE and PRES SUREWAVE; metadata, perhaps better termed
+"structured data," collection, i.e., primarily feeding repositories like
+MARINA or MAINWAY; or both.
+
+(TS//SI//REL USA, FVEY) An examination into the content collected by
+SSO sites in the fall of 2011 revealed that a significant portion of collection
+was repetitive, better placed into metadata repositories, or of little foreign
+intelligence value. Rapidly changing internet protocols, imprecise targeting
+methods, and constantly shifting target technology use means that selectors
+or traffic seen by tasking today may not be the same tomorrow. In addition,
+several emerging technologies in use by targets or contacts of targets have
+protocols which can cause gross over—collection and selector detasking, e.g.,
+Yahoo! Webmessenger, which cannot be prevented under UTT tasking, as
+the protocol contains the precise selector tasked.
+
+(TS//SI//REL USA, FVEY) The SSO Optimization team's job is to identify
+these types of data, and ensure appropriate corrective action is taken,
+throttling the data from corporate content or metadata repositories, as
+appropriate.
+
+(TS//SI//REL USA, FVEY) Implementation details for specific SSO sites
+can be found on the .
+
+ 
+
+edit
+
+edit
+
+Excerpts from NSA's lntellipedia
+
+4 Pages - Contributed by Matt DeLong, Washington Post - Oct 14, 2013
+
+These are excerpts from an article in the NSA's lntellipedia, a classified system built with the same open—source software used by
+Wikipedia.
+
+How SCISEDRS hln-cl-cs collection In El-
+il'i l 'riIrl‘in {HI‘IHH JHHI
+
+:'['.‘1 Hi RH 1"."1. I"‘1']"TJ 'I'n :IIlL'1'i'.I.[I:l|1i' l:1| gr l]|.I]'I'lI1l.‘EI Ir! 1111'Ilclit'IiIi
+ulldi'wh I'HJULIZ chm £1111]. I'IL'ItIg L'IJIJI'L'ik'ij LllefL'hlI i‘ﬂilkh 1'1'JIl i'H.‘ IliIIL'J-icd Lit
+Mi'lﬁ'ﬁi JR‘S. ﬁt‘lﬁht IRS 11'Iil11111u111 i-iii'h 111111'11111111111111 5135111115 111II1 lhr
+anti-gm} “Hill-i whi'rL' IiHL'} I11i'L'l lha' {dinning L'J'ilﬂ'nLlI
+
+I [H'LihimllirnulllI [ullmiii:I-11L'11.‘iililn'm.lim1h :11. Inch u'iu'u-icnl'i I‘Hl'? Hi Lil]
+uddl't'h'hil'llnih L'LI-IIL'L'lILiII}
+
+- -'l.|>!'ilhtu"l"1'lil- Ih [*RI-Hlih'l'
+
+I N: | .'I.I' 'Iit "I'E‘1 ]-'[ 'hl-R
+
+I hili.1ll:lrilr11HHAIJHEHIH'L'TIII} I111l1':
+
+i'l'E'1 ‘il H11] 1'11. I-"1'1i'i'l'l'11i' ﬁrﬁhidlllhﬂlul Llu 11:1l111i'r1 Ihi' :Ihm'r i'rili'riil
+mil ht'lllll r111:1;ld.3['.il!11 l-'."I.[.T.U[_i' 1m: :11: wnn'mun will lu' ilmpjicil hcl'm'r:
+teaching i‘iN‘TiHi. Eluirii's II11'I_':11::I__Iv:Jr_\' 21123 wall rim i1u:11':1il:ihir iII
+1ill I HWI'I'I PIN—IE. and Ihrw 1'r1liu111'l: will 11111 t‘E‘IIIIH ﬁgFl-ilh'l I'iN'i'i' '1! I: sili-
+1.11111; wt hf.‘ II'u: [ 'hHE'
+
+HKETSWRE [P E?-
+I l I l‘ritcrin iHKI‘I‘I'HI ‘I “(Hi
+
+I'l'“ '9] lil;l.l'.‘1.'1.l-‘H'if‘l'ilii-muri-1.1l'111111il1i-l'1'iumltlic W'IHK'HHH
+1111|1I11111u11ldlinn nl' 11111111111111 inldrn'xn hunk 1h|11l1|rn 1-1 rrhﬁcnlialiy ri-iluiring.
+limt ‘II '1‘1‘1‘ THH ruin-1H :1“ "II 1i“: Ht‘in‘ti‘ii i'ﬂrlil‘lit I-Illlrh ll'u' nit-1.11“!
+iinliilimw twin-1. 1111111. 11: Linden- :1} 11- :111pli1'r1r111 I111; 1111111- l|1rnTl|r 111
+
+.‘x' RI 51"”: 'E 11%|: :1! .-'-i1:' “H‘- n‘quiw-c :1 ml'hi'ﬂn‘ iwliliﬁmlinn In .I-Iirm' LTI'HIII'I
+IHHEM mi ra'l-kliL'l'Ii'M- I'lllddf- Ilhl I'I'Iﬁmjutn lu I'M." L'It'utrll :Il SLIL' I'- M :11
+
+Ht 'lx‘x‘t ll-i‘i. Lllltlt'l'1ilul.‘ :1111'1-11l.iri'l'iltn'turc}. l'lu-II. u ili-J1lt13rii Mi! -‘1 Hi 'i JRI:
+llrlgi-nmnl IMil hl11i'li1hr i'n-Iiwnl “hilt alllrmlng.‘ thi- I111'l11ilulrt :11 I111
+I11L'II111nrllirL'Il.
+
+"Little 1:11 rm useful Fl information" in 3]
+II'I Huwn Enr ﬁplimin'ng
+
+|'.\ ‘5] Klil. ['5 'i_ [-"1'1-11'1 11'.'il'i1|1:1':-1 1.1'L'h-hnaril Hrmcngcr L'Iwm arruII.
+Irvqu L'I1[ Fl‘qllL'E-ilh :11113 rccci'i'm; I'rcqurnl rcupmwua. I111" ink-1:131 :L'I'ILI hiidii}
+11.11111 which an Ilighl} ruputlliu‘ :Ind L'1.ll|.l:lll'| il1lli: 1:1: 1111 tin-iii] i'I
+111l'11n11is1in11 111 llw :I-C'iltill 1111111111511: L'nliii'nt hi'} ulul 1|“: «111mb: lin'l 111:1! [ill-J
+Liner 11.211; unline. nulmg [hr lira-cl luu Weeks .1I'TJL1'EI11I'IL'1' :51 Irma! right
+
+wit-L111” '|."1'|..'FL' dL'liihki'd 11;; L'NI-it ' 11111: In L'KL'L'EIH'I'L' mllcumu (1:11.111ng
+u'miim limit-:3
+
+ 
+

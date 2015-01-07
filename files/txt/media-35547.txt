@@ -1,0 +1,219 @@
+SECRET
+
+Crypt Dps Data Store User Guide
+Crypt Dps Datastore
+
+DataStore Rota:
+
+~Data Store to be reviewed weekly at the DataStore management meeting
+
+The Tasking Process
+
+Submitting a Task
+
+1.
+2.
+
+E.
+
+The customer follows the links to the Data Store page and clicks ’Add Record’.
+The ﬁelds ’Crypt Task PDC’. ‘Updates’ and ’Team Plan Ref should all be left
+blank. to be filled in later by Crypt |Dps.
+
+3. All ﬁelds marked with an * must be completed.
+4.
+5. The ’Task Status’ should be left as ’New Task’ and the ’Record Status’ should
+
+The Required by Date should be changed.
+
+be left set to ’Draft’.
+|Dnce all necessary ﬁelds are completed click ’Submit’.
+
+|Dnce submitted the task will be dealt with as follows:
+
+Processing a Task
+
+1. The DS (Data Store} Admin team is notified ofthat a Task has been
+submitted.
+
+2. The ’on duty’ Admin reviews the task. assessing what category (see below} it
+falls into and passes it along to the appropriate TL (team leader}.
+
+Categories
+
+— BR BULLRUN —
+
+— CTSC Counter Terrorism and Serious Crime
+
+— EA Electronic Attack
+
+— GT Global Targets
+
+— HCA Hand Crypt and SMS
+
+— lleNA Middle East North Africa
+
+— M08 Mobile Infrastructure
+
+— PRS Password Recovery Service
+
+— TD |Generic Target Discovery
+
+— TR Technical Research
+
+— VPN Virtual Private Networks
+
+— SIG |Generic or complex signature development.
+
+ 
+
+possibly to include XKS fingerprinting (and TDIJ’BEGAL in the future?)
+
+And possibly more. including:
+
+SECRET
+
+SECRET
+
+TTT “.3”? Tech Tracking and Trends — Requests fcr
+tech tracking cr trends data
+EP “.3”? Requests BEARDED PIGGY acccunts
+
+The DS Admin nctifies the TL cf the task and updates it changing the PDC to
+the TL’s sid and adding a ncte tc the ‘Updates’ field in the fcllcwing fcrmai:
+
+‘Passed tc :TL’s sid> cn :ddi’mmi’yy‘: by :DS Admin’s sid>’
+
+DS Admin then sends an email to the task criginatcr nctifying them which TL
+is handling the task.
+
+If the task is inapprcpriate fcr |Crypt Dps cr is cne that there will be nc
+rescurces available for in the fcreseeable future then the TL changes the Task
+Status tc ‘Rejected’ and nctifies the task criginatcr explaining why the task has
+been rejected. The task’s Reccrd Status is then set to ’Archive’.
+
+If it is an apprcpriate achievable task the TL takes the fcllcwing steps:
+
+- Determine what pricrity the task shculd be
+
+- Decide if the timescale is achievable given the available rescurces and
+perscnnel
+
+- Decide if the necessary rescurces are available
+
+- If an apprcpriate perscn is available assign them
+
+Ta |f rescurces are net currently available but the task is cne that Crypt Dps will
+definitely ccmplete scme time in the near future when rescurces are available the
+TL shculd ccntact thetasks criginatcr and infcrm them cf when, realistically,
+rescurces will be available and wcrk started.
+
+Tb. If they still wish the task to be undertaken then a new timescale shculd be
+
+negctiated.
+
+Tc. The Task Status shculd then be set tc ‘Suspended’ and the Reccrd Status is
+left as ’Draft’.
+
+1". These tasks will be checked as part cf the Data Stcre review tc ensure that
+
+9.
+
+1f].
+
+'l'lx
+
+"I .5: ' :- '. 'l 1.:  'l 1:-  .' 1 'i' 
+
+wcrk starts cn them as seen as rescurces beccme available.
+
+Dnce this is dcne the tasks Reccrd Status is set to ’Current’, the Task Status
+is set tc Sitssigned’ and the update field shculd be filled in as fcllcws:
+
+Wcrk tc be carried cut by :cassignees sid> starting cn :cddi’mmi’yy‘: assigned
+by :TL’s sid>
+
+'l "|.!: ' _::..!: '.|-: | ' ::.  ' :. :.::.: ...:.,||IgI
+
+SECRET
+
+SECRET
+1D. The TL then informs the task originator of the update.
+
+11. Once the assignee begins work the Task Status should be set to ’ln
+Rrogress’.
+
+12. The OS Admin’s review all task weekly to ensure they are being acted on and
+that all timescales and on schedule. If atimescale is deemed unrealistic then
+the TL should be informed and should negotiate a new deadline with the task
+originator.
+
+13. Once atask is completed the Task Status should be set to ’Complete’ and
+the Record Status changed to ’Archive’.
+
+14. The task originator should be informed that the task is officially complete and
+where possible feed back obtain ed.
+
+15. IMPORTANT: Remember to keep both the ’Record Status’ and ’Task Status’
+fields up to date and make sure thatthe record is in the correct category. The
+NEW TASK status should only be used on newtasks still in DRAFT. once
+ASSIGNED the task should be moved immediately to CURRENT. once work
+is started the task status should be IN PROGRESS and once COMPLETE it
+should be moved to ARCHI’v’E.
+
+Searching DataStore (Only applicable to mose winb view privileges)
+There are two search options atthe top of the page; Text Search and Date Search.
+
+Text Search — this allows searching on a number of ﬁelds (listed below} both in the
+page and within the records themselves. This search type is useful for ﬁnding all the
+tasks owned by a speciﬁc individual or all the tasks of aspecific type (providing the
+category tag has been applied to the ’Task Title’.
+
+Task Title
+
+Team Requesting
+Task Status
+
+Crypt Task ROC
+Originator
+
+Task Classiﬁcation
+JlC Points
+
+JlC Priority
+Miranda
+
+l-lRA Justiﬁcation
+Expected Outcome
+Business Case
+Estimated Resources
+Updates
+
+Team Plan Ref
+
+ 
+
+'lllx 'l --..::- _::..:: -.I-: I - --
+
+SECRET
+
+SECRET
+
+Date SeaIch — there me three sub categcries cfthis seaIch; ‘Nc date seaIch’ (which
+searches for reccrd with nc date set in the chcsen ﬁeld}, ‘SeaIch fer a single date’, cr
+‘SeaIch [NET a date range’. These seaIches can be ccnducted cn several ﬁelds;
+Required by Date’, ‘Date Submitted’, ‘Date last updated’ and ‘Date Task Ccmpleted’.
+
+This search is useful fcr finding all the tasks that need tc be ccmpleted by a specific
+date.
+
+The seaIch types can be used in ccncert ed. tasks with SIG in the title with a
+
+required by date between 01f05f2011 and UBﬂDi’EDll, this is achieved by running
+cne seaIch and then the ether.
+
+_.|..|_!: . ._ ,_.|::|..| :._  .:.:. |_. :.| ||.|..|_E: .  ---- --....|
+
+:I-I-I'h -I --n.=: -  -.I-: I -   - : --:--: .."..'II:;- 
+SECRET
+

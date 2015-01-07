@@ -1,0 +1,634 @@
+CRYPTOME
+
+http://www.thequardian.com/worId/interactive/ZO13/iuI/31/nsa—xkevscore—proqram-fuII-presentation
+
+ 
+
+http://www.thequardian.com/worId/2013/iuI/31/nsa—top-secret-proqram-online—data
+
+ 
+
+TDP SECRETIICOHIHTIIREL TO USA, RUE, CAN, GER, NIL
+
+DERIVED FRO“: NEWS-5H 1-52
+DATES: 2901'0103
+TOP SECRETIICOHIHTIIREL TO USE. AUS. CAN, GBR, NZL DECLASSIFY DH:2D32G1M
+
+ 
+
+  
+
+ h at is X 
+
+DNI Exploitation System/Analytic Framework
+
+Performs strong (e.gi email) and soft (content) selection
+Provides real-time target activity (tipping)
+
+“Rolling Buffer" of ~3 days of ALL unfiltered data seen by
+XKEYSCORE:
+
+- Stores full-take data at the collection site - indexed by meta-data
+u Provides a series of viewers for common data types
+
+1. Federated Query system — one query scans all sites
+
+I Performing full-take allows analysts to find targets that were
+previously unknown by mining the meta-data
+
+TOP SECRETNCOMINTHREL TO USA, AUS, CAN, GER, NZL
+
+ 
+
+TOP sscaErHCDMIiﬁi'fi  .I, I 
+
+ii ' Method 0 | 09;:   '4"
+
+I I
+
+Small, focused team
+
+Work closely with the analysts
+
+Evolutionary development cycle (deploy early, deploy often)
+React to mission requirements
+
+Support staff integrated with developers
+Sometimes a delicate balance of mission and research
+
+TOP SECRETHCDMINTHREL TO USA, AUS, CAN, GER, NZL
+
+ 
+
+TOP-SECRE‘l'ﬂcc—iﬁiﬁ _   - 
+
+II:- '_-: ' ' ‘
+.4... . .—. -_ -
+
+'r" "I'- I-'|"I I ' I I
+mn‘r-l .J_-- I J._It -. I I,|- Ht
+.  . ' I ' ' q- '. " ’
+- 1- VS e m e-  « I
+H." r_' 'I'I'I : ._ |
+..—.
+
+Massive distributed Linux cluster
+Over 500 servers distributed around the world
+
+System can scale linearly - simply add a new
+server to the cluster
+
+Federated Query Mechanism
+
+TOP SECRETHCDMINTHREL TD USA, AUS, CAN, GER, NZL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l User Queries |
+
+ 
+
+Queer
+
+XKEYSCORB web Server
+
+ 
+
+ 
+
+ 
+
+ 
+
+Query
+
+ 
+
+ 
+
+ 
+
+ 
+
+F6 HQS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Que“. FORNSAT site SSE) site
+
+Query
+
+ 
+
+ 
+
+ 
+
+F6 Site 1 F6 Site 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCUMINTHREL TU USA, AUS, CAN, GER, NZL
+
+ 
+
+ 
+
+Approximately 150 sites
+
+Over 700 servers
+
+TOP SECRETUCDMINTUREL TD USA, ALIS. CAN, GER; NZL
+
+ 
+
+TOP SECRETIICOHINTKIREL T0 LISA, .MJS, CAN, GBR, HZL
+
+TDP SECRETIICDHIHTIIREL TO USA]. AUS, CAN, GER... NIL
+
+ 
+
+. 1F—r
+
+1:?" 'g-
+wit-#11325" .‘ 
+'1: ...-_'- "1-"
+
+4"
+!_ .L
+.l‘
+
+Processing Speed
+
+ 
+
+\
+
+T RMOIL/TURBULENCE
+
+Processing
+
+ 
+
+XKEYSCORE
+
+TOP SECRETHCDMINTHREL TD USA, AUS, CAN, GER, NZL
+
+ 
+
+rop SECREI'HCOHIN'ﬁMéK  . .f
+i - _ I. fill
+
+a???  do s-h-aislaiit‘
+
+- Can look at more data
+
+- XKEYSCORE can also be conﬁgured to
+go shallow if the data rate is too high
+
+TOP SECRETHCOMINTHREL TO USA; AUS, CAN, GER, NZL
+
+ 
+
+TOP-SECRETNCD '
+
+q! _.
+
+  .9 0 d ee-
+
+. '_ £-
+
+' II '3 u}. x]; 
+I _I  '
+_ a: gut; ~
+
+- Strong Selection itself give us only a very
+limited capability
+
+' A large amount of time spent on the web is
+performing actions that are anonymous
+
+- We can use this traffic to detect anomalies
+which can lead us to intelligence by itself, or
+strong selectors for traditional tasking
+
+TOP SECRETNCOMINTHREL TD USA, RUE, CAN, GER, NZL
+
+ 
+
+mp SECREwcoMm-mﬁﬁg;  
+
+ 'XKS does-M?”
+
+.’
+
+Plug-ins extract and index metadata into
+tables
+
+[sessions] —) [processing angina] -——) [database] (—3.- {uacr queries}
+
+ 
+
+ 
+
+phone: numbers
+
+ 
+
+TOP SECRETHCUMINTHREL TO USA, PLUS, CAN, GER, NZL
+
+ 
+
+ -UI- l,l._al rJJI II
+"x" 1: am “MI
+pm! iml urn “n-D’n' mu m: m
+
+  m
+
+DESCRIPTION
+
+E-mail Addresses Indexes every E-mail address seen in a session by
+both userneme and domain
+
+Extracted Files Indexes every file seen in a session by both ﬁlename
+and extension
+
+Full Log Indexes every DNI session collected. Date is
+indexed by the standard N-tupple (1P, Port,
+Casenotation etc.)
+
+H'iTP Parser Indexes the client-side HTTP traffic (examples to
+follow)
+
+Phone Number Indexes every phone number seen in a session (e.g.
+address book entries or signature block)
+
+User Activity Indexes the Webmail and Chat activity to inciude
+username, buddylist, machine speciﬁc cookies etc.
+
+TOP SECRETNCUMINTHREL To use, AUS, CAN, GER, NZL
+
+ 
+
+c Anything you wish to extract
+- Choose your metadata
+
+- Customizable storage times
+- Ex: HTTP Parser
+
+. GET search? =en:-=1s ama-ad&meta HTTP/1.0
+
+59‘5599 : image 91 - 1magE,X*X:1 map. imagerpeg. imagejpjpeg. appiicationfund.ms»
+EJa-oi1cat1on msword a-uiicat1on xhshockwave~f ash, * *
+
+- 0 (compatibie: . : 1n ow
+
+Connect1on: keep-a11ve
+
+TOP SECRETHCOMINTNREL TO USA, ALPS, CAN, GER, NZL
+
+ 
+
+TOP SECRETIJCOHINTIKREL TO USA, AUS, CAN, GER. NIL
+
+TOP SECRETIICOHINTII REL TO USA. ALIS, CAN, GER. NZL
+
+ 
+
+- TOP secFit—mic{ili'i'iliilﬁi''r 5- -.; -
+
+ 3'  :Fi n d-i n 9 Ta   __  .
+
+I How do I find a strong-selector for a known
+target?
+
+- How do I find a cell of terrorists that has no
+connection to known strong-selectors?
+
+- Answer: Look for anomalous events
+
+- E.g. Someone whose language is out of place for the
+region they are in
+
+- Someone who is using encryption
+I Someone searching the web for suspicious stuff
+
+TOP sEanmcoi-immnsa. To USA, nus, can, can, NZL
+
+ 
+
+mp SECRETHCWIIW - 13' :—
+
+.I 'I  cr - tion
+
+- Show me all the encrypted word
+documents from Iran
+
+- Show me all PGP usage in Iran
+
+- Once again — data volume too high so
+forwarding these back is not possible
+
+- No strong-selector
+
+- Can perform this kind of retrospective
+query, then simply pull content of interest
+from site as required
+
+TOP SECRETHCOMINT/IREL TO USA, AUS, CAN, GER, NZL
+
+ 
+
+TOP secREderJINf _ 'i   -.
+
+.i-ET..}"-':Technolo . I  IF 
+
+0 Show me all the VPN startups in
+country X, and give me the data so I
+can decrypt and discover the users
+
+- These events are easily browsable in
+XKEYSCORE
+
+- No strong—selector
+
+- XKEYSCORE extracts and stores authoring
+information for many major document types — can
+perform a retrospective survey to trace the
+
+document origin since metadata is typically kept for
+up to 30 days
+
+- No other system performs this on raw unselected
+bulk traffic, data volumes prohibit forwarding
+
+TOP SECRETHCUMINTHREL TD USA, ALIS, CAN, GER, NZL
+
+ 
+
+Toe secaﬁrzgom :.':'T-'  .  - -. . ..
+
+h- ":-
+|_ -.-'I. ..'.
+-- a
+
+I Traditionally triggered by a strong-selector
+eventlr but it doesn’t have to be this way
+
+- Reverse PSC - from anomalous event back to
+a strong selector. You cannot perform this
+kind of analysis when the data has first been
+strong selected.
+
+0 Tie in with Marina —- allow PSC collection after
+the event
+
+TOP SECRETHCDMINTHREL TD USA, AUS, CAN, GER, NZL
+
+ 
+
+0 My target speaks German but is in
+Pakistan -— how can I find him?
+
+- XKEYSCORE's H1TP Activity plugin extracts
+and stores all HTML language tags which
+can then be searched
+
+- Not possible in any other system but
+XKEYSCORE, nor could it be -—
+
+- volumes are too great to forward
+I No strong-selector
+
+TOP SECRETHCDMINTIKREL TU USA, AUS, CAN, GER, NZL
+
+ 
+
+- My target uses Google Maps to scope target
+locations — can I use this information to
+determine his email address? What about the
+web-searches — do any stand out and look
+
+suspicious?
+
+XKEYSCORE extracts and databases these events
+including all web—based searches which can be
+retrospectiver queried
+
+No strong—selector
+Data volume too high to forward
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GER, NZL
+
+ 
+
+TOPSECREchmﬁjﬁ:712.47.: _ _ i
+
+o I have a Jihadist document that
+has been passed around through
+numerous people, who wrote this
+
+and where were they?
+
+TOP SECRETHCOMINTHREL TD USA, ALIS, CAN, GBR, NZL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TDP SECREUEﬁFiINTffRﬁEﬁI - 
+
+- Show me all the Microsoft Excel spreadsheets
+containing MAC addresses coming out of Iraq
+so I can perform network mapping
+
+New extractor allows different dictionaries to run on
+document/email bodies -— these more complex
+
+dictionaries can generate and database this
+information
+
+No strongﬁselector
+Data volume is high
+Multiple dictionaries targeted at specific data types
+
+TOP SECRETHCUMINTf/REL T0 USA, AUELr CAN, GBR, NZL
+
+ 
+
+ E TAO
+
+a Show me all the exploitable machines in
+country X
+
+- Fingerprints from TAO are loaded into
+XKEYSCORE’S application/fingerprintID
+engine
+
+- Data is tagged and databased
+
+- No strong-selector
+
+- Complex boolean tasking and regular
+expressions required
+
+TOP SECRETHCDMINTHREL TD USA, AUS, CAN, GER, NZL
+
+ 
+
+   I_ ' I. .. Top  r ' '
+"air-:scovery of new   i
+
+0 New web services every day
+
+0 Scanning content for the userid
+rather than performing strong
+
+selection means we may detect
+activity for applications we
+previously had no idea about
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GER. NZL
+
+ 
+
+TOP secasrﬂcoggimij) £735.: 
+
+Extras :*‘ L
+
+- Have technology (thanks to R6) — for
+English, Arabic and Chinese
+
+0 Allow queries like:
+
+I Show me all the word documents with
+references to IAEO
+
+0 Show me all documents that reference
+Osama Bin Laden
+
+- Will allow a ‘show me more like this'
+capabﬂky
+
+TOP SECRETHCDHINTHREL TO USA, AUS, CAN, GER, NZL
+
+ 
+
+TDP' SECRETHICOMINTIIREL TD USA, AUS, CﬁN, GER, NIL
+
+TOP SECRETIICDHIHTIIREL TO USA, ALPS, CAN, GER, NZL
+
+ 
+
+TDP SECRETIICOHIHTII REL TD USA, AUS, CAN, GER, NZL
+
+TOP SECRETIICDMIHTIIREL TO USE, hUS, CAN. GER, HZL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  _1 TOP SECRETHCOHIW   -. -.
+ Innovation  w
+
+0 High Speed Selection
+0 Toolbar
+Integration with Marina
+
+GPRS, WLAN integration
+SSO CRDB
+
+Workﬂows
+
+Multi-Ievel Dictionaries
+
+TOP SECRETHCDMINTHREL TU USA, AUS. CAN, GBR. NZL
+
+ 
+
+TOP sECRErrrcommTijﬁﬁ;  I 
+
+High speeds yet again (algorithmic and Cell
+Processor (R4))
+
+Better presentation
+
+Entity Extraction
+
+VoIP
+
+More networking protocols
+
+Additional metadata
+- Expand on google—earth capability
+- EXIF tags
+I Integration of all CES—AppProcs
+
+Easier to install/maintain/upgrade
+
+TOP SECRETHCDMINTHREL TO USA, AUS, CAN, GER, NZL
+
+ 
+

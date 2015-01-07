@@ -1,0 +1,143 @@
+TOP SECRET STRAPl
+
+Tor: Overview of Existing Techniques
+(15 minutes)
+
+ICTR-NE
+
+TOP SECRET STRAP 1
+
+ 
+
+ 
+
+Previous Work/Current Techniques
+
+ICTR-related techniques
+
+. Identification of events by content
+
+_ Tor node dictionary generation — available from web site
+
+. HOMING TROLL — Bridge discovery prototype that feeds dictionary
+
+_ Statistical deanonymisation research (MCR)
+
+. NEWTONS CRADLE (JTRIG)
+
+_ TRIBAL CARNEM (with CT)
+
+. EPIC FAIL (CT)
+
+. Bulk traffic logging
+
+_ QUICK ANT - Low latency deanonymisation. Prototype under evaluation.
+. Introducing timing patterns — report available
+
+_ Hidden service investigation — report available
+
+. Shaping research — some initial experiments.
+
+. Some extraction of hidden service domain names from passive events.
+_ Tor implementation analysis (contract task)
+
+Also some work (through contract) on Freenet.
+
+TOP SECRET STRAP 1
+
+(“FT Rmﬁlﬁmlm THIS leDFMATIDN :5 EXEMD‘T UNDER 'I'HE FREEDOM ur INFORMATION ACT 2000 [FEIIAI AND Luv 65 EXEMD'I' UNDER :3?ch UK InranMaT-UN LEGISLATION.
+_."" REFER ANY rum oucnizs TD EDI-In EIN
+:umnurvs INTELLECTUAL Hausa-21v awn-JED Amman MANAGED Ev Gui-In.
+I THE MATERIdL Mh‘l’ HE DIESEMINdTED THREIIJEHEILI'I' THE RECIPIENT DREANIEATIDN, ELI'I' EDHU FERMIEEIEIN MUST BE DETAINED FDR DIEEEMINATIDN DUTEIDE 'I'HE EIHEANIEA'I'IDN,
+
+(62$?
+
+lCTR-NE Goals for 2012/13
+
+Our plans at present are:
+
+- Tor deanonymisation — collaboration with MCR and JTRIG
+- Tor shaping — with JTRIG
+- Contract: next stage of Tor Implementation Analysis
+
+lCTR-CISA: record hidden service hostnames (*.onion) in NATURAL SELECTION.
+ so REMATION ll fits in well.
+
+Any questions?
+
+TOP SECRET STRAP 1
+
+JJDIFVLI  THIS leDﬂMﬂTIDN I5 EXEMPT UNDEF THE FREEDOM Dr INFORMATION ACT 2000 [FUIAI AND MJY 6E EXEMDT UNDER OTHER UR: anlQl-IIJTIUN LEGISLATION.
+
+REFER ANY FEILA QuERlEE TD EDI-IE] EIN
+EDNTA NE INTE I: LIA FIE: E TY EIWNED ANDfuﬁ MANAEED
+
+—
+I LLE T L a i: av sci-in. 
+T H E M A T E R I ﬂ L M h Y E E U I 5 S E M I N i T E D T H R D U E H n U T T H E R E C l F I E N T U R E A N I E A T I UN, ELI-l-  F E R M I E E l n N M U E T E E E E T ﬂ l N E U r D E D I E E E M l N J T I U N D U T 5 I D E T H E n R E A N I 5 A r I D N,
+
+Reference: Ideas (2011)
+
+- Maintain knowledge of Tor network — Pullthrough from NE?
+
+- Log Tor events into HAKIM for target discovery — TR—FSP
+
+- Build tool to implement low latency attack? — ICTR
+
+- Collecting traffic at exit nodes to feed passive SIGINT — JTRIG
+
+- Testing of MCR passive deanonymisation technique. — MCR/JTRIG/ICTR
+
+- Active injection and detection of timing patterns (probably following test of MCR technique) —
+ICTR/JTRIG/MCR
+
+- Herding of targets through our exit nodes (THEMP) — ICTR/JTRIG
+
+- Bulk logging of hidden service onion addresses (possibly only those hosting web sites) — experiment carried
+out by ICTR
+
+- Characterisation of hidden web servers by passive analysis — ICTR?
+
+- Characterisation of hidden web servers by web crawling — ICTR?
+
+- Identification of IP addresses hosting hidden services — ICTR?
+
+- Ongoing use/maintenance of TRIBAL CARNEM — CT
+
+- Find TDIs that appear on Tor and non—tor IP addresses (EPIC FAIL) — CT
+- Understanding Tor circuit creation and destruction — ICTR contract
+
+- Understanding future developments in Tor — ICTR contract?
+
+- Spotting private Tor networks — ICTR?
+
+- TorChat investigation? — ICTR?
+
+(HINT Rwﬂﬂmu Tms leDﬂMaTIDN .5 EKEMD‘T UNDEFI THE FREEDOM ur INFORMATION ACT 2000rF0IA1A~D may a: mama-[unmn 01-ch UK InraqmnT-UN LEGISLATION. ‘1?
+: ‘GCHQ;
+
+REFER ANY FEIEA QUERIES TD EDI-IE] EIN
+EEINTAINE INTELLEETLIAL FIEEIFEETY EIWNED ANDfDﬁ MANAEED Ev GED-ID.
+
+N;
+K: THE MATERIAL an as niasEMIHa-rsn THREIIJEHEILI'I' THE RECIPIENT DREANIEATIDN, ELI'I' EDHIJ FERMIEEIEIN MIJE'I' a: nan-wan rm: DIEEEMINATIEIN EILITEIDE 'I'HE nasAmsArinw,
+
+. WT Racial-Iron
+
+Reference: Data Sources
+
+° Tor node consensus (obtained by Tor client) —
+UNCLASSIFIED
+
+- Information on Tor Bridges — CONFIDENTIAL
+° Collection from exit nodes — SECRET
+- Passive intercept (SECRET/TOP SECRET)
+
+— SSL events in c|oud(s)
+— Tor packet logging (ICTR system)
+— Content exiting Tor network
+
+TOP SECRET STRAP 1
+
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE N,
+

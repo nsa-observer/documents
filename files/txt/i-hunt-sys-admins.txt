@@ -1,0 +1,531 @@
+copyright! {U} utility et "securityr centerences" E {hide-3
+
+2012.02.00 - 09:53 am
+Do not reuse
+
+this image!
+
+            
+
+IILJHFDLJDII Caveat: it's been a ceuple years since I have attended a security
+cenferenceIIShmeecenIDefceniEtlaclchatl. My epiniens are net fermed frem recent ﬁrst-hand
+experience. but threugh previeus stimuli te my cerebrum that have been cenﬁrmed by 2nd hand
+experience ever the last ceuple ef years. When I ﬁrst went te Eilaclthati'Defcen. it was with the
+wide-eyed anticipatien ef. "I'm geing te ge listen te all ef the tallcs that I can. sealc up all ef the
+infermatien pessible. and beceme a supar—lEEF-haxxer." What a let-dewn ef an experience that
+was. ‘ibu ﬁnd the mest interesting tepics and brieﬁngs. wait in lines te get a seat. and ﬁnd
+yeurself straining yeur ears te listen te semeene that has basically nething new te say Mest ef
+the tallcs get hyped up expenentially past any ameunt ef substance they actually previde. mest ef
+the "interactive sessiens" end up in a "eh! wee is the state ef the security industry!" chant. and
+leave the audience ne better effthan befere.
+
+IILJHFDLJDII |f yeu want te learn crazy new things. mere eften than net. yeu wen't ﬁnd it at a tall: in a
+cen. Why net wall-c: areund NBA. ﬁnd peeple in efﬁces that de things yeu ﬁnd interesting. and tall:
+te them abeut hew they de what they deter ﬁnd a menter in that area)? Despite stereetypes ef
+the Icinds ef peeple that werlc: here. many peeple are Isind and epen eneugh te share their
+trade-craft with ethers. We have the luxury ef werlcing in a cemmunity that has seme ef the
+brightest. smartest. and mest cutting edge peeple areund. it weuld be a shame fer peeple te
+censtantly attend cens heping te learn that "ceel new thing". when there is expenentially mere
+Icnewledge sitting areund them every single day at werl~c
+
+IILJHFDLJDII Granted. there are always a ceuple exceptienal talks at the cens. but. in my humble
+epinien. they den't malce up fer the everall lack; ef centent. Se. what geed are these cenferences?
+My persenal epinien is that their utility is mainly fer secial interactien and meeting *relatively*
+like-minded individuals. It's the abilityte Icicle back: fer a weekend and geek-eut with ether peeple.
+Fer seme. this malces the cest ef the cen cempletely werth it. ethers may be severely
+disappeinted...it all depends en what yeu expect te get eut ef it.
+
+Current l'I-I'leed:.ek.ay
+
+Leave a cemment
+
+“"91"in {U} I hunt SIGIHTs (part 1} E {hide}
+
+2012.12.12 - 10:10 am
+[Is not reuse
+
+this image!
+
+ 
+
+{SISIHRELJ So. SIGINT is down right cool. As much as we complain about our "Eiig Data Problem".
+oolleotionfprooessing issues. dismal infrastruotureifoutdated browsersIDS's. our ability to pull bits
+out of random places of the Internet. bring them back: to the mother-base to evaluate and build
+intelligenoe off of is just plain awesome!
+
+{SISIHRELJ l[:Ine of the coolest things about it is how much data we have at our fingertips. If we
+*only* collected the data we knew we wanted...yeah. we'd ﬁll some of our requirements. but this is
+a whole world of possibilities we'd be missing! It would be like going on a road-trip. but wearing a
+blindfold the entire time. and only removing it when you're at one of your destinations...yeah.
+you'll still see stuff. but you'll be missing out on the entire journey!
+
+{SISIHRELJ So I decided to write a short series {affectionately titled '.I' hunt ...']I on things that I'm
+trying to do with data that wouldn't normally be interesting by itself. but by thinldng about it in a
+new way. maltes it extremely valuable. My interests lately have been in using passive oolleot to
+identifyfenable IENE efforts. so that's predominantly what the first few topics will be about.
+
+IILJHFDLJDII Ifthere are any topios someone wants to see speoifioally. let me lcnow. As well. if any of
+the following information is useful. please let me Intnow and I can put more out. Part 2 - Hunting
+sys admins ooming very soon!
+
+2 comments :: Leave a comment
+
+ 
+
+WWW“! (U) I hunt sys admins (part 2} a 5 {hide}
+
+2012.12.12 - 12:d2 pm
+[In not reuse
+
+_ _ Entryr tags: admin. cne. infrastructure. quantum. target
+this Image!
+
+ 
+
+IIUHFDUDII This post is meant to provide a background for *why* it's good to target sys ao'mihs iri
+SiEi'N'T. if you already know this. feei free to ship forward to the next sections.
+
+ESiSIHFtELII Being in SID. our overall goal is to produce intelligence to give to decision-makers. How
+we go about doing that. is whenever a target uses technology to communicate. we collect it.
+analyze it. and write reports on it. Sounds simple enough...except forthe fact that we have to be
+targeted in what networks we collect. We can't collect everything all the time. so if a target starts
+to communicate on a network: where we are not collecting. there is some manual leg-work: that
+has to be done to steer the SIGINT system in their direction. This is where I must introduce my
+loyal friend. the sys admin.
+
+{SISIHRELJ Up front. sys admins generally are net my and target. My and target is the
+extremistiterrorist or government ofﬁcial that happens to be using the network: some admin takes
+care of. Sys admins are a means to an end. For example. assume your target is using a CDMA
+device on a foreign networlc: there may be situations where we passively collect his phone
+calliSMS out in the wild. but it would be *really* nice if we had access to the local infrastructure
+where we could monitor which tower he's connected to at any given point in time. or monitor all
+phone callsidata traffic that his phone generates. Many times. it's difficult to directly target
+infrastructure..generally we'll need a fair amount of information going into an operation. such as:
+* topology of the network; we are targeting
+
+* credentials for infrastructure devices
+
+* situational xnowledge. such as access lists set up to only allow speciﬁc IP addresses to
+administer certain machines
+
+* an overall lcnowledge of how the network: is put together and configured
+
+{SISIHRELJ In order to get that. who better to target than the person that already has the 'lceys to
+the lcingdom'? Many times. as soon as | see a target show up on a new networlc. one of my first
+goals is. "Can we get CNE access to the admins on that network. in order to get access to the
+infrastructure that target is using?"
+
+"ir’eah. thatpretty much maices sense. but how are you 'iust gonna get ENE access' on an admin F'"
+
+{SISIHRELJ Good question. thanlcs for aslcing. Most of the time I'm going to rely on QUANTUM to get
+access to their account (yeah. you couio' try spam. but people have been getting smarter over
+the last 5-1:!) years...it's not as reiiahie anymore}. So. in order to work: our QUANTUM-magic on an
+admin. we'll need some sort of webmailifaceboolc selector for them.
+
+"You icnolm you *couio't iust iooic: up the 'point of contact' in the registry information associated
+with their i'F spacefciomaih names..."
+
+{SISIHRELJ 'Tbah. you could do that. Personally. I haven't had a huge amount of luck; with it.
+because most of the time lend up running across their *official* e-mail address that's hosted on
+their own network. That's generally not a recipe for success in the QUANTUM world. what we'd
+really lilce is a personal webmail or faceboolc account to target. There's a couple ways you could
+try this: dumpster-dive for alternate selectors in the big SIGINT trash can. or pull out your wiclced
+Google-fu to see if they've posted on any forums and list both their official and non-official e-mails
+in a signature blocx...but what if there was another way to do it?
+
+ESiSIHFtELII Either fun IIread:useful]I things to get off of a sys admin {from my point of view]:
+
+* network: maps off of their hard drive
+
+* credentials from text files for from our lcey-Ioggers...potato potato}
+
+*full lists of customers IIalong with associated dedicated IF' allocations is a bonus]
+
+* e-mail with upstream providers detailing how your network: is connected to the bigger Internetz.
+For example. if I see they use certain fiber cables to connect to the world. I'll go loolc in ﬂ's
+collect for their traffic. If they use ‘v'SAT's. I'll go look: for their network; in FDRNSAT's environment.
+
+* pictures of cats in funny poses with amusing captions
+
+ESiSIHFtELII But all of this boils down to getting an admin's webmailifaceboolc account in order to
+QUANTUM it and get ENE access to their box. Next section will detail targeting admins who use
+telnet...
+
+3 comments :: Leave a comment
+
+ 
+
+T'I'F' SE'I'FLET_-"_-"SI_-"_-"FLEL TO USE. F'UE‘L'
+
+“"Wﬂﬂhﬂ (U) I hunt admins that uee telnet (part 3) a 5 {hide}
+
+2012.12.12 - net: 09 pm
+Do not reuse
+
+“f _ I Entryr tags: access list. admin. cloud. cne. passive. quantum. sigint. telnet
+I5 Ilﬂﬂﬂﬂ.
+
+ 
+
+IISlSIllFtEL]| If a target that I care about is on a network that I don't have access to. in thi post I
+described that I will try to get access to that network by targeting the sys admin. In order to
+target the sys admin. it's easiest if I know what their personal webmaillfacebook username is so
+that I can target it with QUANTUM. The hardest part is identifying that admin's personal account
+to target in the ﬁrst place.
+
+Now. fade off wlth me into dream—land. Pretend that we had some master llst. Thls master list
+contained tons of networks around the world. and the personal accounts of admins for each of
+those networks. And any time you wanted to target a new network. you could just ﬁnd the admin
+associated with it. gueue hls accounts up for QUANTUM. get access to his box and proceed to pwn
+the network. Wouldn't that be swell?
+
+IISlSIllFtELl Well. you can stop dreaming my friends. I think it's possible [at least kinda partially}.
+And we'll get started on this endeavor by chasing down admins that use telnet. Sythis point. I'm
+hoping you're saying. "Telnet? Telnet?! No one should still be using telnet!" That is the correct
+response. however. telnet las an administrative tool on the Internet} is alive and well. In fact. it's
+so alive and well. DISCDRDUTE is a tool speciﬁcally designed to suck up and database router
+conﬁguration ﬁles seen in passively collected telnet sessions [for the record. DISCDRDUTE is
+awesome. and you should check it out if you have at least one iota of love for SISINTII. So. what
+shall we do with all of these conﬁguration ﬁles?
+
+"Elude.i Map all the networkslll"
+
+IISlSIllREL]| tbs. that is deﬁnitely a useful thing to do with all of these router conﬁgs. and is
+something that will need to be done. But understanding the topology of a network isn't
+necessarily going to get us access to that network...per my previous post. I mentioned how
+getting ENE access to an admin is usually a golden ticket into the network. So. this raises a
+question:
+
+"How can we use a router conﬁguration ﬁle to ﬁnd the personal webmaillfacebook
+accounts of a sys admin?"
+
+lSlSIllRELII To illustrate this point. I randomly picked a conﬁg for a router in kenya...the link is NF.
+so send me an e-mail if you'd like to look at the conﬁg in it's entirety For now. I'll just copylpaste
+the relevant portions. This process. as with any analysis at it's most fundamental level. is based
+on assumptions. Here are probably some safe assumptions:
+
+*We have a router. and that router has an admin
+
+* Eiythe nature of having the conﬁg in DISCDRDUTE. the admin uses telnet to log into the router
+
+* The admin probably doesn't want to let anyone and everyone else log into the router
+
+* The admin may set up an access control list to only allow his IF addresses to telnet to the router
+
+IITSlSIllFtEL]I Those seem like relatively safe assumptions to make for the moment. Now. let's see
+how those manifest in our ettample kenyan conﬁg lif you're not familiar with router conﬁgs. don't
+worry. this will be pretty basicl:
+
+ll First. let's look at the vty |[read:telnet]| lines on the router. and see if there is an access list
+associated with them:
+
+ line vty E] S _ 
+: access-class 11 in 
+
+IITSlSIllFtEL]I 't'up. for all ofthe telnet lines. access list #11 is applied...which basically means. if you
+want to telnet to this router. you have to meet the criteria of that access list. foh. before l forget.
+password F's are HDFLeasy to crack. You can google 'clsco password 2 cracker' and get web
+pages that allow you to copy the password I" hash. and it'll break it for free...anyone can ﬁgure
+out the password for this router. And polntlng' out for the lulz. the enable password for this router
+ls password I" hashed as well!)
+
+21...anyway. on with the access list #11:
+
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+access-list 11 permit
+
+ 
+
+IITSlSIllFtEL]I Okay. this is relatively self-evident. If you want to telnet into this router. you have to be
+coming from one of those IF addresses that are permitted. Those who are slightly network-savvy
+will also be quick to point out. that even if you know the credentials for this router. and know
+which IF's are whitelisted. you CAN MDT just spoof the source IF of packets to try to log into this
+router...blc you'd never see the responses. So you *actually* have to have access to one of these
+IF's to log into this router. Fair enough? Mmkay
+
+IITSlSIllFtEL]I I want to take a quick look back at our assumptions for a sec. We assumed that an
+admin would allow himself to telnet. but not others. So. based on the combination of that
+assumption with the info from the conﬁg. we can make the following assumption:
+
+"The IP addresses in that access list probably belong to entities that administer that
+Kenyan network."
+
+ETSlSIllRELII Hopefully that sounds fair enough. Here's the fun part...why don't we take those IF
+addresses. and lookfor *anyone* actively logging into their hotmaillyahoolfaceboolo'etc accounts
+from those IF addresses within the recent past? With whatever results you get back. you now
+have a probable list of personal accounts of administrators for that Kenyan network!
+From here. if you need ISNE access to that network. just pull those selectors. gueue them up for
+QUANTUM. and proceed with the pwnage. 't'ay! lthrows confetti in the air
+
+"Dkay. that sounds relatlvely reasonable. but that's still a pretty manual process. . . "
+
+ETSlSIllRELII 'tEah. you're correct...but here's where "the cloud" actually comes to the rescue
+(yeah. I said it. crucify mell...All of the DISCDRDUTE data is dumped into the ISM Flace cloud. All
+ASDF gets dumped into the ISM Place cloud IIASDF is the metadata that gets generated for almost
+every session that we collect in our big bad passive SIISINT system}. So. all someone would have
+to do is write a cloud analytic that would do the following:
+
+-1]I parse through all of the router conﬁgs in DISCDRDUTE
+
+----1a]I identify every router that has an access list tied to a vty [telnet]I line
+
+----1b]| look through the access list. and pull out all public IF addresses
+
+----1c]I put those public IF addresses in a list somewhere
+
+-2]| parse through all the Active User events in ASDF
+
+----2a]| take the list of public IF's that are associated with probable sys admins and use it as our
+seed list
+
+----2bl look for all Active User login activity from those IF addresses
+
+----2c]I take all accounts that come back and put those into another list
+
+IITSlSIllFtEL]I So. by combining all of that information. you end up with a list of public IF addresses
+that probably belong to sys admins as well as personal accounts that probably belong to those
+admins. All you have to do is put all this info in a database somewhere. and what you end up with
+is a list of networks as well as personal accounts of probable admins for those networks! Then. as
+soon as one of those networks becomes a target. all TAD has to do is query the database. see if
+we have any admins pre-identiﬁed for that network. and if we do. automatically queue up tasking
+and go-go-CNE!
+
+ETSlSIllRELII All of this can be done by tweaking the data that we already have at our
+ﬁngertips!!! Remember. our "Big Data Froblem" is that we have too much data...al| we have to
+do is ﬁnd ways of taking disparate data sets that wouldn't necessarily be interesting by
+themselves. but when you put them together in the right way become simply awesome!
+
+"t’eah. okay. that's cool and all. but that relles on sys admins belngr bad and uslngr telnet. *l* don't
+use telnet and most people that l know don't use telnet. it would never be able to ldentlfy usl"
+
+IITSlSIllFtEL]I Good point. this analytic does rely on admins using telnet. HOWEVER. I have an idea
+for how to identify personal accounts of admins that use SSH as well. which I'll talk about in my
+nettt post ll hunt admins that use SSHII!
+
+Current Mood:scheming
+
+It“ comments :: Leave a comment
+
+T-I-F' 'IEII' F'ET.-'  'II   F'EL TO USE. F"-'E'I'
+
+WWW“! {U} I hunt admins that use SSH {part a!) a 5 (hide!
+
+2012.12.13 - l]2:¢11 pm
+Do not reuse
+
+_ _ Entryr tags: cne. quantum. router. server. ssh
+tlns Imago!
+
+ 
+
+IISHSIHREL] Welcome back comrade! It's good to see you again. For background. I talked in thi
+post about why I target system administrators when Iwant ENE access to a network. and I talked
+in this other post about how we can get sys admin's personal selectors {for targeting] based on
+router configs that we passively collect through telnet sessions. This begs the obvious retort:
+
+" Yeah. .but that wouldn't work at aI'I' against any sys admin that uses SSH. because we would never
+see the content of the conﬁgi i't's encrypted!"
+
+IISHSIHF‘IEL] That is absolutely correct. however. Options Exist! I still think it's possible to identify a
+sys admin's personal account isometimes] even if they use SSH. First off. if you're at all unfamiliar
+with SSH. please feel free to check out the resource graciously posted by one of my favorite
+
+high-side online personas._ located here.
+
+IISHSIHFtEL] Before we get into the methodology. let's talk about SSH for a minute. and some
+assumptions that we're going to make [up front caveat: I'm assuming we're looking for SSH on
+port 22. I'm sure there's ways to find it on non-standard ports. but just for the sake of clarity. I'll
+refer to SSH sessions as defined by being on port 22]. Let's assume that you try to use SSH to
+connect to some server:
+
+IIUHFDUD] Assuming 1.2.3.4 actually has SSH listening on port 22. it'll go through the 3-way TCF'
+handshake. and the server will send you back some packets and something like this may pop up:
+
+Warning! This is a banner for some router owned by some company,
+if you're not authorized to log in to this device, disconnect immediately!
+
+Stab. . .blah. . .btah. ..
+
+Enter username:
+
+IIUHFDUD] Here's where you enter your username...we'll pretend you type 'admin' and press
+Enter. Then you get this:
+
+IIUHFDUD] |Iitikay. here's where the rubber meets the road. lSine of two options exist. Either you
+have the right password. or you don't. Let's explore what would happen under each of the
+circumstances. First off. let's pretend you do MDT have the right password. 'r'ou try 'admin' for the
+password and press enter:
+
+ Invalid password. Enter password: 
+
+IIUHFDUD] If you're password guessing. you'll probably get about 3 tries before the server kills the
+connection. and you have to reconnect and try again. However. if you do have the right
+password. you'll log in. you can run your commands to do whatever you want to do. and the server
+will spit back the output for all of the commands that you run.
+
+IITSHSIHF‘IEL] I know. that sounds uber—simple. but here's why it matters. Think about what all of
+this would look like if we were to observe this in our passive SISINT system. We would probably see
+encrypted traffic between two IFs. one ofthe ports would be on port 22 IIwe'll saythat's the server
+side]. The traffic going TD PDHT 22 [in the client-to-server direction] will consist of sending a
+username. sending a password. and sending commands (assuming the client successfully logged
+in]. Fortraffic coming FRDI'H'I PDHT 22. well...that depends.
+
+IISHSIHREL] If the client does not have the right credentials. we'd expect the server-to-client
+direction to consist of:
+
+1] sending the device's banner
+
+2] sending the prompt for a username
+
+S] sending the prompt for a password
+
+=1] sending another prompt for a password
+
+S] sending ANDTHEFt prompt for a password
+
+S] subsequently giving up. killing the connection. and forcing the client to restart and try again
+
+IISHSIHREL] If the client does have the right credentials. we might expect the server-to-client
+direction to consist of:
+
+1] sending the device's banner
+
+2] sending the prompt for a username
+
+S] sending the prompt for a password
+
+4 thru ?] sending back the output for whatever commands the client runs
+
+IISHSIHFtEL] So. purely based off ofthe above assessment. we would expect unsuccessful logins
+to be consistently small [as in. the number of bytes] in the server-to-client direction. However.
+successful logins will be of variable length. but probably consistently larger in size [in bytes]
+when compared to unsuccessful logins. So. one assumption that I am suggesting is:
+
+“fou can guesstimate whether an SSH session was successful or not *PUHELW based
+off of the size of the session in the server-to-client direction.
+
+IISHSIHFtEL] So. imagine that you do some analysis. and determine that lSDU bytes is roughly a
+good number to differentiate between successfuliunsuccessful SSH login attempts. Any server-
+to-client SSH session below that size is probably an unsuccessful attempt. and any server-
+to-client SSH session over that size is probably a successful attempt. What could you do. armed
+with information like that?
+
+1] 'r'bu could create lists of client IP addresses that consistently are unsuccessful in SSH
+sessions to multiple servers. Then you could put these in a. "probably password
+guessersiprobably brute forcers" list.
+
+2] 'r'bu could also create lists of IP addresses that appear to be successful in having access to
+other IPs. fahhhh yeah. here's where we can have fun]
+
+IISHSIHFtEL] I'm sure there are a plethora of other things you can do with that sort of data. but I'm
+really interested in #2 at the moment. Eiased purely off of:
+
+* FRDM port 22
+
+* session size is greaterthan 1500 bytes
+
+then I can inferthat:
+
+* To IF' = admin
+* From IF = servedrouter
+*The admin appears to have successful access to the server
+
+"Aaaaand?"
+
+IITSHSIHF‘IEL] From here. all I have to do is recycle my methodology from last post! I can scour ALL
+DF SIGINT for sessions that meet the above criteria. harvest a list of "admin IPs". use that as a
+seed list to go back through all ASDF looking for any Active User login events within a time frame
+ofthe SSH session. and now I have personal accounts for people that are probably admins to the
+server IF. So if the server IP is ever in a network that I want access to. I don't have to decrypt the
+admin's SSH session. all I have to do is hope be checked his facebookiwebmail within a certain
+timeframe of SSH'ing to the server. If he did. that selector is now tasked for QUANTUM. and we
+wait to get access to his box.
+
+IISHSIHF‘IEL] Cine of the reasons why I'd only lookfor Active User logins within a certain timeframe of
+an SSH session. is that I want to make sure to find accounts that are actually associated with the
+admin. and not some other random person who happened to receive that same IF' via DHCP the
+next day [or something like that].
+
+IISHSIHREL] The previous few posts have gone into some fun ways that we can harvest the power
+of the SIISINTs to target sys admins of foreign networks. My next post will go into an uber—simple
+waythat we can tryto detect when people other than the legitimate sys admin have access to a
+router {oh yeah. ﬁnd me somrna that cybert].
+
+IISHSIHF‘IEL] I'm sure there are other fun and innovative ways to go about this. feel free to share
+them if you think of any Also feel free to take any of the above thoughtsiideas and use them for
+your own purposes IIlike IAD maintaining a list of IP's that we see password guessing in SISINT‘?].
+As always. if you have any questions. or want more info. feel free to drop me an e-mail or leave a
+comment!
+
+Current Mood:juche-licious
+
+21 comments :: Leave a comment
+
+ 
+
+T-I-F' IZE-I'FLETI_-'!3I_-'_-'FLEL TO USE. F"'-'E"J.'
+
+copyright! {S.-".-"Sl.-".-"FIEL) l hunt people who hack reuters (part 5) E {hide-1'
+
+2012.12.14- 01: Ill} pm
+[In nut reuse
+
+_ _ Entryr tags: cne. discereute. rcnuter. sigdev
+this Image!
+
+ 
+
+IITSHSIHRELII Happy Friday my esteemed and valued Intelligence Cdmmunity cdlleagues! There has
+been a tcpic bf cdnversaticn that has started tb rumble beneath the surface cf the |Cyber—scene
+lately. it's abdut rduter hackingIIfcIr this past. I'm nbt talking abdut ydur hdme ADSL rduter. I'm
+talking abdut bigger rcuters. such as CisccsﬂuniperslHuaweis used by ISPs fdr their
+infrastructure]. Hacking rcuters has been gdcd business fcr us and bur S-eyes partners fcr same
+time ndw. but it is becdming more apparent that bther natibn states are hdning their skill: and
+jdining the scene. Eiefcure | get intc it tdd much. let's gc cver sdme cf the things that sdmedne
+cculd dd ifthey hack a rcuter:
+
+*‘rbu cculd add credentials. allcwing ydurselftd leg in any time ycu chcdse
+
+*‘Tbu cculd addi'change rcuting rules
+
+* ‘T'bu cbuld set up a packet capture capability..imagine running Wireshark an an ISP's
+infrastructure rcuter...|ike a lccal listening pdst fdr any credentials being passed ever the wireflll
+
+* ‘Tbu cculd weaken any ‘v'F’N encryptidn capabilities an the rcuter. fbrcing it td create easily
+decryptable tunnels
+
+*‘rbu cculd install a dcrked versidn cf the Dperating System with whatever functidnality ycu want
+pre-built in
+
+IITSHSIHRELII There are a plethcra cf things ydu cculd dc dnce ydu get ENE access td a
+rcuter...suffice it tc say. getting access tc a rcuter is very gppd fer the actcr. and very bad far
+the victim. Sb. we wduld dbvidusly .Lﬂ'v'E td knew which CDUF‘Itl’lESfECtDFS have access td what dther
+rcuters {especially if it's bur rcutersl. Then the guesticn cdmes dcwn td:
+
+"wa would you identify the fact that sameane has ENE access th a rbuter?”
+
+[TSHSIHRELJ There are a handful bf ways that ybu can tell if anycne has access tb yclur rcuter.
+Like. if you are free tb lbg intd ydur dwn rduter. ydu cduld frequently lag in. run diagndstic
+ccmmands. pull the IDS IIcr. mcre generically. the dperating system file]. hash that file. and
+ccmpare that tc a list bf kncwn-gdbd hashes. But. hcw wculd ybu find but if sbmecne has ENE
+access tb a router that ydu ddn't awn? Hdw wduld ydu identify it if the Chinese had access td a
+rcuter in Eimbabwe? If all ydu have is passive netwdrk trafﬁc that we've cdllected in SIGINT. hcw
+wduld yen dd it?
+
+The rest bf this past relates tb NSA's methdds td detect when cduntries hack rcuters. We
+have redacted it td prevent helping thdse cduntries imprdve their ability td hack fdreign
+rcuters and spy an pedple undetected.
+

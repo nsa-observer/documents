@@ -1,0 +1,3570 @@
+Glenn Greenwald’s No Place to Hide includes the following documents from the Snowden archive.
+For discussion of these documents, please see the hook at the page numbers indicated.
+
+no PLACE?
+
+Edward Snowden,
+
+TﬂﬂﬂE
+GMN
+
+Surveillance State
+Author of With Liberty and Justice for Some and How Would a Patrint Act?
+
+L A
+BUY THE BﬂﬂK:
+aﬂgoncom BAHHE3.-.HﬂﬂLE INDIEBDUND'ﬁ' ﬁtmacmillan
+E-BUUK
+
+awnnkindle UiBonks E3122 nook
+
+GLENNGREENWALDNET
+
+ 
+
+ EW
+
+    
+  
+  
+   
+   
+
+‘ OTAL DNI
+97,111,188,358
+I OIAL DNR
+124,808,692,959
+SIGA J
+504
+CASI: NOIAIIONS
+27,798
+PROCESSING SYSTEMS
+2,431
+
+ 
+
+BOUNDLESSINFORMANT
+
+[EJIIIIIH
+
+United States:
+
+3,095,533,478
+
+Ii- AGGREGAYE
+
+-;- DNI Q DNR
+
+Country View
+
+ 
+
+Page 93
+
+IT IS HEREBY ORDERED that, the Custodian of RecOrds shall produce to the
+National Security Agency (N SA) upon service of this Order, and continue production
+on an ongoing daily basis thereafter for the duration of this Order;r unless otherwise
+ordered by the Court, an electronic copy of the following tangible things: all call detail
+records or “telephony metadata” created by Verizon for communications (i) between
+the United States and abroad; or (ii) Wholly within the United States, including local
+
+telephone calls.
+(Continued)
+
+Page 94
+
+Telephony metadata includes comprehensive communications routing information,
+including but not limited to session identifying information (eg, originating and
+terminating telephone number, International Mobile Subscriber Identity (IMSI) number,
+International Mobile station Equipment Identity (IMEI) number, etc), trunk identifier,
+
+telephone calling card numbers, and time and duration of call.
+
+Page 97
+
+ 
+
+SEGRE‘I'HREL'I'D USA. ADS. CAMGBR, NZUIEOSZO‘IOS
+
+New Collection Posture
+
+ 
+
+ 
+
+Torus increases
+physil access
+
+   
+  
+  
+  
+  
+ 
+   
+
+ 
+
+ 
+
+ 
+
+Work with GCHQ, share
+with MisaWa
+
+ 
+
+ 
+
+ 
+
+Automated FORNSAT
+survey - DARKQUEST
+
+ 
+
+ 
+
+ 
+
+Anal. sis of data at scale:
+LEGANTCHAOS
+
+ 
+
+ 
+
+ 
+
+Increase volume of s' nals:
+ASPHALTIA-PLU
+
+ 
+
+ 
+
+ 
+
+Scale XKS and use
+MVR teChniques
+
+ 
+
+ 
+
+SECRETIIREL TO USA, MUSIII CAN, GER, NZLHZOSZO‘MB
+
+Page 97
+
+ 
+
+ 
+
+TOP SECRETHCOMINTIREL TO USA1 FVEY
+
+.- 4
+ Why TARMAC?
+
+- MHS has a growing FORNSAT mission.
+
+— SHAREDVISION mission.
+
+— SigDev (“Difﬁcult Signals collection").
+
+— ASPHALT (“Collect it All” proof-of-concept system).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 98
+
+Future Plans (U)
+
+(TS/ISIf/REL) In the future, MSOC hopes to expand the number of WORDGOPHER platforms to
+enable demodulation of thousands of additional low-rate carriers.
+
+These
+targets are ideally suited for software demodulation. Additionally, MSOC has developed a
+capability to automatically scan and demodulate si nals as the - activate on the satellites. There are
+
+   
+   
+
+'I I ‘--.I -- ..:sIIa ‘I I w .  small  -. | -» I .v .II ‘;_I. 
+.. .. _ I - I
+
+Page 98
+
+ 
+
+TOP SECREWCOMIN'WREL To USA. FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+Example of Current Volumes anH Limits
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.000.000.011!)
+lTotal
+| MetaDNl
+20.000.000.000 ‘ ' Records
+Deleted
+l Total Records
+ll Tra nsferred
+15.000.000.000 II I to MARINA
+I I
+IRecords in
+DPS FIVE
+Backing
+10.000.000.000 .
+lTotal DNR
+Records
+Received by
+FASCIA
+5.000.000.000 I I  I a : | I I a I 1
+0“ <9 ~94” O” 0*“ '9 °° 0‘" 0‘” 0“” 0" 0"” 0°" C” ° 0° ‘5' 0” 09“
+5"? IQ?  ‘5‘?" ’9 v37  if? {‘16 a}? $65  £31" ‘\‘5 53% by? JD"  \‘0
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SFﬁRET-FICOMINTHREL To USA, FVEY
+
+ 
+
+POLAND - Last 30 Days
+
+5.000.000 —
+
+4.000.000 -
+
+3.000.000 -
+
+2.000.000 -
+
+1.000.000 -
+
+ 
+
+1310
+
+Dec 10
+
+13"”
+
+‘2'13 “"11
+
+‘17-'11
+
+1312 ‘11} 12:11 12":
+
+\\ Signal Proﬁle
+
+1215
+
+DNI
+
+12'“
+12”? 13"
+
+1M 131T 1210
+
+Dec 17
+
+Page 99
+
+mm
+
+ms um
+
+'22!
+
+1202
+1243
+
+01m
+(3-04
+01.0?
+
+a.” mm
+1127 125‘
+
+“'19 13.10 12:71 12:22 17m 174'” 1235 12:26 13.1? U475 HIE 112312813 1213‘- mmmm 01m 0193 PM“ 01/07
+
+Dec 24 Dec 31 Jan
+
+* Top 5 Techs
+
+ 
+
+  
+  
+
+* Most Volume
+
+  
+  
+
+US-916A:
+71.819.443 Records
+
+   
+
+  
+
+Page 100
+
+ 
+
+ 
+
+UK. TOP SECRET STRAP 1 COMINT REL TO UKIUSIAUSICANINZ EYES ONLY
+
+PagelOO
+
+(S/lSI/lREL T0 USA, FVEY) SHELLTRUMPET Processes id’s One Trillionth
+Metadata Record
+
+ 
+
+By[ NAME Remorse ]on 2912-12-31 @738
+
+ 
+
+(S//SI//REL T0 USA, FVEY) On December 21, 2012 SHELLTRUMPET —
+SHELLTRUMPET began as a near—real-time
+metadata analyzer on Dec 8, 2007 for a CLASSIC collection system. In its
+five year history, numerous other systems from across the Agency have come
+to use SHELLTRUMPET'S processing capabilities for performance monitoring,
+direct E—Mail tip alerting, TRAFFICTHIEF tipping, and Real—Time Regional
+Gateway (RTRG) filtering and ingest. Though it took five years to get to
+the one trillion mark,
+, and
+
+  
+ 
+ 
+  
+
+from
+select SSO (Ram—M, OAKSTAR, MYSTIC and NCSC enabled systems), MUSKETEER,
+and Second Party systems. We will be expanding its reach into other 550
+systems over the course of 2013. The Trillion records processed have
+resulted in over 35 Million tips to TRAFFICTHIEF.
+
+Page 102
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 103
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Special Source Operations
+Corporate Partner Access
+
+Briefed by: NAME REDACTE'D ]
+
+BLI‘. RN13? WWW
+
+T ' O P 5 EC BET  C '0 Ml N "J."  N C) E C) R N 9 I 1 E50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+Page 103
+
+ 
+
+ 
+
+T (1)1" SECRET  [TOMINT  NUFURI‘Q-",-"2iﬁi£9l 13?]
+
+Relationships 8. Authorities
+
+ 
+
+   
+
+' Leverage unique key corporate partnerships to gain access to
+high-capacity international fiber-optic cables, switches and/or
+routers throughout the world
+
+ 
+
+Page 104
+
+ 
+
+Access to massive amounts of data
+Controlled by variety of legal authorities
+
+Most accesses are controlled by partner
+
+ 
+
+ 
+
+ 
+
+Page 104
+
+ 
+
+(TS/ISI) US-990 (PDDG-UY) - key corporate partner with
+access to international cables, routers, and switches.
+
+(TS/ISI) Key Targets: Global
+
+ 
+
+ 
+
+Page 105
+
+FAIRVIEW — Corp partner since 1985 with access to int. cables, routers,
+switches. The partner operates in the U.S., but has access to information
+that transits the nation and through itslcorporate relationships provide
+unique accesses to other telecoms and ISPs. Aggressively involved in
+shaping traffic to run signals of interest past our monitors.
+
+Page 105
+
+FAIRVIEW - Last 30 Days DNI « DNR 53, I
+
+300.000.0110 -
+122‘ 12.25
+
+01.“ mm
+1220 '21:
+1318 12'15 mm
+
+250000000 - “WV
+
+11.1!-
+ms 12:15 “’1’
+x2210 1211 W15 12m
+. . . mm
+“"12
+
+200000000 —
+
+12225
+150,000,000 - - - m, m
+
+100,000,000 -
+
+50.000000 —
+
+12"" 12‘” W12 12:13 t2)“ 12.15 1216 11'" 12m Ina 1227 12m was man 1231 01:02 01.03 01-1" mm
+um 17.22 um 12:: was was 13'” "1""
+
+was
+0...
+
+ 
+
+D8610 Del: 17 Dec 24 Dec 31 Jan
+
+ 
+
+   
+  
+
+\\ Signal Proﬁle * Most Volume US'990 Top 5 Techs
+
+6,142,932,557 Records
+
+IEELSON: 176,718,447 Records
+
+ 
+
+ 
+
+SCISSORSZ 2.614234 REC!)de
+
+PagelO6
+
+(TS//SI//NF) ORANGECRUSH, part of the OAKSTAR program under SSO’s
+corporate portfolio, began forwarding metadata from a third party partner
+site (Poland) to NSA repositories as of 3 March and content as of 25 March.
+
+This ro ram is
+
+ 
+ 
+
+ORANGECRUSH is
+only known to the Poles as BUFFALOGREEN. This multi—group partnership
+began in May 2009 and will incorporate the OAKSTAR project of ORANGEBLOSSOM
+and its DNR capability. The new access will provide SIGINT from commercial
+links managed by the NSA Corporate Partner and is anticipated to include
+Afghan National Army, Middle East, limited African continent, and European
+communications. A notification has been posted to SPRINGRAY and this
+collection is available to Second Parties Via TICKETWINDOW.
+
+PagelO6
+
+SILVERZEPHYR FAA DNI Access Initiated at NSAW (TSI/SI//NF)
+
+ 
+
+By NAMEREDACTED on 2009—11—06 0918
+
+ 
+
+ 
+
+ 
+
+(TSI/SI/INF) On Thursday, 11/5/09, the SSO—OAKSTAR
+SILVERZEPHYR (SZ) access began forwarding FAA DNI records
+to NSAW via the FAA WealthyCluster2/Tellurian system
+installed at the partner's site. 550 coordinated with the
+Data Flow Office and forwarded numerous sample files to a
+test partition for validation. which was completely
+successful. $50 will continue to monitor the flow and
+collection to ensure a ny anomalies are identified and
+corrected as required. SILVERZEPHYR will continue to
+provide customers with authorized, transit DNR collection.
+550 is working with the partner to gain access to an
+additional 806bs of DNI data on their peering network,
+bundled in 10 Gbs increments. The OAKSTAR team, along with
+support from NSAT and GNDA, just completed a 12 day SIGINT
+survey at site, which identified over 200 new links. During
+the survey, GNDA worked with the partner to test the output
+of their ACS system. OAKSTAR is also working with NSAT to
+examine snapshots taken by the partner in Brazil and
+Colombia, both of which may contain internal communications
+for those countries.
+
+ 
+
+Page 107
+
+I’|:'II".-»I»I:’I£E| tummy \t‘:-|»::)I;\. 
+
+STORMBREWAt a Glance  I  
+
+ 
+
+   
+
+ 
+
+Seven Access Sites — International “Choke Points”
+
+BRECKENRIDGE} I LINGTON r:
+
+  
+  
+  
+
+ 
+
+ 
+
+ 
+
+TAHOE , ‘ COPPERMOUNTAIN .   = \ --
+WHISTij  I 3. , "" '
+u 4 I“ ,i 1. ' Translt/FISAIFAA
+- h“ * DN L’DN R {content 8: matadata)
+L‘ ' Domestic infrastructure: only
+' Cable StaﬁonfSwitches/Routers (1P
+Backbone}
+a; * Close partnership wXFBl 8:: NCSC
+--7;yr " ,.
+IIXil‘HLI .::,I.. c. c mum rm '1 r 152% ‘ ’
+
+ 
+
+Page 108
+
+TOP SECRETJ/SWORCON/momgy a Hotma" Cookgle    You
+
+    
+  
+
+«.7
+
+(TSHSIHNF)  Operations
+
+T we Types of Collection
+
+ I a      mail *
+
+ 
+
+ 
+
+Upstream
+
+- Collection of communications on ﬁber cables
+and infrastructure as data flows past.
+(FAIRVIEW. STORMBREW. BLARNEY. OAKSTAR)
+urn-r I t - -  'E, l‘“ a“ 
+i .A J a, 
+
+\r ‘
+
+  
+      
+
+ 
+ 
+    
+  
+ 
+
+ 
+
+; F;
+
+  
+
+ 
+
+TOP SECRETIISIJJ’ORCONIINDFORN
+
+ 
+
+ 
+
+Page 110
+
+ 
+
+ 
+
+TOP SECRET/iSU/ORCONJInOF k a! Hotmair Google  i‘ r. - talkie-Mm
+ I.  M  .1 '7‘" ‘  LA“— AOL 3’, man *
+
+(TSHSI/JNF)  Operations
+
+My Use Both: PRISM vs. Upstream
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PRISM Upstream
+9 US. based service Worldwide
+DNI salmtom providers J sources
+DNR Selectors ® Coming soon J “2332136
+Access to Stored
+Communications \/ G
+(Search)
+Real-Time Collection
+(Surveillance) \/ \/
+“Abouts” Collection ® \/
+Voice Collection V Voice over IP J
+Direct Relationship with
+Comms Providers ® only through FBI V
+
+ 
+
+TOP SECRET/ISUIORCONl/NOFORN
+
+ 
+
+Page 110
+
+ 
+
+TOP SECRET/ISUIORCON/INOF 3 Hanna“: G008? 1] TI. - W Ems:qu
+
+AOL :wmail at
+
+  
+
+  Gm“ ’““”°°" YAHOO! .
+
+ 
+
+ (mm PRISM Collection Details « “T's”?
+. a  Afr 77‘/—
+
+What Will You Receive in Collection
+(Surveillance and Stored Comma)?
+
+It varies by provider. In general:
+
+Current Providers
+
+ 
+
+- E-mail
+
+Chat — video, voice
+
+Videos
+
+Photos
+
+Stored data
+
+VoIP
+
+File transfers
+
+Video Conferencing
+
+Notiﬁcations of target activity — logins, etc.
+
+Online Social Networking details
+Special Requests
+
+ 
+
+ 
+
+ 
+
+ 
+
+Complete list and details on PRISM web page:
+Go PRISMFAA TOP SECRETI/SUIORCON/I’NOFORN
+
+ 
+
+Page 111
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+TOP SECRET/ISU/ORCON/IPTOF u I  Hutmair (300816:  .‘ 7. - talkvej‘W-You
+I, GMHII   "A  0L ymail i
+
+ 
+ 
+    
+  
+
+(TS/ISU/NF) Unique Selectors Tasked to
+PRISM (US-984XN) in FY2012
+
+ 32%
+
+in FY12
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Total Selectors
+
+    
+
+Strong Growth in FY12 Tasking:
+> Skype up 248%
+3‘» Facebook up 131%
+75> Google up 63%
+
+20000
+I New Saleem
+15000
+
+10000 -
+
+ 
+
+ 
+
+5000
+
+ 
+
+TOP SECRETIISU/ORCONI/I’JOFORN
+
+ 
+
+ 
+
+Pagelll
+
+(TS/lSI/INF) PRISM {US—984XN) expanded its impact on NSA’s reporting
+mission in FY12 through increased tasking, collection and operational
+improvements. Here are some highlights of the FY12 PRISM program:
+
+PRISM is the most cited collection source in NSA lst Party end—product
+reporting. More NSA product reports were based on PRISM than on any other
+single SIGAD for all of NSA's lst Party reporting during FY12: cited in
+15.1% of all reports (up from 14% in FY11). PRISM was cited in 13.4% of all
+lst, 2nd' and 3rd Party NSA reporting (up from 11.9% in FY11), and is also
+the top cited SIGAD overall
+
+Number of PRISM—based end—product reports issued in FY12: 24,096, up
+27% from FY11
+
+Single—source reporting percentage in FY12 and FY11: 24%
+
+Number of product reports derived from PRISM collection and cited as
+sources in articles in the President's Daily Brief in FY12: 1.42? (13% of
+all SIGINT reports cited as sources in PBS articles — highest single SIGAD
+for NSA): In FY11: 1,152 {15% of all SIGINT reports cited as sources in PDB
+articles — highest single SIGAD for NSA)
+
+Number of Essential Elements of Information contributed to in FY12:
+4,186 (32% of all EEIs for all Information Needs): 22% EEIs addressed
+
+solely by PRISM
+Tasking: The number of tasked selectors rose 32% in FY12 to 45,495 as
+
+of Sept 2612
+Great success in Skype collection and processing: unique, high value
+
+targets acquired
+Expanded PRISM taskable e—mail domains from only 40, to 22,866
+
+Page 113
+
+(TS/{SI/INF) SSO HIGHLIGHT — Microsoft Skydrive Collection Now Part of
+PRISM Standard Stored Communications Collection
+
+By NAME REDACTED on 2013—33—08 1553
+
+(TS/{SI/INF) Beginning on 7 March 2313, PRISM now collects Microsoft
+Skydrive data as part of PRISM's standard Stored Communications collection
+package for a tasked FISA Amendments Act Section 782 (FAAIGZ) selector.
+This means that analysts will no longer have to make a special request to
+350 for this — a process step that many analysts may not have known about.
+This new capability will result in a much more complete and timely
+collection response from 550 for our Enterprise customers. This success is
+the result of the FBI working for many months with Microsoft to get this
+tasking and collection solution established. "SkyDrive is a cloud service
+that allows users to store and access their files on a variety of devices.
+The utility also includes free web app support for Microsoft Office
+programs, so the user is able to create, edit, and view Word, PowerPoint,
+Excel files without having MS Office actually installed on their device."
+(source: 5314 wiki}
+
+Pagell4
+
+{TSf/SII/NF} New Skype Stored Comms Capability For PRISM
+
+ 
+
+By [ NAME RevoTED ] on 2013—94—93 @631
+
+ 
+
+{TS//SI//NF) PRISM has a new collection capability: Skype stored
+communications. Skype stored communications will contain unique data which
+is not collected via normal real—time surveillance collection. SSO expects
+to receive buddy lists, credit card info, call data records, user account
+info. and other material. On 29 March 2813, SSO forwarded approximately 2008
+Skype selectors for stored communications to be adjudicated in SV41 and the
+Electronic Communications Surveillance Unit (ECSU) at FBI. sv41 had been
+working on adjudication for the highest priority selectors ahead of time and
+had about 103 ready for ECSU to evaluate. It could take several weeks for
+SU41 to work through all 2660 selectors to get them approved. and ECSU will
+likely take longer to grant the approvals. As of 2 April, ESCU had approved
+over 30 selectors to be sent to Skype for collection. PRISM Skype collection
+has carved out a vital niche in NSA reporting in less than two years with
+terrorism, Syrian opposition and regime, and exec/special series reports
+being the top topics. Over 2880 reports have been issued since April 2811
+based on PRISM Skype collection, with 76% of them being single source.
+
+Pagell4
+
+(TS/lSI/lNF) SSO Expands PRISM Skype Targeting Capability
+
+By NAME REDACTED on 2013-04-03 0629
+
+(TSI/SIl/NF) On 15 March 2013, SSO's PRISM program began tasking all
+Microsoft PRISM selectors to Skype because Skype allows users to log in
+using account identifiers in addition to Skype usernames. Until now, PRISM
+would not collect any Skype data when a user logged in using anything other
+than the Skype username which resulted in missing collection; this action
+will mitigate that. In fact, a user can create a Skype account using any
+e—mail address with any domain in the world. UTT does not currently allow
+analysts to task these non—Microsoft e—mail addresses to PRISM, however,
+SSO intends to fix that this summer. In the meantime, NSA, FBI and Dept\of
+Justice coordinated over the last six months to gain approval for PRINTAURA
+to send all current and future Microsoft PRISM selectors to Skype. This
+resulted in about 9860 selectors being sent to Skype and successful
+collection has been received which otherwise would have been missed.
+
+PagellS
+
+(TS/ISII/NF) Microsoft releases new service, affects FAA 702 collection
+
+ 
+
+By [ NAMEREDACTED ] on 2012—12—26 0811
+
+ 
+
+(TS/ISII/NF) On 31 July, Microsoft (MS) began encrypting web—based chat
+with the introduction of the new outlook.com service. This new Secure
+Socket Layer (SSL) encryption effectively cut off collection of the new
+service for FAA 702 and likely 12333 (to some de ree) for the Intelligence
+Community (IC).
+
+ 
+
+The SSL solution was applied to all
+current FISA and 702/PRISM requirements - no changes to UTT tasking
+procedures were required. The SSL solution does not collect server—based
+voice/video or file transfers. The MS legacy collection system will remain
+in place to collect voice/video and file transfers. As a result there will
+be some duplicate collection of text—based chat from the new and legacy
+systems which will be addressed at a later date. An increase in collection
+volume as a result of this solution has already been noted by CES.
+
+Page 116
+
+(TSIISIJINFI Expanding PRISM Sharing Hith FBI and CIA
+
+ 
+
+ 
+
+ 
+
+ﬂy sausaeuacno: on 2312—88—31 694?
+
+ 
+
+{TSIJSIJINFJ S cial Source 0 erations {550] has
+
+   
+ 
+  
+
+Through these efforts. 550 has
+created an environment of sharing and teaming across the
+Intelligence Community on PRISM operations. FirstI 550's
+PRINTAURA team solved a problem for the Signals
+Intelligence Directorate ISIDI by writing software whiCh
+would automatically gather a list of tasked PRISM selectors
+every two weeks to provide to the FBI and CIA. This enables
+our partners to see which selectors the National Securit
+A one {NSA) has tasked to PRISM.
+
+ 
+  
+ 
+
+ 
+   
+
+. as
+allowed under the 2933 Foreign Intelligence Surveillance
+Act [FISAI Amendments Act law. Prior to PRINTAURA's work,
+SID had been providing the FBI and CIA with incomplete and
+inaccurate lists, preventing our partners from making full
+use of the PRISM program. PRINTAURA volunteered to gather
+the detailed data related to each selector from multiple
+locations and assemble it in a usable form. In the second
+project, the PRISM Mission Program Manager (MPH) recently
+began sending operational PRISM news and guidance to the
+FBI and CIA so that their analysts could task the PRISM
+system properly, be aware of outages and changes. and
+optimize their use of PRISM. The MPH coordinated an
+agreement from the SID Foreign Intelligence Surveillance
+Act Amendments Act (FAA: Team to share this information
+ueekl which_has been yell—received and a reciated.
+
+Page 117
+
+
+' Driver]: Worldwide SIGINT/Defense Cryptologic
+
+ 
+
+ 
+
+     
+
+  
+  
+   
+   
+     
+   
+ 
+
+—Caraca€ Havana _ Kinshasa Soﬁa _ Berlin 'stina Guatemala 0' STELLAR INDRA
+_'R:gucigalpa Panama Cit)_ mm — Bangkok _ rana — RESC
+
+SOUNDER lﬁONSAND
+SNICK JACKKNIFE
+MOONPEN CARBOY
+NY TIMBERLIN
+LADYLOVE E
+
+I Geneva 3080“! — _ _ _ New Delh- thm Pcnh —_
+I Athens Mexico Cily— — Budapest_ _ Frankfurt Sarajevo _ilan
+
+2:] Accm Pmng Rome BraSilia — _ Prague _ Paris — _-
+
+WWW-dc Quito Managua — Insaa Vanna Rangoon — — In Pan _Jmslcy
+
+53'1-‘05‘3 _ _ — — _7-agmb — _Vienn3 Anne“ “35‘0"
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, ' 1‘0
+
+ “a
+a 0
+
+CN E _ 0 3rd PARTY/LIAISON
+  I; 30 COUnHIe-s
+Implants
+
+ 
+
+ 
+     
+
+>50.000 Worm-wide Implants
+
+0 LARGE CABLE
+
+20 Major Accesses
+
+ 
+
+. FORNSAT
+
+12+40 Regional
+
+TOP SEC '
+
+Page 120
+
+ 
+
+OLYMPIANS IN THE
+
+AND THEY SAID TO THE
+. TITANS: « WATCH OUT
+0 HOUSE! »
+
+ 
+
+. . CSEC — Advanced Network Tradecrafl;
+. SD Conference June 2012
+
+Overall Classiﬁcation: TOP SECRET/[SI
+
+ 
+
+Page 120
+
+ 
+
+ 
+
+OLYMPIA & THE CASE STUDY
+
+CSEC’S Network Knowledge Engine
+
+Various data sources
+Chained enrichmente
+Automated analysis
+
+ 
+
+0L l1"! {PIA
+
+Brazilian Ministry of Mines and Energy (MME)
+
+New target to develop
+Limited accessitarget knowledge
+
+TOP SECRET I! SI
+
+ 
+
+ 
+
+ 
+
+Page 121
+
+TOP SECRET/ISﬂ/REL USA, FVEY
+
+National Security Agency/ 1 3 April 2013
+Central Security Service
+
+Information Paper
+
+ 
+
+Subject: (UIIFOUO) NSA Intelligence Relationship with Canada’
+Communications Security Establishment Canada (CSEC) _
+
+T
+
+Top SECRET/lSl/IREL TO USA, CAN
+
+(U) What NSA provides to the partner:
+
+      
+ 
+
+ 
+
+(Sl/Sll/REL TO USA, CAN SlGlNT: NSA and CSEC coo
+hi h- ri r' co 'es
+
+ 
+  
+  
+  
+
+processing and analytic efforts, and IA capabilities. The intelligence exchang with CSEC cove
+worldwide national and transnational targets. No Consolidated Cryptologic P ogram (COP)
+money is allocated to CSEC, but NSA at times pays R&D and technology co s on shared
+' projects with CSEC.
+
+eve opmen s, crypto ogic capabilities. software and resources for state-of—th -art collection, H
+
+(U) What the partner provides to NSA:
+
+unique geographic access to areas unavailable to the US. ‘
+provades cryptographic products. cryptanalysis, technology. and 8
+Its investment in R&D projects of mutual interest.
+
+ 
+
+ 
+
+Page 122
+
+While we have invested signiﬁcant analytic and collection
+effort of our own to find and exploit these communications, the difﬁculties we face in
+obtaining regular and reliable access to such communications impacts on our abilit}r to detect
+and prevent terrorist acts and diminishes our capacity to protect the life and safety of
+Australian citizens and those of our close friends and allies.
+
+We have enjoyed a long and very productive partnership with NSA in obtaining minimised
+access to United States warranted collection against our highest value terrorist targets in
+Indonesia. This access has been critical to DSD’s efforts to disrupt and contain the operational
+capabilities of terrorists in our region as highlighted by the recent arrest of fugitive Bali
+bomber Urnar Patek.
+
+We would veryr much welcome the opportunity to extend that partnership with NSA to cover
+the increasing number of Australians involved in international extremist activities — in
+particular Australians involved with AQAPi
+
+Page 123
+
+CON F IDENTIAL/IN OFORN/l2029l 123
+
+ 
+
+TIER A
+
+Comprehensive Cooperation
+
+Australia
+Canada
+
+New Zealand
+United Kingdom
+
+ 
+
+TIER B
+
+Focused Cooperation
+
+Austria
+Belgium
+
+Czech Republic
+Denmark
+Germany
+Greece
+
+Hungary
+
+ 
+
+ 
+
+ 
+
+Iceland
+Italy
+
+Japan
+Luxemberg
+Netherlands
+Norway
+Poland
+Portugal
+South Korea
+Spain
+Sweden
+Switzerland
+Turkey
+
+ 
+
+ 
+
+Page 123
+
+TOP SECRET/I COMINT IIREL USA, AUS, CAN, GBR, NZL
+
+Second Parties
+
+Australia
+Canada
+New Zealand
+United Kingdom
+
+Coalitios Mu‘lti-lats
+
+Algaﬂa
+Austria
+Belgium
+
+ A
+ Rapubllc
+Dan’maflé
+Emma
+Firiland
+Fainca
+C‘ar‘man’y‘
+Hungary
+India
+
+bird 
+
+
+Rah]
+Dayan
+Damian
+
+Ma aadonla
+lﬁatharlancla
+Norway
+
+Poland
+Ramania
+ 
+Singapora
+
+TOP SECRET/I COMINT IIREL USA, AUS, CAN, GBR, NZL
+
+Spain
+'awada‘n
+Taiwan
+Thailand
+'mmaa
+Tarkay
+L); F
+
+ 
+
+Page 124
+
+TOP SECRETIICOMINTIINOFORN
+
+ 
+
+ 
+
+1500
+
+ 
+
+1000
+500
+‘diw' '
+I 0 -l- ..
+6° (5 o
+
+o -% A 0
+® \ % 9
+8> 53 é§ &
+
+-
+
+'(b 6‘ $2) ’1}
+
+’b - 0‘? o <0 '9
+x 9 $3 9 $9 Qgé
+
+9
+Q? QQQO} x ng
+
+TOP SECRETIICOMINTIINOFORN
+
+ 
+
+Page 125
+
+[TS//SI//REL) There are also a few surprises... France targets the US DOD
+through technical intelligence collection, and Israel also targets us. On the
+one hand, the Israelis are extraordinarily good SIGINT partners for us, but
+on the other, they target us to learn our positions on Middle East problems.
+
+A NIE [National Intelli ence Estimate]
+
+     
+
+Page 125
+
+Balancing the SIGINT exchange equally between US
+and Israeli needs has been a constant challenge in the
+
+last decade, it arguably —
+
+9/1 1 came, and went, with NSA’S
+only true Third Party CT relationship being -
+
+   
+
+ 
+ 
+
+Page 129
+
+Appli tions Made to the Foreign Intelligence Surveillance Court During Calendar
+12 (section 107r of the Act, 50 U.S.C. § 1307)
+
+  
+  
+  
+
+calendar year 2012, the Government made 1,856 applications to the Foreign
+eillance Court (the “FISC”) for authority to conduct electronic surveillance
+searches for foreign intelligence purposes. The 1,856 applications include
+applications made solely for electronic surveillance, applications made solely for physical search,
+and combined applications requesting authority for electronic surveillance and physical search.
+
+ 
+
+Of these, 1,789 applications included requests for authority to conduct electronic surveillance.
+
+ 
+
+Page 132
+
+.... ".31 v.21 r . —— w‘ -v‘
+
+      I    
+IC EC ' '
+
+(SHNF) NSA populates these ﬁelds in PROTON:
+- Called & calling numbers, date, time 8: duration of call
+
+Communi
+
+(SilSl/IREL) ICREACH users will see telephony metadata“ in the following ﬁelds:
+
+DATE 8; TIME IMEI — International Mobile Equipment
+DURATION — Length of Call Identiﬁer
+
+CALLED NUMBER MSISDN — Mobile Subscriber Integrated
+CALLING NUMBER Services Digital Network
+
+CALLED FAX (CSI) — Called Subscriber MDN — Mobile Dialed Number
+In CLI — Call Line Identifier (Caller ID)
+
+TRANSMITTING FAX (TSII - DSME — Destination Short Message
+Transmitting Subscriber ID Entity
+
+IMSI — International Mobile Subscriber OSME _ originating Short M95533
+Identiﬁer Entity
+
+TMS' — Temporary Mabile SUbscriber VLR — Visitor Location Register
+ldenﬁﬁer
+
+SE:1":FLETlﬁf'il't'ilMIIlI‘T'.r';Ir NDFDRNHEDSZGIDB
+
+ 
+
+Page 135
+
+TOP SECRET] ISII I REL TO USA, FVEY
+
+Private Networks are Important 0
+
+  
+
+D Many targets use private networks.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Google infrastructure SWIFT Network
+REDACTED REDACTED
+REDACTED Gazprom
+Aeroﬂot REDACTED
+French MFA REDACTED
+Warid Telecom Petrobras
+REDACTED REDACTED
+
+ 
+
+ 
+
+0 Evidence in Survey: 30%—40% of trafﬁc in
+BLACKPEARL has at least one endpoint private.
+
+ 
+
+ 
+
+TOP SECRETI/Sl/IREL T0 USA, FVEY
+
+ 
+
+Page 136
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 136
+
+ 
+
+ 
+
+T HP SECRET  C'D Ml NT  M1331]iiﬁsffﬁli'ﬁdﬂ [ 13-3
+
+ 
+
+ 
+
+ 
+
+Caﬂecﬁon Amen
+and. Techniques
+(Hm?)
+
+ 
+
+ 
+
+ 
+
+BREE . 5.]. _
+
+ 
+
+13m 
+
+ 
+
+DHR [limits
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 137
+
+:- '{sﬁrwt‘i‘ it
+
+..-
+
+ 
+
+(TSIISI) US-984 (PDDG: AX) — provides collection
+against DNR and DNI FISA Court Order authorized
+communications.
+
+(TSHSI) Key Targets: Diplomatic establishment,
+counterterrorism, Foreign Government, Economic
+
+ 
+    
+   
+
+5...!"
+
+.
+
+ 
+
+Page 137
+
+ 
+
+ 
+
+TDP'SECRETHSWGRCDNfﬂtlﬂFD H 2 Hum,“- GIDDSIE H ‘I r. _ talkﬂ I m
+CHE!" .iﬂhnh  i "l "i " ADLE-r—maill
+
+  
+
+{'I'SHSIHHEA Week in the: Life: nf PRISM Raparting
+Sampling afReporting Tapimﬁum- 2-3 Feb 20H
+
+ 
+
+-» intarral 53ml?
+~ Pnlillcalhﬁairs
+
+- Japan
+I Tracie
+- lsraal
+
+- Umla
+- Military mmml
+- Gil
+
+ 
+
+Page 138
+
+(U) NSA Washington Mission
+(U) Regional
+
+(T SHSI) 131 is responsible for 13 individual nation states in three continents. One
+
+signiﬁcant tie that binds all these countries together is —
+— The Western Europe and Strategic
+
+Partnerships division primarily focuses on foreign policy and
+
+ 
+
+   
+ 
+ 
+
+(TSHSI) The Ener
+
+y and Resource branch
+
+  
+ 
+
+   
+
+Targets of current emphasis are
+
+  
+ 
+
+, electrical and
+Supervisory Control and Data Acquisition (SCADA) upgrades, and computer
+aided designs of projected energy projects.
+
+Page 139
+
+The more than 100
+
+re orts we received from the NSA
+and ensured that our diplomats were well
+
+prepared to advise President Obama and Secretary Clinton on how to deal with
+contentious issues, such as Cuba, and interact with difﬁcult counterparts, such as
+Venezuelan President Chavez.
+
+Page 139
+
+TOP saanmcoMmrunEL To USA, Gan, ms, cm, NIL
+
+(U/IFOUO) SZC42 surge effort
+(U) Goal
+
+(TS/[SI/IREL) An increased understanding of the
+communication methods and associated selectors of
+Brazilian President Dilma Rousseff and her key advisers.
+
+mp SEanmcoMmrnnEL To USA, can, ms, cm, NIL
+
+ 
+
+Page 140
+
+ 
+
+TOP SECRETJICOMINTJIREL TO USA, GBR, AUS, CAN, NZL
+
+(U//FOU0) SZC41 surge effort
+
+(TS//S|// REL) NSA’s Mexico Leadership Team (SZC41) conducted a
+two-week target development surge effort against one of Mexico's
+leading presidential candidates, Enrique Pena Nieto, and nine of his
+close associates. Nieto is considered by most political pundits to be
+the likely winner of the 2012 Mexican presidential elections which are
+to be held in July 2012. SATC leveraged graph analysis in the
+development surge’s target development effort.
+
+ 
+
+TOP SECRET/[COMINTHREL To USA, GBR, Aus, CAN, NZL
+
+ 
+
+Page 140
+
+TOP SECRET/[COMINT/IREL To USA, GBR, AUS, CAN, NZL
+
+(U) Results
+
+    
+     
+ 
+   
+
+D (S//SI//REL)85489 Text messages
+Interesting Messages
+
+HE dice Jorge [Iuruna Sriu tie EPI'J qua El eatuchu qua EFF. SE 1b
+
+  
+
+:1 tun Hureira nu e3 2351“? '1" pile-s. ua suka saluu que la uiuas a all;11_llen,,ﬁ.ssl:n: III nut. L'EEIIIESEEIILI‘UII'Z. recplesteumzxt requesterlm
+E' (TS//SI//REL) Number for Travel coordinator
+
+0 (TS//S|//REL) Jorge Corona — Close associate of
+Nieto
+
+,Hl Queridu Alex El uueuu titular de Cum. Smalal ES Juan Ramun Flutes su EEl es El
+qriu. Part. Es L10. Miguel Angel Gonzalez Eel rel Nueuu ID de JORGE CORONA Ea un abr:
+
+30 u aeguimus en contactu auisame 31 llegu El msw. par favor.....,
+
+|! 3 mp SECRET/lCOMINT/IREL TO usn, can, AUS, CAN, NZL
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+Page 141
+
+ 
+
+TOP SECRETHCDMIHI'HREL To USA, GER, ms, cm, NIL I
+
+(U) Conclusion
+
+0 (S//REL) Contact graph—enhanced ﬁltering is a
+simple yet effective technique, which may
+allow you to ﬁnd previoust unobtainable
+results and empower analytic discovery
+
+0 (TS//Sl//REL) Teaming with 52C, SATC was
+able to successfully apply this technique
+against high—proﬁle, OPSEC—sawy Brazilian and
+Mexican targets.
+
+ 
+
+TOP sean'mcomH'mREL To USA, GBR, ms, cm, NIL
+
+ 
+
+ 
+
+Page 142
+
+TOP SECETIISIHNOFORN I
+' (U) OPERATIONAL Mill?
+HIGHLIGHT 
+
+       
+
+(TS/ISIIINF) BLARN EY Team assists
+$2C52 analysts in implementing
+Xkeyscore fingerprints that yield
+access to UN. Secretary General
+
+talking points prior to meeting with
+POTUS.
+
+TOP SECRETHSIIINOFORN
+
+ 
+
+ 
+
+Page 143
+
+(Si/SI] BLARNEY Team Provides Outstanding Support to Enable
+UH Security Council Collection
+
+ 
+
+By NAME REDACTED on 2010—05-28 1438
+
+ 
+
+ 
+
+ 
+
+(TS/lSI/INF) With the UN vote on sanctions against Iran
+approaching and several countries riding the fence on
+making a decision, Ambassador Rice reached out to NSA
+requesting SIGINT on those countries so that she could
+develop a strategy. With the requirement that this be done
+rapidly and within our legal authorities. the BLARNEY team
+jumped in to work with organizations and partners both
+internal and external to NSA.
+
+(TS/ISI/INF} As OGC. 5V and the TOPIs aggressively worked
+through the legal paperwork to expedite four new NSA FISA
+court orders for Gabon. Uganda. Nigeria and Bosnia, BLARNEY
+Operations Division personnel were behind the scenes
+gathering data determining what survey information was
+available or could be obtained via their long standing FBI
+contacts. As they worked to obtain information on both the
+UN Missions in NY and the Embassies in DC, the target
+development team greased the skids with appropriate data
+flow personnel and all preparations were made to ensure
+data could flow to the TOPIs as soon as possible. Several
+personnel, one from legal team and one from target
+development team were called in on Saturday 22 May to
+support the 24 hour drill legal paperwork exercise doing
+their part to ensure the orders were ready for the NSA
+Director's signature early Monday morning 24 Hay.
+
+(SIISIJ With OGC and 5V pushing hard to expedite these four
+orders, they went from the NSA Director for signature to
+Dan for SECDEF signature and then to DOJ for signature by
+the FISC judge in record time. All four orders were signed
+by the judge on Wednesday 26 May! Once the orders were
+received by the BLARNEY legal team. they sprung into action
+parsing these four orders plus another "nonmal" renewal in
+one day. Parsing five court orders in one day —-a BLAHNEY
+record! As the BLARNEY legal team was busily parsing court
+orders the BLARNEY access management team was working with
+the FBI to pass tasking information and coordinate the
+engagement with telecommunications partners.
+
+Page 144
+
+TOP SECRETHCOMfNT/fNOFORN
+
+August 2010
+
+(U//FOUO) Silent Success: SIGINT Synergy Helps Shape US
+Foreign Policy
+
+ 
+
+[TS/ / SI / /NF) At the outset of these lengthy negotiations, F
+
+TS SI REL
+
+Noting that Iran continued its non~
+
+compliance with previous UNSC resolutions concernin its nuclear ro ram, the UN im osed further
+ on 9 lune 2m. &
+
+(TS/[SI/IREL] The resolution was ado ted b twelve votes for, two a ainst Brazil and Turke , and
+one abstention from Lebanon.
+
+    
+
+Page 145
+
+1059p 2010
+
+CLOSE ACCESS SIGADS
+
+CLOSE ACCESS SIGADS
+
+All Close Access domestic collection uses the US—3136 SIGAD with a unique
+two-letter suffix for each target location and mission. Close Access overseas
+GENIE collection has been assigned the US—3137r SIGAD with a two-letter suf—
+
+fix.
+
+(Note: Targets marked with an * have either been dropped or are slated to be dropped
+in the near future. Please check with TAO/RTDIROS (961-15785) regarding authorities
+
+status.)
+
+SIGAD U573136
+
+ 
+
+ 
+
+SUFFIX TARGETICOUNTRY LOCATION COVERTERM MISSION
+
+BE Brazil/Emb Wash,DC KATEEL LIFESAVER
+SI BrazillEmb Wash,DC KATEEL HIGH LANDS
+V0 Brazil/UN New York POCOMOKE HIGHLANDS
+HN BraziliUN New York POCOMOKE VAGRANT
+LJ Brazil/UN New York POCOMOKE LIFESAVER
+YL * BulgarialEmb Wash, DC MERCED HIGHLANDS
+QX * Colombia/Trade Bureau New York BANISTER LIFESAVER
+DJ EUIUN New York PERDIDO HIGHLANDS
+SS EUIUN New York PERDIDO LIFESAVER
+KD EUIEmb Wash, DC MAGOTHY HIGHLANDS
+IO EU/Emb Wash, DC MAGOTHY MENERALIZ
+XJ EUiEmb Wash,DC MAGOTHY DROPMIRE
+OF France/UN New York BLACKPOOT HIGHLANDS
+VC France/UN New York BLACKPOOT VAGRANT
+UC FrancelEmb Wash, DC WABASH HIGHLANDS
+LO France/Emb Wash, DC WABASH PBX
+
+NK * GeorgialEmb Wash, DC NAVARRO HIGHLANDS
+BY * GeorgialEmb Wash, DC NAVARRO VAGRANT
+RX GreeceIUN New York POWELL HIGHLANDS
+HB GreeceJUN New York POWELL LIFESAVER
+CD GreecelEmb Wash, DC KLONDIKE HIGHLANDS
+PJ GreecelEmb Wash,DC KLONDIKE LIFESAVER
+
+ 
+
+ 
+
+Page 146
+
+JN Greece/Em!) Wash, DC KLONDIKE
+MO“ IndiaIUN New York NASHUA
+QL * IndiaIUN New York NASHUA
+ON * IndiaIUN New York NASHUA
+IS * India/UN New York NASHUA
+0X * IndialEmb Wash,DC OSAGE
+
+CQ * IndialEmb Wash, DC OSAGE
+
+TQ * India/Emb Wash, DC OSAGE
+
+CU * India/EmbAnx Wash, DC OSWAYO
+DS * IndiaIEmbAnx Wash, DC OSWAYO
+SU * ltaly/Emb Wash, DC BRUNEAU
+MV * Italy/Emb Wash, DC HEMLOCK
+IP * Japan/UN New York MULBERRY
+HF * Japanr'UN New York MULBERRY
+BT * JapanI'UN New York MULBERRY
+RU * Japam'UN New York MULBERRY
+LM * MexicoIUN New York ALAMITO
+UX * SlovakiafEmb Wash, DC FLEMING
+SA * Slovakia/Emb Wash, DC FLEMING
+XR * South Africa.I UN 8: Consulate New York DOBIE
+
+RJ * South Africa! UN & Consulate New York DOBIE
+
+YR * South KorealUN New York SULPHUR
+TZ * TaiwaanECO New York REQUE'I'I'E
+VN * VenezuelalEmb Wash, DC YUKON
+UR * VenezuelaJUN New York WESTPORT
+NO * VietnameN New York NAVAJO
+0U * Vietnam/UN New York NAVAJO
+GV * Vietnamemb Wash, DC PANTHER
+
+SIGAD US-3137
+
+GENERAL TERM DESCRIPTIONS
+
+HIGHLANDS: Collection from Implants
+
+VAGRANT: Collection of Computer Screens
+
+MAGNETIC: Sensor Collection of Magnetic Emanations
+
+MINERALIZE: Collection from LAN Implant
+
+OCEAN: Optical Colleaion System for Raster-Based Computer Screens
+
+PBX
+HIGHLANDS
+MAGNETIC
+VAGRANT
+LIFESAVER
+LIFESAVER
+HIGHLANDS
+VAGRANT
+VAGRANT
+HIGHLANDS
+LIFESAVER
+HIGHLANDS
+MINERALIZ
+HIGHLANDS
+MAGNETIC
+VAGRANT
+LIFESAVER
+HIGHLANDS
+VAGRANT
+HIGHLANDS
+VAGRANT
+VAGRANT
+VAGRANT
+LIFESAVER
+LIFESAVER
+HIGHLANDS
+VAGRANT
+HIGHLANDS
+
+ 
+
+Page 147
+
+LIFESAVER: Imaging of the Hard Drive
+
+GENIE: Multi-stage operation; jumping the airgap etc.
+
+BLACKHEART: Collection from an FBI Implant
+
+PBX: Public Branch Exchange Switch
+
+CRYPTO ENABLED: Collection derived from AO’s efforts to enable cryth
+
+DROPMIRE: passive collection of emanations using an antenna
+
+CUSTOMS: Customs opportunities (not LIFESAVER)
+
+DROPMIRE: Laser printer collection, purely proximal access (**NOT** implanted)
+
+DEWSWEEPER: USB (Universal Serial Bus) hardware host tap that provides COVERT
+link over USE link into a target network. Operates wlRF relay subsystem to pro,
+vide wireless Bridge into target network.
+
+RADON: Bidirectional host tap that can inject Ethernet packets onto the same ta r7
+get. Allows biadirectional exploitation of Denied networks using standard onenet
+
+tools.
+
+Page 149
+
+TOP SECRETl/COMINTNNOFORN
+
+June 2010
+
+(U) Stealthy Techniques Can Crack Some of SlGlNT’s
+Hardest Targets
+
+ 
+
+ 
+
+ 
+
+By: (Uf/FOUO) NMEREDACTED , Chief, Access and Target Development (S3261) ' ; '
+
+IMAGE
+REDACTED
+
+ 
+
+ 
+
+(TS/lSl/JNF) Not all SIGINT tradecraft involves accessing signals and
+networks from thousands of miles away... In fact, sometimes it is very - ‘
+hands—on (literallyl). Here’s how it works: shipments of computer network 
+devices (servers, routers, etc.) being delivered to our targets throughout the world are
+intercepted. Next, they are redirected to a secret location where Tailored Access
+Operations/Access Operations (A0 — 8326) employees, with the support of the Remote
+Operations Center (S321 ), enable the installation of beacon implants directly into our
+targets” electronic devices. These devices are then re-packaged and placed back into
+transit to the original destination. All of this happens with the support of Intelligence
+Community partners and the technical wizards in TAO.
+
+ 
+
+Page 149
+
+(TS//SI//NF) Such operations involving supply-chain interdiction are some of the most
+productive operations in TAO, because they pre-position access points into hard target
+networks around the world.
+
+ 
+
+ 
+
+ 
+
+(TS//SI//NF) Left: Intercepted packages are opened carefully; Right: A “load station”
+implants a beacon
+
+Page 149
+
+ 
+
+(TS//SI//NF) In one recent case, after several months a beacon implanted through supply-
+chain interdiction called back to the NSA covert infrastructure. This call back provided
+us access to further exploit the device and survey the network.
+
+ 
+
+ 
+
+NewCrossProgram
+
+Title of Change:
+Submitter:
+
+$ite(s):
+
+System‘s):
+
+Descrigtion of Change:
+
+Reason for Change:
+
+Mission Impact:
+
+Additional Info:
+
+Last CCB Entm:
+
+Programs Affected:
+
+NAME REDACTED
+
+Page 150
+
+TOP SECRETI/COMINTIIREL TO USA, FVEY
+(Report generated on:4/11/2013 3:31:05PM )
+
+E
+
+New ECP Lead:
+
+Aggroval Priority: C-Routine
+
+APPLE1 :CLEVERDEVICE Proiecqs): No Project(s) Entered
+: HOMEMAKER : DOGHUT
+
+:QUARTERPOUNDER:
+
+QUEENSLAND : SCALLION
+
+: SPORTCOAT :
+
+SUBSTRATUM : TITAN
+
+POINTE : SUBSTRATUM :
+
+BIRCHWOOD : MAYTAG :
+
+Active ECP Count:
+
+EAGLE : EDEN :
+
+Comms/Network : SubSystemgsi: No Subsystem(s) Entered
+Comms/Network :
+
+Comms/Network :
+
+Comms/Network :
+
+Udate software on all Cisco Optical Network Switches.
+
+All of our Cisco ONS SONET multiplexers are experiencing a software bug
+that causes them to intermittently drop out.
+
+The mission impact is unknown. While the existing bug doesn't appear to
+affect traffic, applying the new software update could. Unfortunately, there is
+now way to be sure. We can't simulate the bug in our lab and so it's
+impossible to predict exactly what will happen when we apply the software
+update. We propose to update one of the nodes in NBP-320 ﬁrst to determine
+if the update goes smoothly.
+
+Recently we tried to reset the standby manager card in the HOMEMAKER
+node. When that failed, we attempted to physically reseat it. Since it was the
+standby card, we did not expect that would cause any problems. However,
+upon reseating the card, the entire ONS crashed and we lost all traffic through
+the box. It took more than an hour to recover from this failure.
+
+The worst case scenario is that we have to blow away the entire conﬁguration
+and start from scratch. Prior to starting our upgrade, we will save the
+configuration so that if we have to configure the box from scratch, we can
+simply uploade the saved configuration. We estimate that we will be down for
+no more than an hour for each node in the system.
+
+3/26/2013 8:16:13 AM
+
+We have tested the upgrade in our lab and it works well. However, we can't
+repeat the bug in our lab, so we don't know if we will encounter problems when
+we attempt to upgrade a node that is affected by the bug.
+
+04/10/1316:08:11
+09 Apr Blarne CCB — Blarney ECP board approved
+ECP lead:
+
+Blarney Fairview Oakstar Stormbrew
+No Related Work Tasks
+
+Page 151
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHGOMINTHREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+The Challenge
+
+Collection is outpacing our ability to ingest, process and
+store to the “norms” to which we have become
+accustomed.
+
+ 
+
+Page 152
+
+   
+
+simmering-Elm mammal-m " " '
+..m-
+
+   
+
+ 
+
+(SHSlHREL) Increases NSA communications metadata sharing
+from 50 biliion records to 350+ billion records (grows by 1-2 biliion
+records per day)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sou:
+5qu Yearly Growth
+4003
+g E El Projected DNI
+é 3°”; I DNI
+2qu III Projected PSTN
+3 I PSTN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100}
+
+ 
+
+ 
+
+ 
+
+ 
+
+*{CflREL} lncludes Call Events from 2mi Party SlGlNT Partners (est. 126 Billion
+
+records)-
+SECREFHCDMINTHREL T0 USA, FVEYﬂZlJﬂﬂlﬁﬂ
+
+ 
+
+Page 152
+
+iTotal Call Eirents in NSA PROTON.* est. 149 Billion
+Of those:
+'Total Call Events Non-NSA est, 101 Billion
+
+-Total_ Call Events Non-NSA,  92,000
+'No‘n-NOF‘ORN, Non-H88
+
+ 
+
+'- Non-NSA Events HOT 5h: reahle
+with 5 Eyes [NDFDRN ." HOS]
+
+l Non-NSA Events Share able with
+5 Eyes [Nun-HDFDRH I Non-HOS}
+
+ 
+
+ 
+
+ 
+
+*‘ Fer date range zﬂGUQG-Dﬁ, as. of early July 2006; same
+data has-been aged off system Wrrnmlnmm
+
+ 
+
+Page 154
+
+ 
+
+TOP SECRETI/COMINTHREL TD USA, AUS, CAN, GER, NZL
+
+t KS does with the Sessio?
+
+    
+
+Plug—ins extract and index metadata into
+tables
+
+[sessions] H [processing engine] H {database} H (user queries)
+- ,, - Data base
+
+ 
+
+    
+
+TOP SECRETI/CUMINT/IREL T0 USA, AUS, CAN, GER, NZL
+
+Page 154
+
+ 
+
+     
+
+TOP secaewcommﬂi   a ‘ *
+
+r.
+
+ 
+
+ZIP-IU "4 ins
+
+Plug-in DESCRIPTION
+
+E-mail Addresses ‘ Indexes every E-mail address seen in a session by
+_ both username and domain
+
+Extracted Files Indexes every file seen in a session by both filename
+_ and extension
+
+Full Log Indexes every DNI session collected. Data is
+indexed by the standard N-tupple (IPJr Port,
+_ Casenotation etc.)
+
+HTTP Parser Indexes the client-side HTTP traffic (examples to
+follow)
+
+Phone Number Indexes every phone number seen in a session (e.g.
+7 address book entries or signature block)
+
+User Activity Indexes the Webmail and Chat activity to include
+
+username, buddylist, machine speciﬁc cookies etc.
+
+Top SEEREIGOMINTHREL mnl-JSA Aus, CAN, GB NZL
+
+ 
+
+Page 155
+
+ 
+
+ 
+
+DESCRIPTION
+
+II Plug-in
+
+Indexes the Webmail and Chat activity to include
+username, buddylist, machine speciﬁc cookies etc.
+(AppProc does the exploitation)
+
+Extracts embedded properties of Microsoft Ofﬁce
+and Adobe PDF ﬁles,r such as AUthOl'} Organization,
+date created etc.
+
+User Activity
+
+Document meta-
+data
+
+ 
+
+Page 155
+
+TOP SECRETIICOMINTHHEL TO USA. AUS. CAN, GBR, NZL
+
+Why are we interested in HTTP?
+
+facebook w
+
+ﬁmyspacenom.
+
+I place for friends
+
+Because nearly everything a typical user
+does on the Internet uses HTTP
+
+m .com.'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+©molLru®
+
+ 
+
+ 
+
+TOP SECREI’IICOMINTIIHEL TO USA. AUS, CAN, GBFL NZL
+
+ 
+
+ 
+
+Page 156
+
+Why are we interested in HTTP?
+
+I Almost all web-browsing uses HTTP:
+I Internet surfing
+I Webmail (Yahoo/Hotmail/Gmail/etc.)
+I OSN (Facebook/MySpace/etc.)
+I Internet Searching (Google/Bing/etc.)
+I Online Mapping (Google Maps/Mapquest/etc.)
+
+ 
+
+Page 156
+
+XKS HTTP Activity Search
+
+Another common query is analysts who
+want to see all traffic from a given IP
+address (or IP addresses) to a specific
+website.
+
+ 
+
+Page 156
+
+XKS HTTP Activity Search
+
+' For example let’s say we want to see
+all traffic from IP Address 1.2.3.4 to
+the website www.website.com
+
+' While we can just put the IP address
+and the “host” into the search form,
+remember what we saw before about
+the various host names for a given
+website
+
+ 
+
+ 
+
+Page 157
+
+ 
+
+   
+
+TOP SECRETHGDHINTHREL TO USA, AUS, CAN. GER, NZL
+
+Creating Email Address Queries
+
+1"
+
+f
+1
+
+ 
+
+ 
+
+I Enter usernames and domains into query
+
+Search: Email Addresses
+
+ 
+
+ 
+
+Query Mame: lkmkeithj ‘
+
+ 
+
+as} in  sample
+Justiﬁcation:
+
+ 
+
+ 
+
+ 
+
+Additional Justiﬁcation: V
+
+ 
+
+Miranda Number: | |
+
+ 
+
+Datetime: JiDay V Start: 2009-06—23 ITS 00:00 3 Stop: 2
+
+Email Use me: lbadguy 0r baddudel or badguysemail A)
+
+@Dumain: lyahooeom I
+Mulitiple usemames from
+Subject: l SAME domain can be OR’ d
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOHINTHREL TO USA, AUS, CAN. GER, NZL
+
+ 
+
+Page 158
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Email Addresses Query:
+
+One of the most common queries is (you guessed it) an Email Address Query searching
+for an email address. To create a query for a speciﬁc email address, you have to ﬁll in the
+name of the query, justify it and set a date range then you simply ﬁll in the email
+address(es) you want to search on and submit.
+
+That would look something like this...
+
+Fields 7 Advanced Features 7 Show Hidden Search Fields Clear Search Values Reload Last Search Values
+
+Search: Email Addresses
+
+ 
+
+Query Name: labujihad |
+
+ 
+
+ 
+
+Justification: lmtarget in n africa |
+
+ 
+
+additional Justification: V
+
+ 
+
+Miranda Number: i |
+
+Datetirne: llvlunth V Start: 2DDB-12—24El DIZI:IZIIZI 3 5
+
+Email Usernama: lebujihad |
+
+ 
+
+ 
+
+ 
+
+ 
+
+@Demain: lyahuueum |
+
+ 
+
+ 
+
+ 
+
+Page 158
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+What intelligence do OSN’s
+provide to the IC?
+
+' (S//SI//REL TO USA, FVEY) Insight into the personal
+lives of targets MAY include!
+' (U) Communications
+' (U) Day to Day activities
+
+' (U) Contacts and social networks
+
+' (U) Photographs
+' (U) Videos
+
+' (U) Personnel information (e.g. Addresses,
+Phone, Email addresses)
+
+' (U) Location and Travel Information
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+Page 159
+
+TOP SECRET/ICOMNT/I 0 USA. F‘VEY'
+
+ 
+
+(TS//SI//REL TO USA, FVEY)
+User Activity Possible Queries
+
+Datetime:
+
+Search Fer:
+
+Search Value:
+
+Realm:
+
+Datetime:
+
+Search For:
+
+Search Value:
+
+Realm:
+
+User Activity
+
+1 Day EDIJQ—DQ—El °
+
+USEFHEIITIE
+
+1923456?El€ll [I
+
+feeebeek
+
+'1 Deg,» 2009—09—21 °
+
+user ﬂ EIITIE'
+
+My‘_Usemame
+
+neﬂeg
+
+ 
+
+" Stop: 2009-09-22 0
+
+Stop: 2009—09—22 0
+
+SSO - Last 30 Days
+
+5,000,000,000 —
+
+4,000,000,000 H '9'“
+12'10
+
+ 
+
+3,000,000,000 —
+mo
+2,000,000,000 —
+1,000,000,000 H
+0 _
+Dec 10
+
+ﬁ Signal Proﬁle
+
+12‘12
+
+12:13
+
+a PCS
+
+' INMAR
+MOIP
+a HPCP
+a VSAT
+n PSTN
+v; DNI
+
+lZ‘IS
+
+DNI
+
+Dec 17
+
+Page 159
+ONE 53i- I
+
+1223
+
+12:19 122 ‘75
+120.0
+
+1211
+
+1019 12‘5‘ a1 01 mm
+
+3'18 1270 1“ . ' a :7
+
+53
+k?
+r.
+E
+
+12.25 mm 01.0?
+01005
+
+U‘lv'OS
+
+w 1253
+12;? 12.3
+
+01.01
+
+Dec 24 Jan
+
+Most Volume
+
+#
+
+ 
+
+ems
+
+ 
+
+ XKEYSCORE.
+ 41,996,304,149
+50,192 Records 
+
+.COTS: 5,902,942,040 Re curds
+
+ 
+
+Page 160
+
+ 
+
+    
+ 
+   
+   
+ 
+      
+
+Meta—data from a subset
+of tasked strong-“selectors
+
+Content selected fmm
+dictionary tasked terms
+
+“User Aciivity" meta-data with front end full
+take feeds and. hack—end selected feeds
+
+Unique data beyond user activity from 
+
+front and full take feBds
+
+ 
+
+TOP SECRET/“COMINTI/DRC_ON,REL TD USA.r AUS, CAN, GBR and NZLHZDZQ'I 123
+
+ 
+
+ 
+
+Low
+
+ 
+
+ 
+
+ 
+
+ 
+
+High
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 160
+
+lTS/fSIf/NF} BLARNEY Exploits the Social Network via
+Expanded Facebook Collection
+
+ 
+
+By nun-Emmet!!!) on 2611—63—14 737
+
+ 
+
+ 
+
+ 
+
+(TSIISIIKNFJ 550 HIGHLIGHT - BLARNEY Exploits the Social
+Network via Expanded Facebook Collection
+
+(TS/ISIIINF) On 11 March 2311,
+
+  
+
+DPIs are
+excited about receiving many content fields. such as chat,
+on a sustained basis that had previously only been
+occasionally available. Some content will be completely new
+including subscriber videos. Taken together, the new
+Facebook collection will provide a robust SIGINT
+opportunity against our targets — from geolocation based on
+their IP addresses and user agent, to collection of all of
+their private messages and profile information. Multiple
+elements across NSA partnered to ensure the successful
+delivery of this data. An NSA representative at FBI
+coordinated the rapid development of the collection system:
+550's PRINTAURA team wrote new software and made
+configuration changes; CES modified their protocol
+exploitation systems and the Technology Directorate fast-
+tracked upgrades to their data presentation tools so that
+OPIs could view the data properly.
+
+ 
+
+Page 161
+
+TOP SECRETiiSIiiREL FVE‘I’
+
+m
+
+Exploiting Facebook traffic in the
+passive environment to obtain
+specific information
+
+NAME REDACTED  Devela-pﬁr
+
+Global Telammmunicaﬁnns Exploitation {GTE}
+GCHQ
+
+TOP SECRETii'SIiiREL F’w'E‘ir
+Thh infnnrhaliun is mp1: {mm dladnsura under the Fmdnm of Infam'salian Am 20m and my be subject to mptban undar other UK
+
+"mm‘m" “Hath” Raf“ “mm” mm "3 Gem ' CSDNTAE‘T Imam-mum 'REDACTED
+
+ 
+
+Page 161
+
+TOP SECRETHSIHREL F'i.i“E‘i‘r
+
+@
+
+- Targets increasing usage of Facebook,
+BEBO, MySpace etc.
+
+- A very rich source of information on targets:
+
+- Personal details
+
+- 'Pattern of Life’
+
+- Connections to associates
+- Media
+
+TDP SECRETHSIHREL FVEY
+This infonmlion is exempt from disdosurs under the Freedom of Infonmtianﬁm mm and may be subject to emotion order oﬂur UK
+in“: "man must“ "E m dmmm mm m mm “H CDNTACT [IW'FDRf-‘vIATIDN REDACTED
+
+ 
+
+Page 162
+
+TOP SECRETHSIHREL FVEY
+
+m
+
+- Many targets on Facebook lock down
+their proﬁles, so it is not possible to view
+all of their information...
+
+But passive offers the opportunity to
+collect this information by exploiting
+inherent weaknesses in Facebook’s
+security model.
+
+TOP SECRETL’SIHREL F‘lllE‘l'r
+This information '3 attempt hm dbdosura under the Fmadom of InformatimAct mm and may be subject to empﬁon under oil-tar UK
+mm "mm malaria“ "a a" dwasm mm m EH0 '3" CONTACT INFERMATIDN REDACTE o
+
+ 
+
+Page 162
+
+TOP SECRETHSIHREL F"1.r"E“I"r
+
+CDFE Facet: Dﬂk SE'WEI'S
+
+Users
+
+HabllaJDaaklap Wab-
+hrnwaar or Facabaak
+
+Cllﬁnt Face-hunk Content Det'fvery Network {cum
+Servers
+
+FFﬂﬁIE image-s, album images...
+
+TOP SECRETHSIHREL F"..|I"E“|'r
+111k; infurmatiun is attempt fmm dbﬁusura under the Freedom of Infamﬂﬁanﬁct 213m and may be suhbat tn empﬁan under miter UK
+“Tr” "mm" mum” “5 E" dmmm mm 1“ SCH“ m7 CCINTACT Imam-1.551% 'REDACTED
+
+ 
+
+Page 163
+
+TOP SECRETHSIHREL FVEY
+
+I'm
+
+- Weaknesses
+- Assumed Authentication
+- Security through obscurity
+
+It is possible to dissect the CDN URL's generated by Facebook in order to extract the
+
+Facebook User ID of the user whose picture the ﬁle pertains to. For example, below is a
+typical proﬁle image URL:
+
+REDACTED ‘Z
+
+The text highlighted in green speciﬁcally relates to the speciﬁc server within Facebooks CDN.
+And the text highlighted in yellow is the users Facebook User lD.
+
+TOP SECRET/ISIIIREL FVEY
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be sublect to exemption underiother UK
+
+information legislation. Refer disclosure requests to GCHQ on I_ ._ ‘ _
+CON'I‘AC'I' INI-‘ORMA'I‘ION RlzDAC1 LL)
+
+ 
+
+Page 163
+
+TOP SECRETNSIIIREL FVEY
+
+Target HTFP GET Request for Proﬁle
+
+Image Facebook Content Delivery Network
+
+(CDN) Sewers
+
+Mobilemesktop Web“ Proﬁle Images, album Images...
+
+browser or Facehook
+Client
+
+Passive Collection
+
+Request Profile Profile Image of
+Image Target
+
+Analyst
+
+URL pointing to
+targets Facabook
+Proﬁle Image
+
+TOP SECRETIISINREL FVEY
+This information is exempt from disdosurs under the Freedom of lnfannation Act 2000 and may be suhiect to Exemption under amer UK
+lnfannsttan legﬁslatian- Refer disclosure requests tn GCHQ on CONTACT INFORMATION REDACTED
+
+ 
+
+Page 164
+
+NAME & CONTACT INFORMATION
+REDACTED
+
+TOP SECRETIICOLﬂNTifREL T0 USA, FVEY STRAPI
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be out to oxomn under other UK
+Infon'notion logislaﬂon‘ Rafa: disclosure requesis to GCHQ on CONTACT HFORMATION. REVDACTED
+
+ 
+
+Page 164
+
+~Many airlines are offering on-board mobile
+phone services, particularly for long haul and
+business class (list is growing)
+
+-At least British Airways are restricting the
+service to data and SMS only — no voice
+
+TOP SECRET/fCOMlNTffREL TO USA, FVEY STRAPI
+This Information is exempt from dlsolosuno undortho Freedom of Information Act 2000 and may be subject to ammptlon under other UK
+information legislation. Refer disclosure mquasts to GCHQ on CONTACT INFORMATION REDACTED
+
+ 
+
+Page 165
+
+REDACTED
+
+-G10ba1 coverage via SOUTHWINDS is
+planned in the next year
+
+TOP SECRET/lCOMINT/IREL T0 USA, FVEY STRAP]
+This lnfumﬂon Is exempt from disclosure under the Freedom of Information Act 2000 and 2 be sub : v- ta exam - Hon under other UK
+Infect-nation legislation. Refer disclosure requests to GCHQ on CONTACT INFORMATION REDACTED
+
+ 
+
+Page 165
+
+-Currently able to produce events for at least
+Blackberry phones in ﬂight
+-Able to identify Blackberry PIN and
+
+associated Email addresses
+-Tasked content into datastores, unselected to
+Xkeyscore, further details of usage available
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY STRAPI
+This Information is exempt from disclosure under the Freedom of Information Act 2300 and may be subject to exemption under other UK
+
+lnformtlon legislation. Rofer disclosure mquasts to GCHQ on CONTACT WE DEM A,” ON REDACTED
+
+ 
+
+Page 165
+
+-We can conﬁrm that targets selectors are on board
+speciﬁc ﬂights in near real time, enabling
+surveillance or arrest teams to be put in place in
+advance
+
+-If they use data, we can also recover email
+address’s, Facebook Ids, Skype addresses etc
+-Speciﬁc aircraft can be tracked approximately every
+2 minutes whilst in ﬂight
+
+TOP SECRETIICOWTHREL T0 USA, FVEY STRAPl
+This Information is exempt from disclosure undarthe Froodom of Information Act 2000 I141 may be subject to axomption under other UK
+
+information logislation. Rotor disoiosum mquasts to GCHQ on CONTACT INFORMATION REDACTED
+
+ 
+
+Page 166
+
+ 
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+(U) ANALYTIC DRIVER (CONT.)
+CI(S//S|//REL FVEY) Analytic Question
+
+Given a GSM handset detected on a known
+aircraft ﬂight, what is the likely identity (or
+identities) of the handset subscriber (and vice-
+versa)?
+
+CI(TS//Sl//REL FVEY) Proposed Process
+
+Auto correlation of GSM handsets to subscribers
+observed on two or more ﬂights.
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+ 
+
+ 
+
+ 
+
+E
+
+Page 166
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+(U) GOING FORWARD
+
+D(TS//Sl//REL FVEY) SATC will complete development
+once a reliable THIEVING MAGPIE data feed has been
+
+established
+
+Cl(TS//S|//REL FVEY) Once the QFD is complete, it will
+
+be available to FVEY users as a RESTful web service,
+JEMA component, and a light weight web page
+
+Cl (TS//Sl//REL FVEY) If the $2 QFD Review Panel elects
+to ask for HOMING PIGEON to be made persistent,
+
+its natural home would be incorporation into
+FASTSCOPE
+
+TOP SECRETf/COMINTHREL TO USA. FVEY
+
+ 
+
+ 
+
+ 
+
+Page 167
+
+UHFOUO
+
+Oh Yeah...
+
+I Put Money, National Interest, and
+Ego together, and now you’ re talking
+about shaping the world writ large.
+
+What country doesn ’t want to make
+the world a better place... for
+itself?
+
+UIIFOUO
+
+ 
+
+ 
+
+ 
+
+Page 167
+
+SECRETIIREL TO USA, FVEY
+
+What’ 3 the Threat?
+
+I Let’s be blunt — the Western World
+(especially the US) gained influence and
+made a lot of money via the drafting of
+earlier standards.
+
+The US was the major player in shaping
+today’s Internet. This resulted in pervasive
+exportation of American culture as well as
+
+technology. It also resulted in a lot of money
+being made by US entities.
+
+ 
+
+Page 168
+
+ 
+
+ 
+
+ 
+
+“.r‘} - 1 £ '2'“ '-' " we
+7, ,1" , ,
+
+Internet x ‘
+Wireless
+
+High-Speed
+Circuits
+
+Pagers
+Facsimile
+Satellite
+
+ 
+
+ 
+
+Page 187
+
+BACKGROUND (U)
+
+(T S//SI//REL TO USA, FVEY) A previous SIGINT assessment report on
+radicalization indicated that radicalizers appear to be particularly vulnerable in the area
+of authority when their private and public behaviors are not consistent. (A) Some of the
+vulnerabilities, if exposed, would likely call into question a radicalizer's devotion to the
+jihadist cause, leading to the degradation or loss of his authority. Examples of some of
+these vulnerabilities include:
+
+- Viewing sexually explicit material online or using sexually explicit persuasive
+language when communicating with inexperienced young girls;
+
+0 Using a portion of the donations they are receiving from the susceptible pool to
+defray their own personal expenses;
+
+- Charging an exorbitant amount of money for their speaking fees and being
+singularly attracted by opportunities to increase their stature; or
+
+0 Being known to base their public messaging on questionable sources or using
+language that is contradictory in nature, leaving them open to credibility
+challenges.
+
+(TS//SI//REL TO USA, FVEY) Issues of trust and reputation are important when
+considering the validity and appeal of the message. It stands to reason that exploiting
+vulnerabilities of character, credibility, or both, of the radicalizer and his message could
+be enhanced by an understanding of the vehicles he uses to disseminate his message to
+the susceptible pool of people and where he is vulnerable in terms of access.
+
+ 
+
+Page 188
+
+(U) Manhunting Timeline 2010
+—
+
+Jump to: navigation, search
+Main article: Manhunting
+
+See also: Manhunting7 Timeline 2011
+See also: Manhunting Timeline 2009
+See also: Manhunting Timeline 2008
+
+(U) The following manhunting operations took place in Calendar Year 2010:
+
+[git] (U) November
+Contents
+
+[editl (U) United States, Australia, Great Britain, Germany, Iceland
+
+(U) The United States on 10 August urged other nations with forces in Afghanistan, including Australia, United
+Kingdom, and Germany, to consider ﬁling criminal charges against Julian Assange, founder of the rogue Wikileaks
+Internet website and responsible for the unauthorized publication of over 70,000 classiﬁed documents covering the Lar
+in Afghanistan. The documents may have been provided to Wikileaks by Army Private First Class Bradley Manning. The
+
+.r I     7“.  
+
+  
+
+piﬂﬁ'r‘  :‘
+
+   
+ 
+
+ 
+
+Page 189
+
+[ﬂ] (TS/lSI/IREL) Malicious foreign actor == disseminator of US data?
+
+Can we treat a foreign server who stores, or potentially disseminates leaked or stolen US data on it's server
+as a 'malicious foreign actor' for the purpose of targeting with no defeats? Examples: WikiLeaks,
+
+thepiratebay.org, etc.
+
+NOC/OGC RESPONSE: Let us get back to you. (Source #001)
+
+[Q] (TS/lSI/IREL) Unknowingly targeting a US person
+
+I screwed up...the selector had a strong indication of being foreign, but it turned out to be US...now
+what?
+
+NOC/OGC RESPONSE: With all querying, if you discover it actually is US, then it must be submitted and
+go in the OGC quarterly report...— (Source #001)
+
+Page 190
+
+“using online techniques to make something
+happen in the real or cyber world”
+
+Two broad categories:
+—- Information Ops (inﬂuence or disruption)
+- Technical disruption
+
+Known in GCHQ as Online Covert Action
+
+The 4 D’s: Deny/ Disrupt/ Degrade / Deceive
+
+TOP sscnemcomN'rQREL ‘I’O usag, AU§._cAN. GBR, uzr.
+
+ 
+
+ 
+
+Page 191
+
+- Set up a honeygtrap
+- Change their photos on social networking sites
+0 Write a blog purporting to be one of their victims
+
+- Email/text their colleagues, neighbours, friends etc
+
+TOP SEC RETIIGOMINTIIREL TO USA. AUS, CAN, GER, NZL
+
+ 
+
+ 
+
+Page 191
+
+ 
+
+ 
+
+ 
+
+CK
+
+Honey-bop: a great option. Van! 5mm“ When It m.
+- Get oomeone to go mayhem on the lntemet, or a phyaical locaﬂon to be met by a "friendly face'.
+- JTFtIG boo me mainly to “shape‘ [he omiromnt on moms.
+
+Photo charge; you have been women. 'JTREG is abwtil'
+Can take 'pararatﬂa' to a whole raw level.
+
+Emalmext
+
+- Inﬂlb'alim work.
+
+- Helps JTFth mire credibility wnh onl'no groups etc,
+- Hans with bringing SIG-INTiEﬁeots together.
+
+Page 192
+
+Bombard their phone with text messages
+Bombard their phone with calls
+
+Delete their online presence
+
+Block up their fax machine
+
+TOP SECRETIICOMINTIIREL TO USA, ADS, CAN, GBR. NZL
+
+ 
+
+ 
+
+Page 192
+
+- Send them a virus:
+
+- AMBASSADORS RECEPTION — encrypt itself} delete
+all emails, encrypt all fileslr make screen shake, no
+more log on
+
+- Conduct a Denial of Service attack on their computer
+
+TOP SECRETIICOMINTIIREL TO USA. AUS. CAN, GER, NZL
+
+ 
+
+ 
+
+Page 193
+
+ 
+
+Why do an Effects Operation?
+
+0 Disruption v Traditional Law Enforcement
+
+0 SIGINT discovered the targets
+
+0 Disruption techniques could save time and money
+
+TOP SECRETIICGMINT/[REL AUSICAN/NZIU KJUS
+
+ 
+
+Page 193
+
+ 
+
+Effects on Hacktivisim
+
+0 Op WEALTH — Summer 2011
+
+0 Intel support to Law Enforcement —— identiﬁcation of top
+targets
+
+0 Denial of Service on Key Communications outlets
+
+0 Information Operations
+
+TOP" SECRETHCDMINTHREL TO USA, AUS. CAN, GER. NZL
+
+ 
+
+ 
+
+Page 194
+
+SE CRETJ'.II Sli'J'FlEL TO USA. FVE‘T'
+
+DISRUPTION
+Operational
+Playbook
+
+- Infiltration Operation
+
+- Ruse Operation
+
+' Set Piece Operation
+
+- False Flag Operation
+
+- False Rescue Operation
+- Disruption Operation
+
+- Sting Operation
+

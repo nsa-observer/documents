@@ -1,0 +1,986 @@
+discussion
+TOP SECRET STRAP]. COMIllT
+The maximum allowed on GCWiki is TOP SECRET STRAPl COMINT. Click to
+
+JTRIG tools and techniques
+
+navigation
+
+JTRIG Capabilities
+
+search [ ]JTRIG tools
+
+60 Search
+toolbox
+
+Contents
+
+l*2
+
+This page was last
+modified on 5 July 2012, at
+13:05. This page has
+
+been accessed 19,579
+times.
+
+We don‘t update this page anymore, it became somewhat of a Chinese menu for effects operations. Information is now available for JTRIG staff at [
+
+[ ] Understanding this page
+
+Tools and techniques are developed by various teams Within JTRIG. We like to let people know when we have something that we can think we can use,
+but we also don‘t want to oversell our capability.
+
+For this reason, each tool indicates its current status. We may put Lip experimental tools or ones that are still in development so you know what we are
+working on, and can approach JTRIG with any new ideas. But experimental tools by their nature will be unreliable, if you raise expectations or make
+external commitments before speaking to Lis you will probably end Lip looking stupid
+
+Most of our tools are fully operational, tested and reliable. We Will indicate when this is the case; however there can be reasons why our tools won‘t work
+for some operational requirements (eg if it exploits a provider specific vulnerability). There may also be legal restrictions,
+
+So please come and speak to JTRIG operational staff early in your operational planning process.
+
+[ ] Current Priorities
+
+Capability Development Priorities can be fond by following the link below
+
+ 
+
+[edit] Engineering
+
+Tool/System Description Status Contacts
+
+Collects on-going usage information about how many users utilise
+JTRIG's UIA capability, what sites are the most frequently visited etc.
+This is in order to provide JTRIG infrastucture and ITServices
+management information statistics.
+
+Cerberus
+Statistics
+Collection
+
+OPERATIONAL JTF‘IG Software Developers 
+
+JTRIG
+
+RADIANT is a 'Data Diode' connecting the CERBERUS network with GCl-IET OPERATIONAL JTF’IG Software Developers :_‘l
+SPLENDOUR
+
+ALLIUM ARCH JTRIG UIA via the Tor network OPERATIONAL JTPIG Infrastructure Team :I
+ASTRAL
+
+PROJECTION
+
+TWILIGHT
+
+ARROW
+
+Remote GSM secure covert internet proxy using TOR hidden services. OPERATIONAL JTPIG Infrastructure Team Ll
+
+Remote GSM secure covert internet proxy using VPlrl services. OPERATIONAL JTPIG Infrastructure Team r_'l
+
+JTRIG's new Infrastructure. FOREST WARRIOR, FRUIT BOWL, JAZZ
+SPICE ISLAND FUSION and other JTRIG systems will form part of the SPICE ISLAND JTPIG Infrastructure Team :_'|
+infrastructure
+POISON
+Safe Malware download capability. DESIGN JTPIG Infrastructure Team :l
+ARROW
+CERBERUS UIA Replacement and new tools infrastructure — Primary
+FRUIT BOWL Domain for Generic User/Tools Access and TOR split into 3 sub- DESIGN JTPIG Infrastructure Team Ll
+systems.
+JTRIG Tor web browser - Sandbox IE replacement and FRUIT BOWL
+
+sub-system
+
+NUT ALLERGY PILOT JTPIG Infrastructure Team :l
+
+BERRY
+TWISTER
+
+BERRY
+TWISTER+
+
+BRANDY SNAP JTRIG UIA contingency at Scarborough. IMPLEMENTATION JTPIG Infrastructure Team :I
+WIND FARM R&D offsite facility. DESIGN JTPIG Infrastructure Team :_‘I
+
+JTRIG's legacy UIA desktop, soon to be replaced with FOREST
+WARRIOR.
+
+BOMBAYROLL JTRIG's legacy UIA standalone capability. OPERATIONAL JTPIG Infrastructure Team Ll
+
+A sub-system of FRUIT BOWL PILOT JTPIG Infrastructure Team :_'I
+
+A sub-system of FRUIT BOWL PILOT JTPIG Infrastructure Team :lm]
+
+CERBERUS OPERATIONAL JTPIG Infrastructure Team r_'l
+
+BOMBAY ROLL Replacement which will also incorporate new collectors
+— Primary Domain for Dedicated Connections split into 3 sub-systems.
+
+COUNTRY FILE A sub-system of JAZZ FUSION OPERATIONAL JTPIG Infrastructure Team :l
+
+TECHNO
+VIKING
+
+JAZZ FUSION+ A sub-system of JAZZ FUSION DESIGN JTPIG Infrastructure Team :_‘I
+
+BUMBLEBEE
+DANCE
+
+AIR BAG JTRIG Laptop capability for field operations. OPERATIONAL JTPIG Infrastructure Team r_'|
+EXPOW GCHQ'S UIA capability provided by JTRIG. OPERATIONAL JTPIG Infrastructure Team :l
+AXLE GREASE The covert banking link for CPG OPERATIONAL JTPIG Infrastructure Team :l
+POD RACE JTRIG'S MS update farm DESIGN JTPIG Infrastructure Team :I
+WATCHTOWER GCI=IET -> CERBERUS Export Gateway Interface System OPERATIONAL JTPIG Software Developers ﬂ
+REAPER CERBERUS -> GCNET Import Gateway Interface System OPERATIONAL JTPIG Software Developers :_‘l
+DIALd External Internet Redial and Monitor Daemon OPERATIONAL JTPIG Software Developers =_'l
+
+FOREST
+WARRIOR
+
+DOG HANDLER JTRIG's development network DESIGN JTPIG Infrastructure Team :I
+JTPIG Infrastructure Team :_‘I
+
+JAZZ FUSION IMPLEMENTATION JTPIG Infrastructure Team :_'I
+
+A sub-system of JAZZ FUSION DESIGN JTPIG Infrastructure Team :_‘I
+
+JTRIG Operational VM/TOR architecture OPERATIONAL JTPIG Infrastructure Team Ll
+
+Desktop replacement for CERBERUS DESIGN JTPIG Infrastructure Team :I
+
+DIRTY DEVIL JTRIG'S research network DESIGN
+
+ 
+
+[edit] Collection
+
+Tool
+AIRWOLF
+
+ANCESTRY
+
+BEARTRAP
+
+BIRDSONG
+
+BIRDSTRIKE
+
+BUGSY
+
+DANCING
+BEAR
+
+DEVILS
+HANDSHAKE
+
+DRAGON'S
+SNOUT
+
+EXCALIBUR
+
+FATYAK
+
+FUSEWIRE
+
+GLASSBACK
+
+GODFATHER
+
+GOODFELLA
+
+HACIENDA
+
+ICE
+
+INSPECTOR
+
+LANDING
+PARTY
+
+Description
+
+YouTube profile, comment and video collection.
+
+Tool for discovering the creation date of yahoo selectors.
+
+Bulk retrieval of public BEBO profiles from member or group 1D.
+
+Automated posting of Twitter updates.
+
+Twitter monitoring and profile collection. Click here for the User Guide.
+
+Goog|e+ collection (circles, profiles etc.)
+
+obtains the locations of WiFi access points.
+
+ECI Data Technique.
+
+Paltalk group chat collection.
+
+acquires a Paltalk UID and/or email address from a Screen Name.
+
+Public data collection from Linkedln.
+
+Provides 24/7 monitoring of Vbulliten forums for target postings/online activity, Also allows
+
+staggered postings to be made.
+
+Technique of getting a targets IP address by pretending to be a spammer and ringing them.
+
+Target does not need to answer.
+
+Public data collection from Facebook,
+
+Generic framework for public data collection from Online Social lletworks.
+
+is a port scanning tool designed to scan an entire country or city. It uses GEOFUSIOi-i to
+identify IP locations. Banners and content are pulled back on certain ports. Content is put into
+the EARTHLIHG database, and all other scanned data is sent to ONE and is available through
+
+GLOBAL SURGE and Fleximart.
+
+is an advanced IP harvesting technique.
+
+Tool for monitoring domain information and site availability.
+
+Tool for auditing dissemination of VIKING PILLAGE data.
+
+Contacts
+
+JTPIG Software
+Developers :_:l
+JTF‘iG Software
+Developer-3 r_'l
+
+Developer  
+
+JTF‘lG '3 oftware
+
+Status
+
+Beta release.
+Fully
+Operational.
+Fully
+Operational.
+Decomissioned.
+Replaced by
+SYLVESTER.
+Fully
+Operational.
+
+Tech Leads:-|n early
+
+[Tech Lead:-
+
+Expert
+User:
+
+[Tech Lead:-
+
+Expert
+User:
+Tech Leads:.
+
+JTF'lG Fu‘rft'w'ar‘e
+Developers 21
+
+[Tech Lead:
+
+JTF'lG Software
+Developers J
+JTPIG Software
+Developers :_'|
+[Tech Lead:
+
+[Tech Lead:
+
+IJAC HACIEI IDA
+Taskers :_‘|
+
+JTPIG Software
+Developers :l
+JTF‘IG Software
+Developers :_'|
+
+JTF‘IG Software
+Developers :_‘|
+
+Fully
+Operational.
+
+Fully
+Operational.
+
+Beta release.
+
+Fully
+operational
+(against current
+Paltalk version)
+
+In development
+
+Fully
+operational.
+
+Fully
+operational.
+
+In Development
+(Supports
+RenRen and
+Xing).
+
+Fully
+operational.
+
+Fu||y
+Operational.
+Fully
+Operational.
+
+ 
+
+MUSTANG
+
+SYLVESTER
+
+Active skype capability Provision of real time call records (SkypeOut and SkypetoSkype) and
+bidirectional instant messaging, Also contact lists.
+
+Tool for collection for downloading a user's files from Archiveorg.
+
+provides covert access to the locations of GSM cell towers.
+
+A technique to actively grab the IP address of an MSll messenger user.
+
+Facebook application allowing collection of various information
+
+An ICTR developed system to identify P2P file sharing activity of intelligence value. Logs are
+accessible via
+
+Allows batch l-lmap scanning overTOR
+
+A tool for regularly downloading gmail messages and forwarding them onto CERBERUS
+mailboxes
+
+Find private photographs of targets on Facebook.
+
+Framework for automated interaction /' alias management on online social networks.
+
+A technical programme allowing operators to log on to a JTRIG website to grab IP addresses of
+
+Internet Cafe's.
+
+An Office Document that grabs the targets Machine info, files, logs, etc and posts it back to
+GCHQ.
+
+A programme that (hopefully) provides advance tip off of the kidnappers IP address for HMG
+personnel,
+
+Distributed network for the automatic collection of encrypted/‘compressed data from remotely
+hosted JTFEIG projects.
+
+A version of the MUSTANG and DAl-lCIllG BEAR techniques that allows us to pull back Cell
+Tower and WiFi locations targeted against particular areas.
+
+Fully
+operational, bth
+note usage
+restrictions.
+
+Fully
+J Operational
+
+[Tech Lead:-
+
+Expert Fully
+
+User: Operational.
+
+Operational, but
+usage
+restrictions.
+
+Tech Lead:
+
+Fully
+operational, bth
+A note operational
+restrictions.
+[Tech Lead:
+Expen
+User:
+
+in Development
+J
+
+Fully
+_'l Operational.
+
+Tech Lead:
+
+Tech Lead:
+In Development.
+
+Replaced by
+_.l HAVOK.
+
+In Development.
+
+ech Lead:
+U -Operatlonal, bth
+
+
+
+a
+
+awaiting field
+trial,
+
+Operational
+_'l
+[Tech Lead:
+In development,
+
+ 
+
+[ ]
+
+Effects Capability
+
+JTRIG develop the majority of effects capability in GCHQ. A lot of this capability is developed on demand for specific operations and then further
+developed to provide weaponised capability.
+
+Don‘t treat this like a catalogue. If you don‘t see it here, it doesn‘t mean we can't build it. If you involve the JTRIG operational teams at the start of your
+operation, you have more of a chance that we will build something foryou.
+
+For each of our tools we have indicated the state of the tool. We only advertise tools here that are either ready to fire or very close to being ready
+(operational requirements would re-prioritise our development). Once again, involve the JTRIG operational teams early.
+
+Tool
+
+BOMB BAY
+
+GESTATOR
+
+GLITTERBALL
+
+PITBULL
+
+POISONED
+DAGGER
+
+Description
+
+is a tool that will permanently disable a target's account on their computer.
+
+is a tool to test the effect of certain types of PDU SMS messages on phones / network. It
+also includes PDU SMS Dumb
+
+is an automated system developed by JTRIG CITD to support JTRIG
+
+operations. BUMPERCAR operations are used to disrupt and deny Internet-based terror
+videos or other material. The technique employs the services provided by upload providers
+to report offensive materials.
+
+is the capability to increase website hits/rankings.
+
+mass delivery of email messaging to support an Information Operations campaign
+is the capability to send spoofed SMS text messages.
+
+is the capability to send repeated text messages to a single target.
+
+Masquerade Facebook Wall Posts for individuals or entire countries
+
+Seine work in progress to investigate IRC effects.
+
+Overt brute login attempts against online forums
+
+is the capability to scatter an audio message to a large number of telephones, or
+repeatedly bomb a target number with the same message.
+
+Ability to aid-geolocation of Sat Phones /' GSM Phones via a silent calling to the phone.
+
+Ability to artificially increase traffic to a website
+
+Deployable pocket-sized proxy server
+
+amplification of a given message, normally video, on popular multimedia websites
+(‘1’ o utu b 9).
+
+Online Gaming Capabilities for Sensitive Operations. Currently Second Life.
+
+For connecting two target phone together in a call.
+
+Capability, under development, enabling large scale delivery of a tailored message to
+users of Instant Messaging services.
+
+Effects against Gigatribe. Built by ICTR, deployed by JTRIG.
+
+Status C ontacts
+
+ech Lead:
+Ready to fire (but U
+
+see target
+
+. . Expert
+restrictions).
+
+User:
+
+Ready to fire (l-lot
+against live
+targets, this is a
+RED Tool).
+
+[Tech Lead:
+
+Expert User:]
+
+Read to fire.
+y J
+
+[Tech Lead:
+In Development.
+
+Ready to fire. A
+J
+J
+
+Ready to fire,
+Ready to fire.
+
+[Tech Lead:
+Ready to fire
+
+(SIGIIIT sources Expert User;
+required)
+
+Tech Lead:-
+
+Expen
+User:
+
+A
+
+HOT READY TO
+FIRE.
+
+Ready to fire.
+
+[Tech Lead:
+
+Expert User-
+
+_‘I
+_‘l
+[Tech Lead: 7;
+
+Expert User:-
+
+[Tech Lead:
+
+Ready to fire,
+
+Ready to fire,
+
+In-development
+
+In development,
+
+Tested .
+
+In development.
+
+Tech Lead:-
+
+ 
+
+PREDATORS
+FACE
+
+ROLLING
+THUNDER
+
+SCARLET
+EMPEROR
+
+SCRAPHEAP
+CHALLENGE
+
+SERPENTS
+TONGUE
+
+SILENT
+MOVIE
+
+SILVERBLADE
+
+SILVERFOX
+
+SILVERLORD
+
+SKYSCRAPER
+
+SLIPSTREAM
+STEALTH
+MOOSE
+
+SUNBLOCK
+
+Swam p
+donkey
+
+TORNADO
+ALLEY
+
+UNDERPASS
+
+VIPERS
+TONGUE
+
+WARPATH
+
+[edit]
+Tool
+
+HOME PORTAL
+
+CYBER COMMAND
+
+CONSOLE
+
+NAMEJAC KER
+
+Targeted Denial Of Service against Web Sewers.
+
+Distributed denial of service using P2P. Built by ICTR, deployed by JTRIG.
+
+Targeted denial of service against targets phones via call bombing.
+
+Perfect spoofing of emails from Blackberry targets.
+for fax message broadcasting to multiple numbers.
+SSH services.
+
+Targeted denial of service against
+
+Reporting of extremist material on DAIL‘fMOTIOl‘l.
+
+List provided to industry of live extremist material files hosted on FFUs.
+
+Disruption of video-based websites hosting extremist content through concerted target
+discovery and content removal.
+
+Production and dissemination of multimedia via the web in the course of information
+operations.
+
+Ability to inflate page views on websites
+
+is a tool that will Disrupt target's Windows machine. Logs of how long and when the effect
+
+iS active.
+
+Ability to deny functionality to send/receive email or view material online.
+
+is a tool that will silently locate all predefined types of file and encrypt them on a targets
+
+machine.
+
+is a delivery method (Excel Spreadsheet) that can silently extract and run an executable
+
+on a target's machine.
+
+Change outcome of online polls (previously known as HUBILO)
+
+is atool that will silently Denial of Service calls on a Satellite Phone or a GSM Phone.
+
+ivlass delivery of SlvlS messages to support an Information Operations campaign
+
+Work Flow Management
+
+Description
+
+A central hub for all JTRIG Cerberus tools
+
+community.
+
+Aweb service and admin console for the translation of usernames between networks. For use with
+
+gateways and other such technologies.
+
+A centralised suite of tools, statistics and viewers fortracking current operations across the Cyber
+
+Tech Lead:
+
+Tech Lead:
+
+|.|.
+
+JTPIG Software
+
+Read to fire.
+y Developer's ﬂ
+
+Ready to fire, but
+see constraints.
+
+[Tech Lead:
+In redevelopment. Expert
+
+User:
+
+ch L ad:
+Ready to fire. [Te 8
+
+|.l'.l
+
+[Tech Lead:
+Expert User:
+
+Ready to fire.
+
+I
+
+[Tech Lead:
+Ex ert User:
+
+Ready to fire.
+
+[Tech Lead:
+Expert User:
+
+Ready to fire.
+
+[Tech Lead: Section
+X; Expert Users:
+Language Team]
+Ready to fire. JTPIG 0'30 :l
+Ready to fire (but [Tech Lead:
+
+see target
+restrictions).
+Tested, but
+operational
+limitations.
+
+Ready to fire.
+
+Expert User:]
+
+[Tech Lead: Section
+X; EX)ert User
+
+ech Lead:
+Ready to fire (but U
+
+see target
+
+Exaert User:
+restrictions). l
+
+ech Lead:
+Ready to fire (but U
+
+see target
+restrictions).
+
+Expert User:
+
+[Tech Lead: Section
+
+In development. X; Expert User:
+
+l
+
+ech Lead:
+Ready to fire (but U
+
+see target
+Expert User:-
+
+restrictions).
+JTPIG 0'30 :_-1
+Ready to fire.
+
+Developer's :_'l
+JTF'IG ‘E-oftware
+Develcper's :_'|
+JTF'IG 'E-ottwar'e
+Developer’s 
+
+ 
+
+[edit] Analysis Tools
+
+Tool Description Contacts
+
+is a tool that bulk queries web mail addresses and verifies whether they can be signed Lip for. A green tick JTF‘IG Software
+indicates that the address is currently in use. Verification can currently be done for Hotmail and Yahoo. Developers i_l
+
+BABYLON
+
+is a JTRIG tool that runs against data held in llEWPlll. It then displays this data in a chart to show links JTF‘IG 'E-oftvvaie
+between targets. Developers i_l
+
+CRYOSTAT
+
+is a suite of tools for monitoring target Lise of the UK auction site eBay (WWW.eiJay.CO.le). These tools are JTF‘IG 'E-oftvvaie
+hosted on an Internet server, and results are retreived by encrypted email. Developer‘s i_l
+
+is a JTRIG tool that aims to provides the capability to identify trends in seized computer media data and JTF‘IG Software
+metadata. Developer‘s i_l
+
+PRIMATE
+
+JTRIG will shortly be rolling 0th a JEDI pod to every desk of every member of an Intelligence Production [Tech Lead:-
+Team. The challenge is to scale up to over 1,200 users whilst remaining agile, efficent and responsive to -Expert User:
+customer needs.
+
+ech Lead:
+JILES is a JTRIG bespoke web browser. [T-E r]
+xpe ser:
+
+is a distributed realtime event aggregation, tip-off and tasking platform utilised by JTRIG as a middleware JTPIG Software
+layer. Developers i_l
+
+MIDDLEMAN
+
+JTF‘IG Software
+
+OUTWARD is a collection of OHS lookup, WHOIS Lookup and other network tools.
+Developers i_l
+
+is a bqu search tool which queries a set of online resources. This allows analysts to quickly check the JTPIG Software
+online presence of a target. Developers i_l
+SCREAMING
+EAGLE
+
+TANGLEFOOT
+
+is a tool that processes kismet data into geolocation information
+
+is a data index and repository that provides analysts with the ability to query data collected from the JTP'C" Smware
+
+SLAMMER Internet from various JTRIG sources, such as EARTHLll-JG, HACIENDA, web pages saved by analysts Demope's '4'
+etc.
+
+[edit] Databases
+
+Tool Description Contacts
+BYSTANDER is a categorisation database accessed Via web service. JTF‘IG 'E-oftwale Developers J
+
+is a database of C2C identifiers for Intelligence Community assets acting online,
+either under alias or in real name,
+
+CONDUIT JTF‘IG 'E-oftware Developers T_l
+
+is a database of C2C identifiers obtained from avariety of unique sources, and a
+suite of tools for exploring this data.
+
+NEWPIN JTF‘IG Software Developers T_i
+
+[Tech Lead:—Expert Users: -
+
+QUINCY is an enterprise level suite of tools for the exploitation of seized media.
+
+[edit] Forensic Exploitation
+
+Tool Description Contacts
+
+can extract WiFi connection history (MAC and timing) when supplied with a copy of the {Tech Lead:_Expert
+registry structure or run on the box. User:]
+
+Uech Lead
+
+BEARSCRAPE
+
+The Sigint Forensics Laboratory was developed within USA. It has been adapted by JTRIG
+as its email extraction and first-pass analysis of seized media solution.
+
+Snoo is a tool to extract mobile phone data from a copy of the phone's memory (usually supplied [Tech Lead—
+W as an image file extracted through FTK.
+
+is a tool to extract data from field forensics' reports created by Celldek, Cellebrite, XRY, [Tech Lead
+MobileHoover Snoopy and USIlvl detective. These reports are transposed into a llewpin XML format to 
+upload to llewpin.
+is a tool developed by l~lTAC to search disk images for signs of possible Encryption [Tech Lead:
+products. CMA have further developed this tool to look for signs of Steganography.
+
+Expert User:
+
+ 
+
+[ ]
+
+Tool
+
+SPACE
+ROCKET
+
+RA! IA
+
+[ ]
+
+Tool
+
+WURLITZER
+
+Techniques
+
+Description Contac1s
+Ability to spoof any email address and send email under that identity
+Real-time website cloning technique allowing on-the-fiy alterations
+
+End-toEnd encrypted access to a VPS over SSH using the TOP network
+
+Tech Lead:
+
+
+
+User:
+
+is a programme covering insertion of media into target networks.
+to enable JTRIG track images as part of SPACE ROCKET.
+
+is a tool developed by
+
+is a system developed by
+intended for use by
+
+providing CAPTCHA-solving via aweb service on CEPBEPUS, This is Tech Lead:
+
+and possibly in future by but anyone is welcome to Lise it. -Expert Us
+
+A system that finds the avatar name from a SecondLife AgentlD J
+
+Beaconed Microsoft Office Documents to elicrte a targets IP address.
+
+Shaping and Honeypots
+
+Description Contacts
+URL shortening service
+
+Secure one-to-one web based dead-drop messaging platform
+
+File-upload and sharing website
+
+CGI HTTP Proxy with ability to log all traffic and perform HTTPS Man in the Middle.
+Public online group against dodgy websites
+
+Image hosting and sharing website
+
+Distribute a file to multiple file hosting websites.
+
+ 
+
+TOP SECRET STRAPl COMIHT
+The maximum
+
+allowed on GCWiH is TOP SECRET STRAPZL COMINT. Cliclzto
+
+ 
+

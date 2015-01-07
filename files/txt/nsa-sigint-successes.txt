@@ -1,0 +1,147 @@
+ 
+
+ 
+
+Discovered -opposition individuals who could have possibly been traveling with the ships of interest .
+
+ 
+
+Our Approach
+
+- Queried over 900 towers and other selectors in MAINWAYISEDB in attempt
+to discover any identiﬁable selectors around the coordinates of interest.
+
+- Created another query based on identiﬁed selectors of interest to pull for
+any cell fan information in order to more precisely locate each selector of
+interest.
+0 Queried in SEDB ship data on the ships of interest and plotted the track the g
+ships took into
+- Identiﬁed selectors by cell fan information seen near the ports where the
+ships of interest had docked. Also correlated any selectors moving in
+relation to the ships‘ movements using cell fan data.
+
+ 
+
+ 
+
+Mission Example and Result: The HAPPYFOOT analytic aggregates leaked location-based service I location-aware application data
+to infer IP address geo-locations. SDS identiﬁed ‘Public' and ‘private' usage of the same IP address that caused HAPPYFOOT to
+assign -netblocks to —geo-Iocations (the IP address was used in both countries). This private network is now
+
+being realmed and properly geo-located. Ongoing work will solve this realming problem for networks affecting other cloud analytics.
+
+ﬂ .mw I...—
+
+Our Approach
+
+~Tracked .target’s converged communications and CNE accesses.
+
+- Monitored passive internet traffic; created automated processes where
+possible (XKS ANCHORMAN, Workﬂows, Fingerprints).
+
+- Provided TAOIGCHQ with WLleleSL accounts, Cookies,
+GooglePREFle to enable remote exploitation.
+
+- Partnered with NGA and R4 to conﬁrm locations and USRP equipment
+based on collected photographs.
+
+- Drove CNE collection and partnered with TAO to increase USRP
+speciﬁc endpoint accesses.
+
+- Provided knowledge to interagency partners for potential on the ground
+survey options and FBI-led intelligence guiding efforts.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Sl/SII/REL T0 USA, FVE‘I’} MetadatalTarget Discovery: Analyze DNRIDNl/Conyergence
+metadata for target discovery, identify gaps in collection, processing, and analytic
+methodologies; Improye metadata collection and processing; Create analytics that
+automate or improve analytic methodologies; Conduct target discovery through multiple
+technology thrusts, including endpoint, wehwbased technologies/sewices, mobile
+applications and networks, geo»|ocation analysis, correlations/identity Analysis, Social
+Network Analysis; Collaboration/facilitation with TAO, S3, CIA, ODNI, 550, CES, and SSG
+
+centers.
+
+NSA signal-surveillance success stories
+4 Pages - Contributed by Matt DeLong, Washington Post- Dec 05, 2013
+
+Excerpts from an April 2013 National Security Agency presentation detailing signal surveillance techniques and successes.
+
+How the NSA uses tower dale to find new targets I'p '2:-
+
+D'tsooye red _op position Individuals who opuld hays possibly been traveling with the sh=ps of interest
+
+Our Approach
+
+- Duened oyer Stu-i} towers and other selectors ll'l MNNWAWSEDB .n attempt _ I
+to disooyer any :deritiﬁaoie selectors around the mordtnates of interest.
+
+- Created another query based on iden L-t'ied selectors of interest to pull to! 
+any oe!| fan information i'I'l order to more precisely Iooate eaoh selector oi —
+Interest.
+
+* Dueried n SEDE ship date on the ships of interest and plotted the traps the
+ships tooit into
+
+v Identities selectors try oeil fan information seen near the ports where the
+ships of interest had dookeo. Also oooetated any seieotors moying :n-
+relation to the ships‘ moyements using oeli fan data.
+
+ 
+
+Whm is H11 PPTFUDT" [|.l. 2|
+
+Hinton Example and Result; The HAPPYFGGF ana'ytio aggregates leaked mason-hams semen. ' scenes-aware separation data
+to infer :P assess pea-masons. EDS roentfeo 'F‘u'Jl-I: and private usage aftt'e same IP address that oauset: HHPFTFDDT to
+ass-gs-oetsecss to—geo-ocat-oos itne tP address. was use: =n both oo.nL*es_i THE pniraie network :5. now
+hemp reail'nec and prop-Edy get-4mm Chop we work nt- !' some L'ts ream-1'3 problem ‘I:Ir networks aﬁectng thf Had she'd-cs
+
+Wh-‘IHECNE" [p 32-
+
+Dur Appraise h
+
+Wrecked-target's oonyerged oommun-oasons and CNE aoeesses.
+
+- Monitored passive intemet traﬁio: CFEﬂtEd automated processes I.Irhere
+possible [IKE ANCHGRMAN. Woridlows. Fingerprints}.
+
+Google tracking cookie used to pmpoinl largets ip. 31
+
+'- Proyided TAUFGCHCI with WLLydsIDSL acou'urit's. Cookies,
+GooolePREF IDs to enable remote exploitaton
+
+NSA partnered With “GA to. Sit
+
+- Partnered-with NBA and Rd to mnﬁrm locations and USRF' equipment
+eased on detected photographs.
+
+ 
+
+What to MD? (p. 3]
+
+speoﬁs snap-amt accesses.
+
+DNFt-‘DNI nietadala [p 4:
+
+[SHEWREL TD USA, FVE‘ri MetadatafTarget Discovery: Analyze DNWDNIIEonyergence
+metadata for target discovery, identify gaps in collection, processing, and analytic
+methodologies; Improve metadata collection and processing: ICreate analytics that
+automate or improve analytic methodologies; Cortcluct target discovery through multiple
+technology thrusts, including endpoint; web-based technologiesfseruices, mobile
+applications and networks, gen-location analysis, correlationsficientity Analysis, Social
+Network Analysis; [oliaborationjfacilitat'ion Iwith TM], 53, CIA, DDNI, 55E}r ICES, ant:l SEE
+centers.
+
+ 
+
+ 
+

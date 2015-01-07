@@ -1,0 +1,54 @@
+(S//SI) Topic: Exploiting Terrorist Use of Games & Virtual Environments
+
+(TS// SI) Issue: We know that terrorists use many feature-rich Internet communications media
+for operational purposes such as email, VoIP, chat, proxies, and web forums and it is highly
+likely they will be making wide use of the many communications features offered by Games and
+Virtual Environments (GVE) by 2010. The SIGINT Enterprise needs to begin taking action now
+to plan for collection, processing, presentation, and analysis of these communications. With a
+few exceptions, NSA can’t even recognize the traffic, and therefore it is impossible to even say
+what percentage of the environment is GVE, let alone determine how targets are using the
+communications features of GVEs. However, GVEs offer a SIGINT/HUMINT opportunity space
+and more research is needed to ﬁgure out effective exploitation.
+
+(S// SI) GVEs today allow individuals to gather with like-minded others online. Many GVEs
+offer communications such as private chat (P2P), group chat, chat to an alias, and broadcast chat
+—both text and voice. Also many GVEs allow convergent technologies to intermingle such as
+XboxLive! which can be run via an Xbox360 gaming console and/or connect via a PC to normal
+MSN chat. Second Life offers the ability to anonymously text to a GSM phone (SMS) and soon
+they will offer anonymous voice calls so that phone numbers do not have to be known by either
+party and won’t show up in collection. Some GVEs allow third party interfaces which allow
+limited functionality from a web browser. This overcomes obstacles such as a high-bandwidth
+requirement and or not being allowed to download software (think Internet cafe usage). In
+addition, many GVEs are able to be used via mobile devices connected wirelessly (phones,
+handhelds, laptops). Connected to the GVEs, specialized forums and other social networking
+sites have sprung up to provide an additional place to interact, connect, or share. These sites and
+any others can be advertised in the GVEs, so that if a terrorist web forum has to move locations it
+can be found by its members again. Areas/ groups can be access-restricted, member-only. They
+are essentially private meeting places, and can be used for planning, comms, and training, etc.
+GVEs are used for collaboration, Forterra’s 3D world is coming to JWICS to do this IC-wide.
+
+(U//FOUO) GVEs have been made that reinforce prejudices and cultural stereotypes while
+imparting a targeted message or lesson both from the Western point of view and in the Middle
+East. America’s Army is a US. Army produced game that is free download from its recruitment
+page and is acknowledged to be so good at this the army no longer needs to use it for
+recruitment, they use it for training. The Lebanese Hizballah has taken this concept and the same
+basic game design and made its own version of the game called Special Forces 2 (SF2), which its
+press section acknowledges is used for recruitment and training in order to prepare their youth to
+“fight the enemy”, a radicalizing medium, the ultimate goal is to become a suicide martyr. One
+cannot discount the “fun factor” involved—it is important to hold your target audience’s
+attention-- and makes ingesting the message not even noticeable. SF2 features multi-player, on-
+line text and voice chat for up to 60 players simultaneously, effectively acting like a VPN or
+private chat forum. SF2 is offered at $10 a copy and so also goes to fund terrorist operations.
+
+(S// SI) These games offer realistic weapons training (what weapon to use against what target,
+what ranges can be achieved, even aiming and ﬁring), military operations and tactics,
+photorealistic land navigation and terrain familiarization, and leadership skills. While complete
+military training is best achieved in person, perfection is not always required to accomplish the
+mission. Some of the 9-11 pilots had never ﬂown a real plane, they had only trained using
+
+ 
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+

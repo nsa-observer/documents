@@ -1,0 +1,583 @@
+TOP SECRET STRAPl
+Innov
+
+Experiment Profile
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Name Cryptanalytic Experiment
+SerVIces Reference
+Version Date
+(NSA) NSAIS3ICES
+Experiment Owner — Department GCHQIPTD
+(GCHQ)
+Experiment Start Date 06l01l2010 Experiment End Date Early 2011
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part 1 — Experiment Overview
+
+ 
+
+Business Case I
+
+ 
+
+ 
+
+As part of the Joint Capability Activity (JCA) in partnership with GCHQ, experiments
+are to be conducted within the Joint Capability Experiment (JCE) to test the
+robustness, scalability and interoperability of cryptanalytic services integrated into
+the corporate high speed DNI architectures of each agency. The cryptanalytic
+services experiment will explore a new hardware configuration for sensitive
+cryptanalytic mission applications integrated into a secure processing enclave
+interfacing to the corporate high speed DNI architecture. This will also include the
+testing of hardware accelerated decryption at the frontend. The business case for
+running this experiment is to demonstrate the following:
+
+— Stress the processing capability under heavy load of “tasked” common
+internet encryption technologies
+— Test the throughput capability of common internet encryption
+technologies processing including:
+- Higher bandwidth common internet encryption technologies
+streams
+- Throughput of ISLANDTRANSPORT messaging support for CA
+Service requests to NSAW LONGHAUL key recovery service
+- The temporary storage of encrypted data while waiting for a
+response from LONGHAUL
+— Test the Hardware accelerated (CAVIUM card) common internet
+encryption technologies processing component
+— Test the impact of XKEYSCORE as Stage 2 of TU RMOIL for follow on
+processing of exploited common internet encryption technologies
+
+ 
+
+ 
+
+streams
+lnnov8 Experiment Profile Template V0.2 1 Of 8
+This iiiiorriiaiioii is exempL from disclosure under Llie Freedom of liilormailoii ACL 2000 and may be sleleeL Lo exempiloii wider
+
+oLlier UK liilormailoii legislation. Reler Lllselosure requests to GCHQ Ull
+
+TOP SECRET STRAPl
+
+ 
+
+TOP SECRET STRAPl
+
+ 
+
+Benefits
+
+ 
+
+ 
+
+ 
+
+Outcome Expected Benefit How will KPI (CSF) Reference
+benefit be Number
+measured?
+
+ 
+
+Validation of the new
+hardware chosen for
+cryptanalytic
+processing
+
+ 
+
+Integration of hardware
+accelerated decryption
+
+ 
+
+Ability to cope with high
+throughput and
+bandwidth of common
+internet encryption
+technologies
+
+ 
+
+Ability to prioritize
+processing
+appropriately
+
+ 
+
+Ability to process
+multiple common
+internet encryption
+technologies
+exploitation capabilities
+concurrently
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plan
+
+ 
+
+ 
+
+The cryptanalytic Services processing experiment will consist of several additive
+experiments. The first two will mostly consist of preparatory work. The subsequent
+experiment will explore scalability and interoperability.
+
+Note that the below list is not exhaustive; this represents the initial list of experiments
+to be conducted in JCE with respect to cryptanalytic services. Subsequent
+experimentation upon conclusion of the below experiments will be negotiated with
+INNOV8 as appropriate.
+
+EXP. 1: Test dataflow (~1 month) This experiment will set up and configure the new
+cryptanalytic processing hardware as well as basic dataflows into the cryptanalytic
+services for further experimentation. Streaming dataflows of common internet
+encryption technologies and ISLANDTRANSPORT dataflows to LONGHAUL for
+cryptanalytic recovery will be established. This experiment will ensure that the
+cryptanalytic services can properly process data using existing capabilities from NSA-
+centric TURMOIL systems. Additionally. the appropriate analytics will be put in place
+and evaluated to identify viable candidate input streams (case notations) containing
+the common internet encryption technologies of interest.
+
+EXP. 2: Stress testing (~1 month) This experiment will stress test the current suite of
+cryptanalytic services to identify the baseline throughput and scalability parameters.
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 2 Of 8
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 anti may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on—
+TOP SECRET STRAP].
+
+ 
+
+ 
+
+TOPSECRETSTRAPl
+
+ 
+
+This experiment will leverage and validate candidate input streams (case notations)
+containing the common internet encryption technologies of interest.
+
+EXP. 3: Integration of new cryptanalytic processing functionality (4-6 months)
+This experiment will introduce new and enhanced capabilities to increase throughput,
+scalability and interoperability. This will include but not be limited to hardware
+accelerated decryption, agile management of buffered encrypted data. the
+development of an interoperable API for sharing CA services requests across
+NSAICES and GCHQIPTD key recovery architectures, the ability for follow-on
+processing architectures to consume large volumes exploited common internet
+encryption technologies of interest.
+
+ 
+
+ 
+
+PUT Involvement
+
+ 
+
+ 
+
+Team members include:
+
+0 NSA
+- CES
+- Tll
+- T53
+o GCHQ
+- CCNE/PTD
+
+ 
+
+ 
+
+Migration Approach
+
+ 
+
+ 
+
+ 
+
+The goal is to transition new cryptanalytic capabilities as they are tested and validated
+in the JCE environment into the JPC operational environment to provide mission
+value.
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 3 Of 8
+
+This information is exempt from disclosure under the Freedom of lnlormation Act 2000 and may be subject to exemption under
+other UK inlormation legislation. Reler disclosure requests to GCHQ on
+
+TOPSECRETSTRAPl
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAPl
+
+Part 2 - Experiment Detail
+
+ 
+
+High Level Description of
+Experiment
+
+ 
+
+ 
+
+ 
+
+Same as Business case.
+
+ 
+
+ 
+
+System & Network Diagrams
+
+ 
+
+ 
+
+System & Network Diairams
+
+Exploitation of Common Internet Encryption
+Technologies
+
+  
+ 
+  
+  
+
+ 
+
+ 
+
+Validation of
+results
+
+ 
+
+CA Service Requests
+
+  
+ 
+ 
+
+«— -i>
+NSAICES
+
+Enclave
+boundary
+
+ 
+
+Storage
+Of a ncrypted
+co rite nt
+
+  
+
+H ardware
+Accelerated
+Decryption
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hardware Requirements
+
+ 
+
+The cryptanalytic services experiment requires the inclusion of 4 IBM 3650 M3
+servers (2 servers per 106 LPT) to run the sensitive cryptanalytic mission
+applications. The cryptanalytic processing servers are dedicated to cryptanalytic
+processing and are firewalled off from the rest of the LPT system. These are an
+extension of the NSA/CES cryptanalytic enclave and can only be administered by
+CES approved sys-admins. This will include appropriately cleared GCHQIPTD for
+monitoring and auditing purposes. The individuals will need to have a minimum of ECI
+PIQARESQU E. The results of cryptanalytic processing will be TSIISIIREL FVEY for
+the purposes of this experiment.
+
+ 
+
+ 
+
+Software Requirements
+
+ 
+
+ 
+
+ 
+
+Owner should detail here any additional software requirements and the steps taken to procure the
+required items. Note: All software shouid be registered with SAM.
+
+ 
+
+Innov8 Experiment Profile Template V0.2 4 Of 8
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information iegislation. Refer disclosure requests to GCHQ on
+
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAPl
+
+ 
+
+Connectivity (Dataflows)
+
+ 
+
+ 
+
+The success of the cryptanalytic services experiment relies on the ability to extract
+and pass crypto-synch parameters associated with common internet encryption
+technologies to NSAW/LONGHAUL for cryptanalytic attack and recovery. The crypto-
+synch parameters are extracted in the cryptanalytic processing servers and passed to
+NSAWILONGHAUL via a corporate messaging system (ISLANDTRANSPORT)
+connection. The messages are encrypted prior to leaving the cryptanalytic processing
+servers using the secure corporate messaging software (ISLANDHIDEAWAY) for
+security and authentication.
+
+ 
+
+ 
+
+Data Requirements
+
+ 
+
+ 
+
+This experiment will leverage and validate candidate input streams (case notations)
+containing the common internet encryption technologies of interest.
+
+ 
+
+ 
+
+Data Repositories
+
+ 
+
+ 
+
+ 
+
+Legalities
+
+ 
+
+ 
+
+ 
+
+ 
+
+Additional Support
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Access
+
+ 
+
+ 
+
+ 
+
+ 
+
+External Dependencies
+
+ 
+
+ 
+
+ 
+
+ 
+
+Previous I Related Work
+
+ 
+
+ 
+
+ 
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 5 Of 8
+
+This information is exempt from disclosure under the Freedom of lnlormation Act 2000 and may be subject to exemption under
+
+other UK inlormation legislation. Reler disclosure requests to GCHQ on —
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAPl
+
+Innev8 Experiment Profile Template V0.2 6 Of 8
+
+Tiiis iiiforriidlioii is (‘XGHHJL from disciosiiro Liiidor Lilo Froodorii of IiilorriidLioii ACL 2000 and may be SUiJjL‘CL Lo (‘XL‘HHJUUH LIHLiL‘i'
+
+oLiiUr UK iiilorriiaLioii iogisldlioii. RL‘iL‘i' disclosure requests to GCHQ UH—
+TOP SECRET STRAP].
+
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+Access Control
+
+ 
+
+ 
+
+Serial Access Given Full Name HRA Training ECI Cleared Role PF No.
+YIN
+
+e.g. Root/User — Y Developer 11111
+
+ 
+
+Innov8 Experiment Profile Template V0.2 7 Of 8
+
+Tlris information is exempL from disclosure Lmder Lire Freedom ol InformdLiori Am 2000 and may be subject to exenmliori Lmder oLiIer UK irilormaliorr legisldLi
+
+TOP SECRET STRAPl
+
+SEG Reviewers
+
+Post
+GCH Service Owner
+NSA Service Owner
+|nnov8 Service Man
+|nnov8 En ineeri
+|nnov8 Su rt Team
+|nnov8 Co Iiance Man
+Data Owner
+Selector
+ACD (Dataflow)
+
+echni
+
+nt Team
+
+8808 Representative
+OP P-LEG
+
+IT Services
+IT Services
+Bude SSE
+TFE-SSE
+TPS
+
+SAM Re resentative
+Secu Worki Grou
+
+ude
+
+TOPSECRETSTRAPl
+
+ 
+
+Changes to Experiment Profile
+
+Version Amendment Date
+
+|nnov8 Experiment Profile Template V0.2
+
+es to the
+
+ 
+
+80f8
+
+III-IIIIIIIIIIII
+TOPSECRETSTRAPl
+

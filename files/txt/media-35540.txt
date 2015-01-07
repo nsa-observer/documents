@@ -1,0 +1,2070 @@
+(Cl/REL) Internet Anonymity 2011
+
+5.5-? _ "i All. I J I.
+“It:  I ah Til-:- _‘ . . I all ; I” I. I  _. d I I I J- ' JI 
+ In}: ._ 5‘3.   ,, " _-_._.. ._  f  I 3%.. h
+\- ii .a Hit" ' L '- - _ _._  *- 
+
+        
+
+:-
+
+- NSA ($31323)
+
+   
+ 
+   
+
+',|- - - 1--
+‘f-Flgi'1“! 5"! '-'-* .1
+r . -_ “I... I—' IL? --_I - I-IJI‘ I. I
+
+NSTS
+
+atmw
+
+ 
+
+TOP SEgRETf/COMINT REL TO USA,FVEY . . - I - ' —- .1 .. 
+
+(Cl/REL) What is Internet Anonymity?
+
+ll“f:  We}? 1   I ‘1' '1'. In   -= “ﬁffu’f I _
+'  ga- —  - t-AQTMl-mtz    I g .  
+
+1—-
+
+  
+      
+
+    
+    
+ 
+  
+  
+    
+  
+    
+   
+   
+
+ 
+
+ 
+
+l1
+
+' (U) Many Possible Meanings/Interpretations
+
+- (SI/REL) Simply Not Using Real Name for Email
+- (SI/REL) Private Forum with Unadvertised Existence
+- (SI/REL) Unlocatable Endpoint on Internet
+
+° (SI/REL) This Talk Concerns Endpoint Location
+
+- (SI/REL) The Network Address (IP Address) is Crucial
+
+- (SI/REL) It is Not Always Sufficient, However
+
+° (SI/REL) Dynamic IP Address
+° (SI/REL) Mobile Device
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - I r ' _ -e .2 .— l :1!
+
+ . I'- 1H1" h ' I'_Il . q- -
+Aiﬂir ‘  _  .
+
+(Cl/REL) What is Internet Anonymity?
+
+      
+ 
+
+- (SI/REL) Encryption Can Simply Hide Content
+
+    
+   
+   
+  
+    
+ 
+   
+  
+  
+ 
+
+- (SI/REL) Anonymity Masks the MetaData and hence association with user
+
+- (S/lSI/IREL) Importance of MetaData to SIGINT post-2001 can not be overstated
+
+- (SI/REL) There is also anonymity specifically for publishing information Q
+° (SI/REL) Beyond the Scope of this Talk! “d
+
+° (U) Anonymity is the antithesis of most business transactions (but encryption may be 
+crucial) '~
+
+- (U) Authentication for monetary exchange 
+- (U) Marketing wants to know customer well i
+
+- (U) The same goes for Taxing Authorities :-)
+
+ 
+    
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+(Cl/REL) Who Wants Internet
+Alon ' 9
+
+        
+  
+      
+
+ 
+
+_ n
+i I I I III-I‘ll? I“. I. - i“ I!” Pr. I'lg -
+.'.II' ' Ii: “a, n. '- 1' I. 1'! II I  I -' ' -' --' "-"I
+-  ﬂax _  I.  .  ~  A: ‘t. . .k _  1
+I I  ' 'i.‘ .I ; __ .r - a.
+
+° (U) All Technology is Dual-Use
+
+- (U) Nuclear Weapon to Plug Oil Well
+- (U) Homicide by Hammer
+° (U) Internet Anonymity for Good
+- (U) Anonymous Surveys (Ex: Diseases)
+
+- (U) Human Rights Bloggers
+- (U) HUMINT Sources
+
+  
+
+'fdf . F Till-h "H'u- fir -..I
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ h I l _ . . ' a Ir " ; —'I_4 ‘15!
+
+II" . -. I 1‘ I -" . - 1- It:
+- I . I“ - h I I I _ I" 'I-I'.
+~ a. '1  - .- It: 
+I. _ I I H- I _
+
+I..- *r
+
+   
+
+(Cl/REL) Who Wants Internet
+Also "i 7
+
+.. 1—
+
+' (U) Internet Anonymity for Bad (Semi to Really)
+- (U) Copyright Violators (File Sharing)
+- (U) Internet Scam Artists
+- (U) Pedophiles
+- (Cl/REL) Foreign Intelligence Agents
+- (SI/REL) Terrorist Actors (Our Concern)
+' (U) Both Cases Use Internet Anonymity Technology (IAT)
+
+   
+   
+  
+  
+
+ Ti“! - F 5""  _. _ '
+i.  limits”  -  - ‘
+
+ 
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ u l _ ,. — ' A I r " r- I I —'_5 qr“
+
+(SI/REL) Internet Censorship: A
+H ‘u H
+
+ if: H I   I I 1 "*- "tr  . . I _  h“
+_  ‘ .5: ﬁlliﬁk in
+. . (U) Different scenario
+
+- (U//FOUO) User IP Address known
+
+- (U/IFOUO) User Blocked from accessing
+certain site IP Addresses
+
+in.
+
+r
+A
+
+- (U//FOUO) Users get around it with c,‘
+Circumvention Technology — Mostly the same 
+3!
+
+   
+     
+    
+      
+
+ 
+ 
+
+1—-
+
+as Internet Anonymity Technology (IAT)
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - Ir ' _ ' -e 6 .— a?!
+
+(Cl/REL) Types Of IAT
+
+ 
+
+- (SI/REL) Web Site Proxies
+
+ 
+   
+   
+   
+   
+    
+
+- (SI/REL) HTTP/SOCKS Proxies :16:
+° (SI/REL) Browser Configured to Access 
+- (SI/REL) Proxy Aggregator Sites for Both 
+- (SI/REL) May support SSL/TLS 
+° (SI/REL) HTTP Sites: Only User H Proxy 
+- (SI/REL) SSL Sites (HTTPS) 
+
+- (SI/REL) Transparent (Just Pass the Bits)
+- (SI/REL) Man-in-the-Middle (MITM)
+
+ 
+ 
+   
+
+Ed TOP SEgRETffCOMIN REL TO USA,FVEY _ I L n u _ ,. .— I' - I r  - - .I —' -7 iii-ﬂ
+
+(Cl/REL) Types Of IAT: HTTP
+
+     
+   
+   
+   
+  
+ 
+  
+  
+ 
+
+- (SI/REL) May list thousands of proxies
+
+‘2 - (SI/REL) Taxonomy may be country where hosted 
+
+° (SI/REL) Taxonomy may be ego/business related j
+
+E - (SI/REL) Taxonomy may be proxy software related 4:.-
+- (SI/REL) Taxonomy may be provider related 
+
+- (SI/REL) Proxy Information IS Temporal 
+
+° (SI/REL) Requires active confirmation En-
+
+° (SI/REL) Requires revisits
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ u l _ ,. — ' s I r " r- I I —'_8 qr“
+
+(Cl/REL) Types Of IAT: HTTP
+Proxies/ - re ators
+
+"I. I _ ._ 1F I I:
+. I‘- - h J' I
+. I ‘5‘ I1 I
+*- . ' I " I.
+
+(SI/REL) Domain Name (obvious 2-) )
+
+     
+    
+    
+  
+   
+ 
+
+° (SI/REL) Associated IP address(es) 
+
+° (SI/REL) Can get live (nslookup, host, dig, etc) {72'
+
+' (SI/REL) Can maybe get internally (Foxtrail, NKB, etc.) 'I
+
+° (SI/REL) “Exit” IP address (where does user appear?) 
+° (SI/REL) Obtaining manually easy (http://checkip.dyndns.org) 
+
+° (SI/REL) How to Automate? 
+
+° (8” RE L) Proxy Discoverer (Originally 831323) 
+
+(SI/REL) Other miscellaneous (cookie modification, SSL support, etc.)
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ u l _ ,. — ' a I r " r- I I —'_9 qr“
+
+(Cl/REL) Types Of IAT: HTTP
+Proxies/A - re ators
+
+Ill-:
+
+‘1 I I I "flail? I  I I r I J L
+
+1—-
+
+   
+     
+      
+  
+    
+  
+   
+  
+   
+ 
+
+° (SI/REL) Web Proxy Aggregator sites Analysis
+(Sl/ REL) Proxy Discoverer
+
+a ' (SI/REL) Scrapes Aggregator (ie www.proxy.org) 
+
+' (SI/REL) For each proxy, GET ' 
+
+° (SI/REL) Iterate over software, variations 
+
+_ ° (SI/REL) Glype, PHProxy, CGlProxy, ASP.NET, cURLProxy, Surrogaﬁer, _
+
+i Zelune 4 ii
+' ° (SI/REL) Try multiple times :_ '
+' (SI/REL) Aggregator may give software hints ‘5.
+
+° (SI/REL) Failure may indicate site down, or proxy SW modification 
+
+° (SI/REL) Results from Proxy Discoverer must bridge low->high 
+
+° (SI/REL) Operationalized by NAC/RONIN with NTOC support (project 
+
+PONTENTPOTABLES)
+
+° (SI/REL) See 8002011:—
+
+ 
+ 
+   
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - Ir ' _ '-10 .— in
+
+(Cl/REL) Types Of IAT
+
+1.
+..J 1
+
+'3
+
+. . . '-'~a"‘l’.j .. 'w r  _
+I {u _-l   -  a .  l.- ,. ' h.   h.'__l " '1   I __ I.
+_3 .l-ﬁg  ~ I .3"-  '   It .  _ 
+
+   
+     
+    
+   
+   
+     
+       
+
+"
+
+° (SI/REL) VPN Anonymity Providers
+
+- (SI/REL) Provider may offer multiple servers
+
+' (SI/REL) Different Sovereign Nations
+
+° (SI/REL) Different Bandwidths
+
+' (SI/REL) Most fee based: Can vary on time/number of servers
+- (SI/REL) May offer multiple VPN protocols
+
+f i
+l“-
+' (SI/REL) PPTP (No client software) 
+
+- (SI/REL) SSH 
+° (SI/REL) OpenVPN 355
+- (SI/REL) L2TP/IPSEC 
+- (SI/REL) ssrp 
+
+(SI/REL) Communications User H Server Encrypted
+
+“J TOP SEgRETffCOMIN REL To USA,FVEY __  ,,     _-_1r,1 ﬂ
+- .' ' _-r  _ -_ "'._ I'_ ..  l'
+E; .- _ F  5;. _ , A?!
+
+(Cl/REL) Types Of IAT
+
+L"; ‘
+
+I
+a- -_
+I
+
+r.
+
+£31-
+
+
+}: Era-r 1f:-  , ' a: In-  .  _. huh
+{€133} _ " Li L ' r'  In ' ~ 
+
+'aJ
+
+(SI/REL) VPN Anonymity Providers
+(SI/REL) Plethora of providers (I found about 200)
+
+' (SI/RE L) 12VPN, Ace VPN, Air VPN, AlwaysVPN, Ananoos, AnoCentral, Anonine, Anonyproz,
+AnonymityNetwork, Anonymizer, Anti-Hadopi, Arethusa, ArtofPing, Astriﬂ, BananaVPN, BeeVPN,
+BlackLogic, BlackVPN, BolchVPN, BuyProxyService, Change-Mon-IP, Cienen, ClearVPN,
+ConnectlnPrivate, ConnectionVPN, CrackIP, Cryptline, Cryptoclouo‘, CyberGhostVPN, DarknetVPN,
+DrakkerVPN, DoubleVPN, ExpressVPN, Eztun, FBVPN, FlashVPN, FQVPN, Freedur, FreeVPN,
+GateVPN, GoldenFrogVyprVPN, GoTrusted, HappyVPN, HidelPVPN, HideMyAss, Hideway, High-
+Speed—VPN, HostSpotVPN, HotspotShield, IAPSSecurityStore, ibVPN, IdealVPN,
+lnvisibleBrowsing, iOpusiPig, IPJE T, Ipredator, ltsHio'den, lvacy, IVPN, Ksecure, KeyVPN, Kryptnet,
+LamniaVPN, LeVPN, LibertyVPN, LifeVPN, Linkideo, Loki, MadVPN, MetroPipe, MicroVPN,
+MonkeyVPN, Muﬂvad, MyOpenGateway, MyVPN, Overplay, oVPN, Packeth, PC-Streaming,
+PerfectPrr'vacy, Privacyjo, Privacy”, PrivacyTunnel, Privatelnternechcess, PrivateVPN,
+PRQtunnel, PublicVPN, PureVPN, Relakks, RemoteVPN, RoadWarriorVPN, RootPanama,
+RoxNetworks, SaferSurf, SecretsLine, SecureNetics, SecureSwiss, SecureTunnel, SecureVPN,
+SlickyProxy, SmaHVPN, SofanetSofaLlNK, SteganoslntemetAnonymVPN, StrongVPN, SuperVPN,
+SurfBouncer, SurfoNym, SurfRescue, SwissPVN, SwitchVPN, TheSafety, Tiggerswelt, tonVPN,
+Trackbuster, trilightzone, TorrentFreedeom, Tunnelr, TUVPN, UkiVPN, UltraVPN, UnblockVPN,
+USAIP, VIPAccounts, VIPVPN, VPN4ALL, VPNDeutschland, VPNDog, VPNGates, VPNMaster,
+VPNonline.ru, VPNPrivacy, VPNProNet, VPNSeek, VPNSteel, VPNSwiss, VPNtrafﬁc, VPNTunnel,
+vpntunnelse, VPNSecure, VPNod, VPNout, VPNWorId, VyprVPN, Witopia, WorldVPN, WOWVPN,
+XeroBank, xtra-vpn, YourFreedom, YourPrr'vateVPN
+
+ 
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - r _ .
+- '+ '. «  - r .25: a r
+I: . -  .;. w _ _ w
+
+(Cl/REL) Types Of IAT
+
+(SI/REL) VPN Anonymity Providers
+- (SI/REL) Range of Sovereign Nations/Localities in this set huge!
+
+' (SI/REL) Multiple Cities in more popular countries
+
+° (SI/REL) Most fee based: Can vary on time/number of servers
+
+— (SI/REL) Most notable exception: Hotspot Shield (Provider AnchorFree)
+» (SI/REL) Advertising supported
+» (SI/REL) Multiple OSINT reports of “most popular"
+
+— (SI/REL) About a half dozen others claim they are free
+
+(SI/REL) Package deals (Europe, any 3 servers, etc.) sometimes available
+
+(SI/REL) Poster child for location selection: IAPS (www.intI-alliance.com)
+
+— (SIIREL) AE, AG, AI, AM, AN, AQ, AT, AU, AW, BB, BD, BG, BM, BR, BS, BZ, CA, CH, CL,
+CN, CO, CR, CU, CY, DK, DO, EE, EG, FJ, GB, GD, GI, GL, GR, GT, HK, HU, ID, IE, IL, IN,
+IR, IS, JM, JO, JP, KN, KP, KR, KW, KY, LC, LI, LU, MA, MC, MH, MK, MN, MT, MX, MY, NI,
+NO, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PR, PS, PY, QA, RO, RU, SA, SB, SC, SE, SG,
+SI, SK, SN, TC, TH, TR, TV, TW, UA, US, UZ, VA, VE, VG, VI, VU, ZA,
+
+ 
+
+TOP SEgRETIICOMIN REL TO USA,FVEY U ____  , ,- I- r   g—ts 1,5”
+
+(Cl/REL) Types Of IAT
+
+. _
+I9- 21. -.
+
+       
+     
+   
+ 
+   
+     
+  
+
+. e. ... It  
+. - -,l 1a. -'_. , '.
+
+° (SI/REL) VPN Anonymity Providers
+- (SI/REL) Search of SIGINT Forensics Lab Holdings for OpenVPN
+
+t - (SI/REL) Using SNAPE Portal 
+° (SI/REL) OpenVPN specifically because a client is required "G:
+
+- (SI/REL) Listing is just name of IAT provider E
+
+— (SI/REL) HotSpot Shield ..
+
+— (SI/REL) Securenetfcs
+— (SI/REL) General references to using OpenVPN products
+
+— (SI/REL) Steganos Anonymous VPN 
+Lil
+— (SI/REL) Several references to IP address only: Need more products in %
+
+RONIN!
+
+   
+
+TOP SEgRETffCOMI RELTOUSA,FVEY         4_
+
+‘J ..  ‘ -. «.5 _ ' AF”;
+5 _._F '  ..a.'_'q-""_ *
+
+(Cl/REL) Types Of IAT
+
+II...-
+
+jl'li-   1% I
+ 
+° (SI/REL) VPN Anonymity Providers
+
+- (S/l REL) What “we” want
+
+        
+   
+  
+ 
+     
+   
+   
+   
+
+° (8” REL) Server enumeration
+
+— (Sl/SII/REL) SIGINT: Obvious — target using such a service
+» (Sl/SI/IREL) One hop, so enough coverage means success!
+— (SI/Sil/REL) Compliance: FAA— ls target in US is important!
+° (SI/REL) Exploiting User H VPN traffic
+
+— (SllSl/IR EL) Very case by case
+
+>> (Sl/SI/IREL) Coverage (may need 2 sided collection)
+
+>> (Sl/Sl/IREL) Protocol (may or may not have vulnerabilities)
+» (SllSl/lREL) Settings (implementation important)
+
+» (TS/ISIIIREL) “Collateral” - NCSC, TAO, FISA, etc.
+
+» (Sl/SI/IREL) Request sent to CES if important
+
+ 
+
+Ea.
+Lil
+
+i‘
+
+
+
+“J TOP SEgRETffCOMIN REL TO USA,FVEY __ n ‘ I _ ,, I-  I r  '. _ . _' -15 ﬂ
+-' ' .-r _ _ -. ._.__, ﬂ- . ' '-
+9; - - _ ~ ' _ _.  5;! _ A?!
+
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+     
+   
+  
+  
+  
+  
+   
+  
+  
+  
+   
+   
+ 
+
+— (SI/REL) Server enumeration
+
+— (Sl/Sl/IREL) Manual work with Covered Internet (Linux/Windows) 
+
+» (Sl/SI/IREL) Sometimes info derived from documentation
+» (Sl/SI/IREL) Sometimes need to access service
+
+» (Sl/SI/IREL) May be a trial version to get “seed”
+
+» (Sl/SI/IREL) Even if paid may only get some servers
+
+» (Sl/SI/IREL) Some providers give you the works, YMMV
+» (Sl/SI/IREL) Try to minimize work!
+
+» (Sl/SI/IREL) Try to extend seed(S/IREL)
+
+» (Sl/SI/IREL) DNS "Pattern", ex. vpn01.hidegood.net
+
+» (Sl/SI/IREL) Use scripting/free Linux tools to exhaust space (try
+nslookup on vpn01.hidegood.net, vpn02.hidegood.net, etc.)
+
+ 
+
+» (S/lSI/IREL) Open source DNS enumeration scripts (brief look) _*
+(Sl/REL) Where do results go? (Again, See NAC/RONIN talk) '3“?-
+TOP SEgRETffCOMIN REL TO USA,FVEY __ r 15 1?:
+
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+   
+
+— (SI/REL) Server enumeration
+
+o (SllSl/lREL) Use the XKEYSCORE, Luke — AKA Fun with X509
+
+— (SllSl/lREL) Prompted by Hotspot Shield (HSS), the free service
+for which server lists are NOT readily available (Software
+Reverse Engineering required)
+
+— (S//Sl//REL) OpenVPN, as well as SSL/SSTP, send a server
+x. 509 certificate to client as part of setup
+
+5
+— (S//Sl//REL) XKEYSCORE sees a LOT of traffic worldwide 
+— (S//SI//REL) XKEYSCORE fingerprints aren't too hard 
+Eh.
+I
+v
+i-i-ar
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+.q-ﬁ-h .I
+
+"-1
+I l
+
+» (S//Sl//REL) Need unique string, usually CN and/or DN
+» (SllSl/lREL) Check for valid X509 certificate
+(SllSl/lREL) Query safe: Traffic encrypted (still do l—side defeat)
+
+  
+   
+
+Ed TOP SEgRETllCOMIN REL TO USA,FVEY _ I __ n u _ ,. .— I' - I r  - - .I if? iii-ﬂ
+
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+      
+  
+    
+  
+ 
+ 
+ 
+   
+  
+ 
+
+— (SI/REL) Server enumeration
+
+o (SllSI/IREL) Use the XKEYSCORE, Luke — AKA Fun with X509
+
+— (SllSI/lREL) Prompted by Hotspot Shield (H88), the free service for
+which server lists are NOT readily available (Software Reverse
+Engineering required)
+
+— (SllSI/lREL) fingerprint('encryption/hotspot_shield/XSOQD = $pkcs
+and $udp and 'metrofreefivpn';
+
+,.
+— (Sl/SI/l R EL) fingerprint('encryption/easy_hide_ip/x5099 = $th and '55,
+
+from_port(8881) and ('lx061x091x2alx861x481x86le7lx0dlx01\xOllel'c 
+
+Ei-
+
+ 
+
+) /*RSA */ and ' ';
+
+— (Sl/SI/lREL) fingerprint('encryption/comodo_trustconnect/XSOQ9 = 5..
+53th and from_port(443) and '
+('lx06lx09lx2a\x86lx48lx86le7lx0dlx01\x01\x01'c) /*RSA */ and
+
+'ComodoVPNS-'; '*
+
+  
+   
+
+TOP SEgRETllCOMIN REL TO USA,FVEY
+
+(Cl/REL) Types Of IAT
+
+  
+
+Iv,ll1rl-I.~I-I I.
+I r-  - _'
+(SI/REL) Proprietary Multi—Hop Networks (Usually Circumventor Motivated)
+— (SI/REL) Freegate
+— (SI/REL) Ultrasurf
+— (SI/REL) Gpass
+
+— (SI/REL) Garden
+— (SI/REL) Haystack (by Austin Heap — ruled bogus by community)
+
+""{n
+
+    
+  
+ 
+ 
+    
+  
+ 
+
+(S/lREL) Movement to Secure US Government Support to Providers (Congress)
+
+— (SI/REL) US Dept of State
+— (SI/REL) Broadcasting Board of Governors (Independent USG Agency)
+
+- (SI/REL) Has instructions for “Getting around Internet Blockage”
+on Radio Free Asia (RFA) and VOA Persian news sites
+
+  
+   
+
+Ed TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ n p _ ,. .— I' - I r  - - .I —20 iii-ﬂ
+
+(Cl/REL) Types Of IAT
+
+. I": - ' ch  . __I i I '. I I I:. ._ I 'l r r I  '1. ll - I I -— I I 1' LL:-
+_ - Illa-i 5'  1 1.  1r - 1  h. In." II   J I ‘l. Ian-I: '
+. .   ~ . r: salary. ~  a --  . ~e .  .1
+ .t - £1 " a  r - I
+
+"
+
+    
+
+° (SI/REL) Anonymous Remailers (Multi-Hop)
+- (SI/REL) Most Secure
+
+- (SI/REL) Main examples: Mixmaster and Mixminion
+
+- (SI/REL) Extremely High Latency (Random Delays)
+
+' (SI/REL) Only useful for email, other store and forward
+communications
+
+° (SI/REL) Not much use
+° (SIIREL) NOTE 1: Usability and Anonymity are Foes!
+
+-...-
+'r
+
+  .‘L-
+
+   
+   
+ 
+     
+  
+    
+
+nd TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ u p _ .. .-  - I r  I- - I.- —2r-1’_ﬂ
+
+(Cl/REL) Types Of IAT
+
+   
+     
+    
+   
+    
+ 
+  
+   
+    
+  
+  
+ 
+  
+  
+   
+
+(SI/REL) Miscellaneous IAT Technologies (Single Hop)
+— (SI/REL) PSIPHON
+
+- (SI/REL) Discussed in Censorship Circumvention Circles
+° (SI/R EL) Technology for known associate to setup in appropriate place
+° (SI/REL) Access via knowing obscure URL and Username/Password w/HTTPS
+
+- (SI/REL) Miscellaneous Multi-Selectors
+
+ 
+
+° (SI/REL) Some are just “HTTP and/or Socks Proxy Aggregators"
+
+— (Sllf REL) EasyHr'delP. com
+— (Sl/ REL) Real-Hide-IP. com
+
+» (SIIREL) Found researching this presentation!
+— (SI/REL) Both of these yield list with HTTP GET!
+
+— (SIIREL) Postprocessing: ShellfPERL/etc. script to extract anotherto check
+w/Covered Internet (simple proxy option to wget)
+
+— (SIIREL) NAC/RONIN will track these
+
+Ea.
+Lil
+
+l
+
+
+
+TOP SECRETIICOMIN REL TO USA,FVEY ,, I
+ '_+'_'  ._.;, _ '.'
+’1'; - - _ ~ ' _ _.  _* a ' _ A?!
+
+(Cl/REL) Types Of IAT
+
+     
+  
+ 
+   
+  
+  
+   
+   
+  
+   
+ 
+   
+
+- (SI/REL) Miscellaneous Multi-Selectors
+
+° (SI/REL) Proprietary Proxy Provider/Chooser
+
+— (SI/REL) Paid product, Client Software I:
+
+— (SI/REL) Usually involves obfuscation and/or encryption g
+
+— (SI/REL) GHOSTSURF in
+» (SI/REL) First analyzed 2006 — uses obfuscaton if;
+
+» (SI/REL) Server list has changed but all else same L1,.
+
+— (SI/REL) Easy-Hide-IP 
+
+» (SI/REL) Analyzed in 2011 — uses TLS on port 8881 
+
+1
+
+will
+
+Hal-s"
+
+» (SI/REL) Over 400 servers in 7 countries
+— (SI/REL) Hide-IP
+
+» (SI/REL) Analyzed in 2006 — New product now
+» (SI/REL) Need to re-analyze
+
+  
+   
+
+Ed TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ n p _ ,. .— I' - I r  - - .I -%3_ iii-ﬂ
+
+(Cl/REL) Types Of IAT
+
+III-:
+
+I . I.
+
+. I  “1: :I.‘ EH  “I I I 1-  . [I'll I 'l I -I r'  I “in. HI I'- _ ff I _. I I - I - 1:: 
+  -  ~ 1"- eW-k    -  
+
+I...
+
+1—-
+
+     
+    
+ 
+   
+ 
+   
+   
+      
+
+(S/IREL) Miscellaneous IAT Technologies (Single Hop)
+
+- (SI/REL) Bot—Based Proxy Networks
+
+° (U/IFOUO) Kudos to— NGA, for pointing this out in ~_
+her lntelink-TS blog, Sphinx1121 (Pointer to krebsonsecuritycom) 
+
+° (SI/REL) Bot owners drop socks proxies on compromised r-
+computers 4 H:
+
+° (SI/REL) Said proxies are then rented out to “customers” for 
+anonymity w
+
+- (SI/REL) OSINT indicates a “product” called XSOX available on
+underground forums as a C&C for such a network
+
+- (SI/REL) General Note for IAT analysts: Details IMPORTANT
+
+- (SI/REL) Proof by example: EasyHidelp.com NOT the same as
+Easy-Hide-IP.com (Of course domains are not case sensitive)
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - Ir ' _ ' -24 .— a?!
+
+(Cl/REL) Types of IAT
+
+   
+
+1 ° (SI/REL) Open Source Multi-Hop Networks
+
+— (SI/REL) Jondo Anonymous Proxy (JAP)
+- (SI/REL) Championed by German University (Dresden) :“éﬂ
+- (SI/REL) (Mostly?) Open source software — some Docs in German
+
+     
+   
+   
+   
+  
+  
+  
+   
+  
+  
+  
+
+- (SI/REL) Uses a technology known as Cascades
+
+    
+
+'- ° (SI/REL) Each cascade is set of 2 or 3 Mixes "
+- (SI/REL) All internal traffic encrypted .33..
+- (SI/REL) Free service AN.ON: 5 Cascades 
+- (SI/REL) Premium service JonDoNym: 10 Cascades E
+— (SI/REL) Countries: BG, CA, CH, CZ, DE, DK, FR, GB, IT, LU, US, i
+— (SI/REL) Less than 50 mixes total 
+w
+
+ 
+
+“J TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ u p _ .. .— I' a I r  - - _' —%5 
+
+(Cl/REL) Types of IAT
+
+    
+
+— (SI/REL) Jondo Anonymous Proxy (JAP)
+- (SI/REL) Comparison with Tor
+
+- (SI/REL) Not analyzed in great detail here at NSA (or FVEY?)
+- (TS/lSl/IREL) Much better chance for Global Adversary (SIGINT :-) )
+
+ 
+
+a?"  .-
+
+3: at  -.:_
+
+(SI/REL) Not nearly as well studied
+
+(SI/REL) Much smaller contained development community
+(SI/REL) More centralized structure (all mixes centrally approved)
+(SI/REL) Not as diverse geographically or scalable
+
+(SI/REL) Not as well used or publicized
+
+(TS/ISIIIREL) Sessionization of DNI still would be a problem
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+(Cl/REL) Types of IAT
+
+. If, all.
+
+1 ° (SI/REL) Open Source Multi-Hop Networks
+
+— (S//REL) JonDo Anonymous Proxy (JAP)
+
+        
+ 
+ 
+ 
+ 
+  
+
+   
+
+5 IL p  i . a. -IE I I .rgrll-   l'~.,I-I5r_.'|rf’|‘ ‘- “:‘I I" I.
+ Hath-Ifﬁr : 1.;  _.r 1” _. I.___ j  I
+
+.I  I|.- __  __.__ I  
+
+'l-_.
+
+_-..-\.
+
+'1‘?"
+JAP
+
+ 
+
+(C/IREL) Types of IAT
+
+‘-
+IIJ‘ .
+
+I"
+
+. . . .1.. '1 t‘ gr.-
+I inn. _-1   -  a .  l.- ,. ' h.   h.'__l " '1   I __ I.
+_3 .l-ﬁg   I .3"-  '   It .  _ 
+
+   
+
+"
+
+"'l
+
+   
+
+° (SI/REL) Open Source Multi-Hop Networks
+
+— (SI/REL) Tor
+- (SI/REL) Very widely used worldwide
+
+- (SI/REL) Open Source
+
+° (SI/REL) Active Development
+° (SI/REL) Mitigates Threats
+
+- (SI/REL) Very Secure
+- (SI/REL) Low enough latency for most TCP uses
+
+.. fr
+:- '.
+-- "'1
+
+ 
+ 
+   
+  
+  
+   
+  
+
+P" '
+
+ =:- —'
+
+i
+
+- (SI/REL) Still the King of high secure, low latency Internet Anonymity
+
+- (SI/REL) There are no contenders for the throne in waiting
+
+“J TOP SEgRETffCOMIN REL TO USA,FVEY __ n ‘ I _ I, I-  . I r  F'. _ _ _' _%8 .r I
+-" .r _ _ -. *._.__, ﬂ- . ' '-
+
+(SI/REL) Tor Operation (1)
+
+l"
+'.'.
+I.
+
+I S I I _   
+u: .-.,  -"u.. " _-. - .'-., H.  _—-
+Jﬁ‘ I '11-; “uh-L .- r _I ‘r' ' _.    If I -
+ .  _-. “P‘- 1- I“ -   “'- %? ELE-  -. ' I .'H  I
+
+m Haw Tar Wurks: 1
+
+ 
+
+ 
+
+. . .p. umwptudllnk
+—- uncryptndlinl-I.
+
+Alice
+
+; Step 1: Alice's Tar
+: chant attains a list
+:nf Tar nudes from
+; a directnry snmar.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Li‘ “II-'11.. -- "I" ' r
+
+_  '_.. " l _ I '_~ _
+5  I I ' ‘ - 'l" '7'.':""'""‘_  -
+-. ' - : A - u“ '4' . 
+
+(SI/REL) Tor Operation (2)
+
+I .
+'I. n. .
+a: -'I._ _
+
+m Haw Tar Warks: 2 £2: ran-m
+
+- a -|- unancrrpladllnh
+—..- uncryptn-dlinh
+
+. “a, . .. H   r _
+: ' I II. 1". 'I ' _- . ..
+_.  . -   _ .
+
+Alina
+
+lm
+
+Stan 2: aliaa'a Tar cilant Guard
+pinks a random path ta
+daatinatian sat-var. Graan
+
+link-a ara anaryptad. rad
+li'anka an: in tha clear.
+
+ 
+
+ 
+
+ 
+
+p.
+,a.
+
+(SI/REL) Mom: Where Do Tor Relays Come
+
+    
+  
+    
+    
+ 
+    
+
+"'I . I u ' .r .. . "
+a I ' _- - I] ' I“. J.- J - -‘.
+'I.|._ ' . i I '. |_ I ' _ '. '_.
+’3: “a ~- ~ r «e  . . ~.   - .J  -
+5. 314.3%  L .. ai- - .~ --
+
+5"“!-
+
+° (SI/REL) Recall there is (well actually more than 1) Tor
+
+Directory server? I_ I”
+
+- (SI/REL) This is the pool 
+
+' - (SI/REL) Choices made in terms of advertised capabilities: :5
+' (SI/REL) Bandwidth _ 
+
+° (SI/REL) Uptime i"
+
+' (SI/REL) Supported Protocols 
+
+- (SI/REL) Tor client has total final say %
+
+
+
+“J TOP SEgRETffCOMIN REL TO USA,FVEY U ____  ,, I- I-   . . _-_3.1__‘ﬂ
+
+   
+      
+
+- (SI/REL) Many countries represented
+
+- (SI/REL) Most in DE 
+
+° (SI/REL) Second most in US 
+
+- (SI/REL) Anyone can set one up and register it 4:;
+
+- (SI/REL) Exit nodes are scary (Kiddie Porn) 
+
+° (SI/REL) How about a private pool? (heh-heh) 
+En-
+
+- (SIIREL) Note 2: Private Resources and Anonymity are
+foes!
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ u l _ ,. - ' & I r " r- I I —3_-2 q;ﬂﬂ
+
+(SI/REL) Bridges: Special Tor Relays
+
+   
+
+(SI/REL) Having the set of relays public makes it easy for government
+censors
+
+      
+  
+   
+  
+     
+
+ 
+
+" +
+J' '. -
+.-. J J
+
+— (SI/REL) Just block access to all relays from that country 
+
+- (SI/REL) Tor Project staffed with smart people! I 
+
+__ ~— (S/IREL) Introduce new concept: Bridge Nodes 
+
+I III H
+' - (SI/REL) Unadvertised Entry Nodes distributed “out-of-band" 
+
+° (SI/REL) Project will hand out three at a time (weekly) 3;, I
+
+— (SI/REL) Email or surf bridges.torproject.org 
+
+— (Sl/SI/IREL) SIGINT: Use Tor Against Itself! (Bridge requests from it“
+
+exit nodes) 
+
+— (SI/REL) Circa April 2011: Tor Project claims around 600 Bridges
+
+ 
+ 
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ H _ ‘ _ . - ' a Ir " ; —3_3 ‘15!
+
+(S/lSl/IREL) Tor and NSA Targets
+
+III-:
+
+I I.
+
+3'
+
+      
+      
+   
+    
+
+I...
+
+1—-
+
+° (TS/ISIIIREL) Sophisticated CT Targets use TOR to access Terrorist
+
+ 
+
+if". Web Forums I.
+f. — (TS/ISIIIREL) Web Forums: aI-Faloja, CEMF, aI-Hisbah, 
+shumukh, TRSC 
+
+- (TS/ISl/IREL) Persona: DLW, Song of Terror, Time of Terror 
+
+° (TS/ISIIIREL) Visible exit traffic allows for “All except the Client lP" 
+SIGDEV 5’
+
+° (TS/ISIIIREL) Solving (attempting to solve :-( ) this IP address 
+problem was the work of NSA PARTNERSNIPPET team 
+
+° (Sl/SI/IREL) Also 80+ CT email selectors who have used Tor
+
+TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - Ir ' _ ' -34 .— in
+
+      
+
+H '
+
+i - -
+
+— (Sl/Sl/IREL) Only outer TLS layer visible _, How to
+
+Distinguish? :5:
+— (Sl/Sl/IREL) Tor developers attempt to remain anonymous 
+by blending in with myriad other TLS traffic 
+— (Sl/SI/IREL) Tor TLS has changed over the years 
+— (Sl/SI/IREL) There ARE some server —> client features which 
+
+are recognizable NOW
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ n ‘ _ ,. — ' & I r " r- I I —3_5 qr“
+
+(S//Sl//REL) Passive Traffic Analysis
+
+     
+
+J _ I .
+.1 
+II .I 'I" -_II
+I. . ll ' - '- '. I'I
+
+‘—
+
+ 'r ..
+     ~.
+
+° (S/lSl/IREL) Tor TLS (server _> client) startup features
+
+— (S/lSl/IREL) Certificate: Specific Diffie-Hellman (DH)
+Modulus (just string match)
+
+— (S/lSl/IREL) Certificate: Issuer and Subject random
+names of same form — ex: CN=WWW.0fzgkdjxvjrss.net
+(regeX match)
+
+— (S/lSl/IREL) Certificate: Always 2-hour lifetime (ASN.1
+format —) more intensive computation)
+
+° (S/lSl/IREL) Several XKS fingerprints and a plugin
+implemented
+
+11
+
+  
+    
+   
+ 
+ 
+   
+   
+
+ 
+
+ . I'- 1H1" h ' I'_Il . q- -
+Aiﬂir :  _  .
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+     
+   
+    
+     
+    
+   
+
+- . . I . -1 '- -" - - J r ' _
+a. I I I 1_ III I n. r I I . I J. ' . -ll- .3.
+i as" If  I I I I ' I Wily-l"?-
+r . I I_  if: L _ ‘- - . _ I  h.  $51.
+- . *- 1'l'. I. - I - -'
+
+1-r"-
+-
+
+(SI/REL) Driven by Censorship Circumvention, Hide Signature
+
+— (SI/REL) New bridge nodes blocked in China
+— (SI/REL) Researching better bridge distribution strategies at:
+
+' (SI/REL) Claim by Tor Project is 8000 requests/day for <1000 total
+— (SI/REL) Around Feb 2011, changed the TLS handshake
+
+' (SI/REL) Signature more like Apache web-server 
+— (SI/REL) Different DH Modulus :63!
+— (SI/Sil/REL) New XKS Signatures address this 
+— (TS/lSl/lREL) Proposed eventual change will kill identification! E‘-
+
+° (SI/REL) Each Tor node will generate randomish signatures in a volatile
+way specifically designed to look like normal website TLS traffic!
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ u l _ ,. - I' s I r " r- I ' 33:7 1:54;!
+
+(SI/REL) Tor Project Recent Activity
+
+  
+   
+    
+   
+   
+
+  
+
+(SI/REL) ORBOT, Tor for Android smartphones
+
+— (SI/REL) Tor Router Project
+- (SI/REL) Modified Linksys Router — everything over Tor
+— (SI/REL) Hide-My-IP-Address
+
+ft
+
+' (SI/REL) Proprietary replacement for Tor Browser Bundle %
+
+° (SI/REL) From “WCCL Network" not part of Tor Project 
+
+° (Sl/SI/IREL) Looked at based on reference by CT target 
+
+— (SI/REL) Tor Project working on better strategies to distribute bridges 3%
+
+— (SI/REL) Tails: Complete Bootable OS on CD for anonymity 1
+.4
+
+° (SI/REL) Tor is a crucial component
+
+  
+   
+
+Ed TOP SEgRETffCOMIN REL TO USA,FVEY _ I __ n p _ ,. .— I' - I r  - - .I -38 iii-ﬂ
+
+(SI/REL) Tor Hidden Service URLs
+
+III-:
+
+I . I.
+
+ 'r .. 
+  a    I .  
+
+it 11%}
+
+   
+
+I...
+
+1—-
+-
+
+  
+  
+
+- (SI/REL) Tor Hidden Services (HS) for anonymous publishing
+
+_ J' I
+
+— (SI/REL) Not real reliable, but Tor Project research continues
+
+     
+    
+    
+    
+
+(U/IFOUO) Kudos to CES/CTSO (8314) for populating this
+
+a — (U/lFOUO) I said outside scope, sorry 
+— (SI/REL) Tor HS accessed via Tor only by 
+
+— (SI/REL) There is the tor2web.com site which is a HTTP to Tor proxy I;
+
+- (SI/REL) Loses some anonymity but easy to use 
+
+- (SI/REL) Good tool for Covered Internet research 5, I
+
+— (SI/REL) Site on Wikilnfo to document Tor HS URLs 
+
+- (SI/REL) "The Onion Realm”  
+
+TOP SEgRETffCOMIN REL TO USA,FVEY . . -  ' _ :39 __ gﬂ
+
+ 
+
+l(S//REL) Public IAT Resources Inside
+
+_I.-.
+. . '!- a, - I 4.4.  "a; '
+._ I. - I _ _ I.
+1. ' _ _ *l _ ' IL 1".-
+
+(U/IFOUO) General IAT rt;
+
+— (SI/REL)-
+
+U
+
+(S// REL) Tor
+— (SI/REL)— 4
+— (SI/REL)— ~41
+
+__a-
+
+ 
+
+'.-:"
+
+ 
+
+ 
+
+TOP SECRET/fCOMIN’E IREL TO USA,FVEY 40
+
+(SI/REL) References to IAT in SIGINT
+
+     
+   
+  
+  
+ 
+ 
+  
+  
+     
+
+(SI/REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+""{n
+
+— (SI/REL) Most is FVEY (cited here) Majority US, also UK, CAN
+— (Sl/Sl/IREL) Format is TOPI / Type of Info
+
+° (TSl/SlllREL) CT / Discuss Tor (6 reports)
+
+° (TSl/Sll/REL) CT / Use Tor or another proxy
+
+° (TSl/Sll/REL) CT / Create modified Tor
+
+- (TS/ISIIIREL) CT / Mandate use of Tor
+
+° (TSl/Sll/REL) CT / Tor for Censorship Circumvention
+
+° (TS/lSl/IREL) CT / Use Tor and a VPN (UltraVPN)
+
+° (TSl/Sll/REL) CT / Instructions for using Tor and other US Proxy
+
+° (TS/ISIIIREL) CT / Discuss us of (non-specified but non-US) VPN
+
+- (TS/lSl/IREL) CT / Discuss Tor and HTTP Proxies for anonymity
+
+° (TSl/Sll/REL) CT / Discuss Tor and Rea/Hidelp (previously unknown IAT)
+(TS/ISIIIREL) CT / Discuss use of Kproxy.com (HTTP Proxy)
+E. TOP SEgRET/xCOMIN REL To USA,FVEY I __ __ u _ ,. ,- I- - Ir  - I - .' 431354;
+
+:5 ._ _ _ _ _-  ;._ £31,; _ Eras: .
+
+ 
+
+(SI/REL) References to IAT in SIGINT
+
+  
+
+— (Sl/SI/IREL) Format is TOPI / Type of Info
+
+        
+   
+  
+ 
+  
+ 
+ 
+ 
+
+(TS/lSl/IREL) CT / Use of mepMylp (HTTP Proxy)
+(TSl/SlllREL) CT / Use of (masked US Company) VPN (L2TP protocol) for anonymity
+(TS/lSl/IREL) CT / Instructions for use of VPNs for anonymity
+
+(TSl/Sll/REL) CT / Use of VPN (HotSpotShield) and SSH tunnels
+
+(TSl/SlllREL) CT / Use of Tor and an unspecified VPN
+
+(TS/ISIIIREL) CT / Use of Easy-Hide-IP (Socks proxy chooser)
+
+(TS/lSI/IREL) CT / Use of unspecified anonymizing proxy
+
+(TSl/Sll/REL) CT / Instructions on use of Tor and name-masked US program
+(TSl/Sll/REL) CT / Use of VPN (Cyberghost)
+
+(TS/ISIIIREL) CT / Use of unspecified HTTP proxy
+
+(TSl/Sll/REL) CT / Questions on whether Tor is compromised
+
+(TS/lSl/IREL) CT / Questions on whether associated compromised by IAT non-use
+
+ 
+
+    
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+(SI/REL) References to IAT in SIGINT
+
+II...-
+
+. 4., a; i '
+
+ill-'- . IRE
+
+(Sl/SI/IREL) Format is TOPI / Type of Info
+
+(SI/REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+     
+   
+   
+  
+ 
+  
+   
+
+'
+
+"
+
+(TS/lSI/IREL) Iran I Use of Freegate and Ultrasurf
+(TS/ISIIIREL) lndia/ Use of unknown proxy for anonymity
+(TSl/SlllREL) India I Use of Tor to access a webmail account
+(TSl/Sll/REL) Indial Use of Tor for hacking (2 reports)
+(TSl/SlllREL) Indial Provision of list of socks proxies to use
+
+ 
+
+Ea.
+Lil
+
+i‘
+
+(TS/ISIIIREL) Iran / Provision of list of socks proxies to use
+(TS/lSl/IREL) lndia/ Use of unknown proxy for anonymity
+(TSl/SlllREL) Cuba/ Use of unknown proxy for anonymous research
+(TS/ISIIIREL) Turkey/ Use of Tor
+
+
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+. .- .' '- - .243 r
+
+ 
+
+n,
+
+.F k
+=.'|..:
+
+Ii.
+
+5.
+
+A.
+
+ 0
+
+“11%:
+
+a:
+
+1
+_-|.
+
+II'_'
+
+F'
+
+- J
+Ir.
+
+a-
+
+.l'.
+
+A
+
+.r
+
+lit--
+
+_ ‘me _ .. . I '. I'
+4}" f a, EWKHEIL‘HE; A_.;i_:
+1' #1:: ' _-' 'l-t‘i'i': . r : !"
+prﬂﬁﬂ" * “‘5
+
+ 
+   
+      
+
+ll
+
+'-
+
+(S/IREL) From Last years 8
+
+i.-
+
+i.
+
+        
+
+(U) Backup Slides
+
+.61.“ 1?}  1?: k
+u '.~ a. - ,1, hf. _._  _ 1-. -_
+.""-.' 137i -' " H; 3-“.
+
+- 1-'- q?
+
+_. .f: 
+
+H.-
+
+DC Tor Talk
+
+ 
+
+(SI/REL) Tor (The onion router)
+
+    
+
+i I I I “Lilly—‘- II . T .J'. Fr. I'm: -
+.- II}.  1‘ _  " _ I.  .. M," {ﬁg-r ..  5k I - I i. i. I '.., Ir ‘1... 1
+_- .1' 'FJ -. ‘ -_-"'r .' ‘-
+
+' (SI/REL) Development originally NRL funded
+
+' (SI/REL) Original developers from Anonymous Remailer
+Research Community
+
+  
+ 
+   
+    
+   
+
+"-'h.
+
+° (SI/REL) Project now a US non-profit (www.torproject.org)
+
+° (SI/REL) User to Internet site interaction uses 3 hops
+through Tor “Relays”
+
+- (SI/REL) Entry
+- (SI/REL) Middle
+— (SI/REL) Exit
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ H I l _ . - ' a Ir " _ .I —45 ‘15!
+
+'fuf . r Twill, ' ".'_ _ '1
+u - daﬂ-"‘  _  .
+'_ __ _ _ l-.. ._ I. i. '_ .-...|-.
+
+(SI/REL) Tor Security
+
+"._I’|L-l¥h' "I I. T J a:
+lit": if. we?“ 1":-  H {1's   “I”:  . 
+.  _ £1. _ I_ ‘.  _ '.  I” - a .11 1  h, I m.  
+
+      
+
+     
+ 
+ 
+ 
+ 
+ 
+  
+   
+
+ 
+
+ 
+
+1.
+
+° (S/lSl/IREL) As you can see from the diagram,
+everything except for final hop is encrypted.
+
+° (S/lSl/IREL) The final hop may be also in the case of
+Bob being an SSL site.
+
+° (S/lSl/IREL) Two-layer TOR encryption: Pipe between
+any 2 nodes TLS encrypted (Only thing seen
+externally).
+
+° (S/lSl/IREL) Inside the TLS is the Onion Routing (see
+following diagram):
+
+'r-r - r “*- ' '-:IIH- '_ _ '1
+drM-f‘ twin.“- .
+' ' _ _ a- .. ‘E'I‘ZILI' '-I-I I'l' '-_l ' .-. ..|- .
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+
+(SI/REL) Tor Security (2)
+
+I.
+
+i . . .  g" 1-; .‘i .
+ silky.   -. . 
+
+     
+
+I...
+
+1—-
+-
+
+ 
+   
+
+(Sl/Sl/IREL) So each node can only decrypt data between its
+predecessor and itself and only knows about its predecessor
+and successor.
+
+° (Sl/Sl/IREL) The exit node can read the final traffic if it is not
+SSL.
+
+° (Sl/Sl/IREL) The user Tor client is in control of everything
+
+- (S/lSl/IREL) Setting up keys for cryptography
+- (Sl/Sl/IREL) Choosing the Entry, Middle, and Exit
+
+° (TS/ISl/IREL) Tor is very good — No passive
+exploitation :-(
+
+M .r ""‘h  '-' I
+. _ ﬂaws-t  - 
+
+     
+
+_ TOP SEgRETf/COMIN REL TO USA,FVEY . . ' - I r ' _ ' -47 .— gﬂ
+—|. '  I. - I "' _’_ _ I.  a. 4-
+“; . "  d- ;. t _ _ Jar r
+
+ 
+
+ 
+
+(SI/REL) Tor Onion Encryption
+
+I I 
+
+.__ -'| .-_
+
+1. "-1
+
+Layers of the onion
+
+ 
+
+Ranting path
+
+ 
+
+Snurce
+
+ 
+
+ 
+
+ 
+
+—>
+
+_’
+
+ 
+
+ 
+
+Ruuter EI-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Message
+
+ 
+
+ 
+
+_}
+
+ 
+
+ 
+
+RDUtEI‘ C
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/fCOMIN’E IREL TO USA,FVEY
+
+I‘m-ii
+
+(S/lSI/lREL) Passive Traffic Analysis
+
+      
+  
+
+source GOLDENFORTIN
+
+— (SI/REL) Cisco Netflow Records
+
+(U) From IP Address
+(U) To IP Address
+(U) Time Up
+° (U) Time Down
+° (U) Number of Bytes
+- (U) Number of Packets
+— (SI/REL) Heavy Representation of Tor Relays
+
+ Ti“! - F 5""  _. _ '
+u.  dilﬂ'if‘"  -  - ‘
+
+  
+   
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ n ‘ _ ,. — ' & I r " r- I I 44:9 qr“
+
+(S/lSl/IREL) Passive Traffic Analysis
+
+   
+
+a."
+' a]
+
+A
+
+  
+     
+    
+ 
+ 
+   
+    
+   
+
+° (Sl/Sl/IREL) How to use Tor network data?
+
+ 
+
+" +
+J' '. -
+-- J J
+
+— (TS/ISIIIREL) No smoking gun yet :-( Optimism still lives!
+
+ — (Sl/Sl/IREL) Attempt to work back from known exit traffic of interest f
+a all the way back to client user 
+- (Sl/SI/IREL) This is “Circuit Reconstruction" {72'
+__ - (Sl/Sl/IREL) Requires great coverage ’;
+' - (Sl/Sl/IREL) Geography might be your friend sometimes 
+— (Sl/Sl/IREL) Attempt to correlate known exit traffic to a small set of 5;...
+putative client traffic 
+- (Sl/SI/IREL) Client Geographical Assumption Required 
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ H _ ‘ _ . - ' a Ir " _ ; —5_0 ‘15!
+
+     
+     
+    
+
+— (TS/ISl/IREL) If target is behind a choke point to
+Internet
+(TS/ISIIIREL) Block all or a major subset of Tor Relays
+(TS/ISIIIREL) Block all Tor TLS handshakes
+
+— (TS/ISIIIREL) Try to force target to use alternate communications
+means
+
+° (Sl/Sl/IREL) Always the (potential) Exploit vs Attack Tradeoff
+
+ w -r 1W  '2. -
+u.  limits”  -  - ‘
+
+ 
+
+TOP SEgRETffCOMIN REL TO USA,FVEY _ __ n l _ ,. — ' & I r " r- I .' —5-1 a?“
+
+(TS/ISl/IREL) Active: Implants
+
+Iva: :2 ch 1   , I "- I'll. . ~ : I _. I. H J. . I .  I
+a  l as Allis.  f. .  ._
+
+      
+
+     
+    
+   
+ 
+    
+    
+
+r.
+1_- I
+a
+
+.ll
+
+° (S/lSl/IREL) TorButton: A Thorn in the side of SIGINT
+
+— (SI/REL) One of the components of The Tor Browser
+Bundle — AKA “Tor for Dummies"
+
+— (SI/REL) Firefox browser plugin — on/off switch for Tor
+
+— (SI/REL) Locks down browser REAL good (disables all
+active content things, sandboxes state, etc.)
+
+- (TS/ISl/IREL) No current bypass methods for CNE Exploits
+
+- (TS/ISIIIREL) Only hope is implanting web server with
+poisoned content document intended for target
+
+  
+
+'r-r . .- 1~.- - '.'.I- ._ _
+ﬁfﬂ'ir a? r "L'Liir'. 3“- -
+' ' _ _ a- .. ‘E'I‘ZILI' '-I-I I'l' '-_l ' .-. ..|- .
+
+TOP SEgRETffCOMIN REL TO USA,FVEY
+

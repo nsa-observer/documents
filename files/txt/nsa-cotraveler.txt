@@ -1,0 +1,511 @@
+Summary of DNR and DNI Co-Travel Analytic ~
+
+$215
+
+1 October 2012
+
+information—
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Table of Contents
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Introduction
+
+Issues and Questions
+
+Should a co-travel analytic consider where a GCID or VLR is physically located?
+
+Should incidental co-travelers be considered?
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Should geography play a role in co-travel?
+
+Should device and collection sampling play a role in determining co-travelers?
+
+Should co-travelers seen in different source databases be considered?
+
+Can co-travel be considered a series of meetings?
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Analytics
+
+CHALKFUN
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+DSD Co-Travel Analytic
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+Future Work
+
+Geospatial Analysis Tradecraft Center (GATC) Opportunity Volume
+Analytic
+
+Background
+
+Status and Summary
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Future Work
+
+TMI Co-Traveler Analytic
+
+Background
+
+Status and Summary
+
+ 
+
+ 
+
+ 
+
+Future Work
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Co-Traveler Analytics
+
+Background
+
+Status and Summary
+
+ 
+
+PACT NGA-NSA GATC Analytic
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+Future Work
+
+R6 SORTINGLEAD Co-Traveler Analytic
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+ 
+
+ 
+
+Future Work
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+RT-RG Sidekicks
+
+Background
+
+Status and Summary
+
+ 
+
+ 
+
+ 
+
+Future Work
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Scalable Analytics Tradecraft Center (SATC) Geospatial Lifelines Co-
+Travel QFD
+
+Background
+
+Status and Summary
+
+ 
+
+Future Work
+
+SSG Common IMSIs Analytic
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+Additional Information
+https://wiki.nsa.ic.gov/wiki/Ana|vtics Taxonomy
+
+https://wiki.nsa.ic.gov/wiki/DNR Travel Pattern
+
+Target Analysis Center (TAC)/Café/ Travel and Mobility Analysis Center
+(TMAC) DNI Co-Travel Analytic
+
+Background
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Status and Summary
+
+ 
+
+ 
+
+ 
+
+Future Work
+
+0th er resources
+https://ncmd—satc01.ncmd.nsa.ic.gov/gambit/pub|ic/q/dni travel analvtic cloud version
+
+https://wiki.nsa.ic.gov/wiki/Cafetrave| dni co—travelers
+
+TAC/Café/TMAC DNR Co-Traveler Analytic
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Background
+
+Status and Summary
+
+ 
+
+Future Work
+
+Other Resources
+https://wiki.nsa.ic.gov/wiki/DNR Traveler
+
+https://wiki.nsa.ic.gov/wiki/DNR Co—Traveler
+
+https://wiki.nsa.ic.gov/wiki/DNR Travel Pattern
+
+DNR Co-Traveler Manual Analysis
+htt s: ncmd—
+satc01.ncmd.nsa.ic.gov/gambit/public/q/dnr co travel based on similiar cell ids over a time frame
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Summary
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Acknowledgments
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Summary Table of Co-Travel Analytics
+
+CHALKFUN
+
+ 
+
+ 
+
+ 
+
+DSD Co-Travel
+Analytic
+
+ 
+
+Geospatial
+Analysis
+Tradecraft Center
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+hlame ef Analytic
+[chc]
+ﬂppnrlunily
+‘tielume Analytic
+
+T'CI'P SECRETHCDMINTHHEL TU USA, FUE‘r'
+
+Summary
+
+censiderlng the pcsslbility at
+their travel paths Intersectlng.
+Cemputes pessible travel
+reutes fer each entity
+between specified events;
+tensidering terrain; land
+ceyer, and read netwerlt data.
+
+Seurce Data
+
+Architecture
+
+Status
+perted te NSAl-Jet.
+
+Eaveats
+
+lecatle ns and 15 minute time
+Intervals.
+
+— tie-travel capability weuld
+require analyst te deﬁne a
+series ef meetings at specified
+letatie ns.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The analytic cemputes event - Settingleacl Cleve—based Initial devele prnent — This cleud analytic is
+sequences ef LAT; LUNG, and summaries ef cempleted. eriented te weri-r en T be 3i]
+time fer each. tasked selecter. FASCIA data en In testing phaseI days werth ef regienal
+These are called "trac its”. Each ISM-PLACE and net yet eperatienal cellectien.
+selecter’ s tracks are pairwise— EM-
+- cempa red tn the ethers and a - FtT—RG regienal — Analytic enly censiders
+[:mele measure cit similarity in time 55M cellecticln tasited selecters as seeds.
+Analytic and space Is computed. - - Analytic dees net ce nsIdEr
+The analytic werits tressr targets that de net travel
+netwerlt by cemputing target eutside a 2i) te 5:! km radius.
+"cleseness" based en the GEID — Traclc dataset must be
+LatrLc-ng EEG inferrnatien and repepulated l-‘er each data
+time- update
+- The Fa st Fellewer {FF} - Smartphene Cleudrbased The MES-E analytics - Analytic designed fer precise
+analytic censiders nen-SIEthT data from Implemented has been tested en geelecatien data [e.g-, frem
+reference paths fer statien Etit'PFtINTS in Java and real ELKPHINTS smartphe nes]
+personnel based en detailed - RefErEHce- parted te data. but results v MES: analytic weuld require
+knewledge ef the entity's path data [FFJ Mapﬁeduce have net been the analyst te deﬁne a series
+
+-tnv
+
+T ray eler A nalyti L's;
+
+ 
+
+lecatien. Candidate fellewers
+are determined by identifying
+ether individuals whese path
+matches the refemnce path in
+space and time.
+
+—The MeetﬁﬁreetSpatial
+Chaining {Pvt-EEC} analytic
+
+ 
+
+- List Elf
+selecters
+[MGSCJI
+
+ 
+
+ 
+
+yalidatﬁd by
+pperatienal
+analysts-
+
+The FF analytic has
+been tested an
+
+we de-up data.
+
+ 
+
+Elf meetings
+
+ 
+
+TIDF' SECREI'HCDMINTHREL TD USA, FUE‘t"
+
+2i]
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+PACT NGA-NSA
+GATC Analytic
+
+ 
+
+R6 SORTINGLEAD
+Co-Traveler
+Analytic
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+RT-RG Sidekicks
+
+ 
+
+ 
+
+Scalable Analytics
+Tradecraft Center
+(SATC) Geospatial
+Lifelines Co-
+Travel QFD
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+SSG Common
+lMSls Analytic
+
+ 
+
+ 
+
+Target Analysis
+Center
+(TAC)/Café/
+Travel and
+Mobility Analysis
+Center (TMAC)
+DNl Co-Travel
+Analytic
+
+ 
+
+TAC/Café/ TMAC
+DNR Co-Traveler
+Analytic
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+CO-TRAVELER: Inside the NSA's cellphone-tracking program
+
+24 Pages - Contributed by Matt DeLong, Washington Post- Dec 06, 2013
+
+This is a National Security Agency white paper that evaluates the various location—based target development techniques employed
+by the NSA and its partners.
+
+T-f-knhII-c and Verizon In 3:-
+
+Mun-r IRE-M .1r:II1-'.-r*. ..-.r' |.':I.'Il'.l -n'n'n1.1ln:ll' to II'JE'IIII‘Ir rel Ir.w.~:¢'r-. than wit-I In". .1r-'I W'f'l
+.11 the -.1"Ir ﬁE'EI .Irnlmrl lhtl '..1|'|'||:' I-n1£'_ !-".r"-.- .1rI' lfl'l'.'.'ll'rl'l.1l:(l '.r.I-.-r'| -: .l'.l']|l1.1'.l"". TIT-
+a'IrI yr '. elm: ne1 nee-J to linen-k when! 1hr: (:{I'J It [mi-51.1"? Ins-:atod However. I tr.-.-
+ndr.-i-1.I.1ll, .gri- using. .1 "IFIHI'I-t rtul-twcll. pr-‘u- rte-H, ||_'- 3, ' h’nhilr- {in-1 '.'|-_'r|.rn':1,1|1u~-l- men; :4:
+eh'r'a ' 1!|'-.I saw-time. nr-l 1:: mm {It-"er as then' '11-: we; 'eg-etm w-1h d-r‘ere r-t cell town's
+{n '.:._=-.us_'| dl'lquf1ll, '. lhat :in 'ml t.|:..'|-'..r:!::-r lhl- 9!‘.l.-".I;.d ELI-n lentil-zany r_|r 1'1' lam-III: -. .1. 'I I'-I,1t
+um mil-r Incl i.- dlmll, ".|'..I.I are u: 1r lelrl_.: "-n I:II|".;-r-:-I'.t rI-Ilwu'kg.
+
+.I'1.'l.l|'.". :I. E '..II rrI.:rluI .J'.l"' r'J pl:|-".I child [I- p__ T":Ir.|',.l: rIIIt1'-.-..ir-I'..' nut-r1 :-.I -: rIn-.:-::ll,lr
+
+gee {IL-.1! I'-II.:-|IJ-.41d I'1I'J’5tl '.I:I IJ-L'tt'r:' |'-I' |.1|>[v.’llll'.|.' I'IIJ ‘II LI-‘Ir: [timer 1:: -.1I'P'JI.|‘II.'I'
+
+U 5 companies are Lee-1| as an example to explain a imitation ir! tracling between tun-I:- eliHErer't carriers
+
+SF": l'u'lﬁ. u: 5;.
+
+'hl-i}.l|.'|'I_ -:-I |:: turf-mun L.l'.|-.Jf-'. 'fll'rdtlllh "--.I 1:
+"Huh. ..:-|_~ mun. -r..4-l- “H, II up... 1.. m-
+
+Lurr.r.—.r,|n....,ln,-I--. rug-I..:I.~|_| ||._I ;:-.. .|-. .m uni-Illu- Lu] I._-| I'I
+
+TITJP 1! F 3f T_.'_-'f(_'.| 'I.‘l|.‘ii T,'_-' F l_. TL") Llﬁk F‘v'F 1'
+
+ 
+

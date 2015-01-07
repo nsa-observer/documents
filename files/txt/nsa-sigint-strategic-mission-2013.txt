@@ -1,0 +1,583 @@
+TOP SECRETHCDMINTHREL TO USA, FVEYHZOSEU'I 08
+
+(U) SIGINT Mission Strategic
+Plan
+FY2008-2013
+
+3 October 200'? Release
+
+_Siy.nals lnlelligeuee
+
+Derived From: NSAJCSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+
+TOP SECRETUCOMINTHREL TO USA, FVEYHZUSZD’IDB
+
+ 
+
+(U) BACKGROUND
+
+ 
+
+ 
+
+['l_.'.-'.-"Ft_)llt)t America invests itt intelligence programs to detect. and to provide full and timely
+answers to questions shoot. the hidden pursuits of persons. states, or organizations. In the case
+of signals intelligence tSltilNT'}. tlte espectation is that surveillance of targeted electronic
+signals and systems will yield insight that‘s worth the costly capabilities and operations needed
+to obtain it. For over 5.0 years. from World war II through the glohal war on terrorism. this
+invcsttttettt has been justiﬁed. but the mission is still rightly judged by the answers it delivers.
+the implied husincss model is to positiott the mission to cover enough priority targets to ensure a
+steady stream olivalued products and services for decision makers and otlter SIGHT consumers.
+
+[Lit 'I'his strategic plan seeks to maintain or enhance the missions value itt light (tithe cltallengcs
+
+and opportunities of the unfolding network age. It frames and establishes several key aims
+and assigns responsibility For actions needed to attain them. At the highest let'el. success is
+deﬁned as stable or itnproved responsiveness to customer needs. while doing best against the
+targets that tnaltcr most and avoiding strategic surptisc.I
+
+[Ll The plan was developed through the on-line collaboration ot‘over 35f] SIGIN'I' practitioners
+and partners. Working within a framework created by the chiefSlt'ilN'l‘ strategist. It focuses on a
+sntall set ot‘ acts that should pay large dividends. and introduces data-driven processes to track
+progress. spot problems. and pt'otttpl adjusuticttls. it's how we‘ll continue to modernize the way
+we prepare for. pcrﬁmn. and appraise SIGIN'I' operations in a world in trunsﬁnrmation.
+
+ 
+
+ 
+
+ 
+
+(U) DRIVERS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Sit-REL} Since 3003 the intelligence community has been guided by a national intelligence
+priorities l'rante'tvods tNlPF} that maps customer needs into bands (A. B. and Cl ot'suecessitely
+lower concent. “Band  topics include thosc sn'ategic. asymmetric. and other threats that have
+the potential to greatly harm the LIE. or its interests ‘t‘t’ithin each topic. a l-S priority is assigned
+to speciﬁc geopolitical or non-stale entities ot‘interest. with i being the highest. Of course. not
+all intelligence questions are necessarily best. or even reasonably. probed by SIGNT means.
+Potential customers are asked to request SIGINT only when they can characterize its expected
+conmbution as supplementary. substantial. key. or esn'aordinar):
+
+[Si-REL} Since October of 2th)“. a national intelligence strategy has provided additional
+direction. [ts live overarching mission oltieetives are to defeat tetTorisnt. pres cat and counter the
+spread of weapons ol‘mass destruction. holster the growth olidemocracy. pcncu'atc hard targets.
+and anticipate developments of strategic concern. Of course. neither these ttor the roster of
+"Band A" topics represent a radical shill from prior thinking. For several years. the SIC'ili‘v'l'
+system has pursued these issues. inlettsitying efforts to harvest data from eontputels. Internet
+traffic. and other packcttzcd communications in the process- As the chiu't shows. there has in
+
+ 
+
+(U) the outlined ltl .-'tppeudis .‘\. cud-to-eud pet'lotntauce will ociutlgcd hy attaittitativc :uid qualitative
+analysis ofcuslontcr rcthcsLs and mission delit'c tables. and by authoritative customer surveys.
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEYH20320108
+
+that been signiﬁcant growth in the percentage of customer questions. and especially high priority
+ones. that are being at least partially answered by sen'alizerl SIGIN'I' reponing.‘
+
+{IIII'I_____-___ _:I_.I.’_.____-.l_._ I'I__.___—_ lJ—I.-._.__‘I 1"] [T‘s-'nd ‘_ II" I."‘.'n"'
+
+L’i-lLH' ‘ Hilttds't' HL-an-tts
+
+.tEiltt.
+th1.1.'.-.]:~
+-t-I‘.I'.‘i.
+
+4,: lii " II 'si-:
+35a; l .Illk . lot] a .
+
+Hand. ("' Requests
+
+llu't'l'TJUO
+
+ 
+
+ 
+
+new raw o'qu c:- Fr .. " oe- F'r at ::'r a? Fr nan-r e: Fr 31 F'r' :12 F'-' ca F‘I'
+suns scat: sec-s seas "  393:3 sass scus sees aros- scc? see-'9 coin
+
+insular rcginics oﬁcn
+remains at a premium. as is information about asymmetric. threats such as weapons of mass
+destruction. hostile cyher activities. and some terrorist organizations. h-‘loreovcr. past gains are
+always under pressure from the relentless evolution ot'targets and technology.
+
+E'l'S.-".-"S].-".-"REL] For instance. as Internet routing. and service nodes become more dispersed. some
+lucratii'c SIGIN'I' elml-tcpoittts Vanish and it takes more access points or over-thc-net operations
+to maintain the same coverage. As strong cryptography is applied to identity management,
+software attestation. protecting data at rest. and securing network meta-data. we must comparath
+expand cryptographic enabling sensitive commercial partnerships and cryptanalytic processing
+capabilities. As users become more mobile and more anonymous. we must introduce new
+association and pattern detection tccltnolog}: lest targets ofintcrcst lie lost or overlooked.
+
+[S--'.-'Sl.-'--"REL} At the same time. global modernization makes intelligence on economic. political.
+and other civil issues more valuable. and relevant targets tend to Favor networks. Internet-centric
+activities such as e-commerce. e-voting. and on-net industrial and utility control beg. to be mined.
+even as we espand existing operations against both public and private nets. Mounting interest in
+cvbcr security,- and the on-iine aspects of crime and extremism also spur demand for network
+sun eiilance. as well as more interaction with atypical customers sach as state and local
+Jaorertunents. and tighter pattnerships with consumers whose can target knowledge can help
+steer and interpret collection or a hose operations can be "cued" Lt}- SIGINT.
+
+t'S.-'.-'REI-._t Sonic etTons to recruit. train. and direct Islamic and other extremists are already
+entrusted to networks. and so tvill be man}- pians and acts ofthe PRC as it rises to be a near-peer
+competitor. Ruling institutions of even rogue states make some use ot'lntcmet technology. as do
+the scientists and proliferators with which the}.- ivortt. In fact. I’cwcr and fists-er targets of any
+stripe or location are far removed From a colleague. confidant. or contctlcratc that‘s in the know
+and on the net.
+
+ 
+
+it t "t‘tneslinns" an: ttcl'tnctl here as desired essentmi elements 411' mtnrtnation spectlied In standing
+tii'lhlli‘k—T UI l"l.‘~il.\_l' tL'LttIit'etttent-s. 'lilteyte L'uttsitleted "atltll'esseti'i 'I-NltlcllL'iltidittwtittlii‘ulEt'|1llt1ili:ﬁ isstlctl during:
+llH.‘ quarter.
+
+TOP SECRETHCOMINTHREL T0 USA, FVEYHZIJSZD‘WB
+
+ 
+
+(U) VISION, VECTORS, 8t VALUES
+
+ 
+
+ 
+
+[Lit Our mission is to answer questions ahout threatening activities that others mean to keep
+hidden. This is the essence of what we accomplish for the .Jnneriean people. whether we‘re
+supporting the global war on terrorism. inﬁltrating the leadership circles of strategic rivals or
+rogue states. or anticipating geopolitical and target technology trends.
+
+tLl-l-"lTDLlDlt Our vision. or aspiration. is to utterly master the foreign intelligence implications of
+networks and network technology. Evert conservatise people and institutions find themselves
+hat ing to entrust their plans and Operations to networks or else. so limit their ability to acquire
+information. issue instructions. and move people. money. materiel. and ideas as to risk
+irrelevance. The mission must he planned- equipped. and executed for best effect. against the
+objectives that matter most. in this brave new digital world.
+
+[LTt At the heart of the task is the need to sense. and nrake sense of. systems. traffrc. users. and
+various types and levels of organizations. This is a circular and fast moving process. \lew
+insight leads to better sensing. which leads to still greater insight. and so on — sometimes in
+months. but sometimes in minutes.
+
+[Sr‘r‘Slr‘r‘RELt Today. most of what we access goes unexplored or unexploited. Humans can
+neither follow network flows in real-time nor forge intelligence gold from an accumulation of
+isolated data points whose wonh is only apparent when combined with one another and with
+what others may know. Our global sensors need to be able to think for themselves and talk to
+one anorher instantaneously. Our processing systems need to automatically ﬁnd meaning in and
+across vast and dispersed data sets. Unr analysts need new skills and new tools. and need to
+apply them in new ways. often in concert with customers. Our business processes need to
+promote data-driven decision—making and more disciplined end-to—end planning.
+
+[lift This will not happen without leadership and the courage to ask ifthe practices and structures
+that serve us well today will continue to do so in the litture. .-'\t the satire time. some immutable
+values must continue to inﬂuence our daily choices and behavior. :‘tll militaryr and civilian
+employees are called to commit to lawﬁrlness. honesty. integrity. fairness. accountability.
+loyalty. collaboration. innovation. and learning. .-'\s we in the SIGINET mission grapple with the
+peculiar risks and rewards of the times and tasks at hand. a few implications of these
+commitments warrant special comment:
+
+r {L'l SlGlN‘l' professionals must hold the moral high ground. even as terrorists or dictators
+seek to exploit our freedoms. Some of our adversaries w ill say or do anything to advance
+then’ cause: we will not. All employees must have uneompromisirig devotion to personal and
+institutional integrity doing the right thing. every time. regardless ofhow difﬁcult it is.
+
+{Ll SlfilN'l' professionals must be honest with themselves. colleagues. superiors. and
+oversecrs. When something won't work. isn't working. hasn't worked. or went wrong. we
+need to say so. with respect. but also with unmistakable clarity. We then find a different way
+forward.
+
+{L} SIGINI' professionals need to grow and prosper as mission assets and as individuals.
+We. cneom‘age career-long learning. periodic stretch assignments. and a halanee between
+work and home life that horiors duty to family. community. and self as well as to country.
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) KEY AIMS 81 ACTIONS
+
+ 
+
+(L?) We seek to maximize the SlGlN'l' mission‘s value to the nation in the contest ol‘ the
+intelligence priorities and technological realities ot'tlte network age. liottunately. no tnatter what
+streams of operational and engineering initiatives — from the incremental to the tt‘attslhttnational
+— are running their course at a particular time. a tiew core structures can channel them for best
+ofﬁcer The following goals are intended to do _i ust that. As implementation of the plan proceeds.
+the responsibilities described below will be further decomposed into subtaslts for 1carious mission
+elements and let-els. Ultimately. muclt ot‘tlte daily work of the SlCulNT enterprise will beneﬁt.
+including the immediate mission imperatives presented in Appendix B.
+
+[LI-“:FFDUD} Goal l: Annually improve SlGlh-‘T on NlFF "priority I" tasks and “Band 91" topics
+in general, as measured by more even pert-brn'mnce across topics and rising perthnnaoce overall."
+
+ﬁt. {LT} Responsibility- and Accountability: Beginning in October 200?, tlte mission‘s Deputy
+Director for Customer Relationships t'DDCR] will assess SlUlNT tnission performance
+against MPF "Band A" tasks using methods outlined in Appendis A. th' 1.;va if? ml!
+provide the t'rtl'sxt'frmbt senior fenders with rpn'rt'terh' "Hum." .-l " performance repm'ts' can!
+qtn‘rrren‘ft' nicotine-prion oftm- or tunict'-.t'uti.rfi'ed "Bond .--'1 " tasks.
+
+{l_-'.-"-"F(Jltl(_)} Responsibility and .-'\ccountabiliry: Beginning in F‘t'lll'l, the DDCR will lead the
+missions l—)epnr_'-,r Directors for .-'\nal}-'sis and Production tDD."tPl and Data Acquisition
+{DDDAL and Associate Deputy Director for SIGIN'I' Derelopment [ADD SlfiDli‘t-"t through
+joint reviews at" tin- or under-satisﬁed "Band  tasks to ﬁnd and address problems. i’ll're
+Hill 'R will prurnle the .‘s't’l'ihh-T Director n‘tt‘h quartz-"rift: unpr‘tn‘crttc'm {darts and progress
+reports. Including concurrence. ninth-151's. rtmf r’ottmtimn’tm__,i’i'rut1 the Hf)de d.’lr.))rl"l_. rum"
+:1! U.) Nt’t'il Mil”,
+
+{l_.'.-".-'F(_)l_l(_)jt Responsibility and .alccountabiliw'. By .-\pn'l 3008. the DDD.--\ will begin
+tracking the currettt and expected purpose and (using documented business ntlesl
+productivity oi‘ Ii]. End. and 3rd party SIGIN'I' accessesII Hie Dillilri will provide the .H'ftiL-‘H'
+ﬁbre: {or trim qmtrreritr L'tHHﬂtH'ISUNS of the "than! .-l " tasks gown to. arm! the tl’I.'t'pt'.l.\'l'll't.lH and
+use of the resultant t't'ii’t’c'trntmjrtmi. cuct’t tlL-‘L't’.‘t‘.\'. ftrgitfrgitnttg tm- or trrnt‘ctv.ntt'rs'frcu’ Mauls.
+{lL-‘l-"FOLlOl Responsibility and Accountability: Beginning in Frill). the DDDx—‘t will
+
+systematically rcengincer. retire. or replace tdircctly or though a partner} chronically
+
+ 
+
+3!
+
+lL'.-'.-'FULTO] While pct-l‘onnance against "Band A" [optcs ts our benchmark. oc utll continue to our}; all
+high prioril} tasks. and lesser "Band l3" and "Band 1—" issues nltcn as affordable and plans In our strengths.
+
+I tlL-ﬂ-‘FDI'OJ "Access" as used here tell-rs to data sources that are at least partially funded via the collection
+
+and npcmtinns tm'cstntcnt portt‘olto. 'lhc purpose or producti'titt ot‘ an access may relate to tipplng. steering. or
+otltcrutsc enabling utltct collectors. as opp-used [u collccnng targeted information directly. L'niqucncss and
+untapped potential are also factors to consider as is the espectcd contribution of an access in the c'L-ent of a
+reasonably likely and signiﬁcant Future cnsis or concern.
+
+ 
+
+Elf
+
+tindel'lierlbnning accesses. the t’ tt’ lt’ }.--l ii't't'i’ annnattfi‘ provide the .‘i't't iL'V't" t'Jt't'er'ttn‘ it't'ttt a
+inttltn'ein' "access enhancement " plan as part attire program htttt'a’ tattle.
+
+{til Responsibility and Accountability: Beginning in F‘t'ttBt the .-\geney"s Chief Technology
+Ofﬁcer t'tT'E'OJ --— with the full support of relevant collection. analysis. and customer
+engagement elements will start to systematically instrinnent SIGNT tasking ingestion.
+pmeessing. analysis. and deliver systems to automatically lag data so that its source and
+subsequent processing and handling can be associated with some categmization of its
+ultimate use or intelligence value. {lie ("[0 irn’tr provide the .tlge'ttqt‘i't Henna- tetttt'etsttt‘n
+u't'tn stunt—amino! reports- an the percentage [3.1;th accessed that can he so associated.
+
+.-'.-'l-'t'}l_lt}} goal 2: Field an analytic it'orkﬁiree that promptly and methodically discovers and
+
+exploits priority secrets entrusted to networks worldwide and helps eustotriers turn this insight
+into signiﬁcant national outcomes,
+
+A.
+
+{LI-"I'FOL'Ojt Responsibility and Accountability: Beginning with F‘i'TlS. the CTO will enable
+improved information discovery by oneltestratinf=T annual increases in the propottion of newly
+acquired and archived data and ineladata that can be readily searched and retrieved by
+analysts across the enterprise usingT standard workstations. Hie ('t'i') ti'tt't develop hase'n'ne
+tttetttttt'es of ttt'(-'(’.l"~'lhllt’ Jam. attetjt‘ titties. ana’ attetfi' a’t'ti'i't'ttt'ti'. ana’ provide the .H'ttiL-‘t't'
+titre: tar n'ttlt annttat' improvement reports. beginning at the can" at t-"l’tta‘i'.
+
+{L'r'E'FOLlD} Responsibility and .Lliecountabilily: lll l""i'l33 and out. the NS.‘~\.-"C'SS Senior
+Language and NSA—"C'SS Senior Intelligence Authorities will maintain a global training
+requirement for all eQ-']Jtoltigic language and intelligence analysts pet'l’t'irtningI various classes
+of missions and liiiictions; will identify the types ol‘ learning activities that meet the
+requirement. based on curtan and projected needs and work Force statistics; and will proi ide
+data on organizational compliance to SlGlN'T mission and Agency leadership. the J‘s-'51s! ('55
+
+.‘i'enan' language aha" lith’ilt'tru't-Wtc't‘ _-'l rttnarttter and law managers- of relevant ntyatn':attott.~r
+u't't’t' t-‘tl.\'ttl‘e‘ that at term Milt-ti of at.“ crtjtyttot’ugte ttttt-'tt’t"eettt'e' ana’ tangttaet' anon-arts trrtt
+interim- tn tot} tmm a_t',r.tre.u-rtfiea‘ tarpon-eat prati‘sstanat act'w‘apntt'nt t'l't’t‘l' tti'a 'l't'ti’l'ﬁ. atta‘
+that at twist t’tl‘t'é; rit'i’ttn‘enagc' and attelt'tgt’nt'e anaift-ittv wanting the t'ritttttertt-‘rt'nrmn tttt.\'.‘-'J'Utt
+u'tt’f he engaged in advanced or .spﬂt'ttﬂti‘t't.’ .t‘t‘rttttlttﬂ at any. given tone.5
+
+. tL:"-"FOUO} Responsibility and Accountability: Beginning in FWJQ. the DDCR and the
+
+DDAP will cultivate client—consultant relationships with more customers to facilitate new
+and more productive tasking and consumption ot'SlGlNT products and services. the tilt-JP
+u'tt’l tit-ovate ti’n' stat.-vt' therefor ain't on annual“ owner an the number. tit's'pmtttntr anti"
+{trit‘tnnt'nti’a’ impart Ufr’tti‘ttiil-Z‘I'l'k' it'f'l'lll'lﬂ ttttitlt-tttne t‘atnnt'tantjt' t'tsstlennti’nts.
+
+{C.-".-"RE[..'] Responsibility and Accountability: Beginning in F‘t'ttR. the DDAP will increase
+the practice or" forward deploying analysis into customer not‘kspaces to Facilitate real-lime
+analysis and iterative consultation n-‘liere needed. the NIL-it“ u'ttt {innate the Milt-Vt
+Ht't'etrtat‘ ii't'tlt tﬂtt'tt‘t‘t.’t‘l_t' sttttttttttrtt'a' aftt'n-r tatttthet‘ amt itit‘tttttn't ttfifttt'Hﬂll'tJ' tltrftt'ttltt‘til tattttftivts
+and tt'tet't‘ interatt'rntat' itintat't as Li‘.$'.'i'L’.H-.‘.'L’tl int ens-tamer .i'ta'i‘ei-‘s.
+
+{L7.-"-"l"'0UO} Responsibility and Accountability: Beginning in F3118. the DDAP will
+systematically hand off mature analytic tasks to qualiﬁed partners ‘when doing so increases
+
+ 
+
+(ll) 'Ihe latter is already a requirement nt‘the \ltltional (Torinterterronsm Intelligence I’lan
+
+ 
+
+the effectiveness or eﬁiciency of the resources available to the US govemment and the
+STUNT mission. Hie Ir 31' Hi" it'tt’t’ provide the .‘it't .if.-"L"'l" f Jitet'tot' with on ottmmt‘ t'ept'trt on the
+tasks so 'jt't?ttt"itt'.re:'t” river the merit-insfiscal tern: t‘n'nr any rec-overeat! resources it'et'e
+t'ewttpftn‘ett'. and the t‘ttstottter trimmers i‘if't'ioti'i.
+
+[1.3] lfinal 3: Annually increase the use of husiness cases to allocate pay and non-pa},r dollars and
+scarce skills for better returns on investment than altemative— ways ot‘nsing the same. resources."
+
+.4. {LL-"r'l-‘(lLlﬂl Restmnsihility tutd Accountability: Beginning in FY03. the chief SK'ilE’i'l'
+strategist will identify those skills that. for lack of'critieal mass. keep us ti‘om meaningfully
+migrating to new net centric tools and techniques. even it“ resources are adequate to expand
+existing types oft-collection. processing. or analysis operations. Prior to c-‘tt‘L'JrlAl'c‘ttI"..K' program
+omit! crate. the elite,“ .S'tt'itt‘v't' strategist n'ti't' pmmt't' itn‘estmetit portfolio managers citth the
+.H'i’t't't.-\."t' mission '5' setitor twitter-strip irttt't on ammo! i’tst of work rules it'i’tttse incumbents are
+to he considered "nit-tires rest-mt‘t-t-‘s for tins-inma- pitttttimg proposes:
+
+{Ll Responsibility and .i‘teeountahility: Beginning in li‘i’tJB. the DDUR and the ADD
+SIGDEV will I'use insight into technology and geopolitical trends and then clearly articulate
+the prioritized implications for the SlGlN'l mission. .i’rmt' to melt _t-'ettr's program: httn’if
+tattle. the Hill. 'Et' intoI the ANN .‘i'ftr'flt't'l' will provide t'tJresttttt-wi‘ portfolio: ttlt'ﬂlt'tctft'iﬁ' n'itt’t
+t’tl'.'i'l’tl:l‘ cottvtttttohfe t‘ttttt' t'tt'tte'mttht'e planning gttttt'tmt'e tittttett' or irritating tet't'ttmi'ogtettf or
+.s'tt‘t‘ttegtt' .utr;.tt't'.re tutti tttttt'ttttti‘i' ordering {INFL'HHIIJJ'I :tti'esttttettt.v.
+
+{L't Responsibility and Accountability: Beginning 1with the FYIU-IS program build. the
+Collection 5.: Operations. Processing 81: Exploitation- Analysis & Production. and i'vlission
+h-‘lanageinenl investment portfolio managers will revalitlale or construct new business cases
+covering ever larger proportions of their pa}- and non-pa}; submissions. .-l.~' part (it"mtt'ti
+‘1-'I'_'ta'."l.\' pmgt‘utit t'urtttf tjt't't'e. true-Ii oftt’telﬁim' investment Iftlef!_tft-'IZT n'ti’t’ .vm’mttt hum-tom's ("uses
+to the .‘x‘t't'itt‘t't' ti'trt-retot' covering more tit—titett' pin-ism“ than first-1th :‘Itttiiet‘tv.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Lit The national intelligence program allocates pa}.r and non-pay dollars to the SIUINT mission
+through seven investment portfolios. .-"ts discussed below. the work of each must be tailored Jfor
+success in a changing. world. Ultimately. desired customer outcomes demand certain operational
+concepts and ﬁtnerions. These require sets of personnel and technical capabilities and supporting.
+inFrastnIcture. all playing. the right role at the right time as scripted by system engineering.
+
+[1.1.1.(5tittcstiaassttjlnsrarities
+
+['I'S. . Sl.-".-"Rl:'L] Historically. we've arrayed independent accesses against various streatns ofpoint-
+[ti-point coinmuuications. ﬁts we shil't li'orn intercepting links to exploiting networks though.
+multiple collection plat Forms must he engineered and outﬁtted to work in concert- and alien in
+real-time. ‘v'ast tptanlities of message esternals and other network metatlata must he harvested.
+
+ 
+
+.I.
+
+{Ll} Such business cases should take into account national priorities. geopolitical and technology itrrccasts.
+mission assessttieiu data. and det‘ensible cost information.
+
+ 
+
+oﬁen t'ia bulk "midpoint" collection ot‘ global backbones. ‘t-“endors attd sen’ice pro'riders mttst
+also be leveraged to obtain metadata and other targeting and vulnerabilityr intonnation. as well as
+tral‘ﬁc. “Endpoint” ope-rations mttst expand. to retrieve tnore targeted data directly attd to alter
+routing or encryption For the beneﬁt of'passn'e sensors.
+
+[Si'r'Slr'r'RElt h-‘lltlpoint collectors will still be used to acquire content {and notjust metadata}. but
+with less success and at greater cost as trafﬁc irolumes and velocities rise. h-‘lohile and tactical
+systems. cox-err and clandestine programs. and twerheart assets will continue to pertonn their
+specialized tasks until the spread of network technology offers a better play. and will he
+modernized as the mission requires or when automation or new technology can significantly
+reduce long-term manpower or life-cycle support costs. Endpoint trtetltods will he used for more
+ELll‘s'l' and HS tasks. gathering data on some weapons or emitters hellire they're deploy-ed.r
+
+(l '] Processing and Exploitation
+
+[R’s'Slr'r'l-{ELt ll‘collcetion operations around the globe are to work in tandctn in real-time. then
+the processing and exploitation i'ahric ol‘tlte SlGlNT' system must ]JI'O\ ide for distributed storage
+and robust messaging. Fast. llcxiltlc. Front-end processors tnust spot targets based on patterns.
+erents. or tnctadata rather tltan pie-deﬁned selectors or brute. force scanning of content. High
+perlionnance computing systems must extract meaning from huge data sets and to negate data
+encryption and contputer access controls.
+
+[Hu'r'Sls's'RELt New developments will stress standardized interfaces that let diverse applications
+share infrastructure. and will later automation and otT—tlte-shel 1‘ technology ot'er manual
+processes and point solutions. New SIGIKT system architectures will de-couple et-ettt detection
+From follow-on reaction and processing. so that applications can he added or deleted with little
+impact to ongoing operatiorts and so that sensors and processors can serre many tasks rather than
+one opcr'atit'ntal slot-'cpipe. All this — and increased use ol‘ remotely- conﬁgurable commercial
+hardware — will also cut the time needed to retool or refocus technical infrastructure as customer
+needs. target hehariors or technical constraints change; they‘ll reduce life-cycle costs as well.
+
+(L) Analysis and Production
+
+[Sr'r'Sl-“r'RELt In the aﬁermath of the digital revolution. powerful analytics and empowered
+analysts are how we discover targets and their secrets and how we harness our technical
+capabilities to our customers’ missions. Athances itt collection and processing. must let us ﬂap
+erents of interest as they happett. accumulate far more contest-rich metadata. and collate
+targeted communications and transactions across accesses. To take adr-atttage of this. analysts
+must hare new tasking. association. and presentation tools. and larger and more adaptable
+storage and retrieval systems. Fomtnately. inf'onnation management and mining is central to the
+Internet age and nest-generation analytics can employ many commercial products attd practices.
+
+ 
+
+tS.-'.-'RE]_.t Looking forward. we will continue to devote more analysts to esploiting digital
+network intelligence and to working problems related to cotutter-terrorism. counter-pro]iteration.
+(.‘ltina. Iran. and the h-liddlc Fast. aggressively investing in the necessary tools and training. and
+"Franchising" some mature missions to qualiﬁed partners. We will deemphasiee the traditional
+concept of a SIGINT storefront (requirements inft'eporttng out] in tat-‘ot' of having tar more
+analysts workng physically or tinually within the missions that they support. They will act
+more as a consultancy than a simple data source. helpinp shape customer plans to relleel the “art
+
+ 
+
+Halal-1701.0] Some cltmctertzzttion of actual emitters in real world opcmlion may sltll. howes‘cr. ht:
+llkLCL‘5‘inr}
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEYHZO3201IJB
+
+ofthe possible" and giving each customer's own analytic workforce the power and knowledge to
+reap. rather thanjust consume. SIGIN'I‘.
+
+-tlitMissing.ﬁ'lanaestnent
+
+[l_.-'.-'Ft'}l_ltJ} To optimize ever more complex. last-moving. cross-access operations. we must
+introduce intelligent agent technology that automatically updates tasking and status as it interacts
+with technical inti‘astructm‘e. visualization tools. and authoritative databases. To prevent
+strategic stir-pose. we must track geopolitical and technology trends to identity potential gaps and
+mitigate them before mission performance degrades. To accommodate an increased fusion of
+SIGINT analysis with customer activities. we must develop new mission management tools that
+capture and handle a freer flow ofinteractious and new forms ofsupgntrt. 'l'o pave the way for
+more meaningful productivity estimates and more enlightened investment decisions. we must
+instrLunent collection. processing. and dissemination systems so that sources can he linked
+through analysis to customer outcomes.
+
+(1..) Research
+
+[Sr‘r‘Slr'r'RELl Dur ability to master glohal networks and handle previoust tmimagined volumes
+of raw data front both passive and active collection will depend in large part on successful
+research. Requirements inclttde ever tnore powerful methods of knowledge discovery and
+management- highly capable software implants and mobile agents. optimal distributed storage
+arrangements. and advanced analytic algorithms. Underpinning all this must he high
+productivity computing systems and world-leading cryptanalytic talent that cart both cope witlt
+pervasive hard encryption and find and exploit meaning in large data sets generally. Researchers
+must also break new ground in the area of enterprise security management if we‘re to fully
+realize a more interconnected. distributed. and autonomous SIGN-"f operations fabric and
+geographically dispersed analytic collaboration.
+
+(U) Enterprise IT and Enterprise Management
+
+[LL-“:“FDUD'; New operational strategies and capabilities can‘t deliver on their prontises without
+the right military. civilian. and contractor workforce. t1 modernized enterprise information
+technology infrastructure. and an assured 2|“ century physical plant. The quantity and quality of
+language analysts. intelligence analysts. mathematicians. and computer network exploitation
+specialists are priorities. as is rebuilding the acquisition. system engineering. and
+business-"project management workforce. Another imperative is modernizing enterprise
+networks. platforms. and services. this eftort ranges from bandwidth expansion. to server
+consolidation and refresh. to introducing user tokens and other infonnalion assurance measures.
+A third is dealing with long-tletcrred real property maintenance and the mitigation of long-
+sitnineiing power. space. and cooling shortfalls.
+
+TOP SECRETHCOMINTHREL T0 USA. FVEYHZDSZD‘EOB
+
+ 
+
+(U) APPENDIX A: Assessing Overall Performance
+
+ 
+
+t_L‘.-'.-"F(JU(_)t Customers request SIUINT by specrﬁ'ing the "essential elements of inthnnation"
+[_EEls_l that they want to uncover. The National Intelligence Priorities Frarrren-orli ti‘ilPl") rrraps
+each F.F.l into one of three bands (A, R. or C] ot‘ successrvelv decreasing concern according to
+general topic. and assigns a l-r" priority based on the combination of the topic and speciﬁc
+geopolitical or non-state entity involved. Responsive SIGINT is delivered in several t‘onrrs. but
+serialized reporting dominates. and so one indicator of end-to-end mission performance is the
+percentage ol‘ requested F.Fls for which at least some responsive reporting is provided tie. the
+{Liz-1' titration t‘r'i‘tt'}.
+
+fifth-"FOLIO; At a macro-level. the Overall citation rate for “Band  F.F.ls should he greater titan
+that for "ﬂood B." which in turn should exceed that For “Band  Beyond that. performance
+against each “Band 3‘." topic is also weighed in accordance with the following lit‘st-ot‘der' rules.
+l‘ertbrmance is poor it"a “Band  topic's rare doesn't even exceed the overall "Band B" rate.
+Pertbrmance is trust- it‘a topic's rate is above the overall “Band B" rate. but less than the overall
+“Band  rate. Pert‘onnance islfor'r orgomr' it"a topic's rate is at or above the overall “Band .u't"
+rate. with the latter also requiring that the rate for the topics “priority I" Elils be higher than that
+for the topic's F.F.ls generally.
+
+[Lit (-Allilllttl] rates reﬂect only the existence. ol‘responsive SIGINI", and not its impact. ilk-'lDI'CU‘v'CL
+they don‘t directlyr account tor requests that are addressed entirely by other than serialized
+reporting. and they can he skewed by careless recordl-ieeping or differences in granularity
+between EEls. 'l'hcreﬁrre, quarterly citation rate assessments are. complemented with two
+broader. more subiective. and Irrorc manpower intensive views of customer outcomes and
+satisfaction.
+
+[l.I.-'.-"F('tt.lt')} The ﬁrst is a iprartcrlv. manual assessment of performance against each Ml’li “Band
+A" topic that includes niche interactions that don't involve Ii|:'1s as well as dcliverahles beyond
+serialized reporting. PcrfonnauCe is graded on the extent to which records show that responsive
+intiirmtrtion 1. ras pushed to or pulled by a customer. and sampling suggests that the records that
+lie deliverables to requests are accurate. urnt‘ sampling suggests that the information delivered
+Was germane vice just tangential. Performance is poor if responsiveness is well below average
+[relative to that for "Band A" tasks as a whole). treml‘ it“ responsiveness is semen-hat below
+ttvcrage._fiur ii'resptrnsiveness is average or better. and goon" if responsiveness overall is average
+or better and is better still against high plioritiCs.
+
+EL.'.-'.-"li'DL'D} The second is a quarterly survey ofroughlv 2t) intelligence consumers. speciﬁed h}.-
+position based on their ability to speak httowledgahly," and authoritativer about the SlGll‘x'T
+contributions to he}; cit il or military,- customers Those solicited represent the uniﬁed combatant
+commands and the Joint Staff; the Departments of State- "treasury. Commerce. Energy. and
+Homeland Security; the Central intelligence and Defense intelligence t-ltgeneies, the l-"ederal
+Bureau of Investigation; the Drug Enforcement .-"tdrrrinistration; the National Courrterterr‘orisrrr
+Center; the LLS- "trade Representative; and the. White [louse Situation Room.
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEYH203201 08
+
+(U) APPENDIX B: IMMEDIATE IMPERATIVES
+
+tS.-".-"RL‘L} Gain mare pert asire and persistent insight inlﬂ al-Qa'ida til-Qa‘ida afﬁliates.
+Hezbollah. and other terrorist targets, despite their increasingly aggressive C'OMSEC'
+practices.
+
+t'S.-".-"REL] lnfillrate the most secret communications and data of the leadership. military.
+and security bureaus oflran, North Korea. China, and similar targets al'high concept.
+
+lth Betterdeﬁne and pursue immediate. near-term, and strategic mission management.
+
+tLL-Z-‘FDUDJ Optimize SIGINT discovery to find and follow targets. reﬁne their
+prosecution. and anticipate their shifts.
+
+1th Identify and plan lhrgeepolitieal and technology trends.
+
+t'U.-'.-'F(_}U(_)_J Introduce praduetized net-centric capabilities intn Inamsn'eam SIGINT
+Operations (in a scale that preduces signiﬁcant dl‘i-‘ldBHdS in the eartntertetmliSm arena
+and elsewhere.
+
+TOP SECRETHCOMINTHREL T0 USA, FVEYHZDSZD‘IUB
+
+ 
+

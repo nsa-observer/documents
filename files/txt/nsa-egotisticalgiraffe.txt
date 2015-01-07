@@ -1,0 +1,310 @@
+(TS/lSI/IREL) Peeling Back the Layers ofTOR with
+
+EGOTISTICALGIRAFFE
+
+ 
+
+ 
+
+. Overall Classiﬁcation
+
+ 
+
+This brieﬁng is classiﬁed
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+ 
+
+ 
+
+. (U) Overview
+
+- (U)WhatisTOR?
+
+I (S/lSI/lREL)TheTOR Problem
+
+- (TS/lSI/lREL) EGOTISTICALGOAT
+
+- (TS/lSI/lREL) EGOTISTICALGIRAFFE
+- (U) Future Development
+
+ 
+
+ 
+
+ 
+
+. (U)What isTOR?
+
+ 
+
+- (U) “The Onion Router"
+
+- (U) Enables anonymous internet activity
+0 General privacy
+0 Non-attribution
+D Circumvention of nation state internet policies
+
+- (U) Hundreds ofthousands of users
+
+0 Dissidents (Iran, China, etc)
+0 (S/lSI/IREL) Terrorists!
+D (S/lSl/lREL) Other targets too!
+
+ 
+
+(U)What is TOR?
+
+OCONUS
+INTERNET Internet Site
+
+Client Browsing
+The Web
+w/ TOR client
+Installed
+
+ 
+
+ 
+
+Client "   OCONUS
+Brnwsung _:;:~ ~ Internet Site
+
+The Web
+ TOR chem
+Installed
+
+ 
+
+ 
+
+- (U)TOR Browser Bundle
+
+Portable Firefox 10 ESR (tbb-ﬁrefoxexe)
+Vidalia
+
+Polipo
+
+TorButton
+
+TOR
+
+“Idiot-proof"
+
+D
+
+U
+
+D
+
+ 
+
+ 
+
+ 
+
+. (S/lSI/lREL)TheTOR Problem
+
+ 
+
+I (TS/lSI/lREL) Fingerprinting TOR
+I (TS/lSI/lREL) Exploiting TOR
+- (TS/lSI/lREL) Callbacks fromTOR
+
+ 
+
+ 
+
+G (TS//S|//REL)FingerprintingTOR
+
+ 
+
+Windows XP Ubuntu 11.10
+FimeX 10-0-5 ESR? Firefox 10.0.7 ESR?
+I 32—bit Windows 7 I 32-bit Windows 7
+I Firefox/10.0 I Firefox/10.0
+64-bit Mac OS X 64-bit Windows 7
+Fire‘cox 10-0-4 ESR? Firefox 10.0.10 ESR?
+I 32-bit Windows 7 I 32-bit Windows 7
+I Firefox/10.0 I Firefox/10.0
+Windows 7
+
+Firefox 10.0, not running TOR?
+I 32-bit Windows 7
+
+&
+
+ 
+
+ 
+
+. (TS//S|//REL)FingerprintingTOR
+
+ 
+
+(TS//S|//REL) BuildID gives a timestamp for
+when the Firefox release was built
+
+Year Month Day Hour Min Sec
+
+(TS/lSI/IREL) tbb-ﬁrefox’ s BUiIdID:
+
+O
+
+ 
+
+. (TS//S|//REL)FingerprintingTOR
+
+ 
+
+- (TS//S|//REL) TorButton cares about TOR
+users being indistinguishable from TOR users
+
+- (TS//S|//REL) We only care about TOR users
+versus non-TOR users
+
+- (TS//S|//REL)Thanks to TorButton, it’ 5 easy!
+
+ 
+
+ 
+
+ 
+
+' (TS/ISI/lREL) Exploiting TOR
+- (TS/lSI/lREL) Callbacks fromTOR
+
+ 
+
+ 
+
+. (TS/lSll/REL)ExploitingTOR
+
+ 
+
+I (TS/lSll/REL) tbb-ﬁrefox is barebones
+
+0 Flash is a no-no
+
+U NoScript addon pre-installed...
+...but not enabled by default!
+
+0 TOR explicitly advises against using any addons or
+extensions other than TorButton and NoScript
+
+- (TS/lSI/IREL) Need a native Firefox exploit
+
+ 
+
+ 
+
+. (TS/lSll/REL)ExploitingTOR
+
+ 
+
+' (TS/lSl/lREL) ERRONEOUSINGENUITY
+
+D Commonly known as ERIN
+0 First native Firefox exploit in a long time
+0 Only works against 13.0-16.0.2
+
+' (TS/ISII/REL) EGOTISTICALGOAT
+
+U Commonly known as EGGO
+D Conﬁgured for 11.0-16.0.2...
+
+...but the vulnerability also exists in 10.0!
+
+ 
+
+ 
+
+. (U) EGOTISTICALGOAT
+
+ 
+
+- (TS/lSll/REL) Type confusion vulnerability in
+E4X
+
+- (TS/lSI/IREL) Enables arbitrary read/write
+access to the process memory
+
+- (TS/lSI/lREL) Remote code execution via the
+CTypes module
+
+ 
+
+ 
+
+. (TS/lSll/REL)ExploitingTOR
+
+ 
+
+- (TS/lSll/REL) Can't distinguish OS until on box
+0 That's okay
+
+- (TS/lSI/IREL) Can't distinguish Firefox version
+until on box
+
+0 That's also okay
+
+- (TS/lSI/IREL) Can't distinguish 64-bit from 32—
+bit until on box
+0 I think you see where this is going
+
+ 
+
+ 
+
+ 
+
+- (TS/lSI/lREL) Callbacks from TOR
+
+ 
+
+ 
+
+. (TS//S|//REL) Callbacks fromTOR
+
+ 
+
+I (TS/lSI/lREL) Tests on Firefox 10 ESR worked
+- (TS/lSI/lREL) Tests on tbb-ﬁrefox did not
+
+0 Gained execution
+0 Didn't receive FINKDIFFERENT
+
+- (TS//S|//REL) Defeated by Preﬁlter Hash!
+
+0 Requests EGGI: Hash(tor_exit_ip || session_id)
+0 Requests FIDI: Hash(target_ip || session_id)
+
+ 
+
+ 
+
+. (TS//S|//REL) Callbacks fromTOR
+
+ 
+
+' (TS/ISI/lREL) Easy ﬁx
+0 Turn off preﬁlter hashing
+U FUNNELOUT
+
+- (TS/lSI/lREL) OPSEC Concerns
+
+D Pre-play attacks
+
+- PSPs
+- Adversa rial Actors
+
+0 Targets worth it?
+
+ 
+
+ 
+
+ 
+
+ 
+

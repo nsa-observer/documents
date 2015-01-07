@@ -1,0 +1,392 @@
+TURMOIL GALLANTWAVE - WikiInfo
+
+The announced innity level nfnds system Is: Top SECRETHSLGAMMNTALENT Knuomioammvnmmmummﬂmum i:va w
+
+TOPEECREHEIHELTO USA‘ FVEY
+
+(UIIFO U0) TURMOIL GALLANTWAVE
+
+From “rIkJInID
+
+(UIIFOUO) VALIANTSURF: TURMOIL GALLANTWAVE
+
+ 
+
+ 
+
+Emleasing.mii..+,iiam+mm
+
+amnion: uglrmnlm+xsr§uggz
+
+ 
+
+(UJJFOUO) The TURMOIL CIET (Cummun Internet EnurprIDn Teuhnulugies) Thrmt': mi: 0“ is Lu ensure that ﬁle GALLANTWAVE Ledm‘s TUMOIL'n-ﬂdlﬂd requiremenu are [u]ﬁ]led. Twu subrpmjeub tinder CIET dre
+
+VALIANTSURF and GALLANTWAV E.
+
+(TSJJSIIIREL) GALLANTWAVE (GW) is a CBS Mission Application hosted on TURMOIL diat enables exploitation of target communications mat empluy Data Network Session Cipher (DNSC) technologies. The GALLANTWAVE
+mission application integrates widi TDRBDLENCE-iiased solutluns at the front end. After interat-ong widi 15‘s LDNGHADL key reuuvery semioe Via ISLANDTRANSPDRT, it exploits the oiphei— at the front end, exposing the
+
+plain text to fouow-on seJeooon and ooueohon.
+
+U'LLRUN
+(Sf/SIIIREL) Informahon revealing any unpublliLy NSA has to epruIL a speoiho target's or oompany's implementation of enurypuun for GALLANTWAVE teohnoiogies is BULLRUN.
+
+Contents
+
+- 1 (UHFDUD) V‘ALIAN'TSURRTURMDIL GALLANTWAVE
+. 1.1 GAILANTWAVE Detailed Description
+. 1.2 Data Fluw Diagrams
+- 2 (U) Open GALLANI‘WAVE DRs
+- 2.1 (U) 01d GALLANTWAVE DRs
+. 2.2 Spin 12.2
+- 2.3 Spln 12.1
+- 3 Spin 22
+. 3.1 Stories
+- 3.2 (U) RFCs
+- 4 Spin 21
+. 4.1 Stories
+
+GALLANTWAVE Detailed Description
+
+(TSJJSIIIREL) GALLANTWAVE (GW) implements TML Stage 1 PPF graphs :1 per host) with dedioated instanoes of die Teohpromote (GWAeg) and die PSPSeg (GWSEQ). cw PPF graphs iLlenLIfy and promote DNSC paoirets that
+
+meet oritena speoihed in a Roies.ofg hie. ATE c,
+
+are sent to xmfscoma via a modified TURMOIL )LKSrSESSIONS graph for session prooessing. :Lrungrseleuu'un. and forwarding to [Dlluwrun prooessing systems and Corporate Repositories.
+
+Data Flow Diagram
+
+ 
+
+DNSC
+
+GW-CASeNar
+
+ 
+
+DNSC Kay Humor,
+M535
+
+LONGHALIL
+SCARLET FEVER
+
+ 
+
+GALLANTWAVE Spin 22
+Du. 20:0
+TOP SECRETi‘fCOMINTﬂ'REL To USA. FVEY
+
+mus ro-nw 0M5:
+Sessions
+
+Samoa Seracreﬂ siiong Samar:
+SBSGWS Sena is
+
+       
+  
+
+rrsnsfomied DNSC
+Sessrws
+
+ 
+
+ 
+
+llSttSlﬁkEL] Simple mn- Homeow-
+
+ 
+
+- 'mrmrw - UWi‘ﬁwSIMuEMm‘i
+
+ 
+
+g min swig-k 7‘
+
+maroon-in:
+mac
+
+you,
+LCINGHAUL ,
+w Snwa
+m
+
+m:
+
+mm
+
+CHM! in
+
+    
+
+I ward
+m a ‘ QPRI'LEPUNE
+imam
+Himmler mama NMON
+
+ 
+
+TuscAnaan inn-w
+
+BALLANTWAVE Spin 22
+mm
+
+moi-s
+
+ 
+
+Ike!
+YUP SECRETHCCIMINTHREL m LISA, Fva
+
+[lswsumEL] Complex cw Du Laﬁuw
+
+(U) Open GALLANTWAVE DRS
+
+WWI-22f
+scam.“
+
+ 
+     
+    
+
+_e- sir-m w
+SCAMETFEVER ' JﬁQLZ'J‘mu-«mumo
+
+mop mp
+Sumnx
+
+ 
+
+rLi‘JNull-I- Hus milk- mm by dyrmrmmfiyujilpd run”; uiilpd; rows uddde CflurlgI-u LII'F saw-Id [u le/L’uﬂuntwaw was
+
+, ALLANTWAVE graph sohsegoendy sessionizes the seieoted Lridfﬁu. inieoo oontromow metadata. and forwards targeted DNSC Sessions to a cw mlaalunrdpplludLlun hosted on a
+CA Server. The GWCAServer interaots with SCARLET FBJER (a CES LONGHAUL oomponent) to transform diose sessions for IPaddresses within an approved set of target IPrdLlLIIesst-s. The GWCAServer transformed sessions
+
+ 
+
+ 
+
+ 
+
+ 
+
+is part of Fsprrooess and
+should nuLbe
+
+furbldLlen'.
+
+Due to this conﬁgurau'on. we have observed a number of
+occurrences where die message goeiies for
+DnsoPromoooanter are not created, and diis esults in
+100% loss of Dnso misson for the affected Fspf.
+
+Stats: ﬁxed
+
+. DR Number Data . . . . . _ Responsible TML .
+Hallme (TU or TM“ 5 ] med Destrlphun Vemmn Resulutmni‘statiu wmponenuwuject version Testlngt'Depluy'rnent notes
+XTIV'IUOOEAZEA
+The GwMudule as dellvered start HIE
+DnsoPromohonFiiterEngine as part of the FsprProoess.
+Aooording to the TURMOIL Core team. no prooesses
+DnsoPromotionFiitei-Engine should be added to the Fsprrooess, as this 'striody Memm Fixed with the mad“ DE Gw
+
+. 6W
+“5'9"Ed‘-4.u.0-3.u
+
+4.0.0-3.1(MF#109912)
+
+ 
+
+DNCA Ops LIL‘keL 99481
+
+xxs HttpDemoit Prublem
+at DGO
+
+ 
+
+ 
+
+Fur several months. cw transformed sessions regoinng
+http decompression and detonneiing have been rendered
+useless by an x1<s 1.5.7 deﬁciency
+
+ 
+
+ 
+
+ 
+
+ 
+
+summed By:—
+
+Adddate: 2013-03-28 15:05:06
+Correction to the prewoiis
+statement:
+
+theta does in [dcthaveXKS
+1.5.10 installed, and giierying in
+XKEYSCDRE has
+
+ 
+
+ 
+
+10f2
+
+TURMOIL GALLANTWAVE - WikiInfO
+
+shown that. [ur the paat week.
+there have been suuuessfu]
+GALLANTWAVE uecrypta
+
+that have resulted In hita un
+‘L:DmpnesslDn/http_LleL:DmpresseLl‘
+but nut any results that are aull
+In the gap uumpreaaeu state.
+Thus. we can reel cunriuent that
+xxs 1.5.10 alsn nemle this
+issue. thuugh it he: nut been
+
+deployed tu any live site: :1: ur
+yet.
+
+ 
+
+Both the TtSessiunTuPuuketEng'ine and
+
+TUMMS graph :huwlng restarts is attachecl.
+
+Mg, 2mg lc2min.chemeteryrrepiclraunamiprucecc
+[201 3-03-13_ﬂ4:4 lB.4B7'fpmuess.lng:2013-03-13
+04:43:13.249 ERROR
+
+Memury allucatiun errurs
+
+ 
+
+Ruut cauae: Stﬁbddicilluu: Calling
+sess.unTuPachetTransrunnEng.ne::prucessseas n:
+
+ 
+
+ 
+
+ 
+
+TtPuukeLInJeuturEnglne engines have mulUple craahes anu
+reatarta due tu memury allucatiun errun (:ee beluw).
+
+tuhaclaptercpte.5ecciunrupachetrranclurmEnginetclapter
+
+ 
+
+Unexpected bddicilluu exueptiun caught: SthudiuIIDu
+
+l-ligh
+State: open
+
+ 
+
+V Tt
+A’“W‘m-ntnxtlﬁ
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) Dld GALLANTWAVE DRE
+
+I see Old GALLANTWAVE DR: [or closed. reuulved. rejected etu DR:
+
+Spin 12.2
+I GW 3.1-3.1u5es UTITCDrl-J SSC Dl' Statlu Target ﬁles to target.
+
+(U) GALLANTWAVE and NeLDeI Brief
+
+Spin 12.1
+
+(LWFOL‘O) Feather:
+
+ 
+
+- GW 3 l 2.0 use: KEYCARD to target and has the SLIDEJ'ACKLE L‘dpdb
+l SW 3.0 uses Core SSC and IPCulleutDr tu target and works at both U and NET DeI sites
+
+Spin 22
+
+ 
+
+ 
+
+Stories
+
+(LWFDL‘D) Support GALLANI'WAVE Depluyments
+(LWFDL‘D) Frututype Stage 1' RBIIIJE‘L'UDH 115131 TA1563
+
+(U) RFCs
+
+ 
+
+RFC Number
+(TU or TML)
+
+Regal ut ion]
+
+Description Related 1mm Slums subﬂfmd
+
+ 
+
+ 
+
+week u[ 6 Del: 2010
+week uf l7jun 2011
+
+[2931 Instruuuuns tu change targeting rile Nune
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[3120 lnatrucu'una tu change MHS Live targeting rile Nune
+
+ 
+
+Spin 2 1
+Stories
+
+GALLANTVMVE
+(LWFOL‘O) Feather Deliveries
+
+(LWFOL‘O) Depluyi'uutivute ca Server: tu POLARSTARICEY
+(LWFOL‘O) InterugenLy pairing -
+
+(LWFOL‘O) GAILANTWAVE 3.0 Deaign :
+
+Categury: wilu
+
+ 
+
+ 
+
+L;llel-Cl.l:e o: 0. called mean:
+mauaxzy .5; are mere
+
+ 
+
+TowsEcRErlslllrELm UGAl Fva
+
+20f2
+

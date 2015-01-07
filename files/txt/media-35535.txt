@@ -1,0 +1,997 @@
+—
+SIGDEV Conference 2012
+
+(U) Making Things Measureable:
+
+Technology Trending Challenges and
+Approaches
+
+Ju n e 2 O 1 2 Derived from NSA/CSSM 
+
+Dated 20070108  
+Declassify On: 2037050  “ 
+
+ 
+
+—
+Overview (U)
+
+. (U) Setting the Stage
+— Strategic Surprise, Priority Needs, Definitions
+
+. (U) Making Things Measurable
+— Emerging Technology Discovery
+— Technology Use Discovery
+
+. (U) Challenges
+Complexity
+
+Getting data is only step 1
+Visualization
+
+Building outreach and engagement
+
+ 
+
+—
+CT Trends Focus Questions (U)
+
+(U) Does NSA CT know what technologies,
+communications products and applications, and
+modus operandi are being used by terrorists,
+terrorist groups, or in locations of interest?
+
+(U) Does NSA CT know what emerging
+technologies, communications products and
+applications, and modus operandi are likely to be
+used by terrorists, terrorist groups, or in locations
+
+ 
+
+CT Trends Focus Questions (U)
+
+(U) Does NSA CT know what technologies,
+communications products and applications, and
+modus operandi are being used by terrorists,
+terrorist groups, or in locations of interest?
+
+(U) Does NSA CT know what emerging
+technologies, communications products and
+applications, and modus operandi are likely to be
+used by terrorists, terrorist groups, or in locations
+
+[ (C//RI:L) WnatWy asking 15: J
+
+Can we tell which ones are likely to become
+
+Weed?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+—
+Risk Management for SIGINT
+
+Threats (U)
+
+(SI/REL) Threat to SIGINT Capability
+
+— A behavior or technology that has the potential to have a negative
+impact on NSA’s capability to provide SIGINT on a Terrorism Target
+
+(U) Use Risk
+— The possibility that a particular threat will be adopted by Terrorist targets
+(SI/REL) Indications and Warning
+
+— Early warning of high impact threats to prevent surprise to key
+stakeholders and reduce risk from Terrorist adoption of technology that
+would adversely affect SIGINT production
+
+ 
+
+—
+The data-driven approach
+
+(U)
+
+"Count what is countable, measure what is measurable, and make measurable that
+which cannot be measured”
+
+Galileo (1 7th century astronomer)
+
+"When you can measure what you are speaking about, and express it in numbers,
+you know something about it; but when you cannot measure it, when you cannot
+express it in numbers, your knowledge is of a meagre and unsatisfactory kind"
+
+Lord Kelvin (discovered absolute zero)
+
+"YOu cannot manage what you cannot measure”
+Bill Hewlett (co-founder of Hewlett-Packard)
+
+"Not everything that counts can be counted, and not everything that can be counted
+counts"
+
+- Albert Einstein
+
+ 
+
+—
+So... what i_s a (CT) trend?
+
+(U)
+
+A trend is a measurement of occurrence
+
+(S//REL) Comparing the behavior of a single target...
+— Pattern-of—life
+— Modus Operandi
+— Technology Usage
+
+...to the behaviors seen within the target space
+
+— Multiple targets, within and across the entire CT enterprise
+
+— Over a period of time
+
+ 
+
+—
+Prediction and Identification of
+
+Priority Needs Prevents Strategic
+Surprise (U)
+
+ 
+
+Identify issues that are
+
+emerging into and
+
+rising within the target
+space
+
+   
+   
+     
+
+ 
+
+ 
+
+ 
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Making Things Measurable
+
+(U)
+
+ 
+
+Eméramg Tééhmeal Tééhﬁélégié
+aglé§ Théughflzéaéléﬁ §IH U§é
+
+Tﬁéhﬁé
+
+ 
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Innovation Phases (U)
+
+ 
+
+Adopﬁon
+
+ 
+
+Experimentation
+
+ 
+
+Interest
+
+ 
+
+ 
+
+ 
+
+Technology Adoption Factors
+
+A»
+
+m
+
+ 
+
+—
+Optics (U)
+
+- (S//REL) Optic #1: Emerging Technology Discovery
+Focused primarily on interest and experimentation phases of innovation
+Watching the Watchers
+
+Weaker indicators
+
+New technologies
+
+- (S//REL) Optic #2: Technology Use Discovery
+— Focused primarily on adoption phase of innovation
+
+Owning the Known
+
+Stronger indicators
+
+New targets
+
+ 
+
+Analytics and Processes (U)
+
+Prod ucti
+
+Technical Thought Technical Thought Technical Thought
+
+Production Element
+_. - Scannina Mata Eminct
+FORTREND - Extremist
+
+Administrative Response
+
+a a n n a - I - A - a a n .-
+
+   
+ 
+
+   
+
+    
+  
+
+Seized Media Seized Media
+
+Seized Media
+CNE Trend Tracking
+
+CNE Trend Tracking CNE Trend Tracking
+
+TopX- TopX-
+
+ 
+
+Technology Pattern of
+
+Technology Pattern of
+
+I
+>
+I
+
+>
+
+     
+
+—
+Optic #1: Emerging Technology
+
+Discovery (U)
+
+- (S//Sl//REL) Emerging Technology & Behavior Discovery
+
+— Detection of interest, experimentation, knowledge transfer or direction using
+content, metrics approaches
+
+— Currently using deskside & virtual engagement to leverage TOPI analyst
+initiative to discover, prioritize, and work against "strongest" indicators
+
+— Leverages inherent TOPI expertise and functions of traffic processing/translation/tasking
+etc..
+
+— Embedded analysts, virtual relationships: production “customers”
+— Currently identifying, tracking 'technical’ thought leaders
+— Technical sub-forums, scanning notes measurements
+
+— Administrative emails (No-Reply etc..)
+— Forum links, uploaded/downloaded files
+
+Goal: Generate Prioritized Input (techs/behaviors) for Research
+
+ 
+
+—
+Optic #2: Technology Use
+
+Discovery (U)
+
+, (S//Sl//REL) Technology Use and Behavior Discovery
+
+_ "Stratactical" data sets
+_ Includes target-specific data point for each item (e.g. selector)
+
+_ Discovery of target behavior by identifying technology use patterns, trends, and/or
+anomalies in:
+
+_ User-agents (browsers, OS, devices)
+
+_ Tasking (new tasking, total tasking)
+
+_ Network, Protocol usage (Active User metrics)
+
+_ Visited URLs, web searches
+
+_ Process lists, pre-fetch logs, registry entries, software logs
+
+_ Hardware usage (smartphones, tablets, SD cards)
+
+_ Currently using various tools (XKEYSCORE, SEEKER, BIONICTURTLE, JEMA, JOLLYROGER,
+MARINA, TUNINGFORK, QFDs, etc...) and approaches with multiple cloud analytics in
+varying stages of development and/or planning
+
+Goal: Generate Prioritized Input (techs/behaviors) for Research _ 
+
+15  ” 
+
+ 
+
+—
+Measurement Drives Research (U)
+
+(S//REL) Triage begins with target indicators of a new technology
+
+Derived from either optic: Emerging or Use Discovery
+
+Interest, Experimentation, Use, Knowledge Transfer, Metric, etc...
+
+Target =, Technology =, Do other targets use this technology?
+
+This is the central d_efining question for Trends Analysis:
+Do other CT targets use this technology?
+
+ 
+
+Weak vs. Strong Indicators: Brutal
+Tria e U
+
+Received a Received a Received a
+
+Previous/Low Previous/Low Previous/Low
+Installed, no Installed, no Installed, no
+
+      
+
+bi’li'li'i
+
+Lo files, traffic Lo files, traffic Lo files, traffic 77
+
+—
+The Wicked Problem Aspect (U)
+
+(S//REL) Defining the problem is the first (wicked)
+problem
+
+Triage Stage 1
+Initial priority: (single) target + initial understanding of technology
+Implications Research
+
+What does the product/service do?
+Current NSA capabilities to detect, collect, exploit, analyze?
+Do any other CT targets use it?
+
+Triage Stage 2
+Updated priority: target(s) + updated understanding of tech/USSS
+
+Validated Next Steps
+
+As needed: capabilities/access development requirements
+
+Reporting: internal, CIR, e-gram; Gaps report; prioritization w/in tech category
+
+ 
+
+—
+Goal: Periodic Reporting
+
+Vehicle (U)
+
+. (U//FOUO) Move beyond ad hoc task responses to routine deliverables
+
+. (U//FOUO) Overcoming volume challenge
+_ Huge variety of inputs, massive numbers in each
+_ Prioritization
+_ Visualization
+
+. (SI/REL) Moving threats to a simple Risk Assessment model
+_ Borrows methodology from models used for executive purposes elsewhere in agency
+_ (FAMT, Geopolitical Technology Trends Matrix, TAO...)
+_ Opportunities, threats handled separately
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+Impact
+>
+
+to production
+
+Use
+Risk
+v
+
+ 
+
+ 
+
+ 
+
+. OTR Tor . .
+Flvewes, . ’ ’ Tor+ TrIIIght
+Current . . ‘ Facebook Mall.ru, Smartphones, Zone + Cspace
+
+Highest Priority . TeamViewer, Zoho.com
+Target Use ' chat join.me webmail, clreifg: 
+
+presentation TrueCrypt
+
+ 
+
+ 
+
+Current
+Operational
+Target Use
+
+ 
+
+ 
+
+Current Low
+Priority/Previou
+5 Higher
+Priority Target
+Use
+
+ 
+
+ 
+
+Technical
+Thought Leader
+Recommendati
+ons,
+
+Fvnn ri mnni-ai-in
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+Impact
+>
+
+to production
+
+Use
+Risk
+
+ 
+
+v E
+
+ 
+
+ 
+
+OTR, Tor, Tor+ Trilight
+Smartphones, Zone + Cspace
+Fastmail, + ZRTP VolP
+
+" A " pt client on Linux
+
+Fivewes,
+u w - Facebook
+a - chat
+
+In.-
+
+Mail.ru,
+TeamViewer,
+Join.me
+
+Current
+Highest Priority
+Target Use
+
+ 
+
+ 
+
+ 
+
+:LJI.'E.I‘I.I
+Operational
+Tar et Use
+
+9 ‘ ‘ ‘ o o
+
+ 
+
+Current Low
+Priority/Previou ' . . ' . . -
+5 Higher
+Priority Target
+Use
+
+ 
+
+ 
+
+Technical - - -
+Thought Leader . . . .
+Recommendati
+ans, 0 ‘ -
+Experimentatio
+n
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+ 
+
+—
+Capability Development
+
+Challenges (U)
+
+(TS/ISl/IREL) With rare exceptions,
+application-specific solutions are only
+built based on these two criteria????
+
+. In resource-restrained environment, development of capabilities against likely-
+to-increase in priority applications is trumped by standing requirements
+driven by known priority applications
+
+. Capabilities development response to current/priority technology threats occurs
+normally w/in existing resources — but response does not scale, either to the
+industry or to multiple crises
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+Simplifying the Risk Matrix (U)
+
+Impact
+>
+
+to production
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Current  
+
+Highest Priority
+Target Use
+
+Current
+Operational
+Target Use
+
+Current Low
+Priority/Previou
+5 Higher
+
+ 4th Quadrant 3rd Quadrant
+
+Technical
+Thought Leader
+Recommendati
+ons,
+Experimentatio
+n
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+Adding in the Solution
+
+Impact
+>
+
+to stakeholders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Current  
+
+Highest Priority
+Target Use
+
+Current
+Operational
+Target Use
+
+Current Low
+Priority/Previou
+5 Higher
+
+ 4th Quadrant 3rd Quadrant
+
+Technical
+Thought Leader
+Recommendati
+ons,
+Experimentatio
+n
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+Examples: Jan-February 2012
+
+TCIICIIIDFI
+
+Impact
+>
+
+to production
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tea mViewer
+
+Current E 
+
+Highest Priority I
+
+TargetUse E 
+
+Current I
+Operational I
+
+Target Use I 
+
+ Pu rematrimony. WGb-de
+mr'u‘éemge  co m CS pa ce
+
+Technical
+
+Thought Leader E   
+
+Recommendati I
+
+Experfraz’ntatio E  I  g e r
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+ 
+
+IIIIIIIIIllllllllllllllllllllllll
+Goal: Emerging Technology
+
+Snapshot(U)
+
+- (U) Executive version — snapshot of top items only
+
+- (SI/REL) Overcoming the challenges of prioritization and volume
+is still only 50% of the problem
+
+- (S//REL) Stated Preference:
+— Breakdowns by target/target set
+- Preserve opportunity vs. threat
+
+— Identify HUMINT sources for collaboration
+
+ 
+
+—
+Emerging Technology
+
+Snaoshot U
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Target/Org Tech Quadrant
+AQSL TAILS
+couner
+GIMF TAILS
+AQ media TrueCrypt
+SZ|42 Join.Me
+LT, SZ|42 TeamViewer
+LT Laplink
+'ITL Extremist version Opportu
+of Tor nity
+AQ media Encrypted Webmail Source
+
+ 
+
+ 
+
+(TS/lSI/lREL) Fu
+
+ 
+
+ 
+
+—
+Emerging Technology
+
+Snapshot(U)
+
+- (SI/REL) Monthly Emerging Technology Snapshot
+
+— 1-3 page Snapshot (6 page max if previous month data
+included) to CT leadership
+
+— Snapshot + supporting full data to MICROEXPANSE
+— Underlying processes in alpha stage
+
+— Stopgap until maturation of multiple efforts
+
+— Data Explorer, ECHOBASE
+— Inclusion of FAA/PRISM in GM-Halo
+
+F
+Dzuv
+Inlw l
+
+ 
+
+—
+End Results — Tactical &
+
+Strategic (U)
+(S//REL) Tactical Outcomes
+
+_ Lead Generation
+_ Target Development
+_ Target Discovery
+
+_ Behavior Detection
+
+- Access Prioritization
+
+(S//REL) Strategic Outcomes
+
+_ Prioritization for Capabilities Development
+
+_ Driven by target priority: single target + volume of targets
+_ Prioritized within tech category, target (set) category
+
+_ Overall CT product line prioritization
+
+ 
+
+ChaHenges(U)
+
+- (Cl/REL) Complexity
+_ Understand target, technology. & SIGINT system
+
+. (S//S|//REL) Getting data is only step 1
+_ Getting a data set is like to getting a new bearer to analyze
+
+. (U) Visualization
+_ Excel tops out at a million rows...
+
+. (TS/lSI/IREL) Clean data
+_ Targets vs. Selectors
+
+ 
+
+—
+Overcoming Complexity (U)
+
+SIGINT SyEthHT System
+
+Fingerspitzengefﬂhl
+Literally "ﬁngertip feeling"
+
+ 
+
+Empathy, sensitivity, tact
+
+Ability of military commanders
+to react rapidly
+
+ 
+
+CT Trends Tean'éthnologigﬁchnology
+SIGDEV analysts
+
+Partner/Enablers
+
+Must understand tech threat
+implications, provenance and
+structure of data to manipulate, __
+interpret it  
+
+ 
+
+—
+Getting Data is Step 1 (U)
+
+ 
+
+—
+Getting Data is Step 1 (U)
+
+ 
+
+—
+Getting Data is Step 1 (U)
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+V' I. t. (U)
+
+(TS//S|//REL) Excel tops out at a million rows...
+
+— 19 branches, 30+ target sets, ~200 realms, ~800 domains, ~45000
+selectors = 1 million rows/~25 weeks for summarized active user events
+from E012333 alone
+
+— Spreadsheets are good, but not everyone knows how to use a
+pivot table
+
+— Each dataset can easily provide 4-5 or more pivoted looks for
+each branch/target set = minimum 100-150 slides
+
+  
+
+multiple large datasets on a monthly
+basis for collection management,
+
+    
+ 
+
+ 
+
+ 
+
+TOP SECRET//COMINT//REL FVEY//20340601
+
+—
+Visualization (U)
+
+(SI/REL) Analysts work at the selector level
+
+Leadership wants data presented at the target level
+
+(SI/REL) Automated population of technology, behavior
+information in analyst workflow tools, databases
+
+(S//REL) Each separate visualization task takes
+manpower, time away from operational analysis
+
+ 
+
+—
+Clean Data (U)
+
+(S/lSI/IREL) Metrics will only provide a near-accurate picture: ground truth will always be the domain of
+the TOPI and based on content
+
+(S/lSI/IREL) Some selectors (accurately) map to multiple targets, multiple teams, multiple organizations
+(S/lSI/IREL) Some selectors simply don't have a known target, only a target set
+
+(SI/REL) Need to correlate across widely different datasets requires creation of normalized bridge
+datasets (e.g. comparing executables to domains)
+
+(S/lSI/IREL) TKB/U'I'I' are victims of years of “fill in the blank" freeform data entry; very slowly being
+addressed (~2015?)
+
+ 
+
+—
+Rising Strategic Issues (U)
+
+- (TS//S|//REL) Encrypted Webmail Services
+— Atabmail, Zoho, Safe-mail, Fastmail, HMA Mail
+
+- (TS//S|//REL) Remote Desktop Viewers/Remote Access Tools
+
+— TeamViewer, Join.me, Cybergate
+
+- (TS//S|//REL) Aggregators/Over—the-Top Messaging Services
+— WhatsApp, Nimbuzz, eBuddy
+
+ 
+
+What Next? (U)
+
+(S/lSl/IREL) Continue to build, strengthen, expand:
+_ internal workflows, research and discovery capabilities
+
+_ collaboration with production elements
+
+_ Operational support via embedded analysts at NSAW
+_ Tradecraft, technical support virtually with extended enterprise
+
+_ partnerships with FVEY SIGDEV community
+
+_ Establish and expand dialogue opportunities
+_ "Failure Sharing" — tradecraft sharing and operational deconfliction
+
+(SI/REL) Technology Trends MyNoc
+
+ 
+
+ 
+
+ 
+
+      
+
+Co
+nwnent
+
+Q
+ueonn
+s?
+
+s?
+
+ 
+
+ 
+

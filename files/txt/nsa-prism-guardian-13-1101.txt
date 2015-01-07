@@ -1,0 +1,692 @@
+’I‘()PSEC‘RE’ITESI‘-".="()RC()N:‘N‘NOF u a! Hotma" 600816 R . talkﬂ You
+- 8‘. I .‘ '
+CMJI' m  .’ ‘ AOL 1», mail 4!
+
+PRISM/US-984XN
+Overview
+
+OR
+
+The S] GAD Used Most in NSA Reporting
+Overview
+
+_PRISM Collection Manager, 335333
+Derived From: NSA/CSSM 1-52
+
+April 2013 Dated: 20070108
+
+Declassify On: 20360901
+TOP S L-‘C Ru’l‘rw‘slMORCL)Nxb‘N()l-‘OR I\'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+101 SLCRLlSlORLON N01 .5 E Hotmall CO V talktﬁ . You
+
+AOL 1», mail 
+
+'16 ,g -
+Civl  {ac-hook  8‘] Y‘.L\l..
+
+( 71‘s,..«lsWi, Introduction
+
+US. as World ’5 Telecommunications Backbone
+communications ﬂow
+
+through the US.
+
+- A target’s phone call, e-mail
+or chat will take the
+cheapest path, not the
+Lhysically most direct
+path — you can’t always
+predict the path.
+
+- Your target’s
+communications could
+
+easily be flowing into and
+throth the  / International Internet Regional Bandwidth Capacity in 2011
+
+Source: Telcgcugruphy Research
+
+TOP SECle’l‘fs’SI«"6()RC()NJ‘.‘N()l-‘()Rl\
+
+ 
+
+ 
+
+ 
+
+ 
+
+101 SLCRLLSI ()RcoN N()i,__(’).;Rt_\l ._ m; Hotmall V A   You
+
+AOL ~ mail
+
+('1‘s,~',.rsirrN1:) F Op€rati0ns
+
+T wo Types of Collection
+
+ 
+
+Upstream
+
+- Collection of communications on fiber cables
+and infrastructure as data flows past.
+
+(FAIRVIEW, STORMBREW, BLARNEY,
+
+VQMJ ‘19’.
+Should
+Use Both
+
+‘r
+- Collection directly from the servers of these U.S.
+Service Providers: Microsoft, Yahoo, Google
+
+Facebook, PaITalk, AOL, Skype, YouTube
+Apple.
+
+ 
+
+ 
+
+f R) l
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP S EC lel‘c’x‘Sl«‘"N'()RC()NJU‘N()l-‘OR l\'
+
+ 
+
+’l‘()l’SEL‘RE'ITV'SI=".=’()R(,‘()NUN01“ . , my" Hotma“ (300818 i, talk??? You
+. h“ l‘ l'a-
+Cmall m YAHoO!  AOL 'ymail it
+
+('rsx-xx$1.."er1:) F Operations
+
+W 11)..) Use Bot/1: PRISM vs. Ups [ream
+
+PRISM Upstream
+
+9 US. based service Worldwide
+providers sources
+
+Worldwide
+sources
+
+DNI Selectors
+
+DNR Selectors ®Coming soon
+
+Access to Stored
+Communications J
+(Search)
+
+Real-Time Collection
+(Surveillance) J
+
+“Abouts” Collection ®
+Voice Collection «Voice over IP
+
+Direct Relationship with
+Comms Providers
+
+s/
+s/
+®
+~/
+~/
+~/
+\/
+
+®Only through FBI
+
+'l‘( )P SECREI‘S‘SI5*()RC()N 'JN( )l’()Rl\'
+
+ 
+
+'roP SECREI‘FSI«*'.~"()RC()N:‘V’NOl’ r; mvsn Hotmai. COOQIC ; talk??? You
+' 9 V“ n‘ I
+Clvldll m  .’ AOL 3-»mail A
+
+What Will You Receive in Collection
+(Surveillance and Stored Comms)?
+It varies by provider. In general:
+
+Current Providers
+
+ 
+
+E—mail
+
+Microsoft (Hotmail, etc.) Chat " VideO, voice
+Videos
+
+Photos
+
+Stored data
+
+ 
+
+Google
+Yahoo!
+F acebook V011J
+
+PalTalk File transfers
+
+YOUTllbe Video Conferencing
+
+Skype Notiﬁcations of target activity — logins, etc.
+AOL Online Social Networking details
+
+Apple Special Requests
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Complete list and details on PRISM web page:
+GO PRISMFAA TOP SECREIT/Sl«‘f~"()RCONJ‘FN()l-‘ORN
+
+ 
+
+1‘01) su(_‘ku'111»511-«'.«*()RCoNatvNor . u E Hotma" CO 818 i. talk/1% You
+‘  ‘ AOL 1w mall 53
+
+(1‘s11's1.1:»"N1:)DatCS When PRISM Collection
+Began For Each Provider
+
+YouTube
+9/24/10
+PaITalk
+
+Facet) 12/7/09
+G I ok
+009 9 6/3/09
+
+1/14/09
+M, ﬂ PRISM Program Cost: ~
+ICFOSO
+9/11/07 $20M per year
+|
+
+| l |
+2007 2008 2011 2012 2013
+
+TOP S EC REIT/"SIHORCONJU’N ()l-‘OR N
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//Sl//ORCON//NOFORN \' Hotmail
+
+Md . 
+
+(TS//SI//NF) FAA702 Reporting Highlight
+PRISM and STORMBRE W Combine
+
+00 IC
+
+SAME-DAY NTOC/FBI COLLABORATION
+
+PREVENTS 150GB EXFIL EVENT FROM CLEARED DEFENSE CONTRACTOR (CDC)
+
+dTOC TIPS FBI TO
+IMMINENT THREAT
+
+A '2. .} HELPS CDC
+2 NTOC tips the -~‘   OVE IMPLANT
+FBI to the 
+activity The FBI contacts the
+CDC and works with
+them to clean the
+‘TS‘L‘VUC".
+
+ 
+
+’I‘()P suCRu'I‘xxSIstar)RC()NAIN()15 . k a! Human COOIC f . talkﬁ You
+'  A- ‘
+CMJII m  i “I AOL :wmail A
+
+)PRISM Tasking Process
+
+Target Analyst inputs selectors into
+Unified Targeting Tool (UTT)
+
+Surveillance > v {17' Pending Stored Comms
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Special FISA Oversight and Processing
+(SV4)
+
+Stored Comms Review Nalidation
+
+82 FAA Adjudicators in Each Product Line
+
+Targeting Review/Validation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surveillance r r>
+
+ 
+
+ 
+
+V v 4— Pending Stored Comms
+
+Targeting and Mission Management (8343)
+
+Final Targeting Review and Release
+
+l l
+Unified Targeting Tool (UTT)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V V
+
+PRINTAURA; Site Selector
+Distribution Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘ ' Pending Stored Comms
+
+FBI
+Electronic Communications Surveillance Unit (ECSU)
+Research & Validate NO USPERs
+
+ 
+
+Surveillance > V
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Targeting ’ <— Stored Comms Release
+
+Providers 4 Selectors
+FBI PINWALE,
+
+(Google’ Data Intercept Technology Unit (DITU) Conection NUCLEON’
+Yahoo, etc.) Collection etc.
+
+TOP SECRE'IV‘R‘Slw’s’ORCONEFN(WORN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘I‘oPsuCRu'Ii-sSIrs-‘()RC()N:"mu-URN .3 Hotma“ , .00 [e
+
+YAHOO!
+
+ 
+
+ 
+
+FBI DITU ? > PnggggRA‘ TRAFFICTHIEF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prov idcr
+( Yahoo,
+
+Googlc. etc.) SCISSORS,
+T132
+
+v
+
+ 
+
+ 
+
+MARINA
+&
+MAINWAY
+
+Protocol ’ I
+, , Mcladala 7
+Explonatlon, FALLOUT
+
+Processing S3 32
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W
+
+ 
+
+ 
+
+ 
+
+T132
+
+ 
+
+ 
+
+ 
+
+ 
+
+V
+
+l
+: SCISSORS. A a . CONVEYANCE
+I
+
+ 
+
+ 
+
+ 
+
+PNI Content. Videos v
+I
+: “AA _ PINWALE
+,Parllllons
+
+l
+l 'l‘( )P SECRE'I'IFSI  )RCON; .’N( )H )RIV
+
+NUCLEON
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . ) C ‘- A‘ '0 Tl):  7‘  : ‘ . m
+101 SL(RLI si omo ()l , \1 Hotma.) C0096 “A I. - talk. YouTube
+I § A
+
+Clvldil m  . AOL '3' mail 1
+
+ P C386 Notations
+P2ESQC12JOOO1234,
+\_Y_, (_l  la \‘ 1/ 1/
+
+Fixed trigraph, denotes Year CASN established
+PRISM source collection for selector
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+7
+
+Serial #
+
+PRISM Provider
+P1: Microsoft
+
+P2: Yahoo
+
+P3: Google
+
+P4: Facebook
+P5: PalTaIk 2 IM (Chat)
+
+P6: YOUTUbe : RTN-EDC (real-time notiﬁcation of an e-mail event such as a login
+P73 Skype r sent message)
+
+P81 AOL : RTN-IM (real-time notiﬁcation of a chat login or logout event)
+
+PA: Apple : E-Mail
+
+F: VolP
+
+G: Full (WebForum)
+
+H: OSN Messaging (photos, wallposts, activity, etc.)
+
+I: OSN Basic Subscriber Info
+
+J: Videos
+
+. (dot): Indicates multiple types
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Content Type
+
+: Stored Comms (Search)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'l‘( )P SECRlﬂl‘fﬁ'Sl07’()RCON '.'N( )H )Rl\'
+
+ 
+
+W2
+talk' _ You
+AOL 1w mail 
+
+I H-.‘-'IZ if-SE *‘ZS~EI':ILIIE.E Cp-IIZ-‘IH'ZI'. I: 10" SE(R[1 - S] Y! 0R(0\ \OKOR\
+
+COUNTERTERRORISM
+
+— 131, 8-
+
+Lost Load on Apr 05. 2013 at 12:22 PM 6‘"
+
+-1 .w :.~‘ The seathrcvm 5.2m :a-‘u :9 used  é"'.-Zv¥ii 3:: ’ :5  15’. :’
+vezord-s
+
+Zuni: Put:
+
+me - op
+
+[prIJlu-II 44"»
+
+.- llnlnm-n:
+
+M»!
+
+I Prism Current Entries
+
+Rnuudc l ‘ 5000(0' “1.75 Page ‘ 09135! ‘  Moodsporpaqe: ‘ v
+
+I la." Sn" UII’H (Ink on (ohm-nu hebdus m 90d. ' : <olunm us not sodbbk.
+
+ 
+

@@ -1,0 +1,977 @@
+LONGHAUL - Wikilnfo
+
+The accredited security level of this system is: TOP SECRET/lSI-GAMMA/TALENT KEYHOLE/[ORCON/PROPIN
+IRELIDOIREL To USA, FVEY *
+TOP SECRETHSIHREL TO USA, FVEY
+
+(U) LONGHAUL
+
+From Wikilnfo
+
+(TS/lSI/REL) The LONGHAUL system provides the Extended NSA Enterprise with an
+end-to-end attack orchestration and key recovery service for Data Network Cipher (DNC) and
+Data Network Session Cipher (DNSC) trafﬁc. LONGHAUL is extensible to allow for the addition of
+other Digital Network Intelligence cipher types.
+
+Contents
+
+I 1 (U/IFOUO) LONGHAUL Overview
+I 1.1 (U) General
+I 1.1.1 (U) DataFlow and CONOP
+I 1.2 (Ul/FOUO) Attack Orchestration
+I 1.2.1 (U/IFOUO) POISONNUT
+I 1.2.2 (U/IFOUO) SCARLETFEVER
+1.3 (U) Management and Analysis
+1.4 (U) Security and Policy
+1.5 (U) Common
+1.6 (U) Interfaces (ICD)
+I 2 (U) Design
+I 2.1 (U) Architecture
+I 2.2 (U) High Availability
+I 2.3 (U) AMF/ITX JMS Messaging
+I 3 (U) Deployment
+I 3.1 (U) Hardware
+I 3.2 (U) Software Releases
+I 4 (U) Development
+I 4.1 (U) Software/Schedules
+I 4.2 (U) Development Principles, Processes, and Standards
+I 4.2.1 (U/IFOUO) LONGHAUL Processes
+I 4.2.1.1 (U) Requirements
+I 4.2.1.2 (U) Coding Standards/Reviews
+I 4.2.1.3 (U) Lessons Learned
+I 4.2.1.4 (U) Conﬁguration Management (and Metrics)
+I 4.2.1.5 (U) Testing
+I 4.2.1.6 (U) Working with NSA Way
+I 4.3 (U) Development and Management Tools
+5 (U) Technology
+I 5.1 (U) In—Memory Distributed Data Analysis of Alternatives (AOA)
+I 5.2 (U) BigData and Metrics Techniques
+6 (U) TE6 Security, Compliance and Policy Enforcement
+I 7 (U) TS Certiﬁcation & Accreditation
+8 (U) Operations
+I 8.1 (U) Tier 1 Support
+I 8.2 (U) Tier 2 Support
+I 8.3 (U) Tier 3 Support
+I 8.4 (U) Site Deployments
+9 (U) Transition
+I 10 (Ul/FOUO) Team Members
+11 (U) See also
+
+10f15
+
+LONG HAUL - WikiInfo
+
+(Ul/FOUO) LONGHAUL Overview
+(U) General
+
+(U) DataFlow and CONOP
+
+(TS/ISI/IREL) The LONGHAUL system is composed of several components as shown in this
+End-to-End View. LONGHAUL receives cryptanalytic information (CA Data) from the ﬁeld systems
+and passes information back to ﬁeld systems using its Front End. The Front End validates the
+sender/receiver using CASPORT services. LONGHAUL contains Attack Orchestration
+components (one orchestrator for each distinct type of attack), and Attack Service components.
+Attack orchestration ﬁgures out what cryptanalytic processing should be applied for each piece of
+CA Data, and then initiates, and as needed manages, that processing. Attack service performs the
+cryptanalytic attack. Once the processing is complete, the result is returned to the attack
+orchestration component, information about the processing is "saved" for Management and
+Analysis, and then as appropriate the result is returned to the "requesting" CA Server.
+LONGHAUL accesses CES Databases for certain information needed for attack orchestration and
+attack services. LONGHAUL also provides an interface for CES Analysts that need access to
+information pertaining to the LONGHAUL processed data. LONGHAUL maintains its own internal
+databases for the management and control of its processing activities.
+
+mm w an 5:” 1m «x \u rw buy-m )liﬁllxu‘  Architecture rub 28-2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAI.
+ORDE R
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+,v CA Rmurcui
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WCA Syn-m-
+*‘—" “"1
+M
+A
+_ (DES
+em wmmu
+
+Thus anagram has been Simpliﬁed lot leadﬁblllly. Bum L J
+sites are d-svlayod and all connecluons Ihal are Shawn
+going to one she really gala balh. mew?” RH nu \\ u \| \\ mm v1 rm...»
+
+LONGHAUL End-to-End Overview
+
+(TS/ISI/IREL) LONGHAUL (in Purge_Surge parlance) is a Collection Store, that is a "system that
+processes and/or retains collected SIGINT data items, and that permits access to those
+performing collection functions and limits access of those performing intelligence analysis".
+LONGHAUL maintains internal databases that contain Cryptanalytic "technical data", and
+LONGHAUL also exchanges Cryptanalytic "technical data" with other CES databases and with
+CES HPC resources that perform cryptanalytic attacks. This "technical data" includes recovered
+
+20f15
+
+LONGHAUL - WikiInfO
+
+keys, information about what crypt processing is appropriate, data needed for cryptanalytic
+attacks, as well as information retained to enable future cryptanalytic attacks. LONGHAUL does
+not store cipher data or ever have access to decrypted data. If the "technical datall passed to
+Attack Service components or CES databases contains information from the collected stream (as
+opposed to information about the collected stream such as SIGAD, DTOI), then appropriate
+Critical Identifying Information (CII) will be passed also. From a compliance perspective this is
+the system being "certiﬁed".
+
+(TS/lSI/IREL) Field deployed collection systems and CA Servers (also known as Extended
+LONGHAUL) are shown on the left. A CA Server is the ﬁeld CES component that runs CA
+Services. The terms CA Server or CA Services are used depending on the context
+(hardware/software). For information on CA Server deployments see the CES/DNCA wiki pages
+CA Servers (— , and for information on CA Server
+architecture see LONGHAUL/CA Server. The CA Server stores cipher data, and decrypts it based
+upon a key returned by LONGHAUL.
+
+(S/lSI/IREL) LONGHAUL is a High Availability system using hardware at two geographically
+distributed locations to also provide a COOP capability. LONGHAUL uses the Application
+Messaging Framework AMF with the ISLANDTRANSPORT (ITX) transport and
+ISLANDHIDEAWAY (IH) integrity and privacy capabilities to send data between collection
+systems and LONGHAUL. The requestor of CA Services (the ﬁeld deployed CA Server) never
+knows (or needs to know) which hardware is used to process its requests. LONGHAUL and the
+AMF manage the physical routing and failover behavior of the system.
+
+(TS/lSI/IREL) LONGHAUL has a Service-Oriented, Java-Based Enterprise Architecture. It includes
+multiple coordinated software development efforts. Each Attack Orchestrator is a major
+development effort, as are the Management and Analysis and Security and Policy
+components. LONGHAUL also has a hardware acquisition component, and manages the
+interfaces and integration activities with TURMOIL/TURBULENCE (collection), and the High
+Performance Computing (HPC) activities of CES/T5. The LONGHAUL team is responsible for all
+phases of development, starting with requirements, thorough design, technology selection,
+development, integration, system test, and deployment. The team is also responsible for the
+system engineering and hardware design and acquisition to support a two-site, high-availability
+system.
+
+(Cl/SI/IREL) In July 201 0, T1, T5 and CES signed an SLA _)~ for llthe provisioning and support of
+Cryptanalytic (CA) Services within the TURBULENCE Passive Collection Suite (TU PCS)."
+
+(U/lFOUO) Attack Orchestration
+
+(Ul/FOUO) POISONNUT
+
+(TS/ISI/IREL) POISONNUT (—) is a Child LONGHAUL
+Project that enables Data Network Cipher (DNC) Recovery. Initial Customer Capability was
+released on September 30, 2009. LONGHAUL/POISONNUT (DNC) was determined by CES and
+T5 SPO to be IOC on 10 Jan. 2011.
+
+(Ul/FOUO) SCARLETFEVER
+
+(TS/ISIIIREL) SCARLETFEVER (_ is a Child
+LONGHAUL Project that enables Data Network Session Cipher (DNSC) Recovery. Initial
+
+Customer Capability was achieved in December 2010.
+
+(U) Management and Analysis
+
+(U) For this very high level view our diagram shows Management and Analysis as one block.
+This block contains many components and further details can be found on the Software
+Architecture page.
+
+(U) Additionally, LONGHAUL has begun to create a set of web applications for Management
+
+30f15
+
+LONGHAUL - Wikilnfo
+
+(Operations and Mission) and Mission Analysis which can be found here: Web Applications List
+
+(—)
+(U) Security and Policy
+
+(U/IFOUO) SPAM is our Security, Policy, and Adjudication Module which will be used to apply
+rules for sanitizing, ﬁltering, and determining if a response should be sent to a particular client.
+
+(U) Common
+
+(S/lSI/IREL) All child projects share LONGHAUL COMMON components or services. This is not
+shown as a separate block on the diagram as all the components use COMMON.
+
+(U) Interfaces (ICD)
+
+(U) All Interfaces are described on the ICD wiki page. These include both the external interfaces
+(how a CA Server communicates with LONGHAUL) as well as the interfaces LONGHAUL uses
+with other CES systems.
+
+(U) Design
+(U) Architecture
+
+(U/IFOUO) Software and Hardware architecture discussions are available on the LONGHAUL
+Architecture page.
+
+(U) High Availability
+
+(S/lSI/IREL) LONGHAUL is a high availability system that makes use of Continuity of Operations
+(COOP) to meet availability requirements. The system is designed from both hardware and
+software perspectives to provide high availability, ensuring that key recovery services are always
+available. The two site deployment with equal processing capacity will meet the COOP
+requirement for the system. Each system is designed with redundant hardware and processes so
+that the system can survive any single component (hardware or software) failure. During normal
+operation, both systems will be operational and share the processing load. In the event of a single
+site failure, the second site will, within seconds, assume total processing responsibility, but at
+reduced capacity. The requestor of CA Services (the ﬁeld deployed CA Server) never knows (or
+needs to know) which hardware is used to process its requests. CA Servers send data to
+LONGHAUL and receive responses from LONGHAUL using the AMF. LONGHAUL and the AMP
+manage the physical routing and failover behavior of the system.
+
+(U/IFOUO) For more detailed information, see Availability Analysis.
+(U) AMF/ITx JMS Messaging
+
+(U/IFOUO) The use of a high capacity, low latency JMS messaging fabric is critical to the success
+of the LONGHAUL mission. LONGHAUL has worked closely with the Application Messaging
+Framework (AMF) team to design a fabric to support the LONGHAUL requirements.
+
+(U) See AMF / LONGHAUL Teaming for more detailed information.
+
+(U/IFOUO) The collection site clients (CA Servers) will publish messages into the fabric with no
+knowledge of where the processing actually occurs. The fabric should support both active/active
+and active/passive processing modes. In active/active mode multiple sites would consume the
+same message, and manage the client response strategy. In active/passive, one site would
+consume a message, but in a failure mode, an alternate site would seamlessly pick up message
+
+4of15
+
+LONG HAUL - WikiInfO
+
+consumption.
+(U) Deployment
+(U) Hardware
+
+(U/IFOUO) LONGHAUL is composed of almost identical hardware at two geographically
+distributed sites - the Tordella Supercomputer Building (TSCB) at Fort Meade and Oak Ridge
+Data Center (ORDC) in Oak Ridge, Tennessee. The initial hardware conﬁgurations for TSCB and
+ORDC arrived in November 2009 and May 2010 respectively. The ﬁnal conﬁgurations arrived in
+Jan 201 1 at both sites. A system, termed "Hadoop ClusterII has also been purchased to produce
+analytics and store metrics for LONGHAUL. The Hadoop Cluster will reside at ORDC and is
+scheduled to be delivered in April 201 1. CAVIUM is being considered for CA Server.
+
+(U) For more detailed information, see Hardware Description and Schedule.
+
+(U) Software Releases
+
+(UIIFOUO) LONGHAUL 3.4.0 was released on February 2'7, 2013. The release consists of:
+
+I (U/IFOUO) LONGHAULiCommon73.4.1 - Full Release. Built on 12 February 2013.
+I (Ul/FOUO) Added Capabilities
+I (TS/ISI/IREL) HEROICSAND improvements and initial metrics
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1 (r
+- (U/IFOUO) Included trackenar—tifacts v3.4.0 (r
+
+I (U/IFOUO) POISONNUT 3.4.1 - Full Release. Built on 12 February 2013.
+I (Ul/FOUO) Added Capabilities
+
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1
+
+I (U/IFOUO) Included tracker artifacts v3.4.0 r
+
+I (U/IFOUO) SCARLETFEVER73.4.1 - Full Release. Built on 12 February 2013.
+I (Ul/FOUO) Added Capabilities
+I (TS/ISI/IREL) Fix PLATINUMRING timeouts for GALLANTWAVE
+I (TS/ISI/IREL) Increased capacity
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1 —
+
+ 
+  
+ 
+
+   
+
+I (Ul/FOUO) Included tracker artifacts v3.4.0 —
+
+I (U/IFOUO) WOLVERINESTAKE_3.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1
+
+I (Ul/FOUO) Included tracker artifacts v3.4.0 (—
+
+50f15
+
+LONG HAUL - Wikilnfo
+
+I (U/IFOUO) NINJACOVE73.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+I (U/IFOUO) Included tracker artifacts v3.4.0 (
+
+ 
+
+ 
+ 
+ 
+ 
+
+I (Ul/FOUO) Included tracker artifacts v3.4.0
+
+I (U/IFOUO) JEDIMINDTRICK73.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+I (U/IFOUO) Included tracker artifacts v3.4.0 (
+
+    
+
+(U/IFOUO) For more detailed information, see LONGHAUL Releases.
+
+(U) Development
+(U) Software] Schedules
+
+(U) Four major releases are planned - 2009, 2010, 201 1, 2012 - with minor releases in between as
+needed.
+
+(U/IFOUO) Release 1.0 - September 30, 2009 - Initial Customer Capability
+(U/IFOUO) Release 2.1 - December 30, 2010 - Initial Operational Capability
+(U/IFOUO) Release 2.2.0 - july '7, 2011 - DNSC Scaling
+
+(U/IFOUO) Release 2.3.0 - October 26, 2011 - Initial COOP Capability
+(U/IFOUO) Release 2.4.0 - January 11, 2012 - COOP and Scaling Capability
+
+(U/IFOUO) Release 2.5.0 - Febuary 29, 2012 - CHAOTICSTORMTROOPER and JEDIMINDTRICK
+Webapps
+
+(U/IFOUO) Release 2.6.x - Mar. 31, 2012 - Availability Improvements and Cross Agency Pairing
+Prototype
+
+(U/IFOUO) Release 2.7.x - Apr. 30, 201 2 - Availability and DNSC Performance Improvements
+(U/IFOUO) Release 2.8.x - May. 31, 2012 - FOC Release
+
+(U/IFOUO) Release 2.9.x - June 30, 2012 - TBD
+
+(U/IFOUO) Release 3.0.x -]uly 31, 2012 - TBD
+
+(U/IFOUO) Release 3.1.x - Aug. 31, 2012 - TBD
+
+6of15
+
+LONG HAUL - WikiInfo
+
+(U/IFOUO) Release 3.2.x - Sept. 30, 2012 - TBD
+
+Planned caiabiliti details can be found here —
+
+(TS/ISI/IREL) Each LONGHAUL child project had its own schedule. Projects used to be planned
+quarterly "Phases" with monthly "Milestones".
+
+(U) Development Principles, Processes, and Standards
+
+(U/IFOUO) LONGHAUL strives to use best practices in all its development
+activities, and is continually looking for ways to improve. We continue to
+reﬁne our processes and want to share with and learn from other projects
+as well as the NSA Way. Please explore our wiki and "take" what you need.
+Conversely, if you have something that works for you, please contact us.
+POISONNUT was the ﬁrst LONGHAUL child project, and the processes
+were initially developed then, but now all the child projects are using them.
+LONGHAUL Principles is a description of our development principles, and
+
+ 
+
+Aug 2010 Overview ,1» is a summary brief of the project, process and tools (Ul/FOUO)
+we are using. LONGHAUL
+Principles
+
+(U/IFOUO) LONGHAUL Processes
+(U/IFOUO) Detailed information for each LONGHAUL process is available below.
+(U) Requirements
+
+(U/IFOUO) Requirements Development  - we use DOORS for maintaining all
+our requirements.
+
+(U) Coding Standards/Reviews
+
+(U/IFOUO) Coding Standards -  Project Coding Standards -
+
+(U/IFOUO) Code Reviews —LONGHAUL Code Review Process and Code
+Review Checklist
+
+(U) Lessons Learned
+
+(U/IFOUO) Lessons Learned -_- Changes made as a result of development
+experience
+
+(U) Conﬁguration Management (and Metrics)
+
+(U/IFOUO) Conﬁguration Management  - Conﬁguration Management, Change
+Management and Metrics
+
+(U) Testing
+(U/IFOUO) Test Methodologies  Testing Description
+
+(U/IFOUO) Unit Testing — —— Unit Test Guidelines i]
+(U/IFOUO) Integration Testing  — Testing with ISLANDTRANSPORT
+
+(U/IFOUO) System Testing - — - System Test plans and schedules.
+
+70f15
+
+LONG HAUL - Wikilnfo
+
+(U) Working with NSA Way
+
+S/lSI/REL The LONGHAUL Project is an enthusiastic participant in the NSA Way
+. Because the LONGHAUL team is responsible for all phases of
+
+development, starting with requirements, through design, technology selection, development,
+integration, system test, and deployment, it uses a modiﬁed NSA Way Gate structure.
+
+(U) Development and Management Tools
+
+LONGHAUL relies on a variety of tools to support development and management tasks. The tools
+listed below have been assessed and found to be valuable
+
+- (U/IFOUO) Project Management —-
+including a bug and feature tracker —
+
+) (restricted)
+
+I (U/IFOUO) Subversion Repository - available for browsing _
+_
+
+(restricted)
+
+I (U/IFOUO) Maven Repository - an instance of Sonatype Nexus
+
+I (U/IFOUO) Continuous Builds - an instance of Hudson (—
+_
+
+I (U/IFOUO) CORALREEF - a test instance is running speciﬁcall for us on scubadiver2
+_ or  _
+) .
+
+(U) Technology
+
+I (U) Integrating Java with ClC++
+I (U) JMS Performance Testing
+I (U) OMQ Messaging
+
+I (U) HBase Performance Testing
+I (U) Scala Research
+
+(U) In-Memory Distributed Data Analysis of Alternatives
+(AOA)
+
+I (U) The project is looking into several technologies for in-memory data caches with
+replication.
+
+I (U) For more information, view the Distributed Data AOA
+(U) BigData and Metrics Techniques
+
+I (TS) LONGHAUL MapReduce ~
+I (TS) Hadoop Metrics Implementation
+
+(U) TE6 Security, Compliance and Policy
+Enforcement
+
+I (Cl/REL) LONGHAUL's position in the processing chain necessitates that it be prepared to
+deal with a whole host of security, policy and compliance enforcement issues, such as
+ensuring that the system is only accessed by authorized individuals, ensuring that the
+processing meets all legal requirements, resolving classiﬁcations from multiple sources,
+
+80f15
+
+LONG HAUL - Wikilnfo
+
+ensuring that the recovered cryptovariables are only distributed to those entities that are
+authorized to receive them, ensuring that clients don't exceed some policy-deﬁned limit on
+amount of work requested, and a whole host of other issues. This page seeks to capture the
+important security, compliance, and policy related scenarios LONGHAUL will address and
+document the design of their solutions.
+
+I (U/IFOUO) For details, see LONGHAUL Security, Compliance and Policy
+
+(U) TS Certiﬁcation & Accreditation
+
+I (U/IFOUO) This link contains information pertaining to LONGHAUL SSPs (System Security
+Plans)- LONGHAUL Certiﬁcation & Accreditation
+I LONGHAUL IAVA Patch Rollout Scheme
+
+(U) Operations
+
+(U/IFOUO) LONGHAUL has been processing DNC data since Oct. 2009, and was declared IOC for
+DNC in Dec. 201 0. Also, in Dec. 2010 an ICC (Initial Customer Capability) for DNSC was
+deployed. 24/7 System monitoring has been in place since Dec. 2010.
+
+I (U/IFOUO) Operations Manager —
+—
+
+- responsible for the operations of LONGHAUL.
+I (U/IFOUO) IMPORTANT: Use the gDocUpdate Website —
+_ for the proper UNCLASSIFIED terms when talking over the
+black line.
+I (U) LONGHAUL/Contact - For general contact information.
+- tut Ettt  _ -ttsts the steps that
+need to be taken to ensure continued security when a person leaves the project.
+
+(U) Tier 1 Support
+
+(U) GECC - provides Tier 1 First Response/Help Desk support. The GECC attempt to resolve
+unexpected operational issues using well-deﬁned procedures. If resolved by the GECC, then the
+details of the resolution are recorded and no further action is required. If the incident cannot be
+resolved using the remote capabilities at the Operations Center's disposal or within the
+pre-determined time threshold, the incident is escalated to Tier 2 for resolution.
+
+I (U/IFOUO) LONGHAUL Special Instructions - For COALCAR Incidents this SOP directs the
+GECC to use WebSA to restart failing processes on COALCAR.
+
+I (U/IFOUO) STOCKCAR Special Instructions - For STOCKCAR Incidents this SOP directs the
+GECC to use WebSA to restart failing processes on STOCKCAR.
+
+- (U/IFOUO) LONGHAUL System Support  For
+LONGHAUL Incidents that require SA support for rebooting machines, etc. this URL directs
+the GECC to use the T3332 Infrastructure Operations page.
+
+(U) Tier 2 Support
+
+(U/IFOUO) Tier 2 Support is provided by Maintenance/Operations Support (LONGHAUL team).
+Maintenance/Operations Support provides the day-to-day administration and support of
+production systems in accordance with documented, deployed conﬁgurations. Doing so usually
+requires speciﬁc knowledge about the associated servers, applications and how they interact.
+With respect to applications, this is referred to as "applications administration", as opposed to
+"systems administrationll which is performed at the server hardware and operation systems (OS)
+level. Tier 2 also serves as the escalation point for problems not resolved at the Tier 1 level.
+Problems related to the internal workings of the software or are integration-related issues are
+escalated to the appropriate Tier 3 organization for resolution. Use the "Tier 2 Support" link
+
+90f15
+
+LONG HAUL - Wikilnfo
+
+above for more information.
+
+(Ul/FOUO) Troubleshooting Resources
+
+I (U) LONGHAUL_Take_Home_Support_SOP ' - Contains troubleshooting instructions
+LONGHAUL Tier 2 support staff can take home.
+
+I U Troubleshootin Hel for Tier 2 Personnel —
+- Page contains links to support pages for the various
+
+LONGHAUL components and possible solutions to previously seen issues.
+- (iii Useiui Support Links — - A directory
+of useful support links. Contains troubleshooting instructions LONGHAUL Tier 2 support
+staff can take home.
+I (U) Switching Operations
+Page contains the procedures to take when switching operations to alternate site
+
+I LONGHAUL After Hours Beachhead
+) - Location of after hours support
+I (U) Creating a CES Help Ticket - Process
+
+for creating a CES help ticket for LONGHAUL issues.
+
+- dii reporting Procedures _i - 
+
+for reporting on Tier 2 issues.
+
+  
+ 
+ 
+
+(Ul/FOUO) Outage Process
+
+I (U) For unexpected/emergency outages:
+
+I Send messa e to LH customers see outa e email list
+). Be sure to include how the
+sys em was a ec e an an es lma e o ow ongl w1 take to restore the system.
+
+I If system remains unavailable 1 hour after troubleshooting began, switch operations to
+
+the alternate site (see switching operations
+).
+
+I If system continues to be unavailable after 90 minutes, inform T532 management. Be
+sure to include how the system was affected and an estimate of how long it will take to
+restore the system.
+
+I If system continues to be unavailable after 2 hours, inform T53 management. Be sure to
+include how the system was affected and an estimate of how long it will take to restore
+the system.
+
+I (U) For scheduled outaies, iollow the normal outaie procedure —
+
+(UHFOUO) Contacting the GECC
+
+- (U/IFOUO) — The GECC director
+
+I (U/IFOUO) _- The Turbulence desk where LONGHAUL support personnel are
+located.
+
+I (U/IFOUO) T3332 Infrastructure Operations —
+
+(for reboots of system after-hours)
+
+(U) Tier 3 Support
+
+(U/IFOUO) Tier 3 support is provided by Development Support (LONGHAUL team).
+Development Support resolves issues escalated from Tier 2 related to the internal workings of the
+software (i.e., requires "cracking open the code") or COTS/G OTS integration. These are break/ﬁx
+activities, which are outside of typical development, and implementation activities (such as
+resource planning, project management, architecture, s/w development, initial implementation
+[integration/testing, etc.). Tier 3 support consists of:
+
+10 of 15
+
+LONG HAUL - Wikilnfo
+
+I (U) Release Procedures - managing maintenance releases
+I (U) Outage Procedures - Managing and Scheduling Outages using
+
+(U) Site Deployments
+
+(In Site Deployments F - contains
+information about upcoming site ep oyments 0 CA Servers.
+
+(U) Transition
+
+(TS/lSIl/REL) Transitioning Life Cycle Support of LONGHAUL is contingent upon successful
+completion of F 00 in September 201 1. The system will transition to the following organizations:
+
+I HPC Integration and Production (T53 —
+—
+I Exploitation Solutions Ofﬁce (ESO )
+I Ofﬁce of Target Pursuit (OTP )
+(U/IFOUO) Planning for this transition began in April 201 0 and is ongoing.
+
+(U/IFOUO) For more detailed information, see Transition.
+
+(U/IFOUO) Team Members
+
+Government Team Members/LONGHAUL
+
+Name El SID Function Afﬁliation Work Black JSlgnout
+
+E Phone IE
+Project
+Opera“ T5323 _—
+Manager
+Mission T5323 ——
+Assurance
+TestLead T5323 _-
+
+C2DP
+
+ 1...... ——
+
+ 
+
+11 of 15
+
+LONG HAUL - WikiInfO
+
+Contractor Team Members/LONG HAUL
+
+Function Afﬁliation Work Black JSignout
+Phone El
+
+Name SID
+
+Sotera
+
+333:5;
+Sotera 
+Sotera
+Sotera 
+Sotera
+Sotera
+Sotera
+Sotera
+Sotera
+Sotera 
+Sotera 
+
+ 
+
+12 of 15
+
+LONG HAUL - Wikilnfo
+
+Developer
+
+Developer
+
+Developer
+
+Developer
+
+ 
+
+Sotera
+
+Sotera
+
+Sotera
+
+Sotera
+
+MIDRIFI' Team Members
+
+Name SID E
+
+Branch
+Manager
+
+Deputy
+Branch
+Manager
+
+Lead
+Developer
+
+Developer
+
+ 
+
+E
+
+Govt
+
+Govt
+
+Govt
+
+G ovt
+
+ 
+
+    
+
+Function Afﬁliation Work Black JSignout
+
+IEI
+
+13 of 15
+
+LONG HAUL - Wikilnfo
+
+Related Team Members
+
+Work
+Function Afﬁliation Black JSignout
+Name IE SID E Phone
+IEI
+
+McLendon -
+ProgramB
+m Govt —
+ProgramB . . .
+
+DlglFllght -
+
+T&E
+
+ 
+
+Other Useful Numbers
+
+Name SID Function Afﬁliation Work Black Work
+comment
+
+   
+
+Phone Secure
+T332
+Global 24/7
+GECC Enterprise Enterprise
+Command Monitoring
+Center
+
+(U) See also
+
+(S/lSI/IREL) The LONGHAUL team works with the following organizations:
+
+I Digital Network Crypt Applications (831322)
+
+I Attack Services (831241)
+
+I Requirements and Thread Mana ement (8313)
+
+I CA Databases (T532
+
+I Mission Capabilities (T1
+
+I High Performance Computing Technology (T5
+ltdlhpctpl) ,T5)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+to develop, deploy and test all aspects of an end-to-end processing system. Team members are
+located in the OPSZA, NBP322, and NBP140.
+
+I (U/IFOUO) T5/S31243 - LONGHAUL - C2DP Tour Description
+
+I (U/IFOUO) Cryptanalytic Computer Network Operations Development Program (C2DP)
+I (U/IFOUO) LONGHAUL Glossary
+
+I (U/IFOUO) LONGHAUL Frequently Asked Questions
+
+I (U/IFOUO) Proposed LONGHAUL 2 Coverterms
+
+(U) External links
+I (U) The L03 Coverterm page ("go coverterm
+I (U) The Query a Coverterm (
+
+14 of 15
+
+LONG HAUL - WikiInfO
+
+lcoverterms.startingpage) form
+
+Retrieved from '
+Categories: Coverterms | LONGHAUL | DNC | DNSC
+
+Derived From: Si Classification Guide 02-01. Dated: 200607.11
+and NSNCSSM 1-52‘ Dated: 20070108
+Declassify On: 20320108
+
+ 
+
+TOP SECRETHSIHREL TO USA, FVEY
+
+15 0f 15
+

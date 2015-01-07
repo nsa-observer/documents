@@ -1,0 +1,3430 @@
+SECRETﬂCOMINTﬂREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL) DEITYBOU NCE provides software application persistence on Dell
+PowerEdge servers by exploiting the motherboard BIOS and utilizing System
+Management Mode (SMM) to gain periodic execution while the Operating System
+toads.
+
+ 
+
+ 
+
+Interactive DPS Console
+(rsnsriineu DEITYBOUNCE Extended Concept 0! Operations
+
+(T SIISIHREL) This technique supports mum-processor systems with RAID hardware
+and Microsoft Windows 2000. 2003. and XP. it currently targets Dell PowerEdge
+1350i28501195012950 RAID servers. using BIOS versions A02. A05. A06. 1.1.0.
+1.2.0. or 1.3.7.
+
+(TSIISWREL) Through remote access or interdiction. ARKSTREAM is used to re-
+ﬂash the BIOS on a target machine to implant DEITYBOUNCE and its payload (the
+implant installer). Implantation via interdiction may be accomplished by non-
+technical operator though use of a USB thumb drive. Once implanted.
+DEITYBOUNCE'S frequency of execution (dropping the payload) is configurable and
+will occur when the target machine powers on.
+
+Status: Released 1' Deployed. Ready for
+Immediate Delivery
+
+Poc: — 332221. _    
+
+Unit Cost: $0
+
+ 
+
+_.
+
+ 
+
+DEITYBOUNCE
+
+ANT Product Data
+
+osrzoroa
+
+tl'
+
+Occluslﬁy 0n: 20320100
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SilSIiIR EL) IR ONCHEF provides access persistence to target systems by
+exploiting the motherboard BIOS and utilizing System Management Mode (BMW!) to
+communicate with a hardware implant that provides two-way RF communication.
+
+I. 1??
+
+l-
+
+ 
+
+. m-rﬂ
+
+' ii
+1?
+:lb
+
+ 
+
+H—
+
+-——-....-....
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬁlﬂ--eﬂ-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSliSliiREL) IRONCHEF Extended Concept 01 Operations
+
+(TSIISIIREL) This technique supports the HP Proliant 3800L GS senrer. onto which
+a hardware implant has been installed that communicates over the PC lnteriace
+(WAGONBED).
+
+(T SJiStIIRE L) Through interdiction. IRONCHEF. a soltware CNE implant and the
+hardware implant are installed onto the system. It the soltware CNE implant is
+removed from the target machine. IRONCHEF is used to access the machine.
+determine the reason for removal of the software. and then reinstall the software
+tram a listening post to the target system.
+
+Status: Ready for Immediate Delivery Unit Cost: $0
+
+POC1—S32221.--h_1:1~.2 ;  .
+
+ 
+
+IRONCHEF
+ANT Product Data
+
+r...
+
+07I14f08
+
+ 
+
+Deﬁant” 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL USA. FVEY
+
+FEEDTROUGH
+
+ANT Product Data
+
+ 
+
+(T SHSWR EL) FEEDTROUGH is a persistence technique for two somvare implants. DNT's “"'
+BANANAGLEE and 063's ZESTYLEAK used against Juniper Netscreen ﬁrewalls. 06:24!”
+
+CommuﬂtkmtoUIuDunenln0uultn
+UNI-abatemnuiuﬂmquundQuinn
+
+    
+   
+ 
+   
+     
+     
+   
+
+i use
+: Remote Operator-to m
+
+ConOC-octiooo .d—iﬂﬂﬂli-D
+
+Fmﬂﬂm
+IPUICFU
+'mw
+
+ 
+ 
+
+Target Network .....
+I . . . . . . . _ . . . . _ . _ . . . . . . . . . . . . . . _ . _ . . . . .—
+(SltstEL) Persistence Operational Scenario . . . .
+(TSNSUIREL) FEEDTROUGH can be used to persis: two implants. ZESTYLEAK andlor . . .. -'
+BANANAGLEE across reboots and sottware upgrades on known and covered 05's for the .
+tollowing Netscreen ﬁrewalls. n55xl. nszs. nsSD. nsZOO. nsSDD and ISG 1000. There is no
+direct communication to or trorn F E EDTROUGH. but it present. the BANANAGLEE implant . . .
+
+can receive and transmit covert channel comms. and for certain pladorms. BANANAGLEE
+can also update FEEDTROUGH. FEEDTROUGH however can onty persist 05's included .. 1
+in it's databases. Therefore this is best employed with known 08's and if a new 05 comes -
+out. then the customer would need to add this 03 to the FEEDTROUGH database tor that
+particular firewall.
+
+(TSIISUIREL) FEEDTROUGH operates every time the particular Juniper firewall boots. The
+ﬁrst hook takes it to the code which checks to see it the OS is in the database. it it is. then a
+chain at events ensures the installation of either one or both implants. Otherwise the ﬁrewall
+boots normally. It the OS is one modified by ONT. it is not recognized. which gives the
+customer freedorn to field new sottware.
+
+Status: (SHSINRELJ FEEDTROUGH has on the shell solutions tar an at the listed platforms.
+It has been deployed on many target plattorms
+
+POC:-532222.-,--__s . .. . 
+
+ 
+
+DuhndmeuNSNCSEﬂldi
+cune:awﬂnoc
+B!ckuaﬂy0m:201ﬂﬂﬂl
+
+TOP SECRETIICOMINTHREL USA. FVEY
+
+TOPIISECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SJISINREL) GOURMETTROUGH is a user conﬁgurable persistence implant for ‘“
+
+certain Juniper ﬁrewalls. It persists DNT's BANANAGLEE implant across reboots
+and OS upgrades. For some platforms. it supports a minimal implant with
+beaconing lor 08‘s unsupported b1 BANANAGLEE.
+
+NSA
+
+  
+ 
+ 
+ 
+  
+   
+    
+   
+   
+
+.’
+
+I
+
+I
+
+Command. Cowol. and Oct: Exﬂlroﬂon who |
+ONT I'I'Ipll'lt Commotion: Protocol Mica!) :
+l
+
+I
+
+ﬁh----J
+
+I'm-l or Router
+IPUicPU
+MW
+
+  
+
+m
+0|" 9 nylon c
+
+Target Network
+l‘l‘Sll'SlllREL} GOURHETTROUGH Persistence Implant Concept at Operations
+
+(TSJISIIIRELJFor supported platlorms. DNT may conﬁgure BANANAS LEE without
+ANT involvement. Except for limited platforms. they may also configure PBD for
+minimal implant in the case where an OS unsupported by BANANAGLEE is booted.
+
+Status: GOURMETTROUGH is on the shelf and has been deployed on many
+target platlorms. It supports nsgSl. nsSO. n525.i591000(limited). Soon- 559140.
+3595. 55920
+
+Unit Cost: $0
+
+Poc=—s32222.—.  - -
+
+ 
+
+GOURMETTROUGH
+
+ANT Product Data
+
+06124108
+
+Derived From: NSNCSS-M 1-52
+Mod: 20070103
+noel-sail! OI'I: 203201“
+
+TOPIISECRETHCOMINTNREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL) The HALLUXWATER Persistence Back Door implant is installed on a
+target Huawei Eudemon ﬁrewall as a boot ROM upgrade. When the target reboots.
+the P80 installer software will find the needed patch points and install the back door
+in the inbound packet processing routine.
+
+_
+
+NSA
+lornoto Oporotlono cantor
+
+   
+
+I
+I
+Commumlmﬂledanﬁmmﬂhnqu :
+wwncwmmol ml} }
+I
+
+    
+
+_--___-J
+
+ 
+ 
+ 
+
+FHUUIUOWROUNW
+HPUIOPU
+W Dr“.-
+
+  
+ 
+ 
+    
+
+“m
+“I
+0’" "I" N
+
+ 
+   
+   
+
+Torsot Notwork
+
+(1' Slrsm'REL) HALLU WATER Persistence lmptont Concept of Operations
+
+[TSIISIIIREU Once installed. HALLUXWATER communicates with an NSA operator
+via the TURBOPANDA Insertion Tool (PIT). giving the operator covert access to
+read and write memory. execute an address. or execute a packet.
+
+(TSﬂSIﬂREL) HALLUXWATER provides a persistence capability on the Eudernon
+200. 500. and 1000 series firewalls. The HALLUXWATER back door survives OS
+upgrades and automatic bootROM upgrades.
+
+Status: (UIIFOUO) On the shelf. and has been deployed.
+
+poc— s32222. ‘
+
+ 
+
+HALLUXWATER
+
+ANT Product Data
+
+06124108
+
+Derived From: NSNCSS-M 1-52
+Mod: 20070103
+noel-sail! OI'I: 203201“
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SﬂSIﬂREL} JETPLOW is a ﬁrmware persistence implant for Cisco PIX Series and
+ASA (Adaptive Security Appliance) firewalls. It persists DNT's BANANAGLEE
+software implant. JETPLOW also has a persistent back-door capability.
+
+' — - — a n — n a n u a a - a u u — a n u u a ‘-
+
+NSA
+Renato Operations cantor
+
+Command. Cort-cl. ltd Dd- Eaﬁllraﬂon tiling
+DﬂwrnuunCawnmkummmanxugamma
+
+      
+   
+ 
+   
+ 
+     
+   
+   
+
+---_-—--J
+
+Flaw-l or am:
+IPU l CPU
+was“.
+
+  
+
+“I”
+"r
+all puke!
+
+Target Network
+
+(rsrismaeu JETPLow Persistence Implant Canoept or Operations
+
+(T SIISIUREL) JETPLOW is a ﬁrmware persistence implant for Cisco PIX Series and
+ASA (Adaptive Security Appliance) firewalls. It persists DNT‘s BANANAGLEE
+software implant and modiﬁes the Cisco firewall‘s operating system (08) at boot
+time. It BANANAGLEE support is not available for the boating operating system. it
+can install a Persistent Backdoor (PBD) designed to work with BANANAGLEE's
+communications structure. so that full access can be reacquired at a later time.
+JETPLOW works on Cisco's SOC-series PIX ﬁrewalls. as well as most ASA firewalls
+(5505. 5510. 5520. 5540. 5550).
+
+(T SIISIIIREL) A typical JETPLOW deployment on a target ﬁrewall with an exfiltration
+path to the Remote Operations Center (ROG) is shown above. JETPLOW is
+remotely upgradeable and is also remotely installable provided BANANAGLEE is
+already on the lirewall of interest.
+
+Status: (CIIREL) Released. Has been widely deployed. Current
+availability restricted based on OS version (inquire for details).
+
+POC:_ 532222.-.-  !
+
+Unit Cost: $0
+
+ 
+
+JETPLOW
+
+ANT Product Data
+
+06124108
+
+Derived From: PIS-MOSS" 1-52
+
+m: 20070103
+Mel-sail! OI'I: 2032010!
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SﬂSWREL) SOUFFLET ROUGH is a BIOS persistence implant for Juniper SSG ‘”
+
+500 and 556 300 series firewalls. it persists DNT's BANANAG LEE software
+implant. SOUFFLETROUGH also has an advanced persistent back-door capability.
+
+' — - — a n — n a n u a a - a u u — a n u u a ‘-
+
+Command. Cort-cl. lid Dd- Eaﬁllraﬂon mil-nu
+DNWanIRCawnmkﬂﬂm3anxﬂﬂuﬂno
+
+      
+   
+ 
+   
+ 
+     
+   
+   
+
+..,
+l
+
+I
+NSA :
+Remote Operations cantor :
+l
+
+l
+
+Fm“ or am:
+IPU r CPU
+was“.
+
+  
+
+“I”
+"t
+Bu! pom.
+
+Target Network
+
+ffSll'SlthEt.) SOUFFLETROUGH Persistence Implant Cancepl of Operations
+
+(TSIISIUREL) SOUFFLETROUGH is a BIOS persistence implant for Juniper $56
+500 and $56 300 series ﬁrewalls {320M 350M. 520. 550, 520M. 550M}. lt persists
+DNT's BANANAGLEE software implant and modifies the Juniper ﬁrewall‘s operating
+system (ScreenOS) at boot time. It BANANAGLEE support is not available for the
+berating operating system. it can install a Persistent Backdoor (PBD) designed to
+work with BANANAGLEE's communications structure. so that full access can be
+reacquired at a later time. It takes advantage of intel‘s System Management Mode
+for enhanced reliability and oovertness. The P130 is also able to beacon home. and
+is fully conﬁgurable.
+
+(TSIISIIIREL1A typical SOUFFLETROUGH deployment on a target ﬁrewall with an
+exﬁltration path to the Remote Operations Center (ROC) is shown above.
+SOUFFLETROUGH is remotely upgradeable and is also remotely installable
+provided BANANAGLEE is already on the firewall of interest.
+
+Status: (CIIREL) Released. Has been deployed. There are no
+availability restrictions preventing ongoing deployments.
+
+m— s32222.--.:- -- :
+
+Unit Cost: $0
+
+ 
+
+SOUFFLETROUGH
+
+ANT Product Data
+
+06124108
+
+Derived From: PIS-MOSS" 1-52
+
+m: 20070103
+Mel-sail! OI'I: 2032010!
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(TSilSiiiREL) HEADWATER is a Persistent Backdoor (PBD) software implant for
+selected Huawei routers. The implant will enable covert functions to be remoler
+executed within the router via an Internet connection.
+
+Command. Carrol, and Data Exﬁnrtﬁm ulna
+[INT Imle Consummation; Protocol (typical)
+
+   
+
+Remote Operations center
+
+    
+
+firewall or Router
+"PU i CPU
+Migue-
+
+ 
+ 
+ 
+
+"I"
+“I
+on" “110"
+
+ 
+
+Target Network
+
+(T SﬂSlliREL) HEADWATER Persistence implant Concept of Operations
+
+(TSHSI/IREL) HEADWATER PBD implant will be transferred remotely over
+the Internet to the selected target router by Remote Operations Center
+(ROC) personnel. After the transfer process is complete, the P80 will be
+installed in the router‘s boot ROM via an upgrade command. The FBI) will
+then be activated after a system reboot. Once activated, the ROC
+operators will be able to use DNT's HAMMERMILL Insertion Tool (HIT) to
+control the PBD as it captures and examines all IP packets passing through
+the host router.
+
+(TS/ISU/REL) HEADWATER is the cover term for the P80 for Huawei
+Technologies routers. PBD has been adopted for use in the joint NSAICIA
+effort to exploit Huawei network equipment. (The cover name for this joint
+project is TURBOPANDA.)
+
+Status: (UIIFOUO) On the shell ready for deployment
+
+POC:— $32222. -.-:; -- -
+
+I 1
+- :
+' l
+:  t
+I i
+' r
+
+l
+
+  
+ 
+ 
+   
+     
+ 
+
+ 
+
+HEADWATER
+
+ANT Product Data
+
+06124108
+
+Derived From: NSNCSS-ﬂ 1-52
+W: 20070103
+Mel-sail! OI'I: 203201”
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+SCHOOLMONTANA
+
+ANT Product Data
+
+ 
+
+(TSHSWREL) SCHOOLMONTANA provides persistence IOr DNT implants. The DNT "—
+implant will survive an upgrade or replacement of the Operating system — including 06,241.08
+physically replacing the router's compact flash card.
+
+DH! Implant Corinna-ﬂattens Protocol (typical:
+
+' I
+
+' I
+
+Command. Current. and on: Elﬂlnlion m 5 NSA :
+u Remote Operations Center :
+
+' I
+
+I
+
+l
+
+FHUIIIOfROUNW
+IPUICPU
+
+    
+
+(srrsurneu SCHOOLMONTANA Concept 0! Operations . . . .
+(TS/ISU/REL) Currently, the intended DNT Implant to persist is .
+VALIDATOR, which must be run as a user process on the target .
+
+operating system. The vector of attack is the modiﬁcation of the target's
+
+BIOS. The modiﬁcation will add the necessary software to the BIOS and 
+modify its software to execute the SCHOOLMONTANA implant at the end
+of its native System Management Mode (SMM) handler. 
+
+(TSMSLUl REL) SCHOOLMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon
+system boot, the JUNOS operating system is modiﬁed in memory to run
+the implant, and provide persistent kernel modifications to support
+implant execution.
+
+(TSHSIIIREL) SCHOOLMONTANA is the cover term for the persistence technique
+to deploy a DNT implant to Juniper J-Series routers.
+
+Status: (UIIFOUOJ SCHOOLMONTANA completed and released by ANT May 30.
+2008. It is ready for deployan
+
+POC:-S32222.--.; - = 1' - WMHSNOSSHI-Sz
+
+omunanmun
+thﬂuuﬂyOmzﬁﬂﬁﬂn
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISWR EL} SIERRAMONTANA provides persistence tor DNT implants. The DNT
+implant will survive an upgrade 0r replacement oi the operating system - including
+physically replacing the router's compacr ﬂash card.
+
+Comm. Cartel. I'll Du: Edith a“
+
+    
+
+ 
+
+emu or W
+I'Ui CPI!
+
+(SilSIllREL) SIERRAHONTANA Concept of Operations
+
+(TS/ISI/IREL) Currently, the intended DNT Implant to persist is
+VALIDATOR, which must be run as a user process on the target
+operating system. The vector of attack is the modiﬁcation of the target's
+8105. The modiﬁcation will add the necessary software to the BIOS and
+modify its software to execute the SIERRAMONTANA implant at the end
+of its native System Management Mode (SMM) handler.
+
+(TS/ISU/REL) SIERRAMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon
+system boot, the JUNOS operating system is modiﬁed in memory to run
+the implant, and provide persistent kernel modiﬁcations to support
+implant execution.
+
+(TSIISIIIREL) SIERRAMONTANA is the cover term for the persistence technique to
+deploy a DNT implant to Juniper M-Series routers.
+
+Unit Cost: 3
+
+Status: (UIIFOUO) SIERRAMONTANA under development and is expected to be
+released by 30 November 2008.
+
+90c: UJIFOUO— 532222._- -- - - 1.
+
+ 
+    
+
+_
+
+SIERRAMONTANA
+
+ANT Product Data
+
+,._
+
+06124108
+
+ 
+
+Derived Front NSNCSSM 1-52
+
+Dated: 2001010.
+
+Occlusitv 0n: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL} STUCCOMONTANA provides persistence for ONT implants. The
+DNT implant will survive an upgrade or replacement oi the operating system «-
+including physically replacing the router's compact ﬂash card.
+
+Comma. Control. mom Exﬁlntion units
+wmcmom Protocol (typical:
+
+   
+
+' I
+' I
+: NSA :
+: Reason Operations cantor :
+' I
+
+I
+
+I
+
+    
+
+ 
+ 
+ 
+
+Finn". or Router
+IPU i cm
+M W
+
+  
+ 
+ 
+   
+ 
+
+  
+   
+
+—-‘——on—u-u——-———u—o-—
+
+Target Network
+tsusvrnec) STUCCOMONTANA Concept at Operations
+
+(TS/[SU/REL) Currently, the intended DNT Implant to persist is
+VALIDATOR, which must be run as a user process on the target operating
+system. The vector of attack is the modiﬁcation of the target's BIOS. The
+modiﬁcation will add the necessary software to the BIOS and modify its
+software to execute the STUCCOMONTANA implant at the end of its native
+System Management Mode (SMM) handler.
+
+(TS/{Sl/{REU STUCCOMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon system
+boot, the JUNOS operating system is modiﬁed in memory to run the
+implant, and provide persistent kernel modifications to support implant
+execution.
+
+(T SIISIIIREL) STUCCOMONTANA is the cover term for the persistence technique to
+deploy a DNT implant to Juniper T-Series routers.
+
+Unit Cost: 5
+
+Status: (UIIFOUO) STUCCOMONTANA under development and is expected to be
+released by 30 November 2008.
+
+Poc:urIFouo-532222._-_.~ . :_
+
+ 
+
+STUCCOMONTANA
+
+ANT Product Data
+
+06124108
+
+Derived Front NSNCSSM 1-52
+
+Dated: 2001010.
+
+Occlusity On: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+ 
+
+(Tsrrsmaer. TO USAFVEY) The CTX4000 is a portable continuous wave (CW)—
+radar unit. It can be used to illuminate a target system to recover different off net
+
+information. Primary uses include VAGRANT and DROPMIRE collection.
+
+ 
+
+(TS/ISIHREL TO USAFVEY) The CTX4000 provides the means to collect signals
+that otherwise would not be coliectable. or would be extremely difficult to collect
+and process. It provides the lollowing features:
+
+- Frequency Range: 1 - 2 GHz.
+
+0 Bandwidth: Up to 45 MHz
+
+- Output Power: User adjustable up to 2 W using the internal amplifier; external
+ampliﬁers make it possible to go up to 1 kW.
+
+0 Phase adjustment with front panel knob
+
+- User-selectable high- and low-pass filters.
+
+- Remote controllable
+
+- Outputs:
+
+0 Transmit antenna
+
+- I & Q video outputs
+
+- DC bias for an external pre-amp on the Receive input connector
+
+- Inputs:
+
+- External oscillator
+- Receive antenna
+
+Unit Cost: NlA
+
+Status: unit is operational. However. it is reaching the end of its service life. it is
+scheduled to be replaced by PHOTOANGLO starting in September 2008.
+
+Fr<=i<==—- 832243.  -  E =
+
+ 
+
+CTX4000
+
+ANT Product Data
+
+8 Jul 2008
+
+Der-ml From: NSNCSSM 1-52
+
+Dated: 200N110!
+
+Massif! 0n: 20120100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(T SIISIfIREL T0 USAFVEY) Audio-based RF retro-reflector. Provides room
+audio from targeted space using radar and basic post-processing.
+(U) Capabilities
+
+(T SffSIIIREL TO USA.FVEY) LOUDAUTO's
+current design maximizes the gain of the
+microphone. This makes it extremely useful for
+picking up room audio. It can pick up speech at
+
+a standard. ofﬁce volume from over 20' away.
+(NOTE: Concealments may reduce this distance.)
+It uses very little power (—15 uA at 3.0 VDC). so
+little. in fact. that battery self-discharge is more of
+an issue for serviceable lifetime than the power
+draw from this unit. The simplicity of the design
+allows the form factor to be tailored for speciﬁc
+operational requirements. All components at
+COTS and so are non-attributable to NSA.
+
+(U) Concept of Operation
+
+TSHSIIIREL TO USAFVEY) Room audio is picked up by the microphone and
+converted into an analog electrical signal. This signal is used to pulse position
+modulate (PPM) a square wave signal running at a pre-set frequency. This
+square wave is used to turn a PET (field effect transistor) on and off. When
+the unit is illuminated with a CW signal from a nearby radar unit. the
+illuminating signal is amplitude-modulated with the PPM square wave. This
+signal is re-radiated. where it is picked up by the radar, then processed to
+recover the room audio. Processing is currently performed by COTS
+equipment with FM demodulation capability (Rohde a Schwarz FSH-series
+portable spectrum analyzers. etc.) LOUDAUTO is part of the
+ANGRYNEIGHBOR family of radar retro-reﬂectors.
+
+Unit Cost: 530
+
+Status: End processing still in development
+
+Poc:— 532243.--5 -  3:- 
+
+ 
+
+ 
+
+LOU DAUTO
+
+ANT Product Data
+
+07 Apr 2009
+
+I
+
+Dem From: NSNCSW 1-52
+
+Md: 2001010!
+
+Massif} 0n: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+TOP SECRETIICOMINTNREL TO USA. FVEY
+
+NIGHTSTAND
+
+Wireless Exploitation I Injection Tool
+
+ 
+
+(T SNSIMREL) An acuve 802.11 wireless exploitation and injection tool for ——
+payloadlexploit delivery into otherwise denied target space. NIGHTSTAND is
+
+typically used in operations where wired access to the target is not possible. 07:25!”
+
+(TSIISIIIREL) NIGHTSTAND - Close Access Operations -
+Battlefield Tested - Windows Exploitation - Standalone System
+
+System Details
+
+'r (Ul‘IFOUO) Standalone tool currently
+running on an x86 laptop loaded with
+Linux Fedora Core 3.
+
+“r (TSIISWREL) Exploitable Targets
+include Win2k. WinXP. WinXPSPl.
+WINXPSPZ running internet Explorer
+versions 5.0-6.0.
+
+‘, (TSIISIHREL) NS packet injection can
+target one client or multiple targets on a
+wireless network.
+
+Ir (TSJISWREL) Attack is undetectable by
+the user.
+
+NIGHTSTAND Hardware ..
+(TS/ISIIIREL) Use of external amplifiers and antennas in both
+experimental and operational scenarios have resulted in successful
+NIGHTSTAND attacks from as far away as eight miles under ideal
+environmental conditions.
+
+ 
+
+Unit Cost: Varies trom platform to platform
+
+Status: Product has been deployed in the field. Upgrades to the system continue to
+be developed.
+POC:- 832242.   ' -- ' i- - 0mm: Frm:NSNCSSM 1-52
+
+Dated: 20070108
+Dedassiw 0n: 20320108
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(TSIISIHREL TO USA.FVEY) NIGHTWATCH is a portable computer with
+specialized. internal hardware designed to process progressive-scan (non-
+interlaced) VAGRANT signals.
+
+(U) Capability Summary
+
+(TSHSIIJREL TO USAFVEY) The current
+implementation of NIGHTWATCH consists of
+a general-purpose PC inside of a shielded
+case. The PC has PCI digitizing and clock
+cards to provide the needed interface and
+accurate clocking rqued for video
+reconstrucﬁon. It also has:
+
+- horizontal sync. vertical sync and video
+outputs to drive an external. multi-sync
+monitor.
+
+* video input
+
+- spectral analysis up to 150 kHz to provide for indications of horizontal and
+vertical sync frequencies
+
+- frame capture and forwarding
+
+- PCMCIA cards for program and data storage
+
+- horizontal sync locking to keep the display set on the NIGHTWATCH display.
+- frame averaging up to 2‘16 (65536) frames.
+
+(U) Concept of Operation
+
+(TSHSIIIREL T0 USAFVEY) The video output from an appropriate collection
+system. such as a CTX4000. PHOTOANGLO. or general-purpose receiver. is
+connected to the video input on the NIGHTWATCH system. The user. using the
+appropriate tools either within NIGHTWATCH or externally. determines the
+horizontal and vertical sync frequencies of the targeted monitor. Once the user
+matches the proper frequencies. he activates "Sync Lock" and frame averaging
+to reduce noise and improve readability of the targeted monitor. If warranted. the
+user then fomrards the displayed frames over a network to NSAW. where
+analysts can look at them for intelligence purposes.
+
+Unit Cost: NIA
+
+Status: This system has reached the end of its service life. All work concerning
+the NIGHTWATCH system is strictly for maintenance purposes. This system is
+slated to be replaced by the VIEWPLATE system.
+
+POC:—832243.-_;r~:e .  ,
+
+ 
+
+NIGHTWATCH
+
+ANT Product Data
+
+24 Jul 2008
+
+ 
+
+Derived From: NSNCSSM 1-82
+
+W: 20070100
+
+vacuum 0n: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+PHOTOAN
+
+ 
+
+_
+
+(T SHSWREL TO USAFVEY) PHOTOANGLO is a joint NSNGCHQ project to
+develop a new radar system to take the place of the CTX4000.
+
+(U) Capabilities
+
+(TSNSIIIREL TO USA.FVEY) The planned capabilities for this system are:
+-Frequency range: 1 - 2 GHz. which will be later extended to 1 - 4 GHz.
+oMaximum bandwidth: 450 MHz.
+
+-Size: Small enough to fit into a slim briefcase.
+
+-Weight: Less than 10 lbs.
+
+oMaximum Output Power: 2 W
+
+°Output:
+
+Nideo
+
+cTransmit antenna
+
+-lnputs:
+
+oExternal oscillator
+
+-Receive antenna
+
+(U) Concept of Operation
+
+(T SIISIIIREL TO USAFVEY) TSJISIIIREL TO USA.FVEY) The radar unit
+generates an un-modulated. continuous wave (CW) signal. The oscillator is
+either generated internally. or externally through a signal generator or cavity
+oscillator. The unit ampliﬁes the signal and sends it out to an RF connector.
+where it is directed to some form of transmission antenna (horn. parabolic dish.
+LPA. spiral). The signal illuminates the target system and is re-radiated. The
+receive antenna picks up the re-radiated signal and directs the signal to the
+receive input. The signal is amplified. filtered. and mixed with the transmit
+antenna. The result is a homodyne receiver in which the RF signal is mixed
+directty to baseband. The baseband video signal is ported to an external BNC
+connector. This connects to a processing system. such as NIGHTWATCH. an
+LFS-Z. or VIEWPLATE. to process the signal and provide the intelligence.
+
+Unit Cost: S40lt (planned)
+Status: Development. Planned IOC is lst QTR FY09.
+
+POC:_ 332243.--;_: 1  1.. .-_
+
+GLO
+
+ANT Product Data
+
+,—
+
+24 Jul 2008
+
+ 
+
+Derived Front HSNCSSM 1-52
+
+mo: 20010108
+
+Occlusity 0n: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SIISINREL) An embedded computer system running BLINDDATE
+tools. Sparrow II is a fully lunctional WLAN collection system with
+integrated Mini PCI slots for added functionality such as GPS and
+multiple Wireless Network Interface Cards.
+
+(UIIFOUO) System Specs
+
+Processor: IBM Power PC 4OSGPR
+Memory: 64MB (SDRAM)
+16MB (FLASH)
+
+Expansion: Mini PCI (Up to 4
+devices) supports USB. Compact
+Flash. and 802.11 BIG
+
+OS: Linux (2.4 Kernel)
+Application SW: BLINDDATE
+Battery Time: At least two hours
+
+SPARROW II Hardware
+
+(T SHSIHREL) The Sparrow II is a capable option for deployment where
+
+small size. minimal weight and reduced power consumption are required.
+
+PCI devices can be connected to the Sparrow II to provide additional
+functionality. such as wireless command and control or a second or third
+802.11 card. The Sparrow II is shipped with Linux and runs the
+BLINDDATE software suite.
+
+ 
+
+ 
+
+SPARROW II
+
+Wireless Survey - Airborne Operations - UAV
+
+0712508
+
+Unit Cost: 56K
+Status: (SIISIHREL) Operational Restrictions exist for equipment deployment.
+POC:- $32242.-  W. .-.; 
+Derived From: usucssu 1-5.2
+Outed: 10010100
+Milly 0n: 20620100
+
+TOP SECRETﬂCOMINTﬂREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+TAWDRYYARD
+ANT Product Data
+
+ 
+
+_—
+
+(TSﬂSIﬂREL TO USA.FVEY) Beacon RF retro-reﬂector. Provides return 07 Apr 2009
+when illuminated with radar to provide rough positional location.
+
+(U) Capabilities
+(TSHSWREL T0 USA.FVEY) TAWDRYYARD is 32N03
+used as a beacon. typically to assist in locating a 16
+
+and identifying deployed RAGEMASTER units. 4 12 20
+Current design allows it to be detected and located
+quite easily within a 50' radius of the radar system
+being used to illuminate it. TAWDRYYARD draws
+as 8 [Mt at 2.5V (20uW) allowing a standard lithium
+coin cell to power it for months or years. The
+simplicity of the design allows the form factor to
+be tailored for speciﬁc operational requirements.
+Future capabilities being considered are return of
+GPS coordinates and a unique target identifier and
+
+    
+
+automatic processing to scan a target area for .... .
+presence of TAWDRYYARDS. All components are
+
+COTS and so are non-attributable to NSA. .
+(U) Concept of Operation
+
+(TS/ISIHREL T0 USA.FVEY) The board generates a square wave operating .
+at a preset frequency. This square wave is used to turn a FET (ﬁeld effect
+
+transistor) on and off. When the unit is illuminated with 8 CW signal. the .
+illuminating signal is amplitude-modulated (AM) with the square wave. This
+signal is re—radiated. where it is picked up by the radar. then processed to 
+
+recover the clock signal. Typically. the fundamental is used to indicate the
+unit's presence. and is simply displayed on a low frequency spectrum
+analyzer. TAWDRYYARD is part of the ANGRYNEIGHBOR family of radar
+retro-reﬂectors.
+
+Unit Cost: $30
+
+Status: End processing still in development
+
+Poc: — 532243. -.  u 
+
+ 
+
+0m From: NSNCSSM 1-52
+Med: 26010100
+Dedusify 0n: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+GINSU
+ANT Product Data
+
+ 
+
+(TSHSUIREL) GINSU provides software application persistence for the CNE implant. gamma
+KONGUR. on target systems with the PCI bus hardware implant. BULLDOZER.
+
+ 
+
+[ m rﬁg in
+
+Network I arc-NW
+-: :0 Gwen: an Nam '5
+Va} A; 4’ tttt
+mum ‘m’ ggmﬁm. . . . ..
+rrsrrsumeu GINSU Extended Concept 0! Operations . . . .
+
+(T SJISIIREL) This technique supports any desktop PC system that contains at least ...
+one PC! connector (for BULLDOZER installation) and Microsoft Windows 9x. 2000.  i '-
+2003. XP, or Vista.
+
+(TSIISIIIREL) Through interdiction. BULLDOZER is installed in the target system as
+a PCI bus hardware implant. Alter fielding. it KONGUR is removed from the system
+as a result of an operating system upgrade or reinstall. GINSU can be set to trigger
+on the next reboot of the system to restore the soltware implant.
+
+Status: Released I Deployed. Ready for Unit Cost: $0
+Immediate Delivery
+
+Poc:— 332221. - u-  a:  w m; usucssu 1-5-2
+
+Occluslﬂ 0n: 20320100
+
+ 
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(TSHSIHREL) HOWLERMONKEY is a custom Short to Medium Range Imptant RF
+Transceiver. It is used in conjunction with a digital core to provide a complete
+implant.
+
+HOWLERMONKEY —
+
+SUTURESAILOR HOWLERMONKEY - YELLOWPIN
+
+   
+
+ 
+
+l7
+
+ 
+
+1.23“ (31.25 mm)
+
+2" (50.8 mm) x 0.45" (11.5 mm)
+x 0.48“ {122 mm)
+(Actual Size)
+HOWLERMONKEY - HOWLERMONKEY *
+SUTURESAILOR FIREWALK
+m —
+m —
+12°" (3” mm) o 63" (16 mm) x
+
+(TSHSIHREL) HOWLERMONKEY is a COTS-based transceiver designed to be
+compatible with CONJECTUREJSPECULATION nemerks and STRIKEZONE
+devices running a HOWLERMONKEY personality. PCB layouts are tailored to
+individual implant space requirements and can vary greatly in form factor.
+
+ 
+
+Implant 1 Implant 2
+
+     
+
+ 
+
+ 
+
+HOWLERMONKEY
+
+ANT Product Data
+
+OEIOSIOB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Status: Available u Delivery 3 months Unit Cost:
+
+POO: _ 83223.
+ALT POC: —. $3223.
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+40 units: 950! each
+25 units: 151.0%l each
+
+Derived From: Msmssu 1-52
+
+ 
+
+Mod: 20070103
+
+.._I   unnamed-1:203:01“
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(TSIISIIIREL) lRATEMONK provides software application persistence 0n desktop
+and laptop computers by implanting the hard drive firmware to gain execution
+through Master Boor Record (MBR) substitution.
+
+ 
+
+USNSIHREL) IRATEMONK Extmded Concept at Operations
+
+(TSﬂSlﬂREL) This technique supports systems without RAID hardware that boot
+from a variety ol Western Digital. Seagate. Maxtor. and Samsung hard drives. The
+supported ﬁle systems are: FAT. NTFS. EXTa and UPS.
+
+(TSJISINREL) Through remote access or interdiction. UNITEDRAKE. or
+STRAITBAZZARE are used in conjunction with SLICKERVICAR to upload the hard
+drive firmware onto the target machine to implant lRATEMONK and its payload (the
+implant installer). Once implanted. IRATE MONK's lrequency of execution (dropping
+the payload) is conﬁgurable and will occur when the target machine powers on.
+Status: Released 1' Deployed. Ready for Unit Cost: $0
+Immediate Delivery
+
+POC: — 532221. ---_-‘:1 
+
+ 
+
+IRATEMONK
+ANT Product Data
+
+06120.!08
+
+Occlusiﬁy 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+JUNIORMINT
+
+ANT Product Data
+
+ 
+
+(TSHSIHREL) JUNIORMINT is a digital core packaged in both a mini Printed Circuit Board 08,0908
+(PCB). to be used in typical concealments. and a miniaturized Flip Chip Module (FCM). to
+be used in implants with size constraining concealments. I
+
+ 
+
+(TSHSINREL) JUNIORMINT uses the TAD standard implant architecture. The architecture
+provides a robust. reconfigurable. standard digital platform resulting in a dramatic perlcirmance
+improvement over the obsolete HC12 microcontroller based designs. A mini Printed Circuit
+Board (PCB) using packaged parts will be developed and will be available as the standard
+platlomi tor applications requiring a digital core. The ultra-miniature Flip Chip Module (FCM)
+will be available for challenging concealments. Both will contain an ARMQ microcontroller.
+FPGA, Flash. SDRAM and DDR2 memories.
+
+I nee-miner Finn spam FPGA oonz
+
+ARM 9 32 Ma s MT48H16M32LF XCW'LXZS MT4 7H64lbl16
+400 mu m 64 MBytes 10?52 Slice 128 MBytes . . .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+RMI'I .' MII
+
+ 
+
+ 
+
+ 
+
+Status: Availability «— mini-PCB and Dev Board by April 2009
+
+ 
+
+Availability — FCM by June 2010 Unit Cost: Available Upon Request
+poo: _ $3223. _ ;. .   W "°""o"3.‘£?§"m‘$i
+ALT poc:_ 33223. _ .-_.. -  . _: . DeclinilyOn:2032010l
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+MAESTRO-II
+
+ANT Product Data
+
+ 
+
+(TSHSIHREL) MAESTRO-It is a miniaturized digital core packaged in a Mum-Chip Module
+(MGM) to be used in implants with size constraining concealments.
+
+r—E'tﬁ  I.
+ f"
+u"'1.".". 3". ' I- I
+HIIJ ' ..". L
+
+' ‘ m
+(TSHSIHREL) MAESTRD-II uses the TAD standard implant architecture. The architecture
+provides a robust. reconﬁgurable. standard digital platform resulting in a dramatic
+performance improvement over the obsolete HC12 microcontroller based designs. A 
+development Printed Circuit Board (PCB) using packaged parts has been developed and is
+available as the standard plattorm. The MAESTRO-Il Multi-Chip-Module (MGM) contains an .
+ARM? microcontroller. FPGA. Flash and SDRAM memories.
+
+0810508
+
+_._. I,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+«Controller Flash SDRAM FPGA I . . . .
+ARM 7 AT498V322A unetcmz xczvsoo
+same mam Susytes monies 
+EBI
+
+ 
+  
+
+J‘M-G
+
+  
+       
+ 
+   
+  
+ 
+
+"l
+
+UARTl
+UIRTE
+
+E
+
+Flo-s
+
+HAG
+San. Cook
+
+-(I—ﬂullﬂmu “HID
+
+Status: Available - On The Shell Unit Cost: $34K
+
+POC' — $3223  r. I I ., Derived From: usarcssu 1.5;
+. ' ' I h 3" 1'” Dal-d: M70103
+ALT Poc: - 33223.
+
+ g    Drool-unity On: 20mm
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+ 
+
+ 
+ 
+ 
+
+TOP SECRETHCOMINTHREL FVEY
+
+ 
+
+(‘I'SllSIllRELJ SOMBERKNAVE is Windows XP wireless software implant
+that provides covert internet connectivity for isolated targets.
+
+(TSllSlllREL) SOMBERKNAVE is a software implant that surreptitiously routes
+TCP trafﬁc from a designated process to a secondary network via an unused
+embedded 802.11 network device. if an Internet-connected wireless Access
+Point is present. SOMBERKNAVE can be used to allow OLYMPUS or
+VALIDATOR to “call home“ via 802.11 from an air-gapped target computer. If
+the 802.11 interface is in use by the target. SOMBERKNAVE will not attempt
+to transmit.
+
+(TSllSlllREL) Operationally. VALIDATOR initiates a call home.
+SOMBERKNAVE triggers from the named event and tries to associate with an
+access point. If connection is successful. data is sent over 802.11 to the ROC.
+VALIDATOR receives instructions. downloads OLYMPUS. then disassociates
+and gives up control oi the 802.11 hardware. OLYMPUS will then be able to
+communicate with the ROC via SOMBERKNAVE. as long as there is an
+available access point.
+
+ 
+
+ 
+
+   
+
+ROG
+WWW Random Access Point\
+$0M BERKNAVE
+Status: Available - Fall 2008 Unit Cost; $50k
+
+  
+
+POO:
+ALT POC:
+
+. S3223.
+S3223.
+
+TOP SECRETHCOMINTNREL FVEY
+
+ 
+
+SOMBERKNAVE
+
+ANT Product Data
+
+0810908
+
+Derived Fran-I: HSNCSS-ﬂ 1-52
+baled: 20070100
+'  1 n-_ .la-w DeckssilyOn:20320100
+
+TOP SECRETIICOMINTH‘REL TO USA. FVEY
+
+ 
+
+(T SIISWREL) SWAP provides software application persistence by exploiting the
+motherboard BIOS and the hard drive's Host Protected Area to gain periodic
+execution before the Operating SySIem loads.
+
+ 
+
+ 
+
+ 
+
+(TSJlstEL) SWAP Extended Concept 0! Operations
+
+(TSIISIIIREL) This technique supports single or mum-processor systems running
+Windows. Linux. FreeBSD. or Solaris with the following file systems: FAT32. NTFS.
+EXTZ. EXTS. or UPS 1.0.
+
+(T Sllstt-IL) Through remote access or interdicrion. AR KSTREAM is used to re-
+ﬂash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard
+drive on a target machine in order to implant SWAP and its payload (the implant
+installer). Once implanted. SWAP's frequency at execution (dropping the payload) is
+conﬁgurable and will occur when the target machine powers on.
+
+Status: Released 1' Deployed. Ready for Unit Cost: $0
+
+Immediate Delivery
+
+ 
+
+SWAP
+ANT Product Data
+
+06120.!08
+
+Occluslﬂ 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+TRINITY
+
+ANT Product Data
+
+ 
+
+(TSHSIHREL) TRINITY is a miniaturized digital core packaged in a Mule-Chip Module
+(MGM) to be used in implants with size constraining concealments.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T
+('I’SlIStllREL) TRINITY uses the TAO Standard implant architecture. The architecture 
+provrdes a robust. reconﬁgurable. standard digital plattorm resulting in a dramatic
+performance improvement Over the obsolete HC12 microoontroller based designs. A 
+development Printed Circuit Board (PCB) using packaged parts has been developed and is
+available as the standard platlorm. The TRINITY Multi-Chip-Module (MCM) contains an
+
+ARMS microcontroller. FPGA. Flash and SDRAM memories. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+uConuoller nun serum [3) FPGA . . . .
+ARM 9 Atasevazzn mrmcauaz xczvtooo
+meme 4MB?!” 96 MByles 1M gates  _
+TF‘iN'TY Mil-1 ﬁrchrteclue '
+
+ 
+
+ 
+
+     
+
+Status: Special Order due vendor selected. Unit cost; 100 units: $525K
+POC: 53223. _- i -_r- r m" ‘m‘mmﬁ
+ALT POC: . 53223, -_=- -  . ; . acct-airy an: 20mm
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+WISTFULTOLL
+ANT Product Data
+
+ 
+
+(T SIJSUIREL} WISTFULTOLL is a UNITEDRAKE and STRAITBIZZARE plug-in
+used for harvesting and returning forensic information lrom a target using Windows 06an
+Management Instrumentation (WMI) calls and Regisuy extractions.
+
+WISTFULTOLL
+
+rrsrrsurREL) This plug-in supports systems running Microsoft Windows 2000. . i '
+2003. and x9. _
+
+(T SliSlrrREL) Through remote access or interdiction. WISTFULLTOLL is executed
+as either a UNITEDRAKE or STRAITBAZZARE plugin or as a stand-alone
+executable. If used remotely. the extracted information is sent back to NBA through
+UNITEDRAKE or STRAITBAZZARE. Execution via interdiction may be
+accomplished by non-technical operator though use at a USB thumb drive. where
+extracted information will be saved to that thumb drive.
+
+ 
+
+Status: Released 1' Deployed. Ready for Unit Cost: $0
+Immediate Delivery
+
+Poc=—s32221.——~_t .......................
+
+Occlusiﬂ 0n: 20320100
+
+ 
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+SURLYSPAWN
+
+ANT Product Data
+
+ 
+
+(T SIISIIIREL TO USA.FVEY) Data RF retro-reflector. Provides return
+modulated with target data (keyboard. low data rate digital device) when 07 ADI“ 2°09
+illuminated with radar.
+
+(U) Capabilities
+
+(T SIISIIIREL T0 USAFVEY) SURLYSPAWN
+has the capability to gather keystrokes without
+requiring any software running on the targeted
+system. it also only requires that the targeted
+system be touched once. The retro-reflector is
+compatible with both USB and PS2 keyboards.
+The simplicity of the design allows the form
+factor to be tailored for specific operational
+requirements. Future capabilities will include
+laptop keyboards.
+
+ 
+
+(U) Concept of Operation
+
+(TSIISIIIREL TO USA.FVEY) The board taps into the data line from the .....
+keyboard to the processor. The board generates a square wave oscillating at
+
+a preset frequency. The data-line signal is used to shift the square wave .
+frequency higher or lower. depending on the level oi the data-line signal. The
+
+square wave. in essence. becomes frequency shift keyed (FSK). When the . . ..
+
+unit is illuminated by a CW signal from a nearby radar. the illuminating signal
+is amplitude-modulated (AM) with this square wave. The signai is re-radiated. .
+where it is received by the radar. demodulated. and the demodulated signal is
+processed to recover the keystrokes. SURLYSPAWN is part of the 
+ANGRYNEIGHBOR family of radar retro-reflectors.
+
+Unit Cost: 530
+
+Status: End processing still in development
+
+Poc=_s32242.--u  
+
+ 
+
+pm From: HSNCSSM 1-82
+Dated: 20070108
+Matty 0n: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISIHREL) DROPOUTJEEP is a STRAITBIZARRE based software implant tor
+the Apple iPhone operating system and uses the CHIMNEYPOOL lrarnewotk.
+DROPOUTJEEP is compliant with the FR EEFLOW project. theretore it is supported
+in the TURBULENCE architecture.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NSA Roc Encrypt and send
+operator ‘_ exﬁl data
+Load specified Remews
+module requested
+1 51(3le data
+Send data request iphonc “(tel)”
+—* request
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(urrFouo) anemones? - Operational Schematic
+
+(T SIISWREL} DROPOUTJEEP is a software implant for the Apple iPhone that
+utilizes modular mission applications to provide specific SIGINT functionality. This
+functionality includes the ability to remotely pushipull files from the device. SMS
+retrieval. contact list retrieval. voicemail. geotocation. not mic. camera capture. cell
+tower location. etc. Command. control. and data exﬁltration can occur over SMS
+messaging or a GPRS data connection. All communications with the implant will be
+covert and encrypted.
+
+(T SIISINREL) The initial release of DROPOUTJEEP will focus on installing the
+implant via close access methods. A remote installation capability will be pursued
+for a future release.
+
+DROPOUTJEEP
+
+ANT Product Data
+
+,._.
+
+1010308
+
+ 
+
+Unit Cost: 3 0
+Status: (U) In development
+POC: urrFouo _. 532222. -_.__.-   
+Derived From: HSNCSSM 1-52
+mo: MIDI”
+
+Occlusiﬂ 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL) GOPHERSET is a software implant for GSM (Global System for
+Mobile communication) subscriber identin module (SIM) cards. This implant pulls
+Phonebook. SMS. and call log information from a target handset and exfiltrates it to
+a user-deﬁned phone number via shon message service (SMS).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+ 
+
+GOPH ERS ET on
+SIM
+Fill SMS with Encrypt SMS
+Data r
+Decrypts Trigger k
+W
+l Retrieve Send SMS
+
+Requested lnlo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parse Instructions
+
+ 
+
+ 
+
+ 
+
+(unsouoi oomenser - Operational Schematic
+
+(T SﬂSIﬂREL} Modern SIM cards (Phase 2+) have an application program interface
+known as the SIM Toolkit (STK). The STK has a suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+GOPHERSET uses STK commands to retrieve the requested inlormation and to
+extiltrate data via SMS. After the GOPHERSET ﬁle is compiled. the program is
+loaded onto the SIM card using either a Universal Serial Bus (U58) smartcard
+reader or via over-the-air provisioning. In both cases. keys to the card may be
+required to install the application depending on the service provider's security
+conﬁguration.
+
+Unit Cost: $0
+Status: (UIIFOUO) Released. Has not been deployed.
+
+Poc: uriFouo— 532222,_-:_u   
+
+—.
+
+GOPHERSET
+
+ANT Product Data
+
+r—u
+
+1010308
+
+"i"
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+me: “7010.
+
+Occlusiﬂ 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISWREL) MONKEYCALEN DAR is a software implant tor GSM (Global System
+for Mobile communication) subscriber identity module {SIM} cards. This implant
+pulls geolocation information Irom a target handset and exﬁltrates it to a user-
+deﬁned phone number via short message service (SMS).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+YOP ammonium ﬂ
+Handset will! MONKEYCALENDAR MONKEYCALENDAR
+Implanted SIM issues Get Location lnIo enerypts location Into
+card starts up command to handset data
+MONKEYCALE “DAR Handset MONKE YCALE NDAR
+as m m {0, WM“? commands hand5et to
+Wt location In“: send gnawed dam
+‘ via SMS
+MOHKEYCALENDAR ‘
+'“ﬁwg ml :21 ""0 Handset sends out
+encrypted SMS
+Handset idle
+W
+
+ 
+
+ 
+
+mm; MONKEYCALENDAR — Operational Schematic
+
+(TSJISUIREL) Modern SIM cards (Phase 2+) have an application program interface
+known as the SIM Toolkit (STK). The STK has a Suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+MONKEYCALENDAR uses STK commands to retrieve location inlormation and to
+extittrate data via SMS. After the MONKEYCALENDAR file is compiled. the
+program is loaded onto the SIM card using either a Universal Serial Bus (USB)
+smartcard reader or via over-the-air provisioning. In both cases. keys to the card
+may be required to inStall the application depending on the service provider’s
+security conﬁguration
+
+Unit Cost: $0
+Status: Released. not deployed.
+
+Poc: urrFouo- 532222,-- 3   
+
+MONKEYCALEN DAR
+
+ANT Product Data
+
+—..—.
+
+1010308
+
+0
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+Dated: “7010.
+
+mu” 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(SllSI) Target Data via SMS:
+
+' Incoming call numbers
+
+- Outgoing call numbers
+
+0 Recently registered networks
+
+- Recent Location Area Codes (LAC)
+-Cell power and Timing Advance
+information (GEO)
+
+vRecently Assigned TMSI. IMSI
+oRecent network authentication
+challenge reSponses
+
+- Recent successful Ple entered into
+the phone during the power»on cycle
+°$W version ol PICASSO implant
+
+-' Hot-mic' to collect Room Audio
+
+- Panic Button sequence (sends location
+inlorrnation to an LP Operator)
+
+- Send Targeting Information (Le.
+current IMSI and phone number when it
+is turned on - in case the SIM has just
+been switched).
+
+-Block call to deny target service.
+
+(SllSIlIREL) Handset
+Options
+-Eastcom 760c+
+~Samsung E600. x450
+-Samsung C140
+«with Arabic keypadhnguage option)
+
+P0C=_ $32242.--~_~  A  -
+
+ 
+
+PICASSO
+
+GSM HAN DSET
+
+(SHSIHREL) Modiﬁed GSM (target) handset that collects user data. location
+information and room audio. Command and data exiil is done from a laptop and
+regular phone via SMS — (Short Messaging Senrice). without atoning the target.
+
+ 
+
+ 
+
+ 
+
+ 
+
+(SilSl) PICASSO Operational Concept
+
+(SIISIHREL) Uses include asset
+validation and tracking and target
+templating. Phone can be hot
+mic'd and has a “Panic Button"
+key sequence for the witting user.
+
+Status: 2 weeks ARO (10 or less)
+
+Unit Cost: approx 52000
+
+M
+
+ 
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+OBIZOIOB
+
+Derived Front: HSNCSSH 1-52
+
+Dated: 20010108
+
+Mail} On: 20320100
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+TOTECHASER
+
+ANT Product Data
+
+(T SIlSIrIREL) TOTECHASER is a Windows CE implant targeting the Thuraya 2520
+handset. The Thuraya 2520 is a dual mode phone that can operate either in SAT or ‘—
+GSM modes. The phone also supports a GPRS data connection for Web browsing, 10,0308
+e-mail. and MMS messages. The initial software implant capabilities include
+prggjdjgggPSjnd GSM gen-logation information. Call logycpntact list, and other I
+user information can also be retrieved from the phone. Additional capabilities are I
+
+being investigated.
+\ m t
+I
+
+roe scour-st 20mm 1» _
+
+ 
+
+ 
+
+ 
+    
+
+05" m sstr Nmnrk
+
+ 
+
+Maya-(inst!
+m“ ans.cmmnu.l.utm.t.mu 
+can -M¢C.I~K‘:,I.Ac, lunqu
+J www.mm
+CIILoa- but. in. and
+ET] camera-mumm- 
+
+ 
+
+ 
+
+ 
+
+cm'm roe stem-er nan n
+
+{unsouoi TOTECHASER - Operational Schemuc . . . .
+(T SJISIHREL) TOTECHASER will use SMS messaging tor the command. control. .
+and data exfiltration path. The initial capability will use covert SMS messages to . . .. _
+
+communicate with the handset. These covert messages can be transmitted in
+
+either Thuraya Satellite mode or GSM mode and will not alert the user of this ... ‘
+activity. An alternate command and control channel using the GPRS data
+connection based on the TOTEGHOSTLY implant is intended for a future version. .. 1 '
+
+(TSJISINREL) Prior to deployment. the TOTECHASER handsets must be modified.
+Details at how the phone is modified are being developed. A remotely deployable
+TOTECHASER implant is being investigated. The TOTECHASER system consists
+of the modified target handsets and a collection system.
+
+(T SIISIHREL) TOTECHASER will accept configuration parameters to determine
+how the implant operates. Configuration parameters will determine what infon'nation
+is recorded. when to collect that information. and when the information is exfiltrated.
+The conﬁguration parameters can be set upon initial deployment and updated
+
+ 
+
+remotely.
+Unit Cost: 5
+Status:
+Derived From: HSNCSSM 1-5.2
+POC: um=ouo_ 332222. _-J  .. .3  '33:; 3333
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SllSlﬂREL) TOTEGHOSTLY 2.0 is a STRAITBIZARRE based implant for the
+Windows Mobile embedded operating system and uses the CHIMNEYPOOL
+framework. TOTEGHOSTLY 2.0 is compliant with the FREEFLOW project.
+therefore it is supported in the TURBU LENCE architecture.
+
+ 
+
+I“ “(I IML
+
+Analyst
+
+:1
+
+l
+
+—--
+
+Target Device
+
+ 
+
+—'I-
+N
+X
+
+\
+l
+/
+xxt’
+’-
+l
+\
+
+‘5
+“-
+
+  
+
+ROG Low Side
+
+In...“
+
+"a.
+\
+
+.—
+or".
+
+i
+
+\
+
+K
+H.
+
+i-l.____‘_,’ \l
+I
+
+I
+
+’1
+
+ROC High Side
+
+ 
+
+ 
+
+mmrm
+
+ 
+
+ 
+
+{UllFOUO} TOTEGHOSTLY - Data Flow Schematic
+
+(T SIISIHREL) TOTEGHOSTLY 2.0 is a software implant for the Windows Mobile
+operating system that utilizes modular mission applications to provide specific
+SIGINT lunctionality. This functionality includes the ability to remotely pushlpull ﬁles
+from the device. SMS retrieval. contact list retrieval. voicemail. geolocation. hot mic.
+camera capture. cell tower location. etc. Command. control. and data exfiltration
+can occur over SMS messaging or a GPRS data connection. A FRIEZERAMP
+interface using HTTPSlinkZ transport module handles encrypted communications.
+
+(TSIISUIREL) The initial release of TOTEGHOSTLY 2.0 will locus on installing the
+implant via close access methods. A remote installation capability will be pursued
+for a future release.
+
+(T SIISIHREL) TOTEGHOSTLY 2.0 will be controlled using an interface tasked
+through the NCC {Network Control Center) utilizing the XML based tasking and data
+forward scheme under the TURBULENCE architecture following the TAD GENIE
+Initiative.
+
+Unit Cost: so
+Status: (U) In development
+
+POC: urrFouo_ 532222.--;-  
+
+_.
+
+TOTEGHOSTLY 2.0
+
+ANT Product Data
+
+,._.
+
+1010308
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+Dated: “7010.
+
+continuity 0n: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+SECRETHCOMINTIIREL TO USA. FVEY
+
+CANDYGRAM
+
+GSM Telephone Tripwire
+
+ 
+
+(SHSWR EL) Mimics GSM cell tower of a target netw0rk. Capable of operations at
+900. 1800. or 1900 MHz. Whenever a target handset enters the CANDYGRAM
+
+base station's area 01 inﬂuence. the system sends out an SMS through the external 06l20l08
+neMOrk to registered watch phones.
+
+I UL£;::“"E=s_.sE§
+
+   
+
+      
+
+ 
+
+u a '33,»! Eel. In“:
+
+IIIIIIII
+
+y. mam-ca. hum m
+
+[SllSIllRELJ CANDYGRAM Operational Concept . . . .
+(SIISIIIREL) Typical use scenarios are asset validation. target tracking and .....
+identification as well as identifying hostile surveillance units with GSM handsets.
+Functionality is predicated on aprion‘ target information. 
+
+(SHSINREL) System HW (srrsrrrREL) sw Features . _
+' GPS [HOCan unit - Configurable 200 phone number . '
+« Til-band ers radio ‘a'ge‘ ﬂed“ .
+' Network auto-configuration
+- Windows XP laptop and cell phone“ - Area Survey Capability .. '
+. .. - .. .. o Remote Operation Capability
+9 me x 12 long x 2 deep - Configurable Network emulation
+
+- External power (9-30 VDC). - Configurable RF power level
+
+- MutIi-Units under single cat:
+- Remote restart
+- Remote erasure (not field
+
+‘Remore control software can be used
+with any connected to the laptop (used
+tor communicating with the
+
+ 
+
+CANDYGRAM unit through text 'mverab'e)
+messages (SMS)- Status: Available 8 mos ARO
+Unit Cost: approx $40K
+om From: usucssu 1-52
+mo: zeorom
+
+acclaim On: mom
+SECRETNCOMINTHREL T0 USA. FVEY
+
+TOP SECRETHCOMINTHREL FVEY
+
+CROSSBEAM
+
+ANT Product Data
+
+ 
+
+(T SHSWREL) CROSSBEAM is a GSM module that mates 8 modiﬁed commercial T—oaroyoa
+cellular product with a WAGONBED controller board.
+
+ 
+
+('I'Sl‘lSIﬂREL) CROSSBEAM is a reusable CHIMNEYPOOL-compliant GSM
+communications module capable ot collecring and compressing voice data.
+CROSSBEAM can receive GSM voice. record voice data. and transmit the received 
+information via connected modules or 4 dilterent GSM data modes (GPRS. Circuit
+Switched Data. Data Over Voice. and DTMF) back to a secure facility. The
+
+CROSSBEAM module consists of a standard ANT architecture embedded computer. 
+a specialized phone component. a customized software controller suite and an
+optional DSP (ROCKYKNOBJ if using Data Over Voice to transmit data. .....
+
+CROSSBEAM Voice Handling . . ..
+
+r
+
+Vote vote .
+{Mi-{35AM 
+immim
+
+CROSSBEAM Data Handling 
+
+‘y \
+DTPI.DOV VINW
+
+- 3;:
+cmsem  /
+ow -
+cso
+
+ 
+
+ 
+
+mam
+[WEAR
+
+Status: Limited Supply Available Unit Cost: 34k
+
+Delivery: 90 days for most conﬁgurations
+
+POC: S3223.  . -: I. DI:er smmzusmssn 1-52
+' Oiled: 2060010.
+
+ALT Poo: $3223. - --_- --  = e «- mm... On: 20320100
+
+TOP SECRETHCOMINTNREL FVEY
+
+SECRETIICOMINTNREL T0 USA. FVEY
+
+CYCLONE Hx9
+
+Base Station Router
+
+ 
+
+(SllSlllFVEY) EGSM (BOOMGz) macro-class Network-In-a-Box (NIB) system. Uses
+the existing Typhon GUI and supports the full Typhon feature base and applications.
+
+lSJlSIllREL) Operational Restrictions Jr (SIlSIllREL) Enclosure:
+exrst for eqmpment deployment. , 35-” x 35W x 9.0
+
+' Approximately 8 lbs
+
+' Actively cooled for extreme
+envirorrments
+
+Jr (SllSlli'REL) Cyclone Hx9 System Kit:
+' Cyclone HxQ Sysrem
+
+'- ACIDC power converter ...
+- Antenna to supper! MS. GPS. WlFl. &
+
+'r tsrrsure EL) Features: RF . . . .
+
+- EGSM 900MHz ° LAN. RF. 6: USB cables
+
+ 
+
+Macro—class [+43dBm) 0 Pelican Case .... .
+- 32+Km Range ' (Field Kit only) Control Laptop and . . ..
+- Optional Battery Kits Accessones
+' “‘9”? M09“?! and DeP'OVab'e ‘r-(srrsrrresu Separately Priced Options: .
+0 Integrated GPS. MS. 8: 302.11 0 300 WH Lilo" Bauer). K"
+' VOW? & High-speed Data 'r (SllSlllREL) Base Station Router Platform: .
+' 53“ 53cm"? ‘3 Encwpllon ' Overtay GSM cellular communications . .
+supporting up to 32 Cyclone now
+>- (SllSlllREL) Advanced Features: systems providing full mobility and
+
+GPS 5 . T h utilizing a VoIP back-haul.
+° — uppOtting yp on _
+applications ° GPRS data semce and assocmted
+
+application
+° GSM Handset Module - Supports
+
+auto-configuration and remote
+command and control features.
+
+° 802.11 — Supports high speed
+wireless LAN remote command and
+
+ 
+
+control
+Unit Cost: SYOK for two months
+Status: Joel out of development. first production runs ongoing. 0mm. m..." “we”... 1.5,
+Dated: 213070100
+POO: _ 532242. _.  - __; DedussifyOn: 20320100
+
+SECRETHCOMINTNREL TO USA. FVEY
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+  
+
+EBSR
+
+(SIISWR EL) Mufti-purpose. Pico class, tri-band active GSM base station with
+
+internal 802.1116P5Ihardset capability.
+
+(SifSlll'REL) Operational Restrictions
+exist for «uipmcnt deployment.
+
+ 
+
+3' (SiISlllREL) Features:
+' LxT Model: WIBOOIIQOOMHZ
+0 LxU Model: BSOIIBOOIISOOMHZ
+- Pico-class (1Watt) Base station
+0 Optional Battery Kits
+' Highly Mobile and Deployable
+- Integrated GPS. MS. & 802.11
+' Voice & High-speed Data
+' SMS Capability
+
+Ir (SllSlIlREL) Enclosure:
+0 1.9”H x 8.6'W x 6.31:)
+0 Approximately 3 lbs
+
+- Activer cooled for extreme
+environments
+
+Status:
+
+Jr (SilSliiREL) EBSR System Kit:
+' EBSR System
+0 ACJDC power converter
+
+° Antennas to support MS.
+GPS. WIFI. 8; RF
+
+' LAN. RF. & USB cables
+0 Pelican Case
+
+0 (Field Kit only) Control Laptop
+and Accessories
+
+HSMSWREL) Separately Priced Options:
+
+0 90 WH Liion Battery Kit
+
+3- (SMSIHREL) Base Station Router
+Platform:
+
+' Multiple BSR units can be
+interconnected to form a macro
+network using 802.3 and 802.11
+back-haul.
+
+' Supports LandsharldCandygram
+capabilities.
+
+Unit Cost: $40K
+
+POC: _. 532242. —.  2;. 1n
+
+ 
+
+Low Power GSM Active Interrogator
+
+OHZ‘NOQ
+
+000
+I...
+00000
+0000
+0000;
+0003
+Oil”
+
+Derived Front: HSNCSSM 1-52
+
+Dated: “7010.
+
+Bestiality 0n: 20320100
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+SECRETHCOMINTNREL TO USA. FVEY
+
+ENTOURAGE
+
+(SI/SIIIREL) Direction Findin on
+HollowPointPla orm
+
+  
+
+(SHSWREL) Direction Finding application operating on the HOLLOWPOINT ——
+platform. The system is capable of providing line of bearing for GSMIUMTSI
+CDMAzoooiiFRS signals. A band~speciﬁc antenna and laptop controller is needed to 0112"”
+compliment the HOLLOWPOINT system and completes the ground based system.
+
+ 
+
+(SllSlllREL) HOLLOWPOINT SDR Platform and Antenna . . .
+
+(SHSI) The ENTOURAGE application leverages the 4 Software Defined Radio
+(5092) units in the HOLLOWPOINT platform. This capability provides an "Artemis- ....
+like" capability for waveforms of interest (26.36.0thers). The ENTOURAGE
+application works in coniu nction with the NEBULA active interrogator as part of the
+
+FindfFixIFinish capabilities of the GALAXY program. .....
+
+'p (SflStllREL) Features: 'r (SlfsufREL) Enclosure: . . ..
+° Software Defined Radio System O 1.3‘H it saw it 8.0"0
+° Operating range IOMHz — 46H: 0 Approximately 3 lbs .
+° 4 Receive paths. all synchronized ' 15 Watts .
+' 1 Transmit path - Passively cooled
+. DF capability on )- (SHSINREL) Future Developments: 
+GSMIUMTSJCDMAZOOOI FRS . MMAX
+signals -
+' WIFi
+
+° Gigabit Ethernet
+0 Integrated GPS
+
+' tTE
+
+° Higth Mobile and Deployable
+
+Status: The system is in the final testing stage and Unit Cost: $70K
+will be in production Spring 09.
+
+POC:_.S32242.---L  ' w -- DerivedFrom:N3NCSSM1-$2
+
+Md: 2607010!
+casualty 0n: 20320100
+
+ 
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+  
+
+GENESIS
+
+Covert SIGINT Transceiver
+
+(SHSWR EL) Commercial GSM handset that has been modiﬁed to include a ——
+Software Defined Radio (SDR) and additional system memory. The internal SDR
+
+allows a witting user to covertly perfOrm network surveys. rec0rd RF spectrum. or 01’2" 09
+
+perform handset location in hostile environments. I
+
+ 
+
+(SHSIHREL) GENESIS Handset ...
+
+(SHSWREL) The GENESIS systems are designed to support covert operations in
+
+hostile environments. A wining user would be able to survey the local environment ....
+with the spectrum analyzer tool. select spectrum of interest to record. and download
+
+the spectrum information via the integrated Ethernet to a laptop controller. The .....
+GENESIS system could also be used. in conjuncrion with an active interrogator. as the
+ﬁnishing tool when performing FindfFixIFinish operations in unconventional ....
+environments.
+
+"r (SllSlllREL) Features: ‘r (srrsumEL) Future Enhancements: . . ..
+- Concealed SDR with Handset - 36 Handset Host Platform '
+men" menace - Additional H05t Platforms ...
+. Specuum Analyzer capability - Increased Memory Capacity ..
+' F'WFMFWS" capabimy - Additional FindIFixlFinish
+- Integrated Ethernet Capabilities
+° External Antenna Port ' Active Interrogation Capabilities
+0 internal 16 GB of storage
+0 Multiple Integrated Antennas
+
+Status: Current GENESIS platform available. Unit Cost: $15K
+Future platforms available when developments are
+completed.
+
+POO:  S32242._   I-  . Whom usncssu 1-52
+
+Md: 2001010!
+“classify 0n: 20320100
+
+ 
+
+SECRETHCOMINTHREL TO USA. FVEY
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+  
+
+(SHSWFVEY) Mum-Protocol macro-class NeMork-In-a-Box (NIB) system.
+Leverages the exiSting Typhon GUI and supports GSM. UMTS. CDMA2000
+applications. LTE capability currently under deveIOprnent.
+
+_ 3" Sinciosure:
+
+(SHSINREL) Operational
+Restrictions exist for equipment ° 8.5'H x 13.0wr x 16.513
+deployment. v Approximately 45 lbs
+
+' Actively cooled for extreme
+environments
+
+3r (SNSIHREL) NEBULA System Kit:
+'- NEBULA System
+' 3 Interchangeable RF bands
+° ACIDC power converter
+
+ 
+
+it (srrsmneu Features:
+0 Dual Carrier System
+° EGSM 900MHz
+‘ UMTS 2100MH2
+° CDMA2000 1900MH2
+' Macro—class Base station
+
+0 Antenna to support MS. GPS.
+WIFI. & RF
+
+' LAN. RF. 6t USB cables
+' Pelican Case
+
+0 (Field Kit only) Control Laptop
+and Accessories
+
+>(SiiSliiREL) Separately Priced Options:
+' 1500 WH Liion Battery Kit
+
+° Optional Battery Kits
+
+0 Highly Mobile and Depioyabie
+
+' integrated GPS. MS. & 802.11
+
+0 Voice & High-speed Data
+~y(5‘i.i'!5liiREL) Advanced Features:
+
+' GPS - Supporting NEBULA
+applications
+
+0 Multiple 85R units can be
+interconnected to form a macro network
+using 802.3 and 802.11 back-haul.
+
+- Future GPRS and HSDPA data
+service and associated applications
+0 Designed to be sell-configuring
+
+with security and enoryption leatures
+
+° 802.11 - Supports high speed
+wireless LAN remote command and
+
+Jr (SHSIHREU Base Station Router Platform:
+
+NEBULA
+
+Base Station Router
+
+,—
+
+OHZWOQ
+
+_|.
+
+ 
+
+control
+Status: Unit Cost: $250K
+Derived Fr * USA1638” 1-82
+P0C=-. 332242.--=;  I   “mammals
+
+Declassity 0n: 20020100
+
+SECRETHCOMINTHREL TO USA. FVEY
+
+SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(SllSWFVEY) Base Station Router - Nehvork-tn-a-Box (NIB) supporting GSM
+bands BSOIQOOIIEIOOIIQOO and associated lull GSM signaling and call control.
+
+---------------------1
+
+  
+
+'----‘_-q
+------
+
+""""n7pmn"'a§""""
+
+“I‘ll Ham,“ .1": "'.-'.
+3
+
+I.
+I.
+.I
+I"
+
+ 
+
+(StlSIHFVEY) Tactical SlGINT elements phantaum- tam...-
+use this equipment to find. for and ﬁnish
+
+targeted handset users.
+
+ 
+
+(SllSI) Target GSM handset registers with
+BSR unit.
+
+(SHSI) Operators are able to geolocate
+registered handsets. capturing the user.
+
+.' ’--
+
+ 
+
+r..—
+
+llﬂlﬂﬂlllllﬂﬂ
+Ilhlul‘ﬂ
+
+ 
+
+(SIISIIJRELJ The macro-class Typhon is a Network-Ima-
+Box (NIB). which inciudes all the necassary architecture to
+support Mobile Station call processing and SMS
+messaging in a standabne chassis with a pre-
+provisioning capability.
+
+(SIISIHRELJ The Typhon system kit includes the amptiﬁed
+Typhon system. OMMP Laptop. cables. antennas and
+ACIDC power supply.
+
+(Ull‘FOUO) An 800 Ml won Battery kit is altered
+separately.
+
+(U) Abracitet and munhg it: are available won
+
+:3
+
+(“Will-I (rim-3:10
+l?
+1:? h
+0:”12‘
+GIN“! I GIN-Ill!
+Oiﬂll‘: I 61m!“
+
+atoms) 1
+
+ill“
+
+ 
+
+(U) Status: Available 4 mos ARC
+
+ 
+
+TYPHON HX
+
+GSM Base Station Router
+
+ F
+"5
+
+- l
+
+U ..
+
+' as" (SHSIHREL) Operational Restrictions
+exist tor equipment deployment
+Poc: _ 332242.- -;  .. 
+om From: usucssu m
+W:M701ﬂ0
+Mull! 0n: mom
+
+SECRETIICOMINTHREL TO USA. FVEY
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+WATERWITCH
+Handheld Finishing Tool
+
+ 
+
+(SI/SI) Hand held ﬁnishing tool used for geolocating targeted handsets 07:30l08
+in the field.
+
+(SIISI) Features:
+
+0 Split displaylcontroller for
+flexible deployment
+capability
+
+0 External antenna for DFing
+target; internal antenna for
+communication with active 
+interrogator
+
+.Multiple technology ' 
+capabimy based on 399 (5050 WATERWITCH Handset or: Set 
+Platform; currently UMTS, with GSM and CDMAZOOO under
+
+development 
+
+ 
+
+0 Approximate size 3" x 7.5" x 1.25" (radio). 2.5" x 5" x 0.75"  . .
+
+(display): radio shrink in planning stages
+
+0 Display uses E-lnk technology for low light emissions 
+(SI/SI) Tactical Operators use WATERWITCH to locate 
+
+handsets (last mile) where handset is connected to Typhon or
+
+similar equipment interrogator. WATERWITCH emits tone and
+gives signal strength of target handset. Directional antenna on
+
+unit allows operator to locate specific handset.
+
+Status: Under Development. Available FY2008 Unit Cost:
+LRIP Production due August 2008
+
+Poc=_. s32242. .-  .
+
+ 
+
+om From: HSNCSSM 1-82
+Dated: 20070108
+casualty 0n: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(TSHSIHREL) COTTONMOUTH-t (CM-l) is a Universal Serial Bus (USB) hardware implant
+which will provide a wireless bridge into a target network as weil as the abiiity to load exploit
+software onto target PCs.
+
+Within—J
+
+‘IT
+
+ 
+
+U‘SJISIJIREL} CM-I will provide air-gap bridging. soitware persistence capability. 'in-field" re-
+programmability. and covert communications with a host sotMare implant over the U88. The
+RF link will enable command and data intimation and exiiltration. CM-I will also communicate
+with Data NeMork Technologies (ONT) software (STRAITBIZARRE) through a covert
+channel implemented on the USB. using this communication channel to pass commands and
+data between hardware and software impiants. CM-I will be a GENE-compliant implant
+based on CHIMNEYPOOL.
+
+('I’SMSIJIREL} CM-I conceals digital components (TRINITY). USB 1.1 FS hub. witches. and
+HOWLERMONKEY (HM) RF Transceiver within the USB Series-A cable connector.
+MOCCASIN is the version permanently connected to a USB keyboard. Another version can
+be made with an unrnodilied USB connector at the other end. CM-t has the ability to
+communicate to other CM devices over the RF link using an over-the-air protocol caled
+
+SPECULATION. cor-immune
+mm
+
+with
+
+   
+
+ 
+
+Status: Availability — January 2009
+
+POO: _. 53223. _
+ALT P00: _. 33223. _
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+Unit Cost: 50 units: 31.01532
+
+   
+ 
+
+{tinsel :Ltiuv
+31:15.3 IC gov
+
+ 
+
+COTTONMOUTH-l
+ANT Product Data
+
+Irl
+
+i'f’
+0" 43'
+’1
+
+J
+
+1' .
+
+Derived Plum: MEMOS“ 1-52
+M 300701“
+
+W On: 2032010.
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+COTTONMOUTH-II
+
+ANT Product Data
+
+ 
+
+(TSHSIHREL) COTTONMOUTH-Il (CM-ll) is a Universal Serial Bus (USE) hardware Host ~—
+Tap. which will provide a covert link over USB link into a targets network. Chi-It is intended
+to be operate with a long haul relay subsystem. which is co-located within the target 03,0903
+equipment. Further integration is needed to turn this capability into a deployable system.
+
+ 
+
+ 
+
+(TSllSIi'lREL) CM-Il will provide soltware persistence capability. "in-ﬁeld“ re-programmability.
+and covert communications with a host soﬂware implant over the U58. GM" will also
+communicate with Data Newark Technologies (DNT) software (STRAITBIZARRE) through a
+covert channel implemented on the USB. using this communication channel to pass
+commands and data between hardware and software implants. CM-Il will be a GENIE-
+compliant implant based on CHIMNEYPOOL. ...
+(TSllSlilREL) CM-II consists or the CM-I digital hardware and the long haul relay concealed
+somewhere within the target chassis. A USB 2.0 HS hub with switches is concealed in a
+
+dual stacked USB connector. and the two pans are hard-wired. providing a intro-chassis link. ....
+The long haul relay provides the wireless bridge into the target's network.
+
+comtIWUVH-IthI-lh canoe 
+all? Covert mart: scat-to
+My Side Lani-ea 
+
+ 
+
+uwﬁwlm
+“an H.“
+uni-um
+
+ 
+
+ 
+
+ 
+
+Foe: _. 53223. "t :‘.---'-._.“1 It“ .;;i‘.-'-.- Derived From: usarcssu 1-52
+ALT POC:_ S3223.- - -'==:-s  iii" mmﬁ‘gérﬁg
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(TSHSIHREL) COTTONMOUTH-l (can) is a Universal Serial Bus (use) hardware implant,
+which will provide a wireless bridge into a target network as well as the ability to load exploit
+software onto target PCs.
+
+ 
+
+(TSllSlthELt CM-Itl will provide air-gap bridging. software perSistence capability. ‘in-lield"
+re-programmability. and covert communications with a host software implant over the USE.
+The RF link will enable command and data infiltration and exﬁltration. CM-lll will also
+communicate with Data Network Technologies (ONT) software (STRNTBIZARRE) through a
+covert channel implemented on the USB. using this communication channel to pass
+commands and data between hardware and software implants. CM-III will be a GENIE-
+comptiant implant based on CHIMNEYPOOL.
+
+(TsnSlthEL) CM-lll conceals digital components (TRtNtTYJ. a U58 2.0 HS hub. switches.
+and HOWLERMONKEY (HM) RF Transceiver within :3 R345 Dual Stacked USB oonnecror.
+CM‘I has the ability to communicate to other CM devices over the RF link using an over-the-
+air protocol called SPECULATION. CM-III can provide a short range inter-chassis link to
+other CM devices or an intrachassis RF link to along haul relay subsystem.
+
+   
+
+Status: Availability — May 2009
+
+POO: _ S3223. L‘Iti'. 
+ALT POC:_ 53223.  r; gov
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+Unit Cost: 50 units: $1.248K
+
+t_It' _l 'v‘
+
+ 
+
+COTTONMOUTH-III
+
+ANT Product Data
+
+OBIOSi‘OB
+
+i
+
+Derhred From: NSNCSSM 1-52
+0‘16: 2007010.
+Del:th OI'I: 2032010!
+
+TOP SECRETHCOMINTHREL FVEY
+
+FIREWALK
+
+ANT Product Data
+
+ 
+
+(T SllSlllREL) FIREWALK is a bidirectional network implant. capable of passively collecting
+
+ 
+
+ 
+
+ 
+
+Gigabit Ethernet nethOrk traffic. and activer injecting Ethernet packets onto the same 08,0908
+target network. I
+(TSHSWREU FIREWALK IS a bidirectional 10310011000bT (Gigabit) Ethernet network
+
+implant residing within a dual stacked H.145! USB connector. FIREWALK is capable of ...
+
+littering and egressing network tratfic over a custom RF link and injecting tratfuc as
+commanded: this allows a ethemet tunnel (VPN) to be created between target network and ....
+the ROC (or an intermediate redirector node such as DNT‘s DANDERSPRITZ tool.)
+FIREWALK allows active exploitation ol a target network with a ﬁrewall or air gap protection.
+
+(YStlSUlREL) FIREWALK uses the HOWLERMONKEY transceiver tor back-end .... .
+communications. It can communicate with an LP or other compatible HOWLERMONKEY
+based ANT products to increase RF range through multiple hops. . . ..
+
+I I I 'I'ar'utl .‘ipacc  I
+Lib-bl '.
+
+ 
+
+  
+
+Log-MI:
+-oa.wroenaom.MII-auacm
+-m.mumum
+Jul-Lon. Mutant-w
+
+ 
+
+ 
+
+ 
+
+ 
+
+Status: Prototype Available - August 2008 Unit Cost; 50 Units $537K
+POC: .53223._. gr...   mummiﬁﬁﬁﬁii
+ALT POC: 83223,_   a  acct-airy On: 20mm
+
+TOP SECRETHCOMINTNREL FVEY
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SJfSIﬂREL TO USAFVEY) RF retro-reflector that provides an enhanced radar
+cross~section for VAGRANT collection. It's concealed in a standard computer video
+graphics array (VGA) cable between the video card and video monitor. It's typically
+installed in the ferrite on the video cable.
+
+(U) Capabilities
+
+(T SIISINREL TO USA.FVEY) RAGEMASTER provides a target for RF flooding
+and allows for easier collection of the VAGRANT video signal. The current
+RAGEMASTER unit taps the red video line on the VGA cable. It was found that,
+empirically. this provides the best video return and cleanest readout of the
+monitor contents.
+
+—«—r UV m -r
+‘I aauo
+J 2‘ 28 4 5 12 1°
+
+       
+
+(U) Concept of Operation
+
+(T SIISIHREL T0 USA.FVEY) The RAGEMASTER taps the red video line
+between the video card within the desktop unit and the computer monitor.
+typically an LCD. When the RAGEMASTER is illuminated by a radar unit. the
+illuminating signal is modulated with the red video information. This information
+is re-radiated. where it is picked up at the radar. demodulated. and passed
+onto the processing unit. such as a LFS-Z and an external monitor.
+NIGHTWATCH. GOTHAM. or (in the future) VIEWPLATE. The processor
+recreates the hOrizontal and vertical sync of the targeted monitor. thus allowing
+TAO personnel to see what is displayed on the targeted monitorr
+
+Unit Cost: 3 30
+
+Status: Operational. Manufactured on an as-needed basis. Contact POC for
+availability information.
+
+POC: — 532243. _. -_. - t
+
+—
+
+RAG EMASTER
+
+ANT Product Data
+
+.—
+
+24 Jul 2008
+
+ 
+
+0m From: NSNCSSM 1-52
+
+Dated: 20010108
+
+Dedusify On: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+

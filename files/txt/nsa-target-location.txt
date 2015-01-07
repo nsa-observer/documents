@@ -1,0 +1,108 @@
+28.
+
+30.
+
+31.
+
+{SIISUIREL TO USA.
+FVEY} Ant 1 familiar
+with reverse targeting
+procedures in order to
+prevent reverse targeting?
+
+' . {SHREL TO USA.
+
+FVEY} Highlights of
+Targeting and
+Minimization Procedures
+
+(SHSIHREL TO USA.
+FVEY} Do I have a
+reasonable belief that the
+target is outside the
+United States?I
+
+{Uf/FOUO) Analyst has
+an obligation to
+continually verify the
+location ofthe target —
+verify and re-verify
+
+TOP SECRET/lSU/NOFORN
+
+Q
+
+particular type of targeting and be familiar with them. Those are
+the rules of the road that the court and the AG and the DN1 and our
+office and SIGINT Director and everybody else expect you to
+understand. What else do you need to do?
+
+(Sf/Sli/REL T0 USA, FVEY) Know Reverse Targeting
+Issues
+
+(Sf/SI/IREL TO USA, FVEY) The last thing is you have got to be
+familiar with is the reverse targeting procedures. Congress is very
+concerned that if they made it easier for the Intelligence
+COmmunity to target people reasonably believed to be outside of
+the United States, we’d turn right around and use that as a means of
+targeting people who are inside the United States but communicate
+with them. So be familiar with the procedures that govern that and
+prevent that from happening.
+
+(SHREL T0 USA, FVEY) Highlights of Targeting and
+Minimization Procedures
+
+(SHREL TO USA, FVEY) Now, the good news for you all is that
+I’m not going to sit down in front of you all and read a set of
+minimization procedures to you. You should read thetn and be
+familiar with them; I instead am going to go through the highlights
+that you need to be familiar with, which I ’ve already said.
+Highlights of the targeting procedures as well as the minimization
+procedures. . .
+
+(SIISWREL TO USA, FVEY) Verify and re-verify your
+Target’s Status and Location
+
+(TSHSIHREL TO USA, FVEY'} The first thing: targeting. You have
+to verify your target’s status as a non-US person and their location.
+At all times, you have to do it initially. Do you have a reasonable
+belief that your target is a non-US person outside the United States?
+And you have to do it always. Some things can change. People
+move around. They move into and out of the United States. The
+reason we have this continuing obligation - this is why we have
+post- targeting analysis done by a lot of NSA people who look at
+things like HLR and VLR registrations of phones. If, all of the
+sudden, a phone that you‘re targeting registers in a cell inside the
+United States, you no longer have a reasonable belief your target is
+outside of the United States. So there are a lot of things like that
+done — [P [Internet Protocol] look-ups done for collection of email
+addresses... that sort of thing. These tools are all there to help you
+— these organizations are there to help you - but in the end, the
+responsibility remains with the analyst. Things get through filters;
+
+TOP SECRET/ISI/INOFORN "
+
+How the NSA verifies a target's location
+1 Page - Contributed by Matt DeLong, Washington Post - Dec 05, 2013
+
+This is an excerpt from a transcript of National Security Agency training videos that describe how to verify the location of a targeted
+device. It explains how the NSA monitors different types of mobile signaling information known as HLR and VLR registrations in
+order to locate individuals. It also makes clear that the agency is able to use location tracking to ascertain whether a target is in the
+United States.
+
+Umilying u target's lam-lion {p I:
+
+mm L' .Lrnutid Thu men; into and nut L11'1ltrl'm1utl {mums E'hu
+mumn m: hm : Ilm wnnmun: uhltpniltrtl - this n 1'- |1_'l- In- I: [1.11. L‘
+pllﬁl- 1i|1 gEIIIIL.‘ ulltlljrlilh' d-I1IL'11jril ||.1[|;Pll\5." people “'III'I I-mL. ill
+t'tlngf- like lll H and "I. I ll'. lepﬂiﬁlu‘uﬂ ul'l-Iu‘um.c It". all ur't'lw
+«'eluldcn. .1 ph-‘uw Ilmt fruu'n' hug-until: tcuiwlum In .1 1.21:” “HM-.- '.|'n.'
+l'rtIIL-d Hrnttu. yu'nu th'l Itlnsm hme :1 Inc-ﬂaminth itcllulltntli lJrgul i-
+u-thmlu ol'llm | 'rliled Mal-£5 Eu:- llicae are u l-tt ol'tlunyu Illc Ill-:ll
+(It-tn: - llJ Ilnlernql Tlsulcx'ul] hunk-tilt», dune t'nl I.'\_'|“l."l.'ll.1_'.lr'l1:ll1 email
+.‘ujdmssca Ilmr. wit n1 111ml:- Illt'EL' tunls .ttr' all 111.3“: in help.- -..-u
+thus-4.- u'utiL-‘II1lrnrm11waru: time In Itctnmu but ill 1""! end lhu
+rL'x'l'lui'l'd-llhllltft' tummul; u'lth [hr ﬁnitly-i'l l |1u||_.'_:-.|_.'u:: tllrnugh 1'Illvr5.
+
+ 
+

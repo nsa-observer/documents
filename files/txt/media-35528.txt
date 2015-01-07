@@ -1,0 +1,1438 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+ 
+
+TURMOIL
+
+IPSEC VPN
+
+SESSIONIZATION
+
+Issue No.1 .......................................................................................................................... ..
+
+Issue Date 08/15/08 .......................................................................................................... ..
+
+Responsible Authority
+
+Product Approver ............................................................................................................... ..
+
+DERIVED FROM: NSAICSSM 1-52
+DATED: 20041123
+DECLASSIFY ON: 20291123
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+Derived From: NSAICSSM 1-52
+Dated: 20041123
+DECLASSIFY On: 20291123
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revision Historv .............................................................................................................................. .. 4
+Reference Documents ..................................................................................................................... .. 4
+
+1.0 (U) SCOPE ......................................................................................................................................... ..5
+2.0 S ESP SESSIONIZATION ................................................................................................................. ..5
+2.1 (S) IPIESP ....................................................................................................................................... ..5
+2.1.1 (5) Detection ............................................................................................................................ .. 5
+2.1.2 (5) Sessionizino' ...................................................................................................................... .. 6
+2.1.3 (5) The Stack ........................................................................................................................... .. 6
+
+2.2 (S) IPIAHIESP ................................................................................................................................ ..7
+2.2.1 (5) Detection ............................................................................................................................ .. 7
+2.2.2 (5) Sessionizino' ....................................................................................................................... .. 7
+2.2.3 (5) The Stack ........................................................................................................................... .. 8
+
+3.0 (S) IKE SESSIONIZATION ................................................................................................................. ..9
+3.1 (U) IPiUDPIISAKMP ........................................................................................................................ ..9
+3.1.1 (5) Detection ............................................................................................................................ .. 9
+3.1.2 (5) Sessionizino' ....................................................................................................................... .. 9
+3.1.3 (5) The Stack ......................................................................................................................... ..10
+
+3.2 (U) IPIUDPINULLSIISAKMP .............................................................................................................. ..10
+3.2.1 (5) Detection ......................................................................................................................... .. 10
+3.2.2 (5) Sessionizino' ..................................................................................................................... .. 11
+3.2.3 (U) The Stack ......................................................................................................................... .. 12
+
+3.3 (U) IP/TCPIISAKMP ....................................................................................................................... .. 12
+3.3.1 (5) Detection .......................................................................................................................... .. 12
+3.3.2 (5) Sessionizino' ..................................................................................................................... .. 13
+3.3.3 (5) The Stack ......................................................................................................................... .. 14
+
+3.4 (U) IPITCP/NULLSI'ISAKMP .............................................................................................................. ..14
+3.4.1 (5) Detection .......................................................................................................................... .. 14
+3.4.2 (5) Sessionizino ..................................................................................................................... .. 15
+3.4.3 (5) The Stack ......................................................................................................................... .. 16
+
+4.0 (U) SUMMARY ................................................................................................................................. ..17
+
+PAGE 2 OF 18
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLIJ'20291123
+
+PAGE 3 OF 18
+TOP SECRETHCOMINTNREL TO USA, AUS, CAN, GBR, NZLIJ'20291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+REVISION HISTORY
+
+ 
+
+Issue Date Author Amendments
+
+ 
+
+0.1 815108 ET First draft of document
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REFERENCE DOCUMENTS
+
+PAGE 4 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+1.0 (U) SCOPE
+
+This document describes the sessionization requirements for the various lPSec VPN protocols processed
+in Turmoil. The list of lPSec protocol stacks of interest is shown here:
+
+' IPI'ESP
+
+' IP/AH/ESP
+
+' IP/UDPIISAKMP
+
+' IPIUDP/nullsI'ISAKMP
+' IP/TCPIISAKMP
+
+' IP/TCP/nulls/ISAKMP
+
+Currently, lP/ESP, lP/UDP, and lP/TCP are successfully sessionized by the PIP. Other lPSec stacks have
+been observed in the field, and we have requirements to process them in Turmoil. For completeness, all
+of the stacks are discussed in this document, even though some are currently being processed.
+
+2.0 (S) ESP SESSIONIZATION
+
+2.1 (5) IPIESP
+
+2.1.1 (S) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 32 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F5
+mask: FF so so so so so so so so FF so so so so so so so so so so so so so so so so so @F
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the ESP_AEG:
+
+- va4 packet
+
+- lP Header Length = 5
+
+- lP Next Protocol 2 ESP (0x32)
+- ESP Sequence Number = 5
+
+The ESP Sequence Number requirement implements a "sampling" function on the ESP, reducing the
+ESP traffic by a factor of 1/16, to limit the ESP loading in the AEG.
+
+PAGE 5 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ZLZ ﬁﬁSESﬂONEWﬂS
+
+The ESP packets would be sessionized by the following set of parameters:
+- lP Next Protocol 2 50 (0x32)
+- lP Source Address
+
+- lP Destination Address
+- ESP Spi
+
+2.1.3 (S) THE STACK
+
+The fields utilized in sessionization are highlighted in red in the diagram below:
+
+1 1
+0 5 6
+|—+—+-+-+-+—+—+-+-+—+—+-+-+-+—+—+-+-+—+—+—+-+-+—+—+-+-+—+—+—+-
+
+| | | Type | Total length (bytes)
+|Version| Headerl of service |
+| length| (TOS) |
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Identification |3 bit| Fragment offset
+| flag|
+|0 D M|
+IFFI
+
+Time
+
++
+
+| Next |
+a live (TTL) |
+
++
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+| t protocol |
+
+|-+
+| source IP address
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+| destination IP address
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+| options (if any)
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+| Security Parameters Index
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+| Sequence Number
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+|
+|
+|
+|
+|
+|
+i
+|
+|
+
+Payload Data (variable)
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Padding (0-255 bytes)
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+| Pad Length | Next Header
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Check Value-ICV
+
++
+|
+-+-+-+-+-+—+—+-+
+Integrity
+
+(variable)
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+PAGE 6 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+3
+1
+
++-|
+
++
+
++-|
+
++-|
+i
++-|
+
++-|
+
+i
++-|
+l
+i
+
++-|
+l
++-|
+|
++-|
+
++-|
+
+H
+. < ————————————————-— v——-—_——- >
+
+. < —__—__ §_——___ s
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+2.2 (5) IPIAHIESP
+
+2.2.1 (S) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 33 FF FF FF FF FF FF FF FF FF FF 32 FF FF FF FF FF FF FF FF
+
+FF FF F5
+mask: FF 00 00 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00
+
+00 00 0F
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the ESP_AEG:
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol 2 AH (0x33)
+
+- AH Next Payload = ESP (0x32)
+- ESP Sequence Number 2 5
+
+2.22.2 (£5) ESEEESESICJPUIEZIBICB
+
+The AHIESP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = 51 (0x33)
+- IP Source Address
+
+- IP Destination Address
+
+- AH Next Payload = 50 (0x32)
+- AH Spi
+
+- ESP Spi
+
+The software FSPF is currently programmed to recognize only TCP, UDP, and ESP as valid Network
+Layers. However, since our AHIESP ke ords start at the Network (IP) Layer, those packets will make it
+through the FSPF to the AEG. ﬂsaid that the change to the FSPF to recognize AH at the
+Transport Layer would be easy to implement.
+
+The DFCE does not currently recognize AH as a valid Transport Layer, and that change will apparently be
+difficult to implement. The new idea is to develop “application-specific demux" components for the TE,
+that will perform any desired sessionization based on parameters after the Network (IP) Layer.
+
+PAGE 7 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+2.2.3 (S) THE STACK
+
+1 1 3
+0 5 6 1
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| | | Type | Total length (bytes)
+|Version| Headerl of service |
+| lengthl (T05) |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Identification |3 bit| Fragment offset
+| flag|
+|@ D M|
+| F F|
++—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+
+Time | Next | Header checksum
+
+to live (TTL) | protocol |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+H
+
+I <-——-—-———————-——-— ﬂ-————————— >
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+source IP address |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+destination IP address |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+options (if any) I
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+| Next Header | Payload Len | RESERVED
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| Security Parameters Index
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+| Sequence Number |
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+| Integrity check Value-Icv (variable)
+
+I
+|
+|
+|
+|
+I
+|
+|
+|
+|
+|
+i
+|
+|
+
+h
+I <——— =——— >
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+|
+
+|
+
+|
+
+Security Parameters Index |
+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+-+-+-+-| |Cov-
+Sequence Number |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Payload Data (variable) I
+|
+
+n
+
+O
+
+3
+
+_h
+M
+$———__- >
+
++—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+-+-+-| |Cov-
+Padding (0-255 bytes) | |ered*
+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-| | |
+| Pad Length | Next Header | v v
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I - - - - --
+Integrity check Value-ICV (variable) |
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+I < —-————-——-—
+
+PAGE 8 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+3.0 (S) IKE SESSIONIZATION
+3.1 (U) IPIUDPIISAKMP
+
+3.1.1 (S) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 11 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 10 00 00 FF FF FF FF 00 00
+
+mask: FF 00 00 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 50 FF D8 F8 00 00 00 00 FF FF
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the |KE_AEG:
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol = UDP (0x11)
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keyword/mask pair for ISAKMP Version 9.9.
+
+3.1”?! ($3) ESEEESESICJPUIEZIBICB
+
+The UDP/ISAKMP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = UDP (0x11)
+- IP Source Address
+
+- IP Destination Address
+
+- UDP Source Port
+
+- UDP Destination Port
+
+PAGE 9 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+3.1.3 (5) THE STACK
+
+1 1 3
+
+0 5 6 1
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| | | Type | Total length (bytes) |
+|Version| Headerl of service | |
+I I lengthi (ms) I I
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+Identification |3 bit| Fragment offset
+
+l flagl l
+
+|0 D M| |
+l
+-|
+
+|
+l
+-|
+l
+
+H
+
+> I < —-—-—-—-—-——-—-—'u-—--—-— >|
+
+l FF|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Time | Next | Header checksum
+
+l
+
+l
+
+l
+
+l
+
+I-
+
+l
+
+| to live (TTL) | protocol |
+|-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| source IP address
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| destination IP address
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+| options (if any) I
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| Source Port | Destination Port
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+l
+
+|
+
+l
+
+l
+
+|
+
+l
+
+l
+
+|
+
+l
+
+|
+
+l
+
+|
+
+l
+
+|
+
+C
+U
+1
+
+Message length | Checksum
+
+I <
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+l
+-|
+Initiator |
+
+Cookie |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Responder |
+Cookie |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Next Payload | MjVer | MnVer | Exchange Type | Flags |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Message ID |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Length |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+H
+m
+D
+E........ >
+1
+
+l <-—---
+
+3.2 (U) IPIUDPINULLSIISAKMP
+
+3.2.1 (S) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 11 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00
+00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 10 00 00 FF FF FF FF 00 00
+
+mask: FF 00 00 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF
+FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60 FF D8 F8 00 00 00 00 FF FF
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the |KE_AEG:
+
+PAGE 10 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol = UDP (0x11)
+
+- 4 bytes of NULLS between the UDP and ISAKMP layers
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keywordlmask pair for ISAKMP Version 9.9.
+
+3.2.2 (S) SESSIONIZING
+
+The UDPInulls/ISAKMP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = UDP (0x11)
+- IP Source Address
+
+- lP Destination Address
+
+- UDP Source Port
+
+- UDP Destination Port
+
+PAGE 11 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+3.2.3 (U) THE STACK
+
+1 1
+0 5 6
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| | | Type | Total length (bytes)
+|Version| Headerl of service |
+| | length| (TOS) |
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Identification |3 bit| Fragment offset
+| flag|
+|0 D M|
+IFFI
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Time | Next | Header checksum
+to live (TTL) | protocol |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+source IP address
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+destination IP address
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+options (if any)
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Source Port | Destination Port
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I UDP
+
+|
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+|
+| Message length | checksun
+|
+l
+l
+l
+l
+|
+l
+l
+|
+l
+|
+l
+|
+l
+|
+
+3
+1
+
+H
+
+> I <-——-—-—-———-—-—"— ﬁ-——-———-— >|
+
+<
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+NULLS |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+Initiator |
+
+Cookie |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Responder |
+
+Cookie |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+l
+
+l
+
+l
+
+l
+
+l
+
+H
+m
+b
+§_____u_ >
+1
+
+ext Payload | MjVer | MnVer | Exchange Type | Flags |
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Message ID
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+Length
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+l < —----
+
+3.3 (U) IPITCPIISAKMP
+
+3.3.1 (5) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 05 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 10 00 00 FF
+FF FF FF 00 00
+
+mask: FF 00 00 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60 FF D8 F8 00
+00 00 00 FF FF
+
+PAGE 12 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the IKE_AEG:
+
+- IPv4 packet
+
+- lP Header Length = 5
+
+- lP Next Protocol = TCP (0x06)
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keyword/mask pair for ISAKMP Version 9.9.
+
+3.3.2 (S) SESSIONIZING
+
+The TOP/ISAKMP packets would be sessionized by the following set of parameters:
+
+- lP Next Protocol 2 TOP (0x06)
+- lP Source Address
+
+- lP Destination Address
+
+- TCP Source Port
+
+- TCP Destination Port
+
+PAGE 13 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+3.3.3 (5) THE STACK
+
+1 1
+
+0 5 6
+
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+| | | Type | Total length (bytes) |
+
+|Version| Headerl of service | |
+
+I I lengthi (ms) I I
+
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Identification |3 bit| Fragment offset
+
+l flagl l
+
+|D D M| |
+
+l
+
+-|
+
+l
+
+|
+
+-|
+
+l
+
+3
+1
+
+H
+
+I < ———————————————_——'ﬂ————__———_ >
+
+IFFI
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Time | Next | Header checksum
+
+l
+
+l
+
+l
+
+l
+
+I-
+
+l
+
+| to live (TTL) | protocol |
+|-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+| source IP address
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| destination IP address |
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+| options (if any) I
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+| Source Port | Destination Port
+|-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+| Sequence Number
+|-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| Acknowledgement Number
+I-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+| Data | Reserved |U A P R S F| Window
+|
+
+l
+
+|
+
+l
+
+|
+
+l
+
+|
+
+|
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+|
+
+l
+
+|
+
+l
+
+|
+
+l
+-|
+|
+-|
+l
+Offset | |R|C|S|S|Y|I| |
+l IGIKIHIIININI l
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+checksum | Urgent Pointer |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+options (if any) | Padding |
+-|
+
+l
+
+l
+
+-|
+
+l
+
+l
+
+-|
+
+l
+
+-|
+
+l
+
+< Fl >
+I —___________ —_______
+1
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Initiator
+Cookie
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Responder
+Cookie
+
+§————>
+1
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+H
+m
+>
+
+Next Payload | MjVer | MnVer | Exchange Type | Flags
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Message ID
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+Length |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+
+l <-—-——"—
+
+3.4 (U) IPITCPINULLSIISAKMP
+
+3.4.1 (5) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+PAGE 14 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+keyword: 45
+FF FF FF FF
+10 00 00 FF
+
+mask: FF
+00 00 00 00
+FF D8 F8 00
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+FF
+FF
+
+FF FF FF 06 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00
+
+00 00 00 FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 FF FF FF FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60
+
+00
+00
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the IKE_AEG:
+
+IPv4 packet
+
+lP Header Length = 5
+
+IP Next Protocol 2 TOP (0x06)
+
+4 bytes of NULLS between the TCP and ISAKMP layers
+
+ISAKMP Version = 0x10
+
+ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+ISAKMP Length (header + payload) < 64k
+
+We have a similar keyword/mask pair for ISAKMP Version 9.9.
+
+3.11.2 (£5) ESEEESESICJPUIEZIDJCS
+
+The TCP/nullsllSAKMP packets would be sessionized by the following set of parameters:
+
+IP Next Protocol = TCP (0x06)
+lP Source Address
+
+IP Destination Address
+
+TCP Source Port
+
+TCP Destination Port
+
+PAGE 15 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+3.4.3 (S) THE STACK
+
+1 1
+
+0 5 6
+|—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—+—|
+| | | Type | Total length (bytes)
+|Version| Headerl of service | |
+| length| (T05) | |
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Identification |3 bit| Fragment offset |
+
+| flagl |
+
+|@ D M| |
+|
+
+|
+
+|
+
+3
+1
+
+V'-—'—-_"_ >|
+
+H
+
+|
+- |
+F F
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-1-+-+-l-+-+-+-+-+-+-+-+-+-+-+-+
+Time | Next | Header checksum
+to live (TTL) | protocol |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+source IP address |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+destination IP address |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+options (if any) I
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Source Port | Destination Port
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Sequence Number |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+Acknowledgement Number |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Data | Reserved |U A P R S F| window |
+Offset | |R|C|S|S|Y|I| |
+| IGIKIHItININI |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+checksum | Urgent Pointer |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+options (if any} | Padding |
+-+—+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+NULLS |
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-I
+Initiator
+Cookie
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Responder
+Cookie
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Next Payload | MjVer | MnVer | Exchange Type | Flags
+
+n————>.<—————————
+
+A
+1
+
+.<——————
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Message ID
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+Length
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+H
+
+m
+
+>
+<______—-§_____u_ >
+
+1
+
+PAGE 16 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+4.0 (U) SUMMARY
+
+The FIP currently recognizes UDP, TCP, and ESP as valid Network Layer protocols, and currently
+sessionizes those packet types. The new requirement for lP/AH/ESP will require changes to the PIP to
+recognize AH as a valid layer, and will also require changes to the DFCE to allow those packets through.
+
+There has been talk of having application-specific demuxes developed and inserted into the TE to
+perform any required sessionization beyond the Transport Layer. For example, the ESP demux would be
+responsible for sessionizing on Spi value.
+
+The Table below summarizes the various protocol stacks, the parts of the stacks that are used in PPF
+keyword detection, and how the associated packets should be sessionized.
+
+ 
+
+Protocol Stack
+
+Keyword Detection Layers
+
+Sessionization Requirements
+
+ 
+
+IPIESP
+
+IP, ESP
+
+lP Next Protocol 2 50
+IP Source Address
+
+lP Destination Address
+ESP Spi
+
+ 
+
+IPI'AHI' ESP
+
+IP, AH, ESP
+
+lP Next Protocol 2 51
+IP Source Address
+
+lP Destination Address
+AH Next Header = 50
+AH Spi
+
+ESP Spi
+
+ 
+
+IP/UDPIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+IP, UDP, ISAKMP
+
+lP Next Protocol = 17‘
+IP Source Address
+
+lP Destination Address
+UDP Source Port
+
+UDP Destination Port
+
+ 
+
+ 
+
+IP/UDP/nuIISIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+ 
+
+IP, UDP, ISAKMP
+
+ 
+
+lP Next Protocol = 17‘
+IP Source Address
+
+lP Destination Address
+UDP Source Port
+
+UDP Destination Port
+
+ 
+
+PAGE 17 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+IP/TCPIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+IP, TCP, ISAKMP
+
+IP Next Protocol = 6
+
+IP Source Address
+
+IP Destination Address
+TCP Source Port
+
+TCP Destination Port
+
+ 
+
+ 
+
+IPITCP/nulls/ISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+ 
+
+IP, TCP, ISAKMP
+
+ 
+
+IP Next Protocol 2 6
+
+IP Source Address
+
+IP Destination Address
+TCP Source Port
+
+TCP Destination Port
+
+ 
+
+PAGE 18 OF 18
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+ 
+

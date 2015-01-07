@@ -1,0 +1,183 @@
+TOP SECRET/fCOMINT/f2029 1 123
+
+NATIONAL SECURITY AGENCY
+CENTRAL SECURITY SERVICE
+
+(U/IFOUO) CLASSIFICATION GUIDE FOR
+CRYPTANALYSIS, 2-12
+
+Effective Date: 13 September 2005
+
+CLASSIFIED BY: — Chief, CES
+
+REASON FOR CLASSIFICATION: 1.4 (c)
+DECLASSIFY ON: 20291123
+
+ENDORSED BY:— Director of Policy
+
+Derived From: NSAJCSSM 1—52
+Dated: 20041123
+Declassify On: 20291123
+1
+TOP SECRET/fCOMINT/f20291123
+
+TOP SECRET/fCOMINT/f2029 1 123
+
+(Ul/FOUO) CLASSIFICATION GUIDE TITLE/NUMBER: CRYPTANALYSIS Guide 02- 12
+(U) PUBLICATION DATE: 13 September 2005
+
+(U) OFFICE OF ORIGIN: Cryptanalysis 81 Exploitation Services (831)
+
+(U/IFOUO) POC: S3109
+S3109
+
+(U/IFOUO) PHONE: 963-4871
+963-5209
+
+(UHFOUO) ORIGINAL CLASSIFICATION AUTHORITY:
+_ Chief/Cryptanalysis 81 Exploitation Services (831)
+
+Description of Information Classification/
+
+ 
+
+Markings
+
+1. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+cryptographic information security devices
+and systems.
+
+2. (C) The fact that NSA/CSS works with CONFIDENTIAL 1.4 (c) 20291123
+Second Party partners on exploiting
+cryptographic information security devices
+and systems.
+
+3. (S) The fact that NSAJ’CSS works with SECRET 1.4 (c) 20291123
+unspecified Third Party partners on
+exploiting cryptographic information
+security devices and systems.
+
+4. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+unintended cryptographic vulnerabilities in
+commercial or indigenous information
+security devices and systems, as long as
+neither the vulnerability nor the targeted
+device/ system is identified.
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. (TSI/SI) The fact that NSA/CSS makes TOP SECRET/1’ 1.4 (c) 20291123 (U) Specifying the specific system
+cryptographic modifications to commercial COMINT is protected by an ECL.
+or indigenous cryptographic information at a minimum
+
+security devices or systems in order to
+make them exploitable.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. (U) The fact that NSA/CSS has UNCLASSIFIED N/A N/A (U) Additional details will raise
+cryptanalytic techniques to exploit the classification and may be
+cryptographic components of commercial protected by an ECI.
+or indigenous information security devices
+or systems.
+
+7. (C) The fact that NSA/CSS has the ability CONFIDENTIAL 1.4 (c) 20291123 (C) Details of CV recovery are
+to recover cryptovariables used to exploit protected by an ECI.
+commercial or indigenous cryptographic
+information security devices or systems. (C) Specifyng a specific system
+
+for which we can recovery CVs is
+protected by an ECI.
+2
+
+TOP SECRET/lCOMINT/l2029 1 123
+
+TOP SECRET/fCOMINT/f2029 1 123
+
+ 
+
+Description of Information Classification/ Reason Declass Remarks
+Markings
+8. (U) The fact that NSA/CSS successfully UNCLASSIFIED N/A N/A (U) Additional details will require
+exploits cryptographic components of the classification and may be
+commercial or indigenous cryptographic protected by an ECI.
+
+information security devices or systems
+without specifying the device or system.
+
+ 
+
+9. (U//FOUO) The fact that NSAJ’CSS TOP SECRET/1’ 1.4 (c) 20291123 (U) Additional details may be
+successfully exploits cryptographic COMINT protected by an ECI.
+components of commercial or indigenous at a minimum
+
+cryptographic information security devices
+or systems when the device or system is
+
+ 
+
+specified.
+
+10. (TS) The fact that NSA/CSS obtains TOP SECRET 1.4 (c) 20291123 (C) Identification of the system or
+cryptographic details of commercial at a minimum company is protected as COMINT
+cryptographic information security systems and ECI.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+through industry relationships.
+
+ 
+
+1U! DEFINITIONS:
+
+(U/IFOUO) Information security device or system: A device or system that provides any of the following services for
+communications or information systems: confidentiality, data integrity, authentication and authorization.
+
+(Uf/FOUO) Cryptanalytic vulnerability: A flaw in the design, implementation or system integration of cryptography used in an
+information security device, or a flaw in the way that a cryptographic information security device is used.
+
+(U/IFOUO) Unintended cryptographic vulnerability: Security is less than advertised by the manufacturer.
+
+(Uf/FOUO) Indigenous: Non-commercial cryptographic information security system or device developed by a SIGINT target.
+
+ 
+
+ 
+
+(U/IFOUO) If you have any questions about the content of this page, contact— D032,
+
+3
+TOP SECRET/lCOMINT/l2029 1 123
+

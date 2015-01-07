@@ -1,0 +1,923 @@
+ 
+
+ 
+
+(TSﬂSE/Q’HEL} MHS and GISHQ “Get in the Game” with Target Development for
+liiﬁ'orl'cl of Warcraft Online Gaming
+
+(TS/ISIIIREL) Although online gaming may seem like an innocuous form of
+entertainment, when the basic features and capabilities are examined, it could
+potentially become a target-rich communication network. Online gaming represents a
+technology that is rapidly growing in popularity worldwide. World of Warcraft (WoW) is
+one with an impressive following of gaming enthusiasts. With over 10 million users
+worldwide, WOW may be providing SIGINT targets a way to hide in plain sight. Targets
+have been spotted receiving “no reply” emails from gaming providers and GCHQ
+analysts have correlated known SIGINT targets to online gaming events. The New
+Mission Development Center at MHS, the Global Network Exploitation (OPD-GNE) and
+the Applied Research Special Topics (B18) organization at GCHQ are working together
+
+x]
+
+TOP SECRETHCDMNTHREL TO LlSﬂ, F‘v'E‘f
+
+te filter the FDRHSAT survev environment fer this traffic and extract varieus tvpes ef
+WeW rnetadata ferSlGlNT develcpment and netwcirlt ltnewledge enrichment.
+
+[U] Cemmunicatien is at the care pf enline gaming
+and in WeW there are manv wavs th
+cemmunicate and interact in ihe virtual werld. A
+plaver has a character ID anti can jein different
+greups. A "partv" hrings plavers tcigether fer a
+cemmen, defined purpese er guest. It is
+temperarv anti taslt—ciriented. "Guilds," en the
+ether hand, are far characters with persisting
+relatienships anti can take an an erganizaticinal
+structure with ranlts anti pdsiticins. The guild is
+mere permanent anti idedlcigical. Characters can
+cemmunicate ver‘pallv and nen-verhallv and may
+set up different types ef channels tci tallt within a
+guild er privatelv, characterth character.
+
+    
+
+4'
+a.
+(U) Warld charcraft
+
+[TSHSIHRELJ GCHD recentlv aslred rleS's New lvlissien Develdpment Center [NivllZiCji
+te suppert an enline gaming research effert fecusing en WeW. Eager th assist in a new
+petential area pf target develepment. the NileC discussed metadata needs with GCHD
+in cirder tci enahle WdW target and FIEt'U'IIDi'H research in the FDRHSAT arena. The
+valDC engaged SHORT, an epen seurce packet—sniffing seftware, which runs an all
+FERN SAT survev pacltet data, te filter dut WdW pacltets. GEHG! previded several
+WeW pretecel parsing scripts th precess the traffic and preduce Warcraft metadata frem
+all vallZiC FDRNSAT survev. These legs are new peing fenuvarded paclt th ECHD fer
+additienal analvsis, target develepment and netwerlt Hnewledge enrichment. Elv fusing
+infermatien frem different svstems, databases, and reseurces GCHD has cerrelated
+target entities th WeW legen events and centinues th unccrverpetential SIGINT value pv
+identifving acceunts, characters, and guilds related th Islamic Extremist Greups, Nuclear
+Preliferatidn and Arms Dealing.
+
+[TSHSIHRELJ WeW certainlv prevides entertainment fer a large number ef peciple
+werldwide, put its gaming fennat can previde a virtual erganizatienal platfcirm fer
+pcitential SIGINT targets as well. Furthermere, this techneldgv can assist the target and
+simultaneciuslv assist the SIGINT cemmunitv in traclting that target. The WeW gaming
+infrastructure prevides ample infdrmatien fer netwerlt develepment thrdugh the data
+passed during WeW messages, such as cduntrv and time :ene infennaticin, ldcal IP
+addresses and realm server addresses. In terms pf active target develepment, there are
+clear parallels: tradilicinal SIGHan develcipment mav felldw emails, chat and huddv lists,
+whereas WeW target develepment mav fellew character IDs and legens, gaming
+cdmmunicatien channels and guilds.
+
+[TSHSIHREL] MHS and GCHD will EIZIr‘Itlf‘ILiE tIZI develcip and EIZIIIEIIZIIZITE’EE IZIf‘I tl‘IlS
+petentiallv lucrative venue.
+
+TOP SECREI'HCCIMNTHREL TD LlSﬂ, F‘U’E‘f E
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+
+Emma-3: A Lnuis in Emerging Tram};
+Uaaa. Imam; and Uppurzunizlz-ea
+in inﬂuenza .;\££}::*I£ia-3
+
+ 
+
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+CHAPTER 1
+
+n and Funriiun
+,f-‘m Juterarliva
+:2 Medium
+
+Pm-MmaSeooﬂUUfEGamer'mg
+
+ 
+
+FOUO — Not for Public Distribution
+Page 5
+
+Global Patterns in Game Play: Time Spent, Social Interaction and Reach
+
+Games consume a great deal of time and eﬁ‘ort by a signiﬁcant number of players around the world. In a
+study done by Nick Y ee at Stanford University on Massively Multiplayer Online Role Playing Games
+(MMORPG) users, 50% of the 30,000 respondents worked full time, with only 22% as full-time students.
+The average age of the respondents was 26.5, (women tended to be older than me) and on average the
+respondents spent 22. 71 lzours per week in their clzosen MMORPG, a time imiolvement which suggests
+that tlzere is a substantial level of emotional investment in the MMORPG environment.
+
+Global Market
+
+Palestinian
+Market
+
+Southwest &
+Southeast
+Asian Markets
+
+Counter-Strike is considered the most popular online first-person shooter
+(FPS) game in the world with the more than 200.000 players playing
+simultaneously and contributing more than 5.5 billion minutes of playing
+time each month on the official network consisting of more than 100.000
+serversfk Caimter-Strike is played extensively throughout Central.
+Southeast. and Southwest Asia in addition to the core U.S.. European and
+Asian markets.*
+
+Reportedly. more than 25% of children between the ages of 6 and 17 in the
+Palestinian territories access the Internet through Internet centers that have
+emerged in refugee camps. rural Villages. and urban areas. Palestinian
+Internet center managers and computer lab owners have reported that most
+children spend most of their time playing online games. including “pro-
+Arab” games like Special Force and Under Siege.
+
+Kuma Games produces and distributes episodic games depicting real life
+military operations. These games are played throughout Southeast and
+Southwest Asia. During the height of media coverage on Middle East
+networks like Al-Jazeera. 20% of Kuma‘s total audience originated from
+the Middle East region with significant amounts of game traffic coming
+from Egypt and a notable number of players originating from Iran and Iraq.
+[See.‘ End Note xxvii]
+
+ 
+
+http://www.Vnetnews.c0m/artic1es/0,7340,L—3056735,00.htm1
+htgp://in.rediff.c0m/netguide/2003/0ct/05flash.htm
+
+ 
+
+htgp://research.microsoft.c0m/~shahrami/papers/techOZ.pdf#search='mixed%20reality%20gaming
+
+htgp://www.machinima.c0m/films.php?id=4676
+
+WWW.fraps.com
+
+Features of Fraps Real-time Video Capture Software
+
+Screen capturing — Digital images taken by the software recording the Visible
+items on the monitor as a screenshot in formats such as BMP. PNG and J PG.
+
+Real-time video capturing — Digital images taken by the software recording the
+visible items on the monitor (or another Visual output device) over an extended
+period of time. as the action is taking place. to form a video file.
+
+Screencast/Screen Recording — Digital recording of a computer screen output.
+often containing audio narration.
+
+ 
+
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+CHAPTER 2
+
+Why Sauna; are EJI
+Effective Jnﬂuence PJEthUIm
+
+Compiled photos from Giobat Islamic Media Front's
+Qaest I'OJ'Bhtsh - The Night of Bush Capturing Game
+
+ 
+
+FOUO — Not for Public Distribution
+Page 15
+
+Video games are “weaponized” texts, or disrupters of psychic stability. . .I mean to say
+that games perform What Pierre Bourdieu calls “symbolic violence”—in other words, that
+“gentle, invisible form of violence, which is never recognized as such.”. .. Like
+educational institutions, video games are instances of symbolic violence in the sense that
+they inflict themselves on players. The world of the video game is nothing more than the
+
+on—screen rendering of programmed instructions and decrees. Players are “schooled” by
+an aggressive bombardment of pixellated images and sounds. Every moment is a direct
+imperative, an attack that demands a response.
+
+—— Matt Garite,
+The Ideology of Interactivity (or, Video Games and the Taylorization of Leisure) XXX"
+
+ 
+
+Application of the Learning Framework to Games
+
+ 
+
+ 
+
+Reflection
+
+The Learning Framework
+1990—1995 Praead l<aira
+
+— Unlearning —> Openness —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C o n d i ti oni ng . - lirlanifeata ti on
+(Current Reality) Lifelong (Desired Future State)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Environment
+
+ 
+
+| Learning |
+
+Nurturing the
+Individual
+
+L lneti n ctive
+
+Learning
+
+Influencing the
+External
+Environment
+
+_l
+
+‘— - Coaching
+
+ 
+
+ 
+
+ 
+
+ 
+
+Openness: When an individual plays a game, he is open to its structures, rules and
+messages.
+
+Action: By nature, games present a problem that a player must address and act on in
+order to advance in the game. Actions must take place Within the rules and value
+systems of the game (in this diagram, the game is represented by the box
+“Environment”) in order for the player to participate and move forward in the game.
+
+a.
+
+b.
+
+Manifestation: The player’s desired outcome in the game is to succeed and
+mitigate losses.
+
+Inﬂuencing the external environment: The player takes action to try to
+influence the course of the game.
+
+Coaching: The rules of the game provide guidelines on how to take action and
+What is permissible and acceptable.
+
+Instinctive learning: When quick action is required, instincts will play a role in
+how play is performed. This often includes a mix of: lessons learned from past
+experiences, a player’s personal values system, and physical and emotional
+reactions. This part of learning is generally subconscious.
+
+Nurturing the individual: Assessments about how well the player is playing
+the game are made frequently throughout the game.
+
+ 
+
+f. Conditioning: The player’s actions result in an outcome, which can be the
+desired outcome, a different yet positive outcome, or a negative outcome.
+
+Reflection: In the wake of the outcome, a player consciously or subconsciously
+makes an assessment about what worked, what didn’t work, what could be
+improved, and how to take action differently in the future.
+
+Unlearning to Openness: Reflection enables the “unlearning” of decisions and
+actions taken in the previous game and creates openness to trying again to
+succeed. This completes one learning cycle and starts another.
+
+ 
+
+XXXV
+
+ 
+
+Learning = Action + Feedback + Reﬂection
+
+ 
+
+We
+
+
+‘ m.i ,L L
+l ‘
+i‘
+
+I (/2:
+"5 M
+
+ 
+
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+CHAPTER 3
+
+PJauai‘oJ
+the U
+
+mm-wmmmmm
+
+ 
+
+FOUO — Not for Public Distribution
+Page 25
+
+Potential Uses of Games for Terrorist Activities
+
+Propaganda and Inﬂuence - Terrorists and sympathizers use games to twist historical
+context. demonize enemies. disrupt the social moral compass. and propagate ideology.
+
+Communications - Games provide attractive communications channels for terrorist groups
+and sympathizers because in-game conversations often are difficult to monitor.
+
+Recruiting - Online gaming can serve as a recruiting tool. For example. the United States
+Army found that 28% of players logging on to play its America’s Army online game also
+visited the corresponding recruitment site.
+
+Simulation, Practice and Team Management - Games can supplement field training by
+familiarizing recruits with the tactics. weaponry. and skills needed to conduct operations
+and planning.
+
+Money Laundering and F undraising - Funds used in online games can be uploaded in one
+location and downloaded in another by using a single avatar to which multiple people have
+access via ID and password. Alternately. virtual “sweat shops” can be organized to
+
+ 
+
+ 
+
+ 
+
+Exhibit 3-1: Best Uses of Game Genres in Inﬂuence Efforts§
+
+Simulation Mone
+
+Genre of Enable m Launderin/ Proaanda Tool for
+Game Communication Trainin Fund Raisin and Influence Recruitment
+
+First-person
+Shooter
+
+Educational 
+
+Mixed or
+
+Reality
+
+nut-n:-
+
+or MUVES
+
+ﬂaunt:
+Games
+
+- Ideal or good use
+
+- Could be used but requires moderate effort and would be only somewhat effective
+
+- Could be used but would not be an effective choice from a cost/benefit standpoint
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Guild In-game a: Team at Work‘xii
+
+“. . .A guild is a collection of players who come together to share knowledge, resources,
+and manpower. To run a large one, a guild master must be adept at many skills:
+attracting, evaluating, and recruiting new members; creating apprenticeship programs;
+orchestrating group strategy; and adjudicating disputes. Guilds routinely splinter over
+petty squabbles and other basic failures of management; the master must resolve them
+
+without losing valuable members, who can easily quit and join a rival guild. Never mind
+the virtual surroundings; these conditions provide real—world training a manager can
+apply directly in the workplace...”
+
+--Taken from:
+
+You Play World of Warcraft? You’re Hired!
+by John Seeley Brown and Douglas Thomas
+Wired Magazine
+
+ 
+
+ 
+
+Virtual Worlds and MMORPGS as a Film Set
+Machinima.‘ From Game space to Video
+
+Gaming can serve as a platform for propaganda video production. For example,
+machinima is filmmaking within the real—time 3D virtual environment of a video game.
+All that is required is a game and a desktop computer.lxw The combination of machinima
+software and a virtual world or video game such as Planer Battleﬁeld, allows one to film
+their in—game activities as they play to develop a film which is easily distributed over the
+Internet.
+
+Terrorists could easily exploit this technology. Through the use of virtual
+characters and audio mash—ups a terrorist could anonymously create machinima films that
+included speeches, updates, and briefings. He could use the technology of virtual
+communities to create target sites to convey to cell members the next planned attack, use
+games to give a visual plan of how the attack should be carried out, and familiarize
+teammates with the terrain of the intended site with the technology of Second Life.
+Additionally, one could use machinima to create a likable, militant hero with whom their
+target audience could identify.
+
+H Durin the month of December, SAIC anal sts eriodicall checked e-Ba for characters and items for
+
+ 
+
+This technology, combined with audio mash—ups, also could be easily used to
+incorporate the voices of key heads of state, the US President for example, into anti—US
+propaganda. An original speech could be tampered to craft new, unfavorable messages.
+
+Exhibit 3-4: Planet Battleﬁeld; universal resource link located at:
+
+ 
+
+Shﬂwmﬂmmﬁmmmm
+
+III! BﬁlES/ E1111 IJEMD
+
+ 
+
+mm acame ¥
+PEEBES 5am: HP
+
+ 
+
+ , piegas-jnadsm
+ywmmmm-ﬂmmm
+mammlsodedmsmwsmnleres
+«IRE
+
+ 
+
+mmmmmmmma
+mmnoopoonmwm
+mammmweehypﬁzes.
+
+Leammmmbohym.
+
+"'ilFIlIII"' "'I!IIIIIF"'
+
+ 
+
+sunranusméﬁﬁ
+
+Isa-mamm-
+
+Thanh. Day
+
+‘SumuronSeasonumdlnda
+mmmm
+
+Searching for a Cache
+
+Example
+50 Mrles from F'noenlzn' Anzona
+
+ 
+
+Exhibit 3-6: Screen Shots for Searching for a Cache
+
+fw/JL \._‘“
+a:
+
+. Nevada
+
+|_ 0 m' | Clegc
+200 km
+
+Theoreﬁca
+
+Geocached
+Component
+Locaﬁons
+
+54:11.1 Fe
+
+New
+Mexuco
+
+HI‘BICS
+_l
+
+ 
+
+mm. ‘
+LJ
+
+Simulation Scenario
+
+This scwmrio isﬁciiiious. A terrorist leader wants to stage a biological and chemical
+attack on several Washington. DC. Metro stations simultaneously. The cell leader would
+like to simulate all stages of such an attack including the construction. transportation and
+implementation of the plan. Basic benefits of a simulated attack include:
+
+Cell members use virtual simulation to monitor times and locations to carry out
+an attack across multiple stations.
+
+Cell members use virtual simulation to case the environment prior to the attack in
+order to identify and mitigate potential obstacles.
+
+The cell leader is able to integrate digital imagery and simulated sounds to
+acclimate operators in order that they execute the attack more effectively.
+
+Mapping programs such as Google earth can be integrated into online simulation games
+to reconstruct streets. buildings and other topographical features near potential attack
+sites.
+
+0 The cell leader integrates information provided by the city inspector’s office.
+including actual building codes and utility locations to generate more accurate
+game construction.
+
+A software program that simulates hospital and laboratory environments is uploaded into
+the game space. The software is intended for training medical staff and laboratory
+technicians about safe handling and storage of dangerous chemicals and biological
+agents. It also trains first responders on containing spills. Cell members use this
+program to learn safe handling. transport and deployment of the chemical and biological
+agents they will use.
+
+ 
+
+Each member knows their roles and what their colleagues will be doing
+simultaneously.
+
+They practice scenarios that may occur during the mi. ion and determine how to
+act.
+
+They are now less susceptible to surprises.
+
+Through research and in— game simulation. it is determined that maximum impact can be
+expected using three bombers in each of four Metro stations —— Metro Center, Gallery
+Place. Union Station. Capitol South. and L’Enfant —— at 8:45 AM on a Tuesday in late—
+March. Each cell member knows their responsibilities and the timing on their
+movements.
+
+Knowledge-Based Game Scenario
+This S‘Cé’lldl‘iO isgﬁ'ciiiious. Al—Aqsa Martyrs Brigade would like to teach children about
+the Israeli—Palestinian conﬂict. The group knows that vivid. interactive games are likely
+to entertain children while providing an effective education platform. They develop a
+game from the Palestinian point—of—view that distorts history by embellishing atrocities
+committed by the Israelis. and minimizing culpability of the Palestinians.
+
+0 In order to win the game. the young player must answer questions correctly to
+
+save his family and friends.
+
+A correct answer. as deemed by the sympathizer. gets the child one step closer to
+Paradise.
+
+During each scenario. there are questions about religion. Israeli beliefs and moral
+res onsibilit [see below].
+
+ 
+
+You thank the freedom fighter, but resign yourself to live under Israeli occupation. Your
+father would understand. You are trying to protect yourself and younger brother,
+although you know that the Israeli forces could come again at any time.
+
+Your family has already been destroyed and you do not want to worsen the situation.
+
+Beware, however, as your failure to join the Islamic resistance essentially means that you
+are complying with the Zionist occupation.
+
+You volunteer to serve the jihad as a suicide bomber. This is an honorable post. You will
+be rewarded and your family will be protected. You will be a hero in your community.
+
+ 
+
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+CHAPTER 4
+
+Emerging Trend-:3 in the
+ﬂaming Space
+
+Praia m Gena-a]. Motors 3—D Virtual
+Whammy Press Release
+
+ 
+
+FOUO — Not for Public Distribution
+Page 42
+
+ 
+
+Online Video Game
+Subscribers - US. 77.8 75.0 50.0 38.1 32.8 24.7 20.8 16.4 14.8 21.7
+Online Video Game
+Subscribers - Asia 133.3 71.4 66.7 50.0 33.3 25.0 32.0 24.2 19.5 26.7
+
+Online Video Game
+Subscribers - EMEA 150.0 180.0 78.6 50.0 50.0  25.0 20.0 35.1
+
+ 
+
+http://www.daniweb.com/techtalkforums/post180324.html#post180324
+
+ 
+
+Wireless game subscribers -
+U.S. -- 14. 4.2 -18.9 -26.5 -17.3 37.1
+Wireless game subscribers -
+Asia -28.4 49.7 -72.5 -15.2 -24.3 -18.5 -22.6 -13.5 31.8
+Wireless game subscribers -
+EMEA 100.0 155.9 9 43.9 32.1 25.5 21.1 37.1
+
+I. I')'\lv\
+IDvn
+(.I‘RS
+lxR’l’rl‘
+HM il'.
+[WI 
+lxl:\' I)( \
+
+llSl')l’.‘\
+lxliV DY
+
+Shuldunl
+
+Imxnyl»
+mu m H
+
+Full nmlmn \ "ll-n.
+
+1| llllwpu
+
+“'l mllvr [1):
+
+nich mm v.
+
+[Hull In lull».
+
+"»l\ ' 1n1:4:{v>,\\‘v|>lnn\\\mg{ >hml
+.unlu: \‘nlw Ch
+
+:unl mi!" Innv (I: Am]: ml»
+
+mnan mum',
+
+.’~I) running. lush-1W. sh l‘lt‘-\\'<IIIE!
+
+(m (irmmhl \1<|wn. \ulwu‘lulll'lml‘mg'
+
+- l 115'}: thn‘ rmuunmy \ id's-J. llli'll
+
+(plzllltv\lllmn'ullll‘lrll<111:1.\uu‘v mm
+H’ k‘lt'pllﬁnl'
+
+ 
+
+ 
+
+     
+  
+
+Dark Age of Camelot
+World of Warcraft (US)
+World of Warcraft (EU)
+Second Life
+
+Auto Assault
+
+Everquest
+
+Dungeons and Dragons
+Everquest II
+
+Final Fantasy XI
+
+Star Wars Galaxies
+
+Dark Age of Camelot
+World of Warcraft (US)
+World of Warcraft (EU)
+Second Life
+
+Auto Assault
+
+Everquest
+
+Dungeons and Dragons
+Everquest II
+
+Final Fantasy XI
+
+Star Wars Galaxies
+
+0.71
+
+0.46
+
+0.033
+
+0.014
+
+0.013
+0.000237
+0.00015
+0.000148
+0.0000269
+0.00000104
+
+0.739
+0.689
+0.0126
+0.00795
+0.00784
+
+0.00143
+
+0.0000551
+
+937.058
+607.108
+
+43.553
+18.411
+17.157
+
+0.546
+0.354
+0.0254
+0.0107
+0.0100
+0.000182
+0.000115
+0.000114
+0.0000207
+0.0000008
+
+    
+ 
+
+0.188
+0.0795
+0.0741
+
+0.00135
+0.00086
+0.00084
+0.000153
+
+0.000006
+
+43.257
+28.0255
+2.0105
+
+   
+  
+ 
+   
+   
+
+    
+ 
+
+0.258
+0.109
+0.101
+0.00185
+0.00117
+0.00116
+0.00021
+
+0.00000812
+
+Second Life‘s content creation engine and LSL feature allows residents to create virtually
+anything. protected by very real intellectual property rights. These tools and subsequent
+intellectual property protections have spurred the growth of a goods and services industry
+including entrepreneurs (e.g. real estate moguls). artisans (e.g. architects and fashion
+designers) and professional services (e.g. notary public). stimulating an economy
+generating nearly $5 million in trade between residents every month. The Second Life‘s
+content creation engine and LSL features also enable residents to be creative and have fun
+with other residents. One of the more notable examples of unique content is the
+abductions of residents by aliens whereby abductees receive a T-shirt proclaiming “I was
+abducted by Aliens.”
+
+Second Life enjoys 90.000 hours of use per day. with approximately 25% of that time
+spent creating. That equates to ll user/years per day. which would require a 4.100-
+member content development team costing $40 million per year. In a given week, 5,000
+distinct residents wrote original scripts (15%). representing 2.5 million lines of source
+code.
+
+Second Life allows residents to promulgate any Uniform Resource Locator (URL) audio
+or video stream to local communities in Second Life. Second Life also permits users to
+export XML data from the game to external web sites. Together. this functionality lets
+users stream “real” events into the virtual world and “virtual” events into the real word.
+
+ 
+
+ﬁ—b—+—+—r—+—+—+—+—
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006
+
+ 
+
+ 
+
+ht;p://www.n0vint.c0m/
+
+ht;p://www.immersion.c0m
+
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+CHAPTER 5
+
+Winning Henri-3.1 and
+Mind; WrinnJJg
+
+Photo from Global Islamic Media Front's
+Wren-Bud! - The Mrgnrorsush Capthng Gama
+
+ 
+
+FOUO — Not for Public Distribution
+Page 60
+
+Compete for Players with
+New Games
+
+Operations
+
+Analysis
+
+Collecting In- Counter In-
+Game Operations Operations Game
+Intelligence Propaganda
+
+Exhibit 5-1: Holistic Approach to Game Involvement
+
+ 
+
+ 
+
+ 
+
+ 
+
+MJQYSTICK;
+
+ 
+
+ 
+
+NSA documents on games and virtual worlds
+82 Pages - Contributed by Justin Elliott, ProPuinca - Dec 09, 2013
+
+"World of Spycraft: NSA and CIA Spied in Online Games"
+
+Wurk by NSA'S Menwilh Hill Station and GCHQ an Ill-lurid nl' li'nlarrraﬂ H: 13-
+
+.“ffa-IL' .“.F|‘I.‘.~' rl':'|:.l' I'?-'_.'.":1'.' In): .'.H 'L'H {'~r.:.I:L-'  '1:er :'_.*u-,z_'!:‘r:rr.'ﬂ-'i: f:.-.'
+'a'L‘ﬂr'ﬂf-J! .'-.':.I"L'-'a-'.".' I'J'I.'.'-'.'r_‘ {Quin-"LI
+
+NSA dacumeht: "Explmlihg Terminal Lise of Games 9. 'L-‘n‘bual anircmn Ellis" (p. 3]
+
+Il-‘- iii: 'I'upir: l-Lxlilujling 'I'url'ul'lsl l'u- ul'ﬂalmn 6'; ‘i'irtunl llmll'nnIm-nh
+
+Intel-focused study Iran-l cmitraclm SAIC an airline games in 5;.
+
+Esme-J: :2 LL51: in: Emerging haunt“.
+LL33. In at; and rppurmuzea
+
+:2
+in Jnfluanca .i'IELIEiE-J
+
+ 
+

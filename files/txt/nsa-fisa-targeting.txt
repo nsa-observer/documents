@@ -1,0 +1,456 @@
+I]!
+
+TOP SECRETNQOMENTI/NOFORNNZ0320108
+
+ 
+
+EXHIBIT A
+
+PROCEDURES USED BY THE NATIONAL SECURTTY AGENCY Eerr'tiiaifehti‘rﬁn 3: i it
+NON—UNITED STATES PERSONS REASONABLY EELTEVED To a Epigraphy ,  
+OUTSIDE THE UNITED STATES To ACQUIRE FOREIGN TNTEL rennet: S is  %
+INFORMATION PURSUANT To SECTroN 702 or THE TOREIGN rNTELLrGENCE
+
+SURVEILLANCE ACT OF 1978, AS Alt/[ENDED
+
+(S) These procedures address: (I) the manner in which the National Security A gency/Central
+Security Service (NSA) will determine that a person targeted under section 702 of the Foreign
+Intelligence Surveillance Act of 1978, as amended ("the Act"), is a non—United States person
+reasonably belieVed to be located outside the United States ("foreignness determination”); (II)
+the post-targeting analysis done by NSA to ensure that the targeting of such person does not
+intentionally target a person known at the time of acquisition to be located in the United States
+and does not result in the intentional acquisition of any communication as to which the sender
+and all intended recipients are known at the time of acquisition to be located in the United States;
+(III) the documentation of NSA‘s foreignness determination; (1V) compliance and oversight; and
+(V) departures from these procedures. '
+
+I. (U) DETERMINATlON 0F WHETHER THE ACQUISITION TARGETS NON-
+UNITED STATES PERSONS REASONABLY BELIEVED TO BE LOCATED OUTSIDE
+THE UNITED STATES
+
+(S) NSA determines whether a person is a non-United States person reasonably believed to be
+outside the United States in light of the totality of the circumstances based on the information
+available with respect to that person, including information concerning the communications
+facility or facilities used by that person.
+
+(8) NSA analysts examine the following three categories of information, as appropriate under the
+circumstances, to make the above determination: (1) they examine the lead information they
+have received regarding the potential target or the facility that has generated interest in
+conducting surveillance to determine what that lead information disoloses about the person's
+location; (2) they conduct research in NSA databases, available reports and collateral
+information (i.e., information to which NSA has access but did not originate, such as reports
+from other agencies and publicly available information) to determine whether NSA knows the
+location of the person, or knows information that would provide evidence concerning that
+location; and (3) they conduct technical analyses of the facility or facilities to determine or verify
+information about the person's location. NSA may use infonnation from any one or a
+combination of these categories of information in evaluating the totality of the circumstances to
+determine that the potential target is located outside the United States.
+
+(TS/A91) in addition, in those cases where NSA seeks to acquire connnunications about the
+target that are not to or from the target, NSA will either employ an Internet Protocol filter to
+ensure that the person from whom it seeks to obtain foreign intelligence information is located
+
+Derived From: NSA/CSSM 1—52
+Dated: 20070108
+Declassify On: 20320108
+
+TOP SECRETHCOMINTUNOFORN//20320108
+
+TOP SECRETl/COMINTNNOFORNNZOSZOl08
+
+overseas, or it will target Internet links that terminate in a foreign country. In either event, NSA
+will direct surveillance at a party to the communication reasonably believed to be outside the
+United States.
+
+(S) Lead Information
+
+(S) When NSA proposes to direct surveillance at a target, it does so because NSA has already
+learned something about the target or the facility or facilities the target uses to communicate.
+Accordingly, NSA will examine the lead information to determine what it reveals about the
+physical location of the target, including the location of the facility or facilities being used by the
+potential target.
+
+(S) The following are examples of the types of lead information that NSA may examine:
+
+a) Has the target stated that he is located outside the United States? For example, has
+NSA or another intelligence agency collected a statement or statements made by the
+target indicating that he is located outside the United States?
+
+b) Has a human intelligence source or other source of lead information indicated that the
+target is located outside the United States?
+
+0) Does the lead information provided by an intelligence or law enforcement agency of
+the United States government or an intelligence or law enforcement service of a
+foreign government indicate that the target is located outside the United States?
+
+d) Was the lead information about the target found on a hard drive or other medium that
+was seized in a foreign country?
+
+c) Vi'ith whom has the target had direct contact, and What do we know about the location
+of such persons? For example, if lead information indicates the target is in direct
+contact with several members of a foreign-based terrorist organization or foreign—
+based political organization who themselves are located overseas, that may suggest,
+depending on the totality of the circumstances, that the target is also located overscas.
+
+(S) Information NSA Has About the Target's Location and/or Facility or Facilities Used by
+the Target
+
+(S) NSA may also review information in its databases, including repositories of information
+collected by NSA and by other intelligence agencies, as well as publicly available information, to
+determine if the person's location, or information providing evidence about the person’s location,
+is already known. The NSA databases that would be used for this purpose contain information
+culled from signals intelligence, human intelligence, law enforcement information, and other
+sourccs. For example, NSA databases may include a report produced by the Central Intelligence
+Agency (CIA) with the fact that a known terrorist is using a telephone with a particular number,
+or detailed information on worldwide telephony numbering plans for Wire and Wireless telephone
+systems.
+
+TOP SECRET//COhHNT//NOFORN//20320108
+2
+
+TOP SECRETNCOMINT/lNOFORN/lz0320108
+
+(S) NSA Technical Analysis of the Facility
+
+(S) NSA may also apply technical analysis concerning the facility from which it intends to
+acquire foreign intelligence information to assist it in making determinations concerning the
+location of the person at whom NSA intends to direct surveillance. For example, NSA may
+examine the following types of information:
+
+(S) For telephone numbers:
+
+a) identify the country code of the telephone number, and determine what it indicates
+about the person‘s location.
+
+13) Review commercially available and NSA telephone numbering databases for
+indications of the type of telephone being used (e. g. landline, Wireless mobile,
+satellite, etc), information that may provide an understanding of the location of the
+target.
+
+(S) For electronic communications aceounts/addresses/identiﬁers:
+
+Review NBA content repositories and internet communications data repositories (which
+contain, among other things, Internet communications metadata) for previous Internet
+activity. This information may contain network layer (e. g., Internet Protocol addresses)
+or machine identifier (e. g, Media Access Control addresses) information, which NSA
+compares to information contained in NSA'S communication network databases and
+commercially available Internet Protocol address registration information in order to
+determine the location of the target.
+
+(S) Assessment of the NonéUnited States Person Status of the Target
+
+(S) In many cases, the information that NSA examines in order to determine whether a target is
+reasonably believed to be located outside the United States may also bear upon the non-United
+States person status of that target. For example, lead information provided by an intelligence or
+law enforcement service of a foreign government may indicate not only that the target is located
+in a foreign country, but that the target is a citizen of that or another foreign country. Similarly,
+information contained in NSA databases, including repositories of information collected by NSA
+and by other intelligence agencies, may indicate that the target is a non-United States person.
+
+(S) Furthermore, in order to prevent the inadvertent targeting of a United States person, NSA
+maintains records of telephone numbers and electronic communications accounts/addresses/
+identifiers that NSA has reason to believe are being used by United States persons. Prior to
+targeting, a particular telephone number or electronic connnuni cations account/address/identiiier
+will be compared against those records in order to ascertain Whether NSA has reason to believe
+that telephone number or electronic communications account/eddiess/identiﬁer is being used by
+a United States person.
+
+TOP SECRETHCOMINTI/NOBURN/@01320108
+3
+
+TGP SECRET/lCOMINTl/NOFORNHZ0320108
+
+(S) In the absence of speciﬁc information regarding whether a target is a United States person, a
+person reasonably believed to be located outside the United States or whose location is not
+known will be presumed to be a non—United States person unless such person can be positively
+identiﬁed as a United States person, or the nature or circumstances of the person's
+communications give rise to a reasonable belief that such person is a United States person.
+
+(S) Assessment of the Foreign Intelligence Purpose of the Targetng
+
+(S) In assessing whether the target possesses and/or is likely to communicate foreign
+intelligence information concerning a foreign power or foreign territory, NSA considers, among
+other things, the following factors:
+
+a. With respect to telephone communications:
+
+a Information indicates that the telephone number has been used to communicate
+directly with another telephone number reasonably believed by the US Intelligence
+Cormnunity to be used by an individual associated with a foreign power or foreign
+territory;
+
+5 Information indicates that a user of the telephone number has connnunicated directly
+with an individual reasonably believed by the US. Intelligence Community to be
+associated with a foreign power or foreign territory;
+
+» Information indicates that the telephone number is listed in the telephone directory of
+a telephone used by an individual associated with a foreign power or foreign territory;
+
+a Information indicates that the telephone number has been transmitted during a
+telephone call or other communication with an individual reasonably believed by the
+US. Intelligence Community to be associated with a foreign power or foreign
+territory;
+
+a Publicly available sources of information (e.g., telephone listings) match the
+telephone number to an individual reasonably believed by the US. Intelligence
+Community to be associated with a foreign power or foreign tenitory;
+
+a Information contained in various NSA-maintained knowledge databases containing
+foreign intelligence information acquired by any lawful means, such as electronic
+surveillance, physical search, or the use of a pen register and trap or trace device, or
+other information, reveals that the telephone number has been previously used by an
+individual associated with a foreign power or foreign territory; or
+
+ 
+
+’ (TSI/SII/NF) The NSA knowledge databases that would be used to satisfy this factor contain fused intelligence
+information concerning international terrorism culled from signals intelligence, human intelligence, law enforcement
+information, and other sources. The information compiled in these databases is information that assists the signals
+intelligence system in effecting collection on intelligence targets. For example, a report produced by the CIA may
+include the fact that a known terrorist is using a telephone with a particular number. NSA would include that
+information in its knowledge databases.
+
+TOP SECRET/N3OMINTI/NOFORNI/ZO320108
+4
+
+TOP SECRET/lCOMINTNNOFORN/llw20108
+
+Information made available to NSA analysts as a result of processing telephony
+metadata records acquired by any lawful means, such as electronic surveillance,
+physical search, or the use of a pen register or trap and trace device, or other
+information, reveals that the telephone number is used by an individual associated
+with a foreign power or foreign territory.
+
+With respect to Internet communications:
+
+0
+
+Information indicates that the electronic communications account/address/identiﬁer
+has been used to communicate directly with an electronic communications
+account/address/identitier reasonably believed by the US. Intelligence Community to
+be used by an individual associated with a foreign power or foreign territory;
+
+information indicates that a user of the electronic communications account/address/
+identiﬁer has communicated directly with an individual reasonably believed to be
+associated with a foreign power or foreign territory;
+
+Information indicates that the electronic communications account/address/identiﬁer is
+included in the "buddy list” or address book of an electronic communications
+account/address/identitier reasonably believed by the US. Intelligence Community to
+be used by an individual associated with a foreign power or foreign territory;
+
+Information indicates that the electronic communications account/address/identiﬁer
+has been transmitted during a telephone call or other communication with an
+individual reasonably believed by the US. Intelligence Community to be associated
+with a foreign power or foreign territory;
+
+Public Internet postings match the electronic communications account/address/
+identiﬁer to an individual reasonably belieVed by the US. Intelligence Community to
+be associated with a foreign power or foreign territory;
+
+Information contained in various NSA~maintained knowledge databases of foreign
+intelligence information acquired by any lawful means, such as electronic
+surveillance, physical search, the use of a pen register or trap and trace device, or
+other information, reveals that electronic communications account/address/identiﬁer
+has been previously used by an individual associated with a foreign power or foreign
+territory;
+
+Information made available to NSA analysts as a result of processing metadata
+records acquired by any lawful means, such as electronic surveillance, physical
+search, or the use of a pen register or trap and trace device, or other information,
+reveals that the electronic communications account/addresss/identifier is used by an
+individual associated with a foreign power or foreign territory; or
+
+Information indicates that Internet Protocol ranges and/or specific electronic
+identifiers or signatures (e. g, specific types of cryptology or steganography) are used
+almost exclusively by individuals associated with a foreign power or foreign territory,
+
+TOP SECRET/lCOMINT/lNOFORN/lz0320108
+5
+
+TOP SECRETNCOMINT/WOFORN/IZOSZ0108
+
+or are extensively used by individuals associated with a foreign power or foreign
+territory.
+
+H. (S) POST—TARGETING ANALYSIS BY NSA
+
+(S//Sl) After a person has been targeted for acquisition by NSA, NSA will conduct post~
+targeting analysis. Such analysis is designed to detect thosc occasions when a person who when
+targeted was reasonably believed to be located outside the United States has since entered the
+United States, and will enable NSA to take steps to prevent the intentional acquisition of any
+communication as to which the sender and all intended recipients are known at the time of
+acquisition to be located in the United States, or the intentional targeting of a person who is
+inside the United States. Such analysis may include:
+
+For telephone numbers:
+
+6
+
+Routinely comparing telephone numbers tasked pursuant to these procedures against
+information that has been incidentally collected from the Global System for Mobiles
+(GSM) Home Location Registers (HLR). These registers receive updates whenever a
+GSM phone moves into a new service area. Analysis of this HLR information provides a
+primary indicator of a foreign user of a mobile telephone entering the United States.
+
+NSA analysts may analyze content for indications that a foreign target has entered or
+intends to enter the United States. Such content analysis will be conducted according to
+analytic and intelligence requirements and priorities. '
+
+For electronic communications accounts/addresses/identiﬁers:
+
+e
+
+Routinely checking all electronic communications accounts/addresses/identiﬁers tasked
+pursuant to these procedures against available databases that contain Internet
+communications data (including metadata) to determine if an electronic communications
+account/addless/identiﬁer was accessed from overseas. Such databases contain
+connnunications contact information and summaries of communications activity from
+NSA signals intelligence collection. The foreign access determination is made based on
+comparing the Internet Protocol address associated with the account activity to other
+information NSA possesses about geographical area(s) serviccd by particular Internet
+Protocol addresses. If the IP address associated with the target activity is identiﬁed as a
+U.S.—based network gateway (eg, a Hotmail server) or a private Internet Protocol
+address, then NSA analysts will be required to perform additional research to determine if
+the access was in a foreign country using additional criteria such as machine identiﬁer or
+case notation (NSA circuit identiﬁer) of a communications link known to be foreign.
+Such databases normally maintain information about such activity for a 12—month period.
+This data will be used in an attempt to rule out false positives from U.S.—based network
+gateways. If the account access is determined to be from a U.S.-based machine, further
+analytic checks will be performed using content collection to determine if the target has
+moved, into the United States.
+
+TOP SECRETHCOMINT/INOFORNHZ0320108
+6
+
+TOP SECRETNCOMINTHN OFORN//20320108
+
+a Routinely comparing electronic communications accounts/addresees/identiﬁers tasked
+pursuant to these procedures against a list of electronic communications accounts/
+addresses/identifiers already identiﬁed by NSA as being accessed from inside the United
+States. This will help ensure that no target has been recognized to be located in the
+United States.
+
+5 NSA analysts may analyze content for indications that a target has entered or intends to
+enter the United States. Such content analysis will be conducted according to analytic
+and intelligence requirements and priorities.
+
+(S) lfNSA determines that a target has entered the United States, it will follow the procedures
+set forth in section IV of this document, including the termination of the acquisition from the
+target without delay. In cases where NSA cannot resolve an apparent conflict between
+information indicating that the target has entered the United States and information indicating
+that the target remains located outside the United States, NSA will presume that the target has
+entered the United States and will terminate the acquisition from that target. If at a later time
+NSA determines that the target is in fact located outside the United States, NSA may re—initiate
+the acquisition in accordance with these procedures.
+
+(S) If NSA determines that a target who at the time of targeting was believed to be a non—United
+States person was in fact a United States person, it will follow the procedures set forth in section
+IV of this document, including the termination of the acquisition from the target without delay.
+
+111. (U) DOCUMCENTATEON
+
+(S) Analysts who request tasking will document in the tasking database a citation or citations to
+the information that led them to reasonably believe that a targeted person is located outside the
+United States. Before tasking is approved, the database entry for that tasking will be reviewed in
+order to verify that the database entry contains the necessary citations.
+
+(S) A citation is a reference that identifies the source of the information, such as a report number
+or communications intercept identiﬁer, which NSA will maintain. The citation will enable those
+responsible for conducting oversight to locate and review the information that led NSA analysts
+to conclude that a target is reasonably believed to be located outside the United States.
+
+(S) Analysts also will identify the foreign power or foreign territory about which they expect to
+obtain foreign intelligence information pursuant to the proposed targeting.
+
+1V. (U) OVERSIGHT AND COMPLIANCE
+
+(S) NSA‘s Signals Intelligence Directorate (SID) Oversight and Compliance, with NSA's Ofﬁce
+of General Counsel (OGC), will develop and deliver training regarding the applicable procedures
+to ensure intelligence personnel responsible for approving the targeting of persons under these
+procedures, as well as analysts with access to the acquired foreign intelligence information
+understand their responsibilities and the procedures that apply to this acquisition. SID Oversight
+and Compliance has established processes for ensuring that raw trafﬁc is labeled and stored only
+in authorized repositories, and is accessible only to those who have had the proper training. SID
+
+TOP SECRETHCOMINT/IN OFORN/l20320108
+7
+
+TOP SECRETHCOMENT/INOFORNHZ0320108
+
+Oversight and Compliance will conduct ongoing oversight activities and will make any
+necessary reports, including those relating to incidents of noncompliance, to the NSA Inspector
+General and OGC, in accordance with its NSA charter. SID Oversight and Compliance will also
+ensure that necessary corrective actions are taken to address any identified deﬁciencies. To that
+end, SID Oversight and Compliance will conduct periodic spot checks of targeting decisions and
+intelligence disseminations to ensure compliance with established procedures, and conduct
+periodic spot checks of queries in data repositories.
+
+(S) The Department of Justice (DOD and the Ofﬁce of the Director of National Intelligence
+(ODNI) will conduct oversight of NSA's exercise of the authority under section 702 of the Act,
+which will include periodic reviews by DO] and ODNI personnel to evaluate the implementation
+of the procedures. Such reviews will occur at least once every sixty days.
+
+(S) NSA will report to DOJ, to the ODNI Ofﬁce of General Counsel, and to the ODNl Civil
+Liberties Protection Ofﬁcer any incidents of noncompliance with these procedures by NSA
+personnel that result in the intentional targeting of a person reasonably believed to be located in
+the United States, the intentional targeting of a United States person, or the intentional
+acquisition of any communication in which the sender and all intended recipients are known at
+the time of acquisition to be located within the United States. NSA will provide such reports
+within ﬁve business days of learning of the incident. Any information acquired by intentionally
+targeting a United States person or a person not reasonably believed to be outside the United
+States at the time of such targeting will be purged from NSA databases.
+
+(S) NSA will report to DOJ through the Deputy Assistant Attorney General in the National
+Security Division with responsibility for intelligence operations and oversight, to the ODNI
+Ofﬁce of General Counsel, and to the ODNl Civil Liberties Protection Ofﬁcer, any incidents of
+noncompliance (including overcollection) by any electronic communication service provider to
+whom the Attorney General and Director of National Intelligence issued a directive under
+section 702. Such report will be made within ﬁve business days after determining that the
+electronic communication service provider has not complied or does not intend to comply with a
+directive.
+
+(S) in the event that NSA concludes that a person is reasonably believed to be located outside the
+United States and after targeting this person learns that the person is inside the United States, or
+if NSA concludes that a person who at the time of targeting was believed to be a non-United
+States person was in fact a United States person, it will take the following steps:
+
+I) Tenninate the acquisition without delay and determine whether to seek a Court order
+under another section of the Act. If NSA inadvertently acquires a communication
+sent to or from the target while the target is or was located inside the United States,
+including any communication where the sender and all intended recipients are
+reasonably believed to be located inside the United States at the time of acquisition,
+such communication will be treated in accordance with the applicable minimization
+procedures.
+
+TOP SECRET/K30hﬂNT/INOFORNI/ZWZG108
+8
+
+TOP SECRETI/COIVHN T/IN OF ORN//20320108
+
+2) Report the incident to DOJ through the Deputy Assistant Attorney General in the
+National Security Division with responsibility for intelligence operations and
+oversight, to the ODNI Ofﬁce of General Counsel, and to the ODNI Civil Liberties
+Protection Ofﬁcer within ﬁve business days.
+
+V. (U) DEPARTURE FROM PROCEDURES
+
+(S) If, in order to protect against an immediate threat to the national security, NSA determines
+that it must take action, on a temporary basis, in apparent departure from these procedures and
+that it is not feasible to obtain a timely modification of these procedures from the Attorney
+General and Director of National Intelligence, NSA may take such action and will report that
+activity promptly to DOJ through the Deputy Assistant Attorney General in the National Security
+Division with responsibility for intelligence operations and oversight, to the ODNI Ofﬁce of
+General Counsel, and to the ODNI Civil Liberties Protection Ofﬁcer. Under such circumstances,
+the Government will continue to adhere to all of the statutory limitations set forth in subsection
+702(b) of the Act.
+
+mate“; i)
+
+Date Eric H. Holder, Jr. w
+
+Attorney General of the United yates
+
+TOP SECRET/lCOlVHNTHNOFOREV/20320108
+9
+

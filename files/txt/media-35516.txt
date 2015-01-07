@@ -1,0 +1,537 @@
+3
+ill
+
+ll"
+:0; ..:
+
+ 
+
+Analytic Challenges from
+Active-Passive Integration
+
+ 
+
+This Briefing is Classified TOP SECRETIICOMINTIIREL USA,FVEY
+DERIVED FROM: NSAICSS Manual 1—52, Dated: 20070108, Declassify On: 20320108
+
+ 
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+
+ 
+
+ 
+
+ 
+
+I 1:71
+
+u a "5'" ation Technology
+
+    
+
+_ . Direo Grate ITD)   
+- - - - , - . Til-IIIIIII 
+
+- Working definition: Active implant copies traffic and
+
+directs a copy past a passive collector
+— Issues arise when collector is also processing passive traffic
+simultaneously
+
+° Current: Implants on network infrastructure devices,
+not user endpoints
+
+- Two types:
+— Physical/link layer:
+
+° an implant copies and shapes an entire link (E1, STMl) without
+selection; passive midpoint does selection
+
+— Network layer:
+
+° an implant performs targeted copying based on IP or
+application parameters and exfils only the targeted traffic;
+passive collector may or may not do further selection.
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+ 
+
+‘t ‘u ' "' ation Technology
+
+Dir orate I )
+
+ 
+
+.-   5"._t.;j:.:-._ 6 '
+If  w"
+
+ 
+
+ 
+
+ 
+
+- Link layer: BRAVENICKEL project (optical Muxes)
+
+Copied link is not disguised, just routed on an unused layer
+2 path that a passive collector can monitor
+
+Selection happens in the passive collector
+
+- Network layer: APEX for HAMMERMILL (routers)
+
+Router is tasked to select and exfil targeted traffic (perhaps
+all of a particular protocol)
+
+Exfil is disguised (“munged", encrypted) to avoid detection
+
+Passive collector looks for IP source/destination address in
+order to detect the traffic
+
+If further selection/processing is to be done in collector, the
+exfil must be “unwrapped” (unmunged, decrypted)
+
+Exfil can be directed to passive or to TAO by changing the
+destination address
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+I 1:?! H :A'
+H I
+
+ation Technology
+
+Dire orate D
+
+ 
+
+- iii-III  .
+
+ 
+
+ 
+
+TAO implants have collection parameters that are put
+on exfil received thru TAO backend
+— case notation, SIGAD, PDDG, classification/legal authority
+
+The passive collector has another set of these:
+
+— Site has a SIGAD, collector has a PDDG, the link it sees the
+traffic on has a case notation, and the access has a
+classification floor/legal authority
+
+Current backend repositories and presenters weren’t
+designed to expect TWO of these!!!
+
+Which gets put on the data??? And where?
+
+And (drum roll)  how do we solve this problem
+CONSISTENTLY across the enterprise?
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+ 
+
+   
+
+.' I .- ::'-.'t-.'-".":.'-. c. '
+- L  ' a I
+_ J. mint-II .. I 
+
+ 
+
+ 
+
+ 
+
+IPSEC VPN:
+
+First packets between the devices establish the parameters
+and encryption keys (IKE)
+
+Following this setup, “content” packets are encrypted and
+transmitted packet by packet (ESP)
+
+CES wants the IKE exchange and maybe the ESP (content)
+
+- TURMOIL passive capability:
+
+Passive capability to detect IKE and ESP
+Metadata record produced for every IKE exchange
+IKE for targeted VPN fonNarded directly to CES database
+
+For targeted VPN, real-time decryption is performed IF CES
+can provide a key in time
+
+Decrypted IP traffic is processed by TURMOIL apps for
+normal selection (VoIP, webmail, etc, etc)
+
+TOP SECRET/lCOMlNT/IREL USA F VEY
+
+""‘u i "5" ation Technology
+3!. sum-u"- ' . 3 ' k
+
+   
+
+ 
+
+ 
+
+ 
+
+      
+   
+  
+   
+ 
+
+TURMOIL intercepts link
+
+IKE Full take
+Metadata
+
+   
+   
+ 
+
+Send IKE - Ask
+for Keys
+
+App metadata
+& content to
+
+other <::|
+
+repositories
+
+TURMOIL apps
+
+App metad
+
+Selected Decrypted
+thtent
+
+ 
+
+ull I
+Full take IKE
+metadata to TOYGRIPPE
+
+—-—-
+
+ 
+
+ 
+
+TOP SECRET/lCOMlNT/IREL USA F VEY
+
+""‘u i "5" ation Technology
+3!. sum-u"- ' . 3 ' k
+
+   
+
+ 
+
+ 
+
+ 
+
+      
+   
+  
+   
+ 
+
+TURMOIL intercepts link
+
+IKE Full take
+Metadata
+
+   
+   
+ 
+
+Send IKE - Ask
+for Keys
+
+App metadata
+& content to
+
+other <::|
+
+repositories
+
+TURMOIL apps
+
+App metad
+
+Selected Decrypted
+thtent
+
+ 
+
+ull I
+Full take IKE
+metadata to TOYGRIPPE
+
+—-—-
+
+ 
+
+ 
+
+TOP SECRET/lCOMlNT/IREL USA F VEY
+
+  
+  
+
+l 1:1“
+
+u i ""'" ation Technology
+
+: = "Jiﬁ'H‘H‘J-“A- 3'5 MIIIIIIIII
+
+ 
+
+ 
+
+ 
+
+         
+ 
+ 
+    
+
+IKE Full take TAO
+Metadata Wrapped Exfil
+with TAO
+To other metadata
+reposhoﬂes
+
+ 
+
+ 
+
+ 
+
+<::   V(L7 Ask for Keys 3
+
+ 
+
+ 
+
+Selecte Decrypted
+C tent
+
+ 
+
+ 
+
+Full take IKE
+metadata to TOYGRIPPE
+
+-——
+
+TOP SECRET/lCOMINT/IREL USA F VEY
+
+ 
+
+ 
+
+  
+
+ 
+
+""‘u a "5" ation Technology " WV
+
+Dire orate IT)
+
+ 
+
+° Now app streams (VoIP, webmail, etc) extracted from
+the tunnel carry two case notations
+
+- Which gets put into metadata records?
+
+- Both can be carried to PWV — but what happens after
+that?
+
+° Not to mention...
+— Metadata records about VPN being stored in TOYGRIPPE
+
+— CES database storing IKE exchange
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+“a a "5'" ation Technology
+
+_!-I:- I
+
+ 
+
+ 
+
+ 
+
+ 
+
+° Current fields:
+— caseNotation — searchable field
+— sourceID — “The SIGAD of the site that provided the data"
+
+- APEX proposed extension: add
+— Agent CaseNotation
+— Agent ID (UUID)
+— Passive CaseNotation
+- Which caseNotation goes into searchable field?
+— Passive records won’t have the APEX block
+
+— TAO-collected records (returned via TAO, not passive) won’t
+have the APEX block
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+ 
+  
+
+“"‘ﬁ "‘3" ation TEchn'o Ogy ""7
+
+' .. ,. I -
+:."_:~“ 1:1? helm“. 0|
+
+ 
+
+III-IIIIIII
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+       
+   
+  
+
+Targeted VoIP Content
+
+  
+   
+  
+
+TAO Wrapped
+Exfil of
+
+Exfilled content targeted V01P
+
+w. TAO metadata
+And TURMOIL .... “I- FASCIA
+
+mm
+metadata NS 13W Nat record
+
+4 ml I
+
+—
+-
+
+ 
+
+Voice Processing Voice Repository
+
+ 
+
+TOP SECRET/lCOMlNT/IREL USA FVEY
+
+'* ‘u a "5" ation Technology WV
+
+. Director . te [TD
+
+ 
+
+° Operational (or coming soon) shaping:
+— HAMMERSTONE - TCP traffic to FORNSAT, soon SSO
+- No TURMOIL involvement
+— BRAVENICKEL — one operational flow — past 880 site
+— APEX — VPN metadata by end of June
+
+° Independent decisions being made about how to stuff
+the double metadata into legacy databases
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+'* ‘u a "5'" ation Technology It?
+
+ 
+
+Dir ctorate [TD
+
+I
+
+ 
+
+ 
+
+ 
+
+- How do you want to identify the source of your data?
+— Does CaseNotation still make sense in this new world?
+
+- You need to drive processes, systems, & databases
+toward a CONSISTENT answer
+
+° Transformed systems and tools (METAWAVE,
+Marina, etc.) need to be designed to do more than
+accommodate
+
+— do “the right thing” (whatever you the analysts think that is)
+— Let me guess — you want everything, don’t you?
+
+TOP SECRET/[COMINT/IREL USA F VEY
+
+g
+‘l||!\'
+
+   
+
+ 
+ 
+ 
+
+   
+
+'1. ,cnagngy ‘ V‘ ' V"
+Divectnrate [TD 
+
+CueSIons;'
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+V"
+ IIIIIIIIIIIIIII
+
+   
+
+,7 ,Bﬂﬂgﬂg ' V" '
+Directarate ITD .
+
+   
+

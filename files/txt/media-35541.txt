@@ -1,0 +1,102 @@
+TOR deanonymisation research (MIP) - GCWiki
+
+TOP SECRET STRAPl COMINT
+The maximum classiﬁcation allowed on GCWiki is TOP SECRET STRAPl
+COMINT. Click to report inappropriate content.
+
+ 
+
+TOR deanonymisation research
+(MIP)
+
+From GCWiki
+Jump to: navigation, search
+
+OPC—MCR Mathematical Information Processing Research Task:
+TOR deanonymisation
+
+Customer: ICTR—NE MCR lead: —
+Status: in pullthrough (started Team: _
+December 2010) (ICTR—NE)
+
+Can we denonymise TOR? In
+other words} if given some Mathematical Information
+
+trafﬁc from a TOR exit node, PTOCBSSing Research
+can we ﬁnd the IP address of
+
+ 
+
+the user associated with that ° m
+trafﬁc? - Tasks:
+0 active
+0 0 61—11
+ Research 0 in pullthrough, suspended, completed
+0 Pa ers
+A circuit tracing attack was 0 M
+
+ﬁrst considered. However Monthly noteS:
+
+ICTR—NE signatures run by
+
+- Current (open access!
+TDSD Showed that our o Pre—July 2011: web RSS
+coverage Of TOR ls too low to 0 Notes (Ere—2010 limited access!
+
+have a reasonable chance of
+doing such an attack; on
+JTRIG paths we only saw 2
+out of 82 94 potential inter—
+TOR—node links.
+
+Our processing user: brule
+Seminars
+Software
+
+l<
+ID.-
+ICD
+
+Instead we are now
+
+considering an entry—exit correlation attack. Data collected from
+ICTR—NE/JTRIG infrastructure showed that some timing structure is
+preserved between entry and exit node.
+
+10f3
+
+TOR deanonymisation research (MIP) - GCWiki
+
+The successful outcome of this entry—exit correlation attack is documented in
+
+GPO—Mg I ECH.B[61. An R package implementing the attack is available: E,
+m.
+
+The work was presented at SANAR11. The slides are here.
+
+We plan to prototype the technique in the REMATION II workshop. The
+introductory slides are here.
+
+Retrieved from '
+
+Categories: OPC—MCR MIP task | OPC—MCR in pullthrough MIP task |
+OPC—MCR MIP task for ICTR—NE | Internet Anonvmitv | The Onion Router
+
+20f3
+
+TOR deanonymisation research (MIP) - GCWiki
+
+ 
+
+ Go \ \ Search \
+
+ 
+
+TOP SECRET STRAP1 COMINT
+The maximum classiﬁcation allowed on GCWiki is TOP SECRET STRAPl
+COMINT. Click to report inappropriate content.
+
+ 
+
+30f3
+

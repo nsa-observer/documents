@@ -1,0 +1,242 @@
+1\Jr ﬁnk/“l; l//\ \IIVIIIV l t’KEL 1k] USA, IDI\
+
+(TS//SI//REL) MEMORANDUM OF UNDERSTANDING (MOU)
+BETWEEN THE
+NATIONAL SECURITY AGENCY/CENTRAL SECURITY SERVICE (NSA/CSS)
+AND
+THE ISRAELI SIGINT NATIONAL UNIT (ISNU)
+PERTAINING TO THE PROTECTION OF U.S. PERSONS
+
+l. (U) PURPOSE
+
+(TS/l/SIHREL) This agreement between NSA and The Israeli SIGINT National Unit (ISNU) prescribes
+procedures and responsibilities for ensuring that ISNU handling of materials provided by NSA ~ including, but
+not limited to. Signals Intelligence (SIGINT) technology and equipment and raw SIGINT data (i.e., signals
+intelligence information that has not been reviewed for foreign intelligence purposes or minimized) — is
+consistent with the requirements placed upon NSA by U.S. law and Executive Order to establish safeguards
+protecting the rights ofU.S. persons under the Fourth Amendment to the United States Constitution.
+
+(TS/YSI/VREL) This agreement will apply to any SIGINT raw traffic. technology, or enabling that NSA may
+provide to ISNU. This agreement applies only to materials provided by NSA and shall not be construed to
+apply to materials collected independently by ISNU.
+
+(TS//SI//REL) ISN U also recognizes that NSA has agreements with Australia, Canada. New Zealand. and the
+United Kingdom that require it to protect information associated with UK. persons, Australian persons,
+Canadian persons and New Zealand persons using procedures and safeguards similar to those applied for U.S.
+persons. For this reason, in all uses of raw material provided by NSA, ISNU agrees to apply the procedures
+outlined in this agreement to persons of these countries.
+
+(U) This agreement is not intended to create any legally enforceable rights and shall not be construed to be
+either an international agreement or a legally binding instrument according to international law.
+
+. (U) DEFINITIONS
+
+. (C /'/SI//REL) Raw SIGINT is any SIGINT acquired either as a result of search and development. or targeted
+collection operations against a particular foreign intelligence target before the information has been evaluated
+for foreign intelligence and minimized. Raw SIGINT includes. but is not limited to. unevaluated and
+unminimized transcripts. gists. facsimiles, telex. voice and Digital Network Intelligence (DNI) metadata and
+content. -
+
+. (UHFOUO) Minimization is the process used to determine whether U .8. person information encountered in
+raw SIGINT is essential to assess or understand the significance of the foreign intelligence. The NSA Special
+US Liaison Advisor Israel (SUSIAIS) should be consulted any time U.S. person information is found in raw
+SIGINT data supplied by NSA.
+
+. (U) A U.S. Person is:
+1) (U) a citizen ofthe United States;
+
+2) (U) an alien lawfully admitted for permanent residence in the United States (infonnally referred to as a
+“green card“ holder);
+
+TOP SECRISTnCOMINTUV’RFI. T0 USA. ISR
+
+ 
+
+l\/l‘ JCK [\I‘.I K \,l.\llI\ 1 [\CL I\.I k/t);\_l.31\
+
+3) (U) an unincorporated group or association. a substantial number of the members of which constitute ( l)
+or (2) above: or
+
+4) (U) a company incorporated within the United States. including U.S.-tlagged non-governmental aircraft
+or vessels. but not including those entities which are openly acknowledged by a foreign government or
+governments to be directed and controlled by them.
+
+(U) Additionally. a person known to be currently in the United States will be treated as a “US. person"
+unless that person is reasonably identiﬁed as an alien who has not been admitted for permanent
+residence. or it‘the nature of the person‘s communications or other information in the contents or
+circumstances ofsuch communications give rise to a reasonable beliet‘that such person is not a US.
+person. Any person located outside the U nitcd States will be treated as a non—US. person unless there is
+a reasonable beliefthat such person is a US. person.
+
+Ill. (U) BACKGROUND
+
+(TSr'i’Slﬂ/REL) NSA routinely sends ISN U minimized and unminimized raw collection associated with
+selectors from multiple Target Ofﬁce Primary Interest (TOPI) ofﬁces in Analysis and Production. 82 as part of
+the SIGINT relationship between the two organizations. This mutually agreed upon exchange has been
+beneﬁcial to both NSA‘s and lSNU’s mission and intelligence requirements.
+
+(TSVSlV’REL) NSA and lSN U have previously discussed the protection ot'US. Person information. in relation
+to taskingjoint collection operations. and agreed in principle to not task communications ol’ US. citizens. The
+proposal to share unminimized raw collection requires additional procedures to meet formal requirements.
+
+In March 200‘). ISNU was given an overview brieﬁng during the Raw Material conference and agreed. in
+principal to protect US. Person information. It was determined that more formalized training is needed. The
+date of this training is TBD.
+
+‘. (U) RESPONSIBILITIES
+(U) NSA shall:
+
+1) (TS) SluRFI.) Provide an annual review and training ot‘these procedures with ISN'U.
+
+2) (TSNSI/v REL) Regularly review a sample of ﬁles transferred to [SN U to validate the absence of US.
+Persons identities.
+
+(U) ISNU shall:
+
+l ) (TS//"Sl,r"r’REL) Not use any technology or equipment that is furnished under the accommodation
+procurement process to (a) intentionally target communications to. from. or about US Persons
+anywhere in the world or (b) intentionally target any person meeting the deﬁnition ol‘a US. Person
+provided in Section II above.
+
+(TS tSlr ’REI.) Not use any information provided by \SA. as raw material or otherwise. to intentionally
+intercept the cmmmlnications to. from or about a LLS. person. “Intercept” means the use of words or
+
+phrases. such as a name. tclex number or answerback. address. telephone number. email address or any
+
+'I ()l’ Sl‘CKlzl ('()l\lll\ l' Rlil T0 LISA. ISR
+
+ 
+
+III] ,\1.\ [\Il \K/Alimt l\l.l,1\l\‘,\,'\_t.3|\
+
+combination of such terms. to acquire non—public communications It applies to both electronic and
+manual acquisition. including follow—on queries of stored communications.
+
+(TS/«SIN REL} Strictly limit access to storage systems containing raw SIGIN‘T provided by NSA
+exclusively to properly cleared ISNL? personnel and to properly cleared members of Israeli Intelligence
+services who ISNU has determined have a strict need to know. Access will be limited to those
+individuals who have been trained in the aforementioned procedures.
+
+(TS/SI REL) Disseminate foreign intelligence information concerning US. persons derived from raw
+SIGINT provided by N'SA v to include any release outside ISNU in the form of reports. transcripts.
+gists. memoranda. or any other form of written or oral document or transmission -— only in a manner
+that does not identify the [1.8. person. ISN U agrees that it will shield the identities ofUS. persons both
+by name and by context. i. its disseininations shall be in such a way that a reasonably well—informed
+
+e.
+person cannot identify the US. person from the other contents ofthc dissemination.
+
+(L7 FOLIO) I1nsure that any tiles containing the identities of US. persons withheld from dissemination
+are retained for no more than one year.
+
+tTS/SI REL) Ensure that any requests from outside parties. including all ISNII customers. for release
+of such identities are referred to NSA. and that same is not released without written permission from
+NSA,
+
+(If FOUO) Destroy upon recognition any communication contained in raw SIGINT provided by NSA
+that is either to or from an official ofthe  Government. “US. Government officials“ include
+officials ofthe Executive Branch (including the White House. Cabinet Departments. and independent
+agencies); the LS. House of Representatives and Senate (members and staff): and the US. Federal
+Court system (including. but not limited to. the Supreme Court}. “Officials” include civilian and
+military members and employees perlorming the official business of these branches of government, and
+is independent of seniority or position.
+
+(If VFOIEO) Process only for purposes unrelated to intelligence against the US any communications
+contained in raw SIGIN’I‘ provided by NSA that include references to activities. policies. and views of
+US. officials.
+
+V'. (U) PROCEDURES
+
+(TS ’81 RED ISNL' must inlorm NSA immediately upon detection. via the SUSLAIS. when the identity ofa
+US. person is found in the raw SIGINT provided to ISNIE. Additionally. ISNII must provide a written report.
+via the SLISLAIS and (‘Hll’l’liWA on a quarterly basis. detailing the circumstances ofthose instances.
+
+(TS, V’Sl, REL) ISNI I must inform NSA immediately upon discovery. via the SUSIAIS. ofinadveitent
+intercept ofUS. person communications where a selector that is believed to belong to a \ alid foreign target is
+subsequently found to belong to a ILS. person. ISNI' further agrees to (lctask any and all such selectors. and to
+destroy any intercept collected as a result ofsuch selectors. whether processed or not.
+
+VI. (U) OVERSIGHT
+
+a. (’I‘S/VSI "'RITI.) ISNLT agrees to put in place appropriate management controls to ensure adherence to the above
+policies. and to prm idc NSA with an annual report describing these controls and enumerating any and all
+
+TOP SL-(‘Rtl COMINT RI:L IO LISA. ISR
+
+ 
+
+I‘ll .‘|.\ [\ll \\’\'lItVl I\II I"\'W.‘\.|WI\
+
+violations ofthe abo\ e policies regarding access. coIIcction. and dissemination. This report will be tiled with
+the SIISI-2\IS. who will send it to NSA IIQS Office of Inspector (ieneral and ISNI, Oversight and
+Compliance.
+
+(TSH’SI' ‘REI.) NSA agrees to assist ISNII with the implementation of appropriate management controls. NSA
+will also pro\ ide an annual review and training ofthese procedures to ISNI ‘.
+
+VII. ([3) RE\'IE\\' AND AMENDMENTS
+
+(II) This MOI} is effective immediately upon execution and shall remain valid until modified or rescinded by
+mutual agreement. It may be terminated unilaterally upon written notice by either party to the other.
+
+(I 7) The terms and conditions ofthis MOI? shall be reviewed at least every two years or upon request by any of
+the parties.
+
+(TS/.SIMREI.) Amendments to this MOI? wiII he in writing. mutually agreed to by both Parties. and executed
+by authorized delegates for the Israeli and ILS. (.iovernment. A copy of all amendments will be appended to
+each copy ofthis document. dated. and consecutiver numbered.
+(If) Any disputes or disagreements with regard to the interpretation ofthis MOU will be resolved through
+discussion by all parties, ’I‘he parties agree that the} will not attempt to enforce the terms of the MOI' in any
+domestic. third part}; or international court or tribunal.
+
+VIII. (U) LANGUAGE
+
+(IL r FOIIO) This agreement is executed in the English language.
+
+IX. (1.?) FUNDING
+
+a. (II) Iixcept as provided herein. this agreement does not sanction the transfer or exchange of appropriated funds
+or authorized manpower between the parties.
+
+(U) No appropriated funds are obligated by this agreement. funding is subject to availability ofappropriated
+funds. and must comply with the Anti-Deficienc) Act. 21 I,I.S.C'. § I34] and § I5 l 7.
+
+X. (LI) POINTS ()I’ CONTACT
+
+a. (TS/’81 RH.) The NSA HQS point of contact for this MOI] is the (‘ountry Desk Officer (CDO) for Israel.
+Foreign Affairs Directorate.
+
+b. (TS 'SI ’RFI.) The NRA representative to Israel is the Special IES. Special Liaison Advisor Israel (SI'SLAIS).
+
+c. (IV ’I'5()U()) 'I'he ISNLT point ofcontact is the Head of ISNIi Foreign Relations.
+
+XI. (l') SlGINATlIRES
+For the Israeli SIGIN'I‘ National [nit (lSle)
+
+I()I’ SItIRIII (‘HMIN 1‘ RH It) I.'.\.r\_ ISR
+
+ 
+
+I\Jl ,\l&l\l't \\IiHH\| [\xl x\r\ \.\.|.\x\
+
+Signature:
+
+Title: ('omnunider. lsruel' . ‘ i ulionul Unit
+J /
+
+Date of Signature:
+For the Government of the United States of America
+National Securit) .‘\geney/(‘entral Security Service (NSA/CSS)
+
+Signature:
+
+Title: Director. Nutinnul Seeurih' AUeneV
+
+ 
+
+Date ot‘Signuture:
+
+HH’SH'RI'! (UMINI RH H)! \.\.iSR
+
+ 
+

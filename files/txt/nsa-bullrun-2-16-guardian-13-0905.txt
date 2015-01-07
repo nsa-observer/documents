@@ -1,0 +1,533 @@
+TOP SECRETl/SI/lREL TO USA, FVEY D
+
+CLASSIFICATION GUIDE TITLE/NUMBER: (U//FOUO) PROJECT
+BULLRUN/2-l6
+
+PUBLICATION DATE: 16 June 2010
+OFFICE OF ORIGIN: (U) Cryptanalysis and Exploitation Services
+
+POC: (U) Cryptanalysis and Exploitation Services (CES) Classiﬁcation
+Advisory Ofﬁcer
+
+PHONE: _
+
+ORIGINAL CLASSIFICATION AUTHORITY: -
+
+1. (TS//Sl//REL) Project BULLRUN deals with NSA’s abilities to defeat the encryption
+used in speciﬁc network communication technologies. BULLRUN involves multiple
+sources, all of which are extremely sensitive. They include CNE, interdiction, industry
+relationships, collaboration with other lC entities, and advanced mathematical techniques.
+Several ECls apply to the speciﬁc sources, methods, and techniques involved. Because
+of the multiple sources involved in BULLRUN activities, “capabilities against a
+technology” does not necessarily equate to decryption.
+
+2. (U//FOUO) The BULLRUN data label (for use in databases) and marking (for use in
+hard- or softcopy documents) are for internal NSA/CSS use only. It will appear in the
+classiﬁcation line and corresponding portion markings after all applicable ODNI—
+approved markings are in place. The format is:
+Classiﬁcation// SCI Control System Markings//CAPCO-approved Dissemination Control
+Markings/BULLRUN. Examples include:
+
+0 TOP SECRET//SI//REL TO USA, F VEY/BULLRUN
+
+0 TOP SECRET//SI—ECI PIQ//ORCON/NOFORN/BULLRUN
+
+3. (U//FOUO) Appendix A lists speciﬁc BULLRUN capabilities. Details may be
+protected by one or more ECI. Contact CES CAO for access to the appendix or further
+guidance.
+
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+
+A. (U) General
+
+A]. (U) The coverterm UNCLASSIFIED
+BULLRUN standing alone
+A.2. (U//FOUO) The coverterm UNCLASSIFIED// (U//FOUO) Related ECIs
+BULLRUN in association with FOR OFFICIAL USE ONLY include, but are not limited to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+TOP SECRET//SI//REL TO USA, FVEY
+
+ 
+
+TOP SECRET//SI//REL TO USA, F VEY
+
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+NSA/CSS, SIGINT, IC, or any of APERIODIC, AMBULANT,
+the related ECIs AUNTIE, PAINTEDEAGLE,
+PAWLEYS, PITCHFORD,
+PENDLETON, PICARESQUE,
+PIEDMONT
+
+ 
+
+B. (U) Partnering/Collaboration
+
+B.l. (U) The fact that UNCLASSIFIED
+
+Cryptanalysis and Exploitation
+
+Services (CES) works with:
+
+o NSA/CSS Commercial
+Solutions Center (NCSC)
+
+0 Tailored Access Operations
+(TAO)
+
+0 Second Party partners
+
+B.2. (U//FOUO) The fact that TOP SECRET//SI// (U//FOUO) Details may be
+
+Cryptanalysis and Exploitation REL TO USA, FVEY protected by one or more ECIS
+
+Services (CES) works with: and/or the secure BULLRUN
+
+o NSA/CSS Commercial See Remarks. COI. In addition, details may
+Solutions Center (NCSC) to need to be marked with the
+leverage sensitive, BULLRUN data label.
+cooperative relationships with
+speciﬁc industry partners (U//FOUO) See paragraph #2 at
+Tailored Access Operations the beginning of this guide for
+(TAO) to leverage speciﬁc details on how to mark
+computer network BULLRUN information.
+exploitation activities
+speciﬁc U.S. Government/1C (U//FOUO) Appendix A liStS
+entities speciﬁc BULLRUN capabilities.
+
+to further NSA/CSS capabilities
+
+against encryption used in (U) coma“ CBS CA0 for
+
+network communication further information.
+
+technologies
+
+B.3. (TS//SI//REL) Details of the TOP SECRET//SI// (U//FOUO) Details may be
+
+CES collaboration with: REL TO USA, FVEY protected by one or more ECIs
+
+0 NSA/CSS Commercial at a minimum and/or the secure BULLRUN
+Solutions Center (NCSC) to C01. In addition, details may
+leverage sensitive, See Remarks. need to be marked with the
+cooperative relationships with BULLRUN data label.
+industry partners
+Tailored Access Operations (U//FOUO) See paragraph #2 at
+(TAO) to leverage computer the beginning of this guide for
+network exploitation activities details on how to mark
+Second Party partners BULLRUN information.
+
+ 
+
+ 
+
+ 
+
+speciﬁc U.S. Government/1C
+entities (U//FOUO) Appendix A lists
+to further NSA/CSS capabilities Sp€CiﬁC BULLRUN capabilities.
+
+against encryption used in
+network communication (U) Contact CES CAO for
+
+technologies further information.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+TOP SECRET//SI//REL TO USA, F VEY
+
+ 
+
+TOP SECRET//SI//REL TO USA, F VEY
+
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+
+C. (U) Capabilities & Targeting
+
+ 
+
+C. l. (U//FOUO) The fact that
+Cryptanalysis and Exploitation
+Services (CES) develops
+cryptanalytic capabilities to exploit
+the inherent vulnerabilities in the
+encryption used in unspeciﬁed
+network communication
+technologies
+
+UNCLASSIFIED//
+
+FOR OFFICIAL USE ONLY
+
+ 
+
+C.2. (U/fFOUO) The fact that
+NSA/CSS targets speciﬁc
+encrypted network communication
+technologies
+
+SECRET//SI//
+REL TO USA, F VEY
+at a minimum
+
+See Remarks.
+
+25 years*
+
+(U//FOUO) Details may raise
+classiﬁcation level and may be
+protected by one or more ECIs
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+C.3. (TS//SI//REL) The fact that
+NSA/CSS has some capabilities
+against the encryption in
+TLS/SSL, HTTPS, SSH, VPNs,
+VoIP, WEBMAIL, and other
+network communication
+technologies
+
+TOP SECRET//SI//
+REL TO USA, F VEY
+at a minimum
+
+See Remarks.
+
+25 years*
+
+(U//FOUO) Details may be
+protected by one or more ECls
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+ 
+
+C.4. (U//FOUO) The fact that
+NSA/CSS has a capability against
+the encryption used in a speciﬁc
+implementation of a network
+communication technology
+
+ 
+
+TOP SECRET//SI//
+REL TO USA, FVEY/
+BULLRUN
+
+at a minimum
+
+See Remarks.
+
+ 
+
+ 
+
+ 
+
+(U//FOUO) Speciﬁc
+implementations may be
+identiﬁed by specifying
+equipment manufacturer, service
+provider or target
+implementation.
+
+(U//FOUO) Details may be
+protected by one or more ECIs
+
+ 
+
+3
+TOP SECRET//SI//REL TO USA, FVEY
+
+ 
+
+ 
+
+TOP SECRET//SI//REL TO USA, F VEY
+
+Description of Information
+
+Classiﬁcation/Markings
+
+Reason
+
+Declass
+
+Remarks
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+C.5. (U//FOUO) Details revealing
+speciﬁc sources and methods that
+enable a capability against the
+encryption used in network
+communication technologies
+
+TOP SECRET//SI//
+REL TO USA, FVEY
+at a minimum
+
+See Remarks.
+
+(U//FOUO) Details may be
+protected by one or more ECIs
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+C.6. (TS//SI//REL TO USA,
+FVEY) The fact that NSA/CSS
+develops implants to enable a
+capability against the encryption
+used in network communication
+technologies
+
+TOP SECRET//SI//
+REL TO USA, FVEY
+
+See Remarks.
+
+(U//FOUO) Details will be
+protected by one or more ECIs.
+Contact CES CAO for further
+guidance.
+
+ 
+
+D. (U) Processing & Handling
+
+ 
+
+ 
+
+D.l. (U//FOUO) Decrypts (aka
+plaintext) obtained from
+BULLRUN capabilities
+
+ 
+
+TOP SECRET//SI//
+REL TO USA, FVEY/
+BULLRUN
+
+at a minimum
+
+See Remarks.
+
+ 
+
+ 
+
+ 
+
+(U//FOUO) Decrypts or any data
+extracted from the decrypts must
+be handled within the secure
+BULLRUN C01 and must be
+marked with the BULLRUN data
+label, unless Chief S31 (or
+designee) has approved handling
+or dissemination outside of
+BULLRUN. Reports generated
+from BULLRUN—derived
+information must not reveal
+BULLRUN details.
+
+(U//FOUO) Details may be
+
+ 
+
+4
+TOP SECRET//SI//REL TO USA, FVEY
+
+ 
+
+ 
+
+TOP SECRET/lSIl/REL TO USA, F VEY
+
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+protected by one or more ECIs.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+D.2. (U//FOUO) Cryptographic TOP SECRET//SI// 25 years* (U) Examples include algorithm
+information obtained from REL TO USA, FVEY/ parameters and passwords.
+BULLRUN capabilities BULLRUN
+at a minimum (U//FOUO) Details may be
+protected by one or more ECIs
+See Remarks. and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+ 
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+(U) 25 years*: Declassiﬁcation in 25 years indicates that the information is classiﬁed for 25 years from the
+
+date a document is created or 25 years from the date of this original classiﬁcation decision, whichever is
+
+later.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) ACRONYMS/DEFINITIONS:
+
+(U) Capabilities — For the purposes of this classiﬁcation guide, the NSA/CSS ability to exploit a speciﬁc
+technology. This may encompass acquiring and processing plaintext data and/or acquiring, decrypting and
+processing encrypted data.
+
+(U) HTTPS — HTTP trafﬁc secured inside an SSL/TLS session, indicated by the https:// URL, commonly
+using TCP port 443
+
+(U) lPSEC -- lPSec, or IP Security, is the Internet Engineering Task Force (IETF) standard for layer 3
+real-time communication security. IPSec allows two hosts (or two gateways) to establish a secure
+connection, sometimes called a tunnel. All trafﬁc is protected at the network layer. (IETF is the Internet
+Engineering Task Force, a loosely self-organized group of people who contribute to the engineering and
+evolution of Internet technologies. It is the principal body engaged in the development of new Internet
+standard speciﬁcations.)
+
+5
+TOP SECRET//SI//REL TO USA, F VEY
+
+ 
+
+(U) PPTP — Point-to-Point Tunneling Protocol is a method for implementing virtual private networks.
+The PPTP speciﬁcation does not describe encryption or authentication features and relies on the protocol
+being tunneled to implement security functionality.
+
+(U) SSH — Secure Shell. A common protocol used for secure remote computer access
+
+(U) SSL — Secure Sockets Layer. Commonly used to provide secure network communication. Widely
+used on the internet to provide secure web browsing, webmail, instant messaging, electronic commerce, etc.
+
+(U) TLS — Transport Layer Security. The follow-on t0 SSL, SSLv3 and TLSvl .0 are nearly identical.
+
+(U) VoIP — Voice over Internet Protocol. A general term for the using IP networks to make voice phone
+calls. The application layer protocol can be standards-based (e.g., H.323, SIP), or proprietary (e.g., Skype).
+
+(U) VPN — Virtual Private Network. A private network that makes use of the public telecommunications
+infrastructure, maintaining privacy via the use of a tunneling protocol and security procedures that typically
+include encryption. Common protocols include IPSEC and PPTP.
+
+ 
+

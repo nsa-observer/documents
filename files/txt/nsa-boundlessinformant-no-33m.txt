@@ -1,0 +1,444 @@
+HOW-NM” - .3131 3D Days.
+
+ 
+
+ 
+
+TOP SECRET/ISIIINOFORNI
+
+I }
+Q]
+
+ 
+
+  
+
+ 
+
+££v
+
+’ "Global Access. Operationsf r ._
+
+7 . 5w
+m’38ion nave! 3‘93?
+
+1/58
+
+ 
+
+TQP‘ SECRETﬁSIﬁNQFQRN
+
+ 
+
+. I I \
+i l "(1 a- r
+‘1' :' ' I; e 7
+his mission never SEW y 7
+
+(U//FOUO) How do we describe the
+collection capabilities and posture of
+our SIGINT infrastructure?
+
+ 
+
+TQP’ SEGRETiiSIiiNQFQRN
+
+ 
+
+ 
+
+TQP‘ SECRETﬁSWNClFQRN
+
+ 
+
+  THE OLD WAY
+
+(U//FOUO) Typical SIGINT Data Calls/Questions
+
+1.
+
+How many sites do we have in the region? How many records are they
+producing?
+What type of coverage do we have on country X?
+
+What type of collection and volume do we get out of site A? How do these
+types/volumes compare against site B? Against site C?
+
+(U//FOUO) Wavs to Get Answers
+
+1.
+2.
+
+Map out the physical location of SIGINT assets
+
+Send out a data call based on best guesses for who can answer the
+question
+
+Review static reports/spreadsheets from previous data calls
+
+Ask a 30-year SlGlNTer
+
+ 
+
+TQP’ SEGRETiiSIiiNQFQRN
+
+ 
+
+  
+
+   
+
+TQP‘ SECRETﬁSIfiNQFQRN
+
+ 1 THE N EW WAY BOUNDLESSINFORMANT
+
+  
+
+ 
+
+ 
+
+(U//FOUO) Use Big Data technology to query SIGINT collection in the cloud to
+produce near real-time business intelligence describing the agency’s available
+SIGINT infrastructure and coverage.
+
+ 
+
+(U//FOUO) Kev Questions
+
+1. How many records are collected for an organizational unit (e.g. FORNSAT) or
+country?
+
+2. Are there any visible trends?
+3. What assets collect against a specific country? What type of collection?
+4. What is the field of view for a specific site? What type of collection?
+
+(U//FOUO) Potential Users
+1. Strategic decision makers (Ieadershipteam)
+2. Tactical users (mission and collection managers)
+
+TQP’ SECRETiiSIiiNQFQRN O
+
+ 
+
+ 
+
+ 
+
+' TQP‘ SECRETﬁSIﬁNQFQRN
+
+‘ i» 
+ix 3
+In
+.-.-,.».
+.9 at. E
+
+- DETAILS
+
+(U//FOUO) Current focus is on SlGlNT/COMINT
+
+ 
+
+1)
+
+2) (U//FOUO) Review every valid DNI and DNR metadata record passing
+
+through the NSA SIGINT infrastructure
+
+a) (U//FOUO) For the Map View, only display aggregated counts of records with a
+
+normalized number or an administrative region populated.
+
+b) (U//FOUO) For the Org View, display aggregated counts of every valid record.
+
+3) (U//FOUO) Raw data, analytics, and back-end database are all conducted in
+
+the cloud (HDFS, MapReduce, Cloudbase).
+
+ 
+
+ 
+
+(U//FOUO) BOUNDLESSINFORMANT is hosted entirely on corporate services
+and leverages FOSS technology (i.e. available to all NSA developers).
+
+ 
+
+ 
+
+ 
+
+TQP’ SEGRETiiSIiiNQFQRN
+
+O
+
+ 
+
+TGP‘ SECRETiiSIiiNQFQRN
+
+ 
+
+ 
+
+ 
+
+TQP SECRETiiSIiiNQFQRN
+
+   
+  
+
+TGP‘ SECRETiiSIiiNQFQRN
+
+   
+
+ a_ ROAD MAP
+
+(U//FOUO) Add technology type (e.g. JUGGERNAUT, LOPER) to provide additional
+granularity in the numbers
+
+(U//FOUO) Integrate Site Similarity capability (i.e. Gephi Charts)
+(U//FOUO) Anomaly detection and alerts
+(U//FOUO) Other “INT” data (e.g. ELINT, FISINT)
+
+(U//FOUO) Add survey data and display delta between collected metadata
+and survey data
+
+(U//FOUO) Add in selected (vs. unselected) data indicators
+
+TQP SECRETiiSIiiNQFQRN
+
+O
+
+ 
+
+ 
+
+JL'HJ: ‘LL. . .7 iH .l  T L'- l .'I- 3:51 I: -. .4 .'l.'.' . I 3. U)-- f L. '.*:i 'l .‘:L. .-.-‘.'. -.. :1 LC.  .LJ .7‘..' '.-"'I_‘. T)! .I ':_L '-~' J. .-‘! 71-“; _‘.:|'LL. . .7 Li“ .2 '11 I. L111” H'
+
+FORMANT 
+
+ 
+
+ 
+
+ 
+
+BOUNDLESSINFORMANT — Frequently Asked Questions
+
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY
+09-06-2912
+
+ 
+
+ 
+
+1U/FOUO) Questions
+1) What is BOUNDLESSINFORMANT? What is its purpose?
+
+2) Who are the intended users of the tool?
+
+3) What are the different views?
+
+4) Where do you get your data?
+
+5) Do you have all the data? What data is missing?
+
+6) Why are you showing metadata record counts versus content?
+
+7) Do you distinguish between sustained collect and survey collect?
+8) What is the technical architecture for the tool?
+
+9) What are some upcoming features/enhancements?
+
+10) How are new features or views requested and prioritized?
+
+11) Why are record counts different from other tools like ASDF and What’s On Cover?
+12) Why is the tool NOFORN? Is there a releasable version?
+
+13) How do you compile your record counts for each country?
+
+ 
+
+Note: This document is a work-in-progress and will be updated frequently as additional questions and
+guidance are provided.
+
+1) (U) What is BOUNDLESSINFORMANT? What is its purpose?
+
+2)
+
+3)
+
+BOUNDLESSINFORMANT — FAQ
+
+(U//FOUO) BOUNDLESSINFORMANT is a GAO prototype tool for a self-documenting SIGINT system. The purpose of the
+tool is to fundamentally shift the manner in which GAO describes its collection posture. BOUNDLESSINF ORMAN T
+provides the ability to dynamically describe GAO's collection capabilities (through metadata record counts) with no human
+intervention and graphically display the information in a map view, bar chart, or simple table. Prior to
+BOUNDLESSINFORMANT, the method for understanding the collection capabilities of GAO's assets involved ad hoc
+surveying of repositories, sites, developers, and/or programs and ofﬁces. By extracting information from every DNI and DNR
+metadata record, the tool is able to create a near real-time snapshot of GAO's collection capability at any given moment. The
+tool allows users to select a country on a map and View the metadata volume and select details about the collection against that
+country. The tool also allows users to view high level metrics by organization and then drill down to a more actionable level -
+down to the program and cover term.
+
+Sample Use Cases
+(U//FOUO) How many records are collected for an organizational unit (e.g. FORNSAT)?
+
+(U//FOUO) How many records (and what type) are collected against a particular country?
+(U//FOUO) Are there any visible trends for the collection?
+(U//FOUO) What assets collect against a speciﬁc country? What type of collection?
+
+(U//FOUO) What is the ﬁeld of View for a speciﬁc site? What countriees does it collect against? What type of
+collection?
+
+(U) Who are the intended users of the tool?
+
+- (U//FOUO) Mission and collection managers seeking to understand output characteristics of a site based on what is being
+ingested into downstream repositories.
+
+o (U//FOUO) Strategic Managers seeking to understand top level metrics at the organization/ofﬁce level or seeking to
+answer data calls on NSA collection capability.
+
+o (U//FOUO) Analysts looking for additional sites to task for coverage of a particular technology within a speciﬁc country.
+
+What are the different views?
+
+(U//FOUO) Map View — The Map View is designed to allow users to View overall DNI, DNR, or aggregated collection
+posture of the agency or a site. Clicking on a country will show the collection posture (record counts, type of collection, and
+contributing SIGADs or sites) against that particular country in addition to providing a graphical display of record count
+
+Page 1 of 3
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+ 
+
+BOUNDLESSINFORMANT — Frequenth Asked Questions
+
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+
+9)
+
+BOUNDLESSINFORMANT — FAQ
+
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY
+09—06-2012
+
+trends. In order to bin the records into a country, a normalized phone number (DNR) or an administrative region atom (DNI)
+must be populated within the record. Clicking on a site (within the Site Specific View) will show the viewshed for that site —
+what countries the site collects against.
+
+(U//FOUO) Org View — The Organization View is designed to allow users to View the metadata record counts by
+organizational structure (i.e. GAO — SSO — RAM-A — SPINNERET) all the way down to the cover term. Since it’s not
+necessary to have a normalized number or administrative region populated, the numbers in the Org View will be higher than
+the numbers in the Map View.
+
+(U//FOUO) Similarity View — The Similarity View is currently a placeholder view for an upcoming feature that will
+graphically display sites that are similar in nature. This can be used to identify areas for a de-duplication effort or to inform
+analysts of additional SIGADs to task for queries (similar to Amazon’s “if you like this item, you’ll also like these” feature).
+
+(U) Where do you get your data?
+
+(U//FOUO) BOUNDLESSINFORMANT extracts metadata records from GM-PLACE post-FALLOUT (DNI ingest processor)
+and post-TUSKATTIRE (DNR ingest processor). The records are enriched with organization information (e. g. SSO,
+FORNSAT) and cover term. Every valid DNI and DNR metadata record is aggregated to provide a count at the appropriate
+level. See the different views question above for additional information.
+
+(U) Do you have all the data? What data is missing?
+
+0 (U//FOUO) The tool resides on GM-PLACE which is only accredited up to TS//SI//NOFORN. Therefore, the tool
+does not contain ECI or FISA data.
+
+0 (U//FOUO) The Map View only shows counts for records with a valid normalized number (DNR) or administrative
+region atom (DNI).
+
+o (U//FOUO) Only metadata records that are sent back to NSA-W through FASCIA or FALLOUT are counted.
+Therefore, programs with a distributed data distribution system (e.g. MUSCULAR and Terrestrial RF) are not
+currently counted.
+
+0 (U//FOUO) Only SIGINT records are currently counted. There are no ELINT or other “INT” records included.
+
+(U) Why are you showing metadata record counts versus content?
+
+(U//FOUO)
+
+(U) Do you distinguish between sustained collect and survey collect?
+
+(U//FOUO) The tool currently makes no distinction between sustained collect and survey collect. This feature is on the
+roadmap.
+
+What is the technical architecture for the tool?
+
+Click 1% for a graphical View of the tool’s architecture
+(U//FOUO) DNI metadata (ASDF), DNR metadata (FASCIA) delivered to Hadoop Distributed File System (HDFS)
+on GM-PLACE
+
+o (U//FOUO) Use Java MapReduce job to transform/ﬁlter and enrich FASCIA/ASDF data with business logic to
+assign organization rules to data
+
+0 (U//FOUO) Bulk import of DNI/DNR data (serialized Google Protobuf objects) into Cloudbase (enabled by custom
+aggregators)
+
+- (U//FOUO) Use Java web app (hosted via Tomcat) on MachineShop (formerly TurkeyTower) to query Cloudbase
+
+0 (U//FOUO) GUI triggers queries to CloudBase — GXT (ExtGWT)
+
+What are some upcoming features/enhancements?
+Page 2 of 3
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+UN CLASSIF IED//FOR OFFICIAL USE ONLY
+BOUNDLESSINFORMANT — Frequentlv Asked Questions 09-06-2912
+
+(U//FOUO) Add technology type (e. g. J UGGERNAUT, LOPER) to provide additional granularity in the numbers
+(U//FOUO) Add additional details to the Differential view
+
+(U//FOUO) Reﬁne the Site Speciﬁc View
+
+(U//FOUO) Include CASN information
+
+(U//FOUO) Add ability to export data behind any view (pddg,sigad,sysid,casn,tech,count)
+
+(U//FOUO) Add in selected (vs. unselected) data indicators
+
+(U//FOUO) Include ﬁlter for sustained versus survey collection
+
+10) How are new features or views requested and prioritized?
+
+(U//FOUO) The team uses Flawmill to accept user requests for additional functionality or enhancements. Users are also
+allowed to vote on which functionality or enhancements are most important to them (as well as add comments). The
+BOUNDLESSINF ORMAN T team will periodically review all requests and triage according to level of effort (Easy, Medium,
+Hard) and mission impact (High, Medium, Low). The team will review the queue with the project champion and government
+steering committee to be added onto the BOUNDLESSINF ORMAN T roadmap.
+
+11) Why are record counts different from other tools like ASDF and What’s On Cover?
+
+(U//FOUO) There are a number of reasons why record counts may vary. The purpose of the tool is to provide
+
+BOUNDLESSINFORMANT — FAQ Page 3 of 3
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+AFGHANISTAN - -astﬂﬂ Says
+
+1ET$I$IIIII I
+
+" 1
+
+ 
+
+ 
+
+ 
+
+* "Tan 5 Tia-3.513
+
+ 
+

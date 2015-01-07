@@ -1,0 +1,285 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I ‘ I I
+Example 01 Current Volumes and lelts a
+25.000.000.000 , — ﬂ .—
+lTotaI
+| MetaDNl
+20.000.000.000 ; ' ‘ Records
+Deleted
+H I Total Records
+I H I I I I Transferred
+15.000.000.000 v 1 I  I I .. to MARINA
+I
+IRecords in
+DPS FIVE
+Backlog
+10.000.000.000 "
+lTotal DNR
+Records
+Received by
+FASCIA
+5,000,000.000 -
+0 . I I v .
+,0 ,0 x00 «90 ~00 o0 9"» ~00 00 ,0 moo ,0 ~60 00 ,0 “90 $00 .90 00
+0‘” ,0" ,0 ,0 ,0 ,0“  ,0 ,0 as“ ,0 ,0“ ,0 .0" 0“ ,0 ,0 ,0 .0” _
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+Dupe Methodology
+
+Compare records within various time windows that share
+identical selectors and locations, specifically:
+
+LAC CellID VLR Desi gChannelID
+IMEI ESN IMSI MIN
+
+TMSI MDN CLI ODN
+
+MSISDN RegFMID CdFMID C gFMID
+
+Re gGID CdGID Re gIID Kc
+
+CdIID C gIID MSRN Rand
+
+Sres Opcode RQl XRl
+
+Q_CK1 Q_IK1 AUl NewPTMSI
+OSME DSME RTMSI PDP_Address
+
+TEID TLLI PTMSI PDDG
+
+ 
+
+ 
+
+ 
+
+28 TOP SECRET//COM|NT//REL TO USA, FVEY
+
+What is FASCIA?
+
+2 Pages - Contributed by Matt DeLong, Washington Post- Dec 04, 2013
+
+FASCIA is the National Security Agency's enormous database containing trillions of device—location records that are collected from a
+variety of sources.
+
+ 
+
+How much dill-n dots FASCIA collect? in. 1]
+
+ 
+
+ 
+
+lllllll _  llln ___l|llll|l|||| __ lll l
+
+ 
+
+ 
+
+What does FILE-CHI. collect? (p 2]
+
+ll'l.‘ -rI  'l- .I .-
+
+Ccnnpat'e records within various time windows that share
+identical selectors and locations. specifically:
+
+LAC (‘cillD VLF. DesigfhanncIID
+[MEI ESE IMSI MIN
+
+TMSI MUN CL] DUN
+
+MSISDH RegFMll} ('cIFMID C'gFMID
+ltegfill} t'dtili] Reglll} Kc
+
+t‘tiilL'} {‘gIID MSRN Rand
+
+ 
+
+ 
+
+ 
+
+(LEE:
+USE-1E
+TEID
+
+CEHID Ip E:
+
+('eIIID
+
+vLH up 2.1
+
+1VLR
+
+IM El u.- 2-.
+
+[M E ]
+
+IMSI u'p 2'.
+
+IMSI
+
+MSISDN {p 2:
+
+h-TSISDN
+
+NEH-'I’T MSI
+l’D]"_.-Hddress
+PDDG
+
+Q_IK1 AL]!
+DSME R'I‘MSI
+TLL] PTMS]
+
+DESIgi'I1ElnI1L‘1 [D
+
+Desigﬂhannel ID
+
+DesigC‘JmnneIlIJ
+
+RegFMID ("dFMID (‘th-‘IID
+
+ 
+

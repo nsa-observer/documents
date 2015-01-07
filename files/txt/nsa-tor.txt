@@ -1,0 +1,61 @@
+TOP SECRET COMINT 20291123
+
+(U//FOUO) Tor Q
+
+2006 CES Summer Program
+
+Abstract
+
+(U) Tor is an open—source anonymization program created by Roger Dingledine,
+Nick Mathewson, and Paul Syverson. Originally sponsored by the US Naval Research
+Laboratory, and now backed by the Electronic Frontier Foundation, it routes a user’s
+trafﬁc through several servers in a way that hides the user’s location.
+
+(TS / / SI) We have seen several targets using Tor. Our goal was to analyze Tor
+source code and determine any vulnerabilities in the system. We set up an internal
+Tor network to analyze Tor trafﬁc, in the hopes of discovering ways to passively
+identify it. We also worked to create a custom Tor client which allows the user ﬁner
+control.
+
+Contents
+(U) Tor overview
+(U//FOUO) Objectives
+(U//FOUO) Objectives 1 and 2
+
+(U//FOUO) MJOLNIR
+
+4.1 (U//FOUO) Building circuits . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2 (U//FOUO) Sending and receiving data . . . . . . . . . . . . . . . . . . .
+4.3 (U//FOUO) MJOLNIR GUI for Windows . . . . . . . . . . . . . . . . . .
+
+(S//SI) Tor’s X509 certiﬁcates
+5.1 (S//SI) MJOLNIR’s X609 certiﬁcates
+
+(U) Tor’s hidden services
+
+(U//FOUO) Possible attacks
+
+7.1 (TS / / SI) Denial—of—service—style attacks with MJOLNIR
+7.1.1 (TS//SI) Coil attack . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.1.2 (TS//SI) Flower attack . . . . . . . . . . . . . . . . . . . . . . . . .
+(U//FOUO) Trafﬁc analysis . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.2.1 (U) A basic Tor circuit . . . . . . . . . . . . . . . . . . . . . . . . .
+7.2.2 (S//SI) Locating known hidden services
+(S / / SI) Discovering unknown hidden services . . . . . . . . . . . . . . . . .
+(U//FOUO) Man—in—the—middle attack . . . . . . . . . . . . . . . . . . . .
+
+TOP SECRET COMINT 20291123
+
+ 
+
+
+client server
+
+ 
+
+ 
+
+ 
+
+ 
+

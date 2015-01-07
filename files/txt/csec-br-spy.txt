@@ -1,0 +1,655 @@
+http://www.theq|obeandmai|.com/news/politics/read-a—csec-document-on-braziI-that-was-first-acquired-bv—edward-snowden/article1 5699941/
+
+ 
+
+COLIN FREEZE
+
+OLYMPIANS IN THE
+HOUSE! >>
+
+. CSEC — Advanced Netwnrk Tradecraft
+
+. SD Cﬂnfercncc June 2012
+
+AND THEY SAID TO THE
+. TITANS: « WATCH OUT
+.
+
+ 
+
+[hm-HI} ['IﬂﬂaiﬂcuLiuu: TOP SE'E'RETHS]
+
+OLYMPIA 86 THE CASE STUDY
+
+C-SEC-e Netwerk Knewledge Engine
+
+. - . 1irrarie'ne data anureee
+l   Chained enrichment-e
+‘1 " Antelnated analysis
+
+Hr. mm.
+
+Brazilian lVliniethi.r ef Mines and Energy (MM 111.}
+
+New target tn develop
+
+Limited aeeeeeftarget knnwledge
+
+ 
+
+QUESTIONS
+
+0 Howr can I use the information available in
+SIGINT data sources to learn about. the target?
+
+:3 What can I find that would help me inform access
+development efforts?
+
+0 Can I automate the analytical process andfor re-
+use analytics designed for other purposes?
+
+ 
+
+OLYMPLA AT A GLANCE
+
+a_-.
+
+._.-_..
+
+In F :- i— m. Hmuur-
+
+I- 'a.-.
+
+7.-
+
+.-'|
+
+F
+
+ 
+
+OLYMPIA AT A GLANCE
+
+=1- u'r- aw-
+
+-1---:u--.----;m.-I.';LIJI.'-'-i
+
+(HI’I Inlﬂ' 'u r'l'lhlllgl. -|3|l:::-‘-ll ilk L.'.-
+Crmuuli-PEITHCII
+
+EFJF|¢H£1RH£IE 'HJIKIEHTIT;
+FF.II".r-rll "Fm-11".?!)
+
+GEES Earl-1:. TRIKE“
+
+Elfin-'I :I'.|II':!f-"'I
+Uﬁlnﬂﬂn'ﬁﬁﬁﬂ'ﬂcﬂ.» :rI.
+
+r,¢'.:|‘|.'.\llﬁ1- “ﬁrEQJna-dl
+
+Lwn' Ilr:r Ind I'm-cmlrlﬁnrillll1_-'|'Ilu'-"u
+I'utl'. Hr-rnji lmriw nnthllﬂy
+
+[I -II L Fmrrarm III'.ﬂ ‘h.rr:rIIrII,|-I. WITH-U! l‘l
+F'Ill‘h. l'luIII'IIII. «iii-15ml-
+
+PEI"! llfl'u: I fln'ulﬂl
+
+Ermin- ucnr-g:."ll:a:‘-'.:uh-:r.
+
+Run-1 III"I'I r-i'HrI- LFiJ-fﬁ'nrﬁﬂll
+
+Il'l I :nan I '.'F"."5 :I‘.l-'Il:'l'\'h1:
+
+‘TI C'II'III: F.1d I "EH31
+
+:J.I|]F:1‘I"' F'I'Ihr '1: n=-.'-.'.h: H_.
+
+TJIIIL-‘ruIFrr.r-\.I-\.|P[PWFI1I:I|':-
+'r-r1w.:I-il'-'.h:
+
+Tlllr'ullln -_r.-Cl';ail.'-1"1.'!Eﬁ M’Iil
+-.-|nl:.-:.1.I.«.n...-:-. via-arm:
+'.'r".'.'l:.-r4.-. Mammal.
+'I'WlE-uﬂ'ﬁ ‘ILI‘IJFJ'PL:
+
+-II"| :uanln-wr
+
+I-r-F-I—uHri—II-I...i—-
+
+I I
+ﬁﬁﬁ-E'ﬂuun
+
+W I: '3:- HI-Inulu -- I. I'll-$-
+
+55.": r-'.-Ll'l I . rr\-|I I‘ll .‘L'Iil l-II
+
+ 
+
+OLYMPIA — AUTOMATION
+
+II   _I ma Ih'u'urd_'l'lru5-FI
+HEW-1
+[3 .-_  .. a L“ Bruit-1A. PC‘Iu-Ill. I'EFEIFIL Elll'r Fir-.1: I.I<.T:r.'l.
+- H 5.1- M h um: FILL-ban“ lawn DltrﬂangL EMS
+II FAN-H F'ﬁﬂ'unl' ._".|'r![n [NH ".Ilgch-n r 1:! Pr.“
+1"“ -..__ _ 'h Fulﬁll F'Jih' h r-h .Hl'IE: ﬁnal-r “1-1:. Ii'J LEE-1-
+__ __.L a,  - Fru am :Larmr: amnam F'ceT'J'r
+— ' ' FI‘U .r'I r'rh ILE'I'T'FJE'. Em "Jr-u: I'l' Kiri-II
+_-'r' l-Iln'I-uﬂ L'i-r-TJ “Hut-L"; JI'.‘ I=\-|'
+_  FIImIIIJ EH: II'.|.'-\.-‘JI'-\.'..':'.. '|.:1'!|'l:."-I'
+I :: :‘II:.I-|.' "illlrrwcl Qurl'l' T L. I Q GEZIIZ‘H'IJEF lLIlDJ-‘l . U"
+a |.'|l.'hl'\-.':l'l||'\-ﬂ |I'.2'_ ' IL'LiuI-rll' .: --_I:I|-' “Jung!
+ [SeuL-LﬂII-I' :I JlucL-u'uull '- i'JHI-Jl |.-'I 'JI [Li-":5 [L'lc ’42:]: l: Elma-r
+Lﬂiﬂ‘fﬂihﬂ' -:- “Salami-:1 I.'-dr-:.-IcIII-:E":In'ru:l-L'-I'IL-IIf-t- 3-3“
+I... .1 «FI-ul.:.|1||".'|| h‘Jp _QJC'ié}. F13: Pd'lil HI— FIRM-JI-
+H ﬂu}.- ﬁatmin IIIII'I-II.'|:--IlI “EH-3'." 'i- "HI-"5r
+"-wmﬁt- '-|-+*='"~J_'*“u'| "-4- EFFL'E hm- tram-n?- run any 1':
+ C'FFI' lira-'2 ,H'I-T'L'lbf L'IIL-l Hat-qt E" i
+- _'- tiF'ﬂ'S. 'rIL Il-h. $15!. Lula iii-11L [1.5:
+' EFMMEE IUL'LH j"- -' ' 1-51-r- ‘: _T-rﬁr'Tl'S-f- l'IJL: ui'lal '5:
+“5‘13"” ‘ _ ERA-TIDE, P-IJE Ewan-3. Dlw‘m
+i'llilglrlal F-IlH1rr'C-rw  IJ“..-
+
+:IIiIJII'Igl 5.5mm" {nu-Fla.- - H
+:II irul 5-Illnlnr I=i.'II. m - r-.'
+H I'F-I'I:I :rlmun-:rlinll 5."I1'rl:inI'ﬁEFEC'MﬁfM-F‘Jnr : “1"qu
+
+:III II'III "i-rln In :L'il'lrlll
+: Mel: !t Hun-3L GpduLLI-jEHEIE-‘gJ-m
+Ii: Hut-II- H.91qu Fmglglr'fﬁ‘lfﬂcﬂ _.-'.|.'.
+"'~"}=’-'?"1 '45-'45“? '-"J|D"-'- T: rim. on: arm-um. [HEEI I.'J I._:.-.'
+'. ﬁaH-IF' Erna
+“j D".II'| EIL-m IT FW‘EEFFHT: :‘JHH ‘u'il I" u-
+L] Panel-m4 lli‘.'."13'_P.“l‘Jl.: L11 lad-
+
+ 
+
+“: Illi'l Li'.-II;rnI.' L'Jn'igxallm' [Jamar L'I'-.'|-'.: lh'ﬁ'll'p'n'ﬁr' .'J.:I.: Efﬁgy-L '.1i-'I'|?E4'I
+Bur-1m:- '|:I-: rcaring;
+
+'5'"? "II" " HmurL Hgiﬂnn -;I.1Hl'l':2:. :'| i.‘ L1H-
+
+LIriTr-anwe Piluﬁlill“ mm Para-I -:ha- '1—.--
+
+ 
+
+.1»
+
+Nuinarana ani‘iah meant and data manipulation nadea —*
+Drag and drap each nada
+
+Craata links between nodes
+Hit the Play button
+
+ 
+
+ANALYSIS — CASE STUDY
+
+What we know about the target:
+- Dﬂmain: @mmegovhr
+— 9 DNR selecturs
+
+- Very little collection
+
+ 
+
+ANALYSIS —— DETERMINE TARGET’S
+IPS AND ISPS
+
+ 
+
+. :I'CI '5
+ET
+
+ 
+
+[if
+
+I-nrer Mural-DIM!
+
+ 
+
+.-I1:'—-—§
+
+ 
+
+ 
+
+ 
+
+ 
+
+'- :n-I--I'h-n'II-IWIm.M-.umlmmum.ru1manuﬂ
+
+Imp'
+
+ 
+
+ 
+
+ANALYL L. — DETERMINE TARGET:
+IPS AND ISPS
+
+Hum-J mum
+
+. H’x 1
+HM%11 Sewers 019:1:qu I h {Emmy},
+
+- '-':.-.:' I :_|  ." 'I"! l_:-':"...'h: — Mfr-3:.” 'u"  I.r"ll:"I-1'.""C H.” .115“: '.I' FI' . . - ': 1' J‘"!" ' x H \J
+.- ' .l
+
+{chm-in.- 'rr'm- .'|.'r.'|:r rFrrI ":‘rnr-qnnul'r — :1 Mn" IIIr :‘I Riga-"uh" 1""l in" "In.'l':|rll"'\-1'!F W.” MI I
+
+{Jw 11+:1'
+
+. . {1: _ 
+Domam's [Pa Output “ I" 1
+
+Harv-IL . l.-' hum '  LJI'L' ' ' .iiaul
+"'-":_r'r|-'--- - . " ' _'. '-I.r_~o:|
+m. "1-.- ' . . I . . - . HIM-51.} :rl-n'w. . .- . . . - ﬁ'l 3"" .. -' . |-\.'|' ."|'|'.-'
+"a: 'I"'-L . ' . ' .‘w- II ' .I =|.'.-\:I1"J'_JL:!II"4I' i. '. ' ' ' " .' ".I-" .13.| ' . - . ' ' “:1L'.
+.WCEI "WI: w- l..- . ' .: ' " Jrl' lfl'ﬂ " ' : If I. Lil” ll-FlullcuL-II E34303“. -'\I':.'-T|:I. .J . . 3-" Nil - - ' ' - 4"":135
+F'mm M'FI'.'.I'I.-.'Il .11 ."rﬂ'm . ' '. jrhrHI-r 'I.'I-|-'|'Il."\-1" I- .l-!- I -: ' . ': .‘m‘ll.'1 ' 'j. ' - |-r.'|' -'- = '
+Jil' .Lnnrﬂ'm; .2: : :' '. ' 'Jul‘HJPII ' " mind-J ..L|.|'n-'u ' :  " aﬂ'ir. ..I.-d.:I-¢.li L'h'll
+' II'I'i'.J' - III  .' i ' .' «1.! "'I\:I I: III-LII'J ET '3. ': - : 'u:-\.-I.1. 2': :5 Ii‘iJ-‘E'J'
+I-nﬁmn
+
+':  - - 1 :51 -'I-.I-r| - - :- . : -' . ' - " Ii-IE'R'III-"l
+:N'J. mug :n. I I  " I_ : .'-1'\--r'r-'I'-I : . ' 'II'."."CIII =. 'i .. - " I 'I |.-.' _
+:'. u-'.nr~-"r.Ju.-.1I : ' ' :.'.l.-.'I-' -'.rI-' ' ' Hoax-4 '  ' II.|r|.'..- .'.'.|;.l 'ul-1'?.l|.|
+.I:II'.||..II "I: .4. :I ' ' ' . ' ' '."J.-':I:-":| ' ' :' :IIIL':':' " ' '- h1.'II.IL' '_L' l:..x.' .-' ' .' -' . ..I'.J .Il l2 Ll-I: ..'..'.
+'\-Il-u unil- I1'I.-.-n - I.'\-.|li-|. ' .--.-|n -' .. .  u I II.I-- ." . -'-'I 'I' II r-fJi .|".:
+. :- .._.,..,. . . .,.__._... . _; :- '_'.‘:I :-.r_--.:,.-,:_
+.13.“! ' - 'J 3'} JU'JIJ-tr: ' l ' Ll E5 I'I :'..
+_':-:--.I,h'.m- .: -' .--|:.'-'.
+II.'."J| l."".3‘ . .' -. l-'|-'|1"'
+ll-l '_ ' ' |.| "LII. " l' 3"] FL" ‘I'-:'I ' ' -. - ' u: I".|'| 3-"
+II”: |.'|'| :' '. I .I M-| . |'-'II  II-'.'| .‘.' 'I' . . . . . .'.'h'." '.-H ." :
+'-\.-"'Il HI :I..-:-I' ' h'l:|||.'i- . 1'. I31: U." .-|"'| - .. ' '. ‘2- I' '
+"I." -|u|.-.-\.l.-I | ' ' ' . ' ﬁr .
+
+' L: I.” up.
+
+ 
+
+ANALYSIS — DISCOVER TARGET’S
+PROXY
+
+ 
+
+ 
+
+ 
+
+ Highll’ j
+ _
+
+IF Hnngu
+
+HER-IUTE I‘UHT L‘nnmins HI]
+REE-“111E T'HRT I.'I'JI]I1IiI'lH :1 4i".
+
+ 
+
+ANALYSIS — DISCOVER TARGET’S
+PROXY
+
+Entity ll’:
+
+Hemutv [I’ : '~.'HI"i1'1L1:-"~
+
+Rum-ﬂu Pun ; 4-H
+
+ 
+
+ANALYSIS — DETERMINE IPS MY
+TARGET COMMUNICATES WITH
+
+rf 'l'l- IF.—
+
+wrr-w- —
+
+Stu-E III: .H-c !.' -!r|. FIN-u - Plaln'
+larrrl'rllx Ilah' '.: .lr: I'Tr - I‘ll-w.”
+{hr-:I'dllcn
+
+|:l
+
+'_-1I”.' -+n:: 53'
+
+r'..1-I:rr\- '1IF-II
+
+ 
+
+Fi-1ha nﬂ-u
+
+1'
+
+ 
+
+ 
+
+ 
+
+x
+_-l
+
+:u'
+
+_l-— _ . EHHI. Hun-ru- a...“
+'S'Ie-EL'. '-'.1i..-.-': ::; :.:::. 1 -'=,| ran -_-.-'.I-.- '1. inﬂux. '
+“"F'hm :rru-I'ul'ﬂl
+
+SHE-U. .'a uni; :d"'.
+I! 'uhlu'iJI-u =n-u-w Mn. 1.:-
+
+lul-d. I: LEI-1'»! hill-Milli .
+
+= hd:rImIL ill-urn: I:
+I. .h'. 1”].
+ha.
+H:IlrJ-m-
+
+. I I “J;
+
+' . F‘n'm tum-I-
+53“?! nil-UT'. .' [3' ': I“ :r-Hl-
+' ll'l'l I.|.'I-'.-II.|
+
+l":". Full
+PhrITu :IH III-F1
+
+.-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'7'.:.Iu-I 'u.-I :HI .-' .= IdL-L '; -a-.- |.d
+
+ 
+
+m
+
+I
+
+I" ' '
+
+. .' . .'— _.I _ ' .
+LI_'I_-I m: 7mm. liuﬁ '-I_-II§:.-f .lluge- '. ' " CLiLKI'. L'TH-‘l- $"-:-.ﬂlla=:.l
+
+Ha“.- :.—|'-'I.-
+
+ 
+
+ 
+
+ANALYSIS — DETERMINE IPS MY
+TARGET COMMUNICATES WITH
+
+ 
+
+In -_ '.I'lF'r|' an
+—
+—|
+—
+_
+—
+—
+m
+—
+—
+—'
+—
+
+{ah mum: r: .m‘tmg I." mnmn wnL-r n
+[P starting: domain ('urrivr :11" [P Liul'iliil't
+[P in {'nntnct with Starting AHN III II“ mutant!
+:‘lrnmnin (Illuntr‘y Hf [P {funtnti't
+Pnrt used h}: starting dnnmin [1’ TH 11:19 fur II"I
+
+ 
+
+ANALYSIS - IDENTIFY POTENTIAL
+MAN ON THE SIDE OPERATION
+AGAINST MY TARGET
+
+ 
+
+. I. .  , -
+, .I ._ .Drr:
+
+__._| -_ 1. - .-|_ . a
+
+TI.'. IrI-I Li'g'llal'ui; L-ulfllguldr-ar #F'E-r'llil'rlll'l'l lavish a _
+
+ht.-
+
+'H.
+
+EL-‘EI "-'|'.-T"IL- Einﬂt‘ Hypz-m-
+
+. '31 2111: |—_, '-—I . . .
+1—w_.;.r___.x=.HHﬁ—4 .. . I
+.--' .H. : I __' . . __ - __ -_—.
+I'JrZ-rt'lgll MIQEI IL" HIIU I'JEIIII i|:I:II‘.‘|EII-Jlt\u I'IIEIIJ “Ia-II'n-IE- 3'5-L'HI tun-r5 MI; -._1I::'n':-':I:||5 '.' '  ‘H‘ir-ddIIJIJb IIIEI'i nu ma: llJE-‘Ilf‘r"'J"§t-| 'al'n’.‘ l:- 5-" IE
+I I J_
+I 'l' .: +
+
+'.. i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.. .. : -1:
+man-J5- Izgpl and In Ir.-'II1 : :uramtarﬂlrc- fI=:d rial-IF: ' ': 31P'11ﬁl1lEﬁ-lf =r-'. II:- FIT-1 I
+
+ 
+
+Ulhl. :- _ -_'II--. :I. II:-. I rtl'l::- "
+in; an: L warm-1: oval-'5
+
+ 
+
+Thanh-l E Fy-I : ll’..|3‘.' Han 5 Fa; mmu'l:
+
+ 
+
+ANALYSIS — IDENTIFY POTENTIAL
+MAN ON THE SIDE OPERATION
+AGAINST MY TARGET
+
+ 
+
+ 
+
+ 
+
+Results
+
+I=I'._II11_I1r.--.~=n.-I'III7 Icing-ﬂ I.I.'-r1r':II.| 1o'IJ-rl_[II-I[ LUHIG'.1_L|'JTI
+
+Ina-:liiélj-IIIHAIM-c I.III-“II  5E3£3I'i?ic'Tt:"iIf-'_ 'I': 35'! "II-1:!
+__ 'c::;I'I.1411rI:;I1], u-su Ham:
+
+ 'f."Iaih."-.-'I'?I"-f".-':_ "-IIJIL-i"
+mum-91.: 11;:
+
+3:95: :n'.‘|:lI1.PI': magm' hr :Iraz-l
+
+I |'I:-
+
+.. '--:I--.-i|"'l-II--'|; "'l
+-.- a..;_ -_I:
+
+ASH :untart L'rJurIt '-:I:ntaI:t INF: m rItart ASH contact taunt" curItaIrt #IPE I:I:IrItaI:t " ' '- '
+F—I—I—II--—--—-—--Ip-IIT.—— -— —I.-- -—I-|I ,—.—.-—..I— -— —— - ——-. I-lg:- 
+ :  !- .:'."'.!  '5;'. - r '- -.I-
+
+-I 'II -II-
+“I .-I.I-':- -II I'
+-"I|H'
+II . I--I.-.I.III.-II-II.-- I. .-.-I.II.II.
+I”.
+- "'\II.' -
+-II. -
+'III:' -
+..|_.
+'Ir:..:
+II: .
+II|_.
+-.'.L'..:
+I-.|.'
+' "'Il-.:
+
+'I-II. -
+
+:"~:-':
+
+:I-III: -‘JI.1'II:r-I.-I=:- ZIJ-III'I;
+
+Uni-mph
+
+I_Il
+
+hr
+
+I I rli. .r
+--llr- - :I
+
+a. 3,. . ....,.
+
+IIIrII-ru --I.-- I -.-I. --I-.-
+
+I...I I I1. I ..
+I-.-: -.--I- -I-
+
+"II" I'I-- ' ' ' I'
+rI".'J:|.r'. '.'.Ir.-.-c
+I.--_-I- I - I - II
+I..._ _._..._I. .
+
+II .I': .'.III '.
+
+IJ-I .-.- - -- I
+
+r I- - I.III
+II:?I.:a'-:HI.'.-. .- .'
+
+ 
+
+ANALYSIS — DISCOVER CONTACTS OF
+MY TARGET AND COLLECTION SITES 1
+SEE MY TARGET ON
+
+: -J . I— '-
+
+_£:.:l|.— —I-_—.  . _"‘-i
+
+. __ _ﬂ I
+traaln inlr] galeclm'lg: 'll ' ' SEiE'_'.'-"ﬂll.ll:'ﬁ Ina-pan;
+
+ 
+
+ 
+
+_.
+
+A": "IL-HWI'EE nnln-ngli- l I" - '3  ‘qT
+T LT H - ' .-' _ _
+
++ ' -
+' d! FL'Llllﬂl Eur-$3 - -" - fife-“wanna r'-
+LINI :hfg'ns- "‘
+
+'1. . .-
+|I : I . -.~ . ‘_
+I . lil
+
+i-Slﬁlﬁinﬂur II“:.Ii-:|I-r=li-'J-'-'-':;LrFihr-!‘-..':~r:ﬁI:=-1r-r -:I-.q:mm!I:INI:I-a;m= [1".3...Ir._:~.b.;u;r..:.mg
+
+ 
+
+\Irplm.ﬂw:.:1r.-1rulr
+
+'m-rn- —
+IL-Iﬁ-u-l bra-«.le
+-II- uII I I-r‘1I1-r rampant-him: rr
+
+'. |-.-|--I'|--u| .- a -u--'.a- —f- — III:.'I:"!..'I! .'|l.| 'J.
+
+3'2: : a'L' :I'Irm I am;
+
+i+lﬁfew
+
+l lelentar-idea :.'I:IJ|:L1-r'
+
+I..'III
+
+ 
+
+I :4...- I“ ulrrrnl hr,- d-Iru-Iu-ra- ups-uni“-
+I Elu- -J-.Icll ‘1I.'.'Ild '.|.I:L' I'II- r.|:I+ III-:ir'lurruE-w
+
+FLJIIHH 11...: ' r "11-95 _.-'..I ﬂ.--I.'. +' ril'l-J 'I
+
+E'.-:n1:::|.'."1.'.-n:
+
+I—lI-l---‘-—|u|| nu.- 'Tr'wr-u-II run-u; MA.—
+I. wk .-.- . u"- -. .
+I. I'd"! III-II- I. In]. I! r
+
+I'uI i'rﬂc Full 1.- u
+
+ 
+
+ 
+
+ 
+
+SUMMARY
+
+Based on the information collected, I am better
+positioned to analyse my target’s telecoms
+environment.
+
+_J
+m
+
+ 
+
+ 
+
+MOVIN G FORWARD
+
+o I have identified NIX servers which have been
+targeted to passive collection by the Intel
+analysts, who are assessing the value,
+provenance, etc. of the traffic generated by the
+mail servers.
+
+or I am Working with TAO to further examine the
+possibility for a Man on the Side operation.
+
+0 Based on the network information gathered, the
+NAG has started a BPoA analysis on the MIME.
+
+ 
+

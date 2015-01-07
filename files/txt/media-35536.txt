@@ -1,0 +1,131 @@
+SCARLETF EVER - Wikilnfo
+
+The accredited security level of this system is: TOP SECRETI/SI-GAMMA/TALENT
+KEYHOLEl/ORCON/PROPINIRELIDOIREL TO USA, FVEY *
+TOP SECRETHSIHREL TO USA, FVEY
+
+(U) SCARLETFEVER
+
+From Wikilnfo
+
+8 'I This Project page has moved to the: CES 2P
+NJ PIQ Wiki
+
+l—_
+
+This page is registered as
+
+90 scarletfever —
+(URN info: alias (—. yeeha
+— )
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ This application makes use of the
+“'7 Java programming language.
+Contents In «
+I 1  Overview C++ This application makes use of the
+C++ programming language.
+I 2 (U) Development Process and
+Standards
+
+I 2.1 (U) Related Wiki Pages
+I 3 (U) History
+I 4 (U) Design
+I 5 (U) Contact Info
+
+(U) Overview
+
+(TS/ISI/lREL) SCARLETFEVER is the second LONGHAUL capability. It is a
+message driven cryptologic exploitation service for DNSC trafﬁc. Currently, the
+list of SCARLETFEVER clients includes TURMOIL, WEALTHYCLUSTER and the
+TEe. Each client can connect to SCARLETFEVER using ISLANDTRANSPORT.
+Once connected, clients send and receive XML messages encrypted using
+ISLANDHIDEAWAY.
+
+An in depth look at SCARLETFEVER can be found here. (—
+_
+
+(U) Development Process and Standards
+
+(U/IFOUO) SCARLETFEVER follows the LONGHAUL Development Process
+
+10f3
+
+SCARLETF EVER - WikiInfO
+
+KEYHOLEl/ORCON/PROPINIRELIDOIREL TO USA, FVEY *
+
+(U) Related Wiki Pages
+
+I (U/IFOUO) LONGHAUL — the Parent Project
+I (U/IFOUO) POISONNUT — a Sibling LONGHAUL Project
+
+(U) History
+
+I (TS/ISI/IREL) The SCARLETFEVER development started in July 2009.
+I (TS/lSI/IRE L) The basic high level functional design was completed in
+early September 2009.
+
+(U) Design
+
+(TS/ISI/IREL) The SCARLETFEVER team then met several times over the
+July—September time frame to reﬁne the design of the system. The output of
+those meetings was a series of BPMN diagrams and technology areas for
+further investigation. The BPMN diagrams exposed:
+
+I The ﬂow of information through the system (messages).
+I The high level components and critical elements.
+
+(TS/ISI/IREL) The messages, component and critical elements, and technology
+areas were used to generate an initial list of Engineering Change Requests
+(ECRs) for further reﬁnement and development.
+
+(TS/ISI/IREL) SCARLETFEVER also has a geographically distributed
+architecture concept which is currently being ﬂeshed out. Why is this being
+pursued?
+
+I Resume session pairing generates the bulk of the load. If this processing
+can be shifted to the edge, then:
+I Less total aggregated network trafﬁc due to collaboration with the
+core
+I Less aggregate memory requirements at any one location
+I Redundant capabilities for better total mission survivability
+
+(U) Contact Info
+
+I (U/IFOUO) SCARLETFEVER Development Team email alias: TBD
+I (Ul/FOUO) Jabber Chat Room: TBD
+
+. (U/IFOUO) LONGHAUL JSignout group —
+—
+
+Retrieved from 
+
+Categories: URN | Applications using Java | Applications using C++ | TLS |
+SCARLETFEVER | LONGHAUL
+
+20f3
+
+SCARLETFEVER - WikiInfo
+
+Derived From: SI Classiﬁcation Guide, 02—01, Dated: 20060711
+and NSNCSSM 1752, Dated: 20070108
+Declassify 0n: 20320108
+
+ 
+
+TOP SECRETMSIHREL TO USA, FVEY
+
+30f3
+

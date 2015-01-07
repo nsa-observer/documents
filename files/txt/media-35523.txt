@@ -1,0 +1,151 @@
+Virtual Private Network Transform Engine Emulator - WikiInfo
+
+The accredited security level of this system is: TOP SECRET/lSI-GAMMAITALENT KEYHOLE/IORCON
+lPROPIN/RELIDO/REL TO USA, FVEY *
+TOP SECRETHSIHREL T0 USA, FVEY
+
+(U) Virtual Private Network Transform
+Engine Emulator
+
+From Wikiinfo
+(Redirected from TEe)
+
+ 
+
+This application makes use of the
+Java programming language.
+
+ 
+
+.:
+ K \
+
+ 
+
+Contents
+
+ 
+
+I 1 (TS/IREL) Description
+I 2 (TS/IREL) Architecture
+I 3 (TS/IREL) NSA Usage
+I 4 (U/IFOUO) Contact Info
+
+(TS/IREL) Description
+
+(TS/IREL) The Transform Engine Emulator (TEe) is an event driven integration of
+VULCANDEATHGRIP (VDG) and POISONNUT. Its main focus is to emulate the VPN
+Transform Engine of TURMOIL at NSAW. Most of the VPN trafﬁc that comes to NSAW
+will be processed by the TEe. Developed by the Technology Exploitation Solution's
+
+VPN team.
+
+(TS/IREL) Architecture
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HOSTELPENALTY
+TEe Message Response
+VDG Generator POISONNUT Processor TURTLEPOWER
+POISONNUT
+
+(TS/IREL) TEe High Level Software Design
+
+(TS/IREL) The TEe takes in CollectionSessions from VDG and sends all IKE and ESP to
+POISONNUT. When a response comes back from POISONNUT, the associated File is
+
+then decrypted. The decrypt is sent to TURTLEPOWER —
+
+. Metrics are sent to both POISONNUT
+
+10f2
+
+Virtual Private Network Transform Engine Emulator - WikiInfo
+
+lPROPIN/RELIDO/REL TO USA, FVEY *
+
+(TS/IREL) NSA Usage
+(Ul/FOUO) Contact Info
+
+. Email: 831243 VPN Team (maﬂto:—)
+Retrieved from —
+
+Cate gorles: Appllcatlons usmg Java | VPN explmtatlon | TechEXp pIOJ ec ts
+Derived From: SI Classiﬁcalion Guide. 02-01, Dated: 20060711
+and NSNCSSM 1-52. Dated: 20070108
+Declassify 0n: 20320108
+
+TOP SECRETHSIHREL TO USAI FVEY
+
+20f2
+

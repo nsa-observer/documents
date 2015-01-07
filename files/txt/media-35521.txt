@@ -1,0 +1,1027 @@
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+PROFILING SSL AND ATTRIBUTING
+PRIVATE NETWORKS
+
+An introduction to FLYING PIG and HUSH PUPPY
+
+ICTR - Network Exploitation
+GCHQ
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+III? I  THIS | N r ﬂ H M A T \ nN IH FKFMZTE‘EEPLD’E:YnglTEFUZZES:;Nég?-‘MAEaWDDMATIDN LFG‘FH ATInN. @
+z _ ] TR 3 " (GCHQ?
+
+I: uuuuu NEI EEEEEEEEE AL Pﬁ nnnnnnnnnnnn ND' nnnnnnnnn av EBHm,
+T TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT UN. BUT ECHO EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE My
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Outline
+
+Two separate prototypes — FLYING PIG and HUSH
+PUPPY
+
+Both are cloud analytics which work on bulk unselected
+data
+
+FLYING PIG is a knowledge base for investigating TLSI
+SSL traffic
+
+HUSH PUPPY is a tool for attributing private network
+traffic
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+FLYING PIG - TLSISSL Background
+
+— TLSISSL (Transport Layer Security I Secure Sockets Layer)
+provides encrypted communication over the internet
+
+— Simple TLSISSL handshake:
+
+Client Server
+
+Client hello
+Server hello i
+
+Certificate
+Server hello done
+
+Mt
+
+Client key exchange
+
+Change cipher spec
+
+—)
+Handshake finished —)
+~>
+
+Change cipher spec
+Handshake finished
+
+Application data
+
+“M
+
+>
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+M . “qﬁﬂmo THIS IHrunMAnon I3 EXEMZTE:E:OE:YT:EE?gigglgzéklégi‘ﬁ-IAEWMATION LEGISLATION. W
+.o T'R a QCqu
+
+C DDDDD N5 I EEEEEEEEE AL P R D F E R T Y G W N E D A N D ' D ﬂ M A N A ﬂ E D BY 
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE UT ECHO IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII Mt
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Motivations for FLYING PIG
+
+— More and more services used by GCHQ targets are moving to TLSISSL to
+increase user confidence, e.g. Hotmail, Yahoo, Gmail, etc.
+
+— Terrorists and cyber criminals are common users of TLSISSL to hide their
+comms (not necessarily using the big providers).
+
+— A TLSISSL knowledge base could provide a means to extract as much
+information from the unencrypted traffic as possible.
+
+TOP SECRET/ISWREL TO USA, AUS, CAN, GBR, NZL
+may I  THIS I N r n n W A T l “N '3 FKFMZszzini:vrgngLFu12:::;Négrx-1AEI:N A T [F IA AN MAY F X F M D 7 l l N n r R 0 T H FR UK lNrnQMﬂTll-IN Lrﬁlﬁl ATIDN. @
+I -  D :1 CG
+
+ 
+
+C DDDDD NE I N T E L L E E T U AL P E D P E ﬁ T Y D W N E D A ND'DR MANAGED BY EBHU,
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE uN. BUT ECHO EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE M.
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+FLYING PIG implementation
+
+- Federated QFD approach
+
+— Multiple separate cloud analytics, each of which produce a QFD (Query
+Focussed Dataset).
+
+— Analytics are run once a week, on approximately 20 billion events.
+
+— A single query in the web interface results in calls to multiple QFDs,
+which are returned to the user in separate panels.
+
+— Results in:
+(a) fast queries,
+(b) easy-to-maintain modular code, and importantly
+(0) easy to add future TLSISSL QFDs.
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+W I mgr-'1;qu THIS rrrrrrrrr rm :9 FKFMZszzlni:YTlgngF112:5:énlégi‘h-1AEE‘WDDMQHFIN LFﬁlﬁL ATIDN. W
+ a TB a ., n (G
+
+C DDDDD NE I N T E L L E E T U AL P E D P E ﬁ T Y D W N E D A ND'DR MANAGED BY EBHU,
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE uN. BUT ECHO EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE My
+
+ 
+
+TOP SECRET/lSI/IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by certificate metadata
+FLYING PIEQI
+
+TLS/SSL KNOWLEDGE BASE
+
+HRA Justiﬁcation Query FLYING p"; - general 55L toolkit Query QUICK ANT - Tor events QFD
+
+Query FLYING PIG Server certificate fields to search within:
+IP 7 network 7 certiﬁcate ﬁeld ofnl'l'lall.w Subqect common name 7
+
+Query as: Ii: Client IP I] Server IP _ Both SUbJE'I‘jrgan'Sat‘D” “an”? .
+
+//‘
+
+\
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l
+or. . Network 5.... 1.2.3.5724] Egg: giggggggame “-
+- . i ' ' ° ° I
+or. 9 Server Certificate [5.0, foexarnblecom (use In for w:|dcards)] REA madu‘us
+Run Query!
+4
+1 - 5 0f 500 items 10 I 25 50 I 100 1 2 E: 4 5 6 7 b b: 1
+Server IP Host name First seen Last seen 3 Count wle Count all time
+25th Nov -
+104.105 swa.rnail.ru 2011-10-13 15:05:53.0 2011-11-25 21:11:59.0 5005553 42540739
+104.104 swa.rnall.ru 2011-10-13 17:29: 10.0 2011-11-25 21:11:55.0 6073103 36025411
+134.201 fc.ef.d4.cf.bd,a1.t00.mail,ru 2011-10—13 21:43: 10.0 2011—11-25 21:10:49.0 4049743 19360920
+13513 t005.|'nail.ru 2011-10-14 20:00:00.0 2011-11-25 21:12:05.0 3006060 14160963
+13512 t003.mail.ru 2011-10-14 20:00:00.0 2011-11-25 21: 10:40.0 2400950 12306999
+Tip 1: Right click on a row to ﬁnd all sewer [Ps that serve that certificate! Tip 1: Right click on a server IP t0
+Tip 2: Click on the disk icon in the title bar to download data in CSV format: explore 't further!
+Tip 3: Double-click on a ﬁeld to enable copy and paste! 1 - 25 of 500 1 2 E: 4
+Tip 4: Change disolaved columns (‘Basic‘ is default: 'Advanced' adds R50 Modulus and cipher suite distribution columns): Basic columns Advanced columns Items 5 6 7 > N
+7 Server IP Cert Cert
+1 - 10 of 70 Items 10 |  | 50 | 100 1 g 3: 4 a. c.  D n 5
+Full First seen Last seen Count Count all Valid from Valid to Subject common Subject Subject org issuer common Issuer Issuer org Self
+Certiﬁcate wle tlme name country name I name country name sinne
+I 25th . .
+-Nov 7 r V ' g V V .' . :IF‘ funherl
+303203CD3002|2011-09-22 2011-11-25 2952729 16630950 2011-01-31 2012-03-27 *.rrlai|.ru ru llc n‘lail.ru thawte ssl ca us thawte. inc. N
+13: 17:32 19:01:59 00:00:00 23:59:59 “7‘1 333592 1052513
+30020351309212011-09-22 2011-11-25 249925 1095222 2010-01-21 2011-02-20 *.rnai|.ru ru llc mai|.ru thawte premium 2a thawte N 191213 330212 1333517
+14:05:50 10:50:32 00:00:00 23:59:59 server ca consulting cc 13415 333599 2495915
+30320303300212011-10-07 2011-11-25 10059 30520 2011-09-25 2013-11-23 *.rn0ney.rnai|.ru ru llc mail.ru thawte ssl ca us thawte. inc. N 13417 297233 2325133
+20:29:55 10:53:40 00:00:00 23:59:59 104.15 294437 2395012
+300203513002E2011-09-23 2011-11-25 976 0517 2010-01-25 2012-01-27 mall.ru.:s Is mai|.ru.is us eduifax N 189160 160414 659037
+17:01:50 15:40:05 15:42:05 10:12:59 13477 120533 550335
+303202C03002E2011-00-22 2011-09-06 0 1402 2011-03-04 2012-03-03 rnall.ru-s:b,ru us mail.ru—sib.ru us Y 13474 113555 515159
+00: 14:21 05: 15:35 05:42: 12 05:42: 12 V 13435 112574 533512
+300204303002E2011-10-17 2011-11-25 22 1236 2011-05-27 2012-07-25 mall.ru-c0rn.ru mal|.ru-c0rn.ru thawte dv ssl ca us thawte. Inc. N 13476 113325 590093
+14:09:52 10:50:10 00:00:00 23:59:59 135 55 3779 5023
+303203C43002i2011-10-00 2011-11-25 301 1150 2010-02-13 2012-11-00 rnxlshogo-rnailru ru shogo shogoru ru shogo N 13556 3740 7353
+00:05:24 17:04:02 14:19:05 14:19:05 ‘
+300204153002E2011-11-01 2011-11-25 245 59:: 2011-09-15 2012-09-14 limosmailru ru isp.ceged:m.fr fr cegedlm N 134151 3554 3493
+07:35:53 14:25:29 11:47:51 11:47:51 63.121 2532 4337
+30320254305212011-10-14 2011-11-21 201 305 2011-10-05 2014-10-04 moder.foto.ma:l.ru ru mail.ru moderfotomailru ru ma:l.ru Y 136143 2523 9226
+10:20:34 05: 13:34 00:07:34 00:07:34 134.90 2350 9155
+300204153002E2011-10-31 2011-11-25 99 259 2011-09-15 2012-09-14 auth.mail.ru ru isp.cegeci:m.fr fr cegedim N 179.09 2227 7600
+14:14:12 15:45:50 11:47:51 11:47:51 17930 2051 7320
+135.04 1901 0442 v
+
+ 
+
+TOP SECRETIISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+if :-
+
+ml Mmou Tm: mtmmanun ll zxzmrr uunrn 1H: Fnrzncm air Im'nnmmn Mirr u 1 N IHATIEIN LzuIlLAYIcm. W
+H.” ' REFER ANY rnIA QUEHIEE TD Gal-u: cm
+1': _ CONTAINS INYELLECTUAL pRUFEHW OWNED AND D" MANAB‘D BY 
+
+9%"
+
+g
+4 TH: MATERIAL MAV a: DIBEEMINATED THROUGHOUT 1H: Recurrent nnnameamnn. eur BBHD PERMIEEIDN mus? e: ne‘mmm ran DIEEEMINATIDN amem: 1H: DROANIEA‘I’IDW.
+
+ 
+
+TOP SECRET/lSI/IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by server I
+FLYING PIG
+
+TLS/SSL KNOWLEDGE BASE
+
+HRA Justification Query FLYING PIG - general SSL toolkit
+Query FLYING PIG
+
+..» ‘ "
+
+Query QUICK ANT - Tor events QFD
+
+Prentice owner— ICTR-NE
+
+Server IP-specific panels
+
+I}: / network ,i‘ certificate ﬁe| 13414. General 1P Info 7 SSL Server certiﬁcates seen on this IP 7i
+I I ‘ . ‘ I Top 1|] ESL client geos J SSL Pattern of life «i
+Query 30:: I ,  L; 952:2: $24] Bath Ton 1|] ESL server ports 1 H‘ITP requests to this IP ﬂ
+or:  Server Certificate [ed “foexamplecom (use “In for wildcardsj] Top 10 5.5L case “Manor's 1 Top mu 33" chants ﬂ
+
+' 55L Traffic stats J
+
+Run Query!
+
+—M
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+General IP Info for server IP 184.14
+Genlpcatipn ('1’): WHOIS info (1’): AS info ( ? ): DNS ( '-’ ): Tor node i? ):
+Country: RU (M) Network: 76.0120, Network type: No results, Advertised by AS: 47764. Found within network: No results No matches
+City: MOSCOW (L) Company: Mail.Ru. Domain: mail.ru. 76.0120.
+AS name: MAILRu-ﬂs Limited liability company Mail.Ru,
+Top 10 SSL client gens (1’) Top 10 SSL server orts ? Top 10 SSL case notations (1’) 55L Traffic stats ('1' .);
+Overall Paired (approximate) For week ending 2011712723:
+D 1”” D 1”" No, unique clients = 104317.
+I 443 'ﬁ 0 ‘00 '3 100 % client-server IPs with traffic seen in both directions = 14.7%.
+so I -_I . zoomo
+% ‘ wumu
+} U
+zen-um 2111.11.11 2011.11.11 2011.11.25
+, .Llnique cIIe-nts with client’seruer .Unique clients with SEVUEV’CIIEHC .Unique clients with
+traffic only trafﬁc only bidirectional traffic
+SSL Certificates seen on this IP ( 7)
+Tip 1: Right click on a certificate to explore it furtherl
+1 -3of3items 10 | 25 1 5-0 I led 1
+First seen on thls 1P Last seen on thls IP Count wie 25th Count all time Valid from Valid to sudden common name Issuer common name
+Nov
+2911709722 13:31:05 2011711725 19:01:47 357643 2359179 201101731 00:UU:E|D 2012703727 23:59:59 *imaiiii‘u thawte SSI ca
+2011-03-08 12:23:45 2011-11-25 07:50:07 1441 1447304 2011-01-31 00:00:00 2012-03-27 23:59:59 * imailli‘u thawte SSI ca
+2011-11-16 14:13:03 2011—11—16 14: 13:03 0 1 2011-03-05 18:34:19 2014-03-05 13:34:19 "‘ ivkontakteiru go daddy secure certification authority
+Average pattern of life for a client (seeded around 55L events to this server IP) (1’ lg] ) HTI'P requests to this IP (top 100) (1’ ‘31)
+Tip 1: Filter by min. % occurrences of event: i 16:, Apply filtering Till 1: Right Click DH a SEI'VE‘V “3 t0 E><P|UFE it as an ESL Server!
+1-EliJf233rtern5 19|25i50i100 1  3 45 E- T I II o l-onfEZﬁitemS 10 EEIEDilDD 1 ‘2' 3 4 5 ti 7 ’ Di 9
+Correlated event Event [F Event Percentage Server IP Host name requested Flrst seen Last seen Count last Count all time
+port occurrences week
+“i "ant [84.14 eimail.ru 291171314 29114125 1939215 13992535
+GET I'ECIUESt '20 tDD3-mail‘ru l35>12 30 23-1 [94.14 m.mail,ru 2011-10-14 2011-11-25 89268 664189
+GET request to tens-maiI-ru 7 85-13 EU 15-1 L34,14 194,14 2o11-1o-14 2911—11—25 17425 103536
+GET request to dUicl-bf-alateumail-ru l34.253 90 14.2 194.14 auth.mail.ru 29114314 29114125 11733 70020
+GFT renliest tn mv.maii.rii lFi4.4-Fl on 139 ind. 14 mi mail m cm 1 .1 mm. 0m 1 .1 1 .9: none. eel-um V
+
+TOP SECRETIISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+Tm! iNruﬁMAYInN ll EXEMPT UNDER YHZ FREEDOM OF INI'DIIMAYID
+
+REFEI: ANY I-‘EIIA nusnles Tn EDI-II; cm
+
+CONTAIN; INTELLECTUAL F - s V
+
+THE MATERIAL MAV a: DIBEEMINATED THnquJI-IcIuT 1H: RECIPIENT URBANIEATIDN. BUT
+
+NFCIHMATICIN LKDIILATIDN.
+
+ 
+  
+    
+
+(63.39
+
+I WNT 'Rmiﬁiilﬂ
+
+r."
+
+me"
+
+I  .. 7.: .;-r—.
+£1 BCHD FERMIEEIDN MIJBT BE DETAINED FUR nIssEmNATIcIN uursm: 1'I-IE unaANIaAtinN.
+
+ 
+
+TOP SECRET/lSl/IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by server I
+F LYI N [3 Pl l3 
+
+TLS/SSL KNOWLEDGE BASE flu/“'-
+
+Query QUICK ANT - Tor events QFD
+
+HRA Justification Query FLYING p19 — general SSL tooll<it
+
+Query FLYING PIG
+[P 1' network 7’ certificate fiel
+
+Server lPsspecific panels
+
+13414 General ID info 4 SSL Server certificates seen on this 1P ./
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+  
+  
+
+ 
+
+, . - T00 10 55L client geos J 55L Pattern of life o/
+Query    [élgs‘elrggfnﬁzgj Bath $00   server 0:”;le : :Wplgeﬂogglsts‘ t0 Ithis IP :
+' . . - D EaSE no a lGFiS D ElErl S
+or; r - Server Certiﬁcate [e.g. °faexample.com (use °Jo for Wildcardsﬂ SSE Tram: stats J D
+Run Query!
+certiﬁcate ﬁeld search: %mail.y Server 1 134.14
+Utl [EQUESt 1:0 tUDl‘i-mallim 133-12 HU 25-1 184.14 m.mail.ru 2011-10-14 2811-11-25 89258 664189 A
+GET I'BClUBSt t0 tDD5rmallil'U 135-13 30 15-1 134.14 94.100.134.14 2011-10-14 2011-11-25 17426 100536
+GET request to dCI-clhfal-tap-mail-ru 134-253 BU 14-2 134.14 auth.mail.ru 2011-10-14 2011—11—25 11733 70020
+GET request to mrrnailru 194.40 EID 13.2 184.14 tel.mail.ru 2011-10-14 2011-11-25 8994 05540
+GET reqUBSt t0 myimall-VU 194-41 30 12-9 134.14 9. 2011-10-15 2011-11-25 307 616
+GET request to stat.my.rnail.ru 134.40 3|] 10.3 10414 emai 2011.10.14 2011-11-25 155 1101
+GET request to statmvmailru 194.41 EID 10.5 184.14 email, 2011-10-14 2011-11-20 110 705
+GET request to rnrirnrakerlmailiru 139.133 30 10.4 10414 maiim 2011.10.24 2011.11.23 110 357
+134.14 9.01 2011-10-15 2011—11—25 107 4-00
+Top 133 SSL clients of serve L34.14 ('1’ LED)
+Tip 1: Filter by country of client ID (eg enter nothing to avoid filtering or PKJRJIQ to ﬁlter by multiple countries): GB,US,CA,NZ,AU
+Only show clients in these countries 0 Remove clients In these countries
+If Remove clients that also act as servers
+Number of results returned: 100
+Filter! RESET
+Tip 2: Right click on a client or server IP to explore it furtheri
+172IJof IUD items 13 l 2: I SCI I 10:. 1 2 3 4 E D bl 4
+Client IP Client Client company First seen Last seen Count wfe 25th Count all time Pairing status wie 25th Pairing status all time
+country Nov Nov
+(oenf)
+.212 E30!) Telefonica_de_Espana_3AU;rima-tde.net 2911-13-16 2311-11-19 1415 50136 Server -> Client only Both directions
+.139 ES(H) R_Cable_y_Telecon‘Iunicaciones_Galicia_S.iE\.;mundo-r,2011-10-24 2011-11-25 424 726 Client -> Server only Client —> Server only
+.111 DEW) Bertelsrnann_ZI_Gran;mediai/vays.net 2311711723 2011711723 417 417 Server 5 Client only Server 7> Client only
+.56 NOW) Telenor_Ne><tel_AS:telenor.net 2311—11-21 2011-11-24 403 493 Server -> Client only Server —> Client only
+.33 IEW) Vodafone_lSP;UNKNOWN 2011-11-23 2011-11-23 330 330 30th directions Both directions
+.114 DEW) Bertelsmann_Zi_Gml:iH;mediaways.net 2011711723 2011711723 329 329 Server 7> Client only Server 7: Client only
+if Mi ' 201141-25 ‘ =. 5226.6. Bum ciir ctions Eat-nth directions
+2011-11-13 2011-11-13 296 30th directions Both directions
+.152 EC(H) Ecuadortelecom_5.A,;ecutel.net.ec 2011711710 2011711725 290 291 Both directions Both directions
+.136 IEW} Vodafone_ISP;UNKNOWN 2311-11-23 2311-11-23 196 196 Both directions Both directions
+.9 M‘r’(H) TMNET;hoIcim.net 2011-09-03 2011-11-24 109 333 Both directions Both directions
+.153 KRﬁM) QRIXNETJUNKNOWN 2011710720 2011711725 101 193 Both directions Both directions
+.53 M‘r(H) CORE_IP_DEVELOPMENT ;dancorn.com.rny 2311—11—19 2311-11-25 179 179 Both directions Both directions
+121 IRW) 5tatic-Pool-TP3jool.ir 2011-11-21 2011-11-21 177 177 Client -> Server only Client -:> Server only
+.41 IEW) UTV_PLC}utvinternet.net 2011711719 2011711720 167 167 Both directions Both directions
+.237 KRtM) KRNIC;ktcLi.0r.kr 2311-39—33 2011-11-25 150 1337 Both directions Both directions
+.33 BR(M) C0mite_Gest0r_da_Internet_n0_Brasil;ampernet.com 2011-11-23 2011-11-25 145 145 Server -> Client only Server —> Client only
+.37 KRﬁH) Korea_Telecom;postman.co.kr 2011710716 2011711725 143 161 Both directions Both directions
+.155 KRtH) K0rea_Telec0rn;kornet.net 2311-13—24 2011-11-24 133 533 Both directions Both directions
+.1 IEW) Vodafone_[SP;UNKNOWN 2011-11-13 2011-11-13 137 153 Client -> Server only 30th directions
+
+ 
+
+ 
+
+  
+ 
+
+     
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I WT 'Rmiﬁlllﬂ
+
+'«l' .i
+‘V A
+
+5%"
+
+TOP SECRETIISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+D MFT N T I UNFCIHMATICIN LKDIILATIDN.
+RUFER'I'I' uwmao AND on MANAEED av
+
+Thll INFUHMAYIDN ll EXEMPT UNDER 7H: FREEDOM OF INFORMAYI
+HEFEE ANY FUIA QUERIES TD EEHU D
+
+cum-ram; INTELLECTUAL
+
+THE MATERIAL MAV BE DIBEEMINATED THRuui’JHDuT YHE RECIPIENT URBANIEATIDN. BUT BCHD FERMIEEIDN MUST BE OBTAINED FUR DISEEMINATICIN uufslnE ‘I‘HE URBANISA‘I'IDN.
+
+(.339
+
+ 
+
+ 
+
+TOP SECRET/lSl/IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by client I
+FLYI N G PI [3 
+TLS/SSL KNOWLEDGE BASE im’m
+Query QUICK ANT -an Events QFD Prototype owner— ICTR-NE
+
+HRA Justiﬁcation Query FLYING pp; - general 55L toolkit
+Query FLYING DIG Client lP—specific panels
+General ID info 4
+
+IP f network 1' certificate field .12?
+SSL Servers viSIted 4
+
+Query as: o Clienth : Server ID : Both
+or: : Network [e.g.1.2:3.0f24]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+  
+
+ 
+
+    
+
+   
+   
+
+  
+  
+ 
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+  
+
+ 
+
+   
+  
+
+ 
+
+or: Server Certificate [ed °foexamolecorn (use % for wildcardsl]
+Run Query!
+Eertiﬁmte field search: %mail.ru Server IP: 194.1 tum: IE; .122
+General 1P info for client [P .127
+Geolocation ( ? ): WHOIS info (1’ ): us info ( ? ): DNS ( ? ): Tor node (? ):
+Country: KR (M) Network: .0120. Network type: No results. Advertised by AS: 4756. Found Within network: .0.IJI13. No results
+City: SEOUL (L) Company: Korea Telecom. Domain: groupon.kr: A5 name: KIXSEASEKR Korea Telecom:
+Ton 1oo 55L servers visited by .127 ( 2 m):
+Tip 1: Filter by country of server IP (eo. enter PK to filter by Pakistan only or PK,IR,IQ to filter by multiple countries): Only show servers in these countries Remove servers in these countries RESET
+Tip 2: Right ciick on a client or server IP to explore it furtherl
+leElofBitems 10 I 25 I 50 | 133 1
+Client 1P Server IP Server Server company info (from GEOFUSIDN export) First seen Last seen Count wle 25th Count all time Pairing status wle Pairing status all time
+oountrv Nov 25th Nov
+(conf)
+.127 104.14 RU(M) Mail.Ru;maiI.ru 04700711 02:23:55 251111 13:47:52 325 2266 Both directions Both directions
+.127 104.17 RUUVI) Mail.Ru;mail.ru 04-09-11 02:13:40 25-11-11 13:23:36 299 2207 Both directions Both directions
+.127 13416 RUtM) Mail.Ru;n‘Iail,ru 03—09-11 05:18:48 25-11-11 10:15:23 269 2240 Both directions Both directions
+.127 184.15 RUUU'I) Mail.Ru;rnai|.ru 03709711 03:20:2? 25711711 11:49: 213 2354 Both directions Both directions
+—.127' .131207 0E(M) EZBBBK915675raoidsh-M _  14—11-11IZI2:3Q:15 14-11-11 02:39: _ 50 31 No traffic‘rvy’e 25th Nov Client -> Server only
+.127 213.37 NL(L) Mozilia_Corporati W ‘F‘ "W J! oe-1o-11 05:07:45 oe-u-n 22:38:50 0 B No traffic w/e 25th Nov Server -> Client only
+.127 181.127 RUtM) Mail.Ru;maiI.ru 16710711 19:05:16 1311711 21:31:31 0 13 No traffic wie 25th Nov Client 7> Server onlv
+.127 191213 RUtM) Mail.Ru;mail,ru 24—10—11 17:53:21 24—10-11 17:53:21 0 1 No traffic wv‘e 25th Nov Client -> Server only
+
+ 
+
+ 
+
+ _ TOP SECRETIISIIIREL TO USA, AUS, CAN, GBR, NZL
+m I minim Trill INroaMAnoN ll EXEMPT UNDER YHZ Fnczoon or INrunMAYIcm Ars'r BDDD [FDIAI AND MAY I: Esze'r uuoza a'rncn UK iNraRMA‘rIoN LEDIILATION. W
+«.m T R _ (Gm;
+
+FlEFEe ANY l-‘EIIA QUERIES Tn EDI-II; D
+cum-ram; INTELLECTUAL
+THE MATERIAL MAV a: DIBBEMINATED THRDUBHDLIT YHE RECIPIENT oeuANiaATioN. our BCHD FERMIeeroN MUST BE DETAINED rue Dissemination uursmr: 'I'HE DRGANIEATIDN.
+
+u-
+
+0%"
+
+.i
+A
+
+ 
+
+TOP SECRET/lSl/IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by network range
+FLYING Flee—t.
+
+TLS/SSL KNOWLEDGE BASE 
+
+HPA Justification Query FLYING p“; - general SSL toolkit Query QUICK ANT - Tor events QFD pmmt‘me CI""‘H‘E'ri—ICTR'NE
+Query FLYING PIG Network—specific panels
+[P I network 1' certificate field .0124 General "BtWDrk iniﬂ J
+Query as:  Client ID ' Seruer ID ' Both ESL Chants present '” "EtWWk "
+Dr.  Network [élg‘ 123W?“ ESL Servers present In network ./
+HTTP requests to [P5 In network I
+
+or: Q- Server Certiﬁcate [e.g. °fnexample.:om (use °fu for wildcerdsﬂ
+
+ 
+
+ 
+
+ 
+
+               
+
+ 
+
+ 
+
+ 
+
+ 
+
+Run Query!
+Ear-Hams ﬁeld seal-m: inn-lam EEI’VEr 1P: 194,15] giant IP: .1211 :-
+A
+Geolocation ( ? ): WHOIS info (1’ ): AS info ('2‘ ): DNS (5’ ):
+Country: KR (M) Network: No results. Network type: No results. Advertised by AS: No results. Found within network: No results. No results
+City: SEOUL(L) Company: No results. Domain: No results, #5 name: No results.
+Tip 1: Right click on a client IP to explore It further!
+17206f57iterns 1l2|25lSDlLDD 1 3 3 p n e
+Client IP Client company info (from GEOFUSION export) First seen Last seen Total 55L traffic wle Total SSL traffic all Num. unique servers Num. unique servers
+25th Nov time contacted wle 25th contacted all time
+NouI
+:9 Korea_Telecom;mailplug.co.l<r 2011—09—04 2011-09-04 D 1 U 1
+.23 Korea_Tele:om;mailplug.co.kr 2011-10-26 2011-11-23 1 7 1 3
+. ‘ orea_TeletorI1 , 7 2011-10-22 2011-10-22 ‘0 :1 *0 =1
+.32 Korea_Telecom ' " 2011711716 2011711718 1 2 1 2
+.36 Korea_Telecom;mailplug.co.l<r 2011-11—19 2011-11-22 7 7 1 1
+.33 Korea_Telecom;mailpluQ-co.kr 2011-10-14 2011-11-16 0 21 0 5
+.41 KoreaiTelecom;maIlplug.co.kr 2011-10-24 2011-10-26 0 2 0 2
+:42 Korea_Telecom;mailplug.co.l<r 2011—10—21 2011-10-21 D 1 U 1
+.57 Korea_TeleI:om;ma|lplug.co.kr 2011-11-09 2011-11-11 D 3 D 2
+.62 Korea,Telecom;mailplug.co.l<r 2011-09-09 2011-09-09 D 1 U 1
+:64 Korea_Telecom;mailplug.co.l<r 2011—10—12 2011-10-12 D 1 U 1
+.7I] Korea_Telen:om;mailplug.coJcr 2011710708 2011710731 D 13 D 5
+.76 l<orea_Te|ecom;mailplug.co.|<r 2011-10-14 2011-11-07 D 14 D 1
+:32 Korea_Telecom;mailplug.co.l<r 2011-11-15 2011-11-15 D 2 U 1
+.86 Korea_Tele:om;mailplug.co.l<r 2011711719 2011711713 1 1 1 1
+.B?‘ Korea_Telecom;ma|lplug.co.l<r 2011-11—12 2011-11-12 D 1 D 1
+.93 Korea_Te|ecom;mailpluQ-co.l<r 2011-11-04 2011-11-04 0 2 0 1
+.99 KoreaiTelecom;maIlplug.co.kr 2011-10-25 2011-11-21 3 12 2 5
+.103 Korea_Telecom;mailplug.co.l<r 2011—09—05 2011-09-05 0 1 U 1
+.105 Korea_TeleI:om;mailplug.co.kr 2011-11-03 2011-11-03 D 1 D 1
+Tip 1: Right click on a server In to explore Itfurtherl Tip 1: Right click on a server IP to explore it as an SSL server!
+1-30f3items 1t|25|so|;oo 1 1—10f1items IUIEElEDlLDD 1
+Server IP Server company info (from Last week w Paired Num. Num. Server IP Host name requested First seen Last seen Count last Count all time
+GEOFUSION export) seen: clients that unique unique week
+week clients that I:_l|ents all .40 I40 2011:1030 20114050 0 5
+week time
+.18 KoreaiTele:orn;mailp|ug.co,l<r 2011711711 00 1 1
+.205 test 2011—12—09 0.0 l l v
+
+ 
+
+‘ TOP SECRETIISIIIREL TO USA, AUS, CAN, GBR, NZL
+m mmou Tnll INroRMAnuN ll “(MP1 UNDIH YHK FRIKDDH cur lNI'DIIMAYIDN Am BDDD [FDIAJ AND MAY I: IXKMFT uuozn o‘n-izn UK uNrcuIMA'rIoN LzollLAYIcm. W
+«.m TIR (cm;
+
+REFER ANY FDIA QUEHIEE TD EEHQ DN
+
+QQ‘ V  _ CONTAINS INYELLECTUAL FRUFEFW OWNED AND DH MANAGED BY -
+4 THE MATERIAL MAV BE DIBEEMINATED THRDUBHDUT ‘HE REGIFIENY URBANIEA‘I’IDH. BUT BCHD PERMIEEIDN MUST BE OBTAINED FDR DIBEEMINATION OUTSIDE 1‘HE DROANIEA‘I’IDH.
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Cyber applications
+
+How the attack was done:
+- Diginotar certificate 
+authority compromise : ‘
+
+— Private keys of legitimate certificate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' ‘ ' MITM
+authority, Diginotar, stolen by 
+IL
+hacken
+— FLYING PIG was used to Identify a
+FIS usmg them to launch a MITM 
+‘ ' ‘ ' —Gu ‘ le r _( uus‘. Ruuler —Tm liraifi:
+against their own cutlzens.  ‘*
+242
+Lugs Ir'ln mule-r and with main. lcmte for large! Ildfﬁc,
+FLYING PIG screenshot showing fake certificate:
+308204303082039 2011-09-16 2011-10-20 El 3154 2011-09-05 2012-09-05 * :gonglemm 05 google inc zscaler us www.25calermm‘r
+20:54:29 17:14:05 06:05:49 06:15:49
+3002052A3002049 2011-10-11 2011-11—25 5 1214 2011-09-20 2012-09—20 * :googlemm goagle internet authority N
+16:56:45 15:41:29 06:07:12 06:17:12
+300204523002030 2011-11-11 2011-11-25 26 572 2011-11-02 2012-11-02 * gnuglemm us guugle in: zsnaler us wwwzscalermm‘r
+02:30:27 06:20:50 21:00:36 21:10:36
+3002020A30020242011-11-01 2011-11-25 71 547 2010-09-02 2011-09-02 *googlewm us guogle inc sﬁbluecoatsficorpmrn us is N
+01:23:06 17:40:50 07:56:20 00:06:20
+300204303002039 2011-00-25 2011-10-13 0 467 2011-00-12 2012-00-12 * :gonglemm us google inc zscaler us www.250aler.cnm‘f
+13:03:12 07:51:24 03:49:02 03:59:02
+30320523303204132011-09-19 2011-00-26   0011-07-10 32013-01439 itgnuqlemm ; ignogleinc ' ginotarpuhlic ca 2025  ﬁdiginotar
+321:04:42 09:51:50   09:06:30 09:06:30     
+300204M30020392011-11-00 2011-11-25 173 440 2011-09-20 2012-09-20 *googlelcnm us gnogle in: lorealinternetbrowsing fr loreal N
+09:35:22 15:00:37 06:07:12 06:17:12
+30320464308203C 2011-11-17 2011-11-25 436 438 2011-11-10 2012-11-10 * :googlemm us google inc zscaler us wwwzscalermm‘r
+
+ 
+
+ 
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+WT R moo Tm: INFUHMATIDN ll EXEMPT UNDER 1H: FREEDOM or INronMAYInN F M MFT u 'r I: mr MATION LEDIILATION. W
+“W J m HEEEH ANY rum nuEnIEs Tn EEHD nu 
+‘V L
+
+b
+
+an
+
+Cum-rams INTELLECTUAL F .
+THE MATERIAL MAV a: DIBBEMINATED THRuuaHuuT THE RECIPIENT URBANIEATIDN. BUT ECHO FERMIsaIuN MUST BE DETAINED FUR DISBEMINATIGN aursmr: THE DRGANIEATIDN.
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Cyber applications
+
+- Other Cyber applications:
+
+— Multiple examples of FIS data exfiltration using SSL have been found using
+FLYING PIG.
+
+— In particular, certificates related to LEGION JADE, LEGION RUBY, and
+MAKERSMARK activity were found on FLYING PIG using known signatures
+
+— These were then used to find previously unknown servers involved in
+exfiltration from US companies.
+
+— FLYING PIG has also been used to identify events involving a mail server used
+by Russian Intelligence.
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+W I mgr-'1;qu THIFI rrrrrrrrr FIN In FKFMZszzlni:YT:EITFFu:::::;Nég?-‘MAEI:WDMQTIHN IFGIEL ATIDN. W
+ a TB a .3 n (G
+
+C DDDDD NE I N T E L L E E T U AL P E D P E ﬁ T Y D W N E D A ND'DR MANAGED BY EBHU,
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE uN. BUT ECHO IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII My
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Identification of malicious TLSISSL
+
+- Can identify malicious TLSISSL using signatures if known
+
+- However this approach generally does not allow discovery of new threats
+
+- Alternative is to use “behavioural” features to automatically identify potentially
+malicious traffic
+
+- Features currently being investigated include:
+
+— Certificates with same subject but different issuers — may be indicative of
+Diginotar—style attack
+
+— Beaconing in TLSISSL (indicative of botnetsIFlS implants)
+— Number of client cipher suites offered
+
+— Repeated identical random challenges
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+az-wT Rﬁvﬁi‘mo
+
+€6ch
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+HUSH PUPPY — motivation
+
+- Much private network traffic seen but previously discarded
+- If traffic could be attributed, potential high value — close access
+- HUSH PUPPY is a bulk private network identification Cloud analytic
+
+- Basic idea is to look for the same TDI being seen coming from a
+private address and then from a public address within a short time
+
+- The private traffic can then be attributed to the owner of the public
+address
+
+0 Works for SSE & COMSAT
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+W I mgr-'1;qu T rrrrrrrrrr cm I s r x r METEEElloi:VT:EITF11:25:;Négi‘h-1AgalWDMnTIDN LraisLAT-DN. W
+ a TB a ., .3 (G
+
+C DDDDD NE I EEEEEEEEE AL P E D P E ﬁ T Y D W N E D A ND'DR MANAGED BY EBHU,
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE UN. BUT ECHO EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE My
+
+ 
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+HUSH PUPPY — example
+
+Internet
+
+   
+     
+ 
+ 
+    
+   
+
+ 
+
+1.2.3.4
+
+Y cookie;
+fred@yahoo.com
+
+ 
+
+ NAT or
+proxy
+
+ 
+
+ 
+
+ 
+
+Private
+
+network request to Yahoo
+
+Y cookie:
+fred@yahoo.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E 192.168.02
+
+TOP SECRETIISIHREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+nI-wT Rﬁv'rijil'mo
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Other HUSH PUPPY datasets
+
+HUSH PUPPY also makes use of Yahoo T-cookies to do correlations
+A T-cookie contains the IP address of the client as Yahoo sees it
+
+Hence a T cookie coming from a private IP can give the public IP of the
+NAT or proxy
+
+In addition, HUSH PUPPY uses the following data to help verify results
+
+- Kerberos & Lotus Notes: Domains, organisations, departments, countries,
+machine names, user names
+
+- HTTP: Heuristic detection of Intranet web servers
+- SSL: Issuers, subjects, countries
+- SMTP: From & to domains
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+T rrrrrrrrrr cm- s r x r M p 1 I J N o r n r HF F DDDDDD or INFORMATION ACT 2000 [FDIAl AND Maw a: r DDDDDDDDDDDD r32 LIK erDMnnnn LraisLAT-DN.
+RErER any FDIA a uuuuuu ta EEHD aw
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Results — what do we find?
+
+- Foreign government networks
+- Airlines
+
+- Energy companies
+
+- Financial organisations
+
+- In cases of good collection, 50-80% of collected private network
+traffic has been attributed
+
+- Some false positives can arise if few events correlated, due to factors
+such as TDls not being completely unique and public internet proxies
+giving misleading public IP results
+
+- Results can frequently be verified using Kerberos etc data
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+W I “wiﬂmo T llllllllll cm I s r x r METEEElloi:VT:EITFFUL:I::::;N£:?1MAEI:W LFGlSLATIDN. W
+ 9  3 a I: CC
+
+C DDDDD NE I EEEEEEEEE AL P E D P E ﬁ T Y D W N E D A ND'DR MANAGED BY EBHU,
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE UN. BUT ECHO EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE My
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Examples of operational successes
+
+- A large private network related to the Afghan government was
+identified, with ~800,000 events correlated.
+
+- Examination of the case notations suggested it belonged to the
+Afghan MOD
+
+— A Kerberos domain mod.|oca|
+— HTTP servers *.mod.|ocal & mail
+— SSL certificates with the subject “Ministry of Defense” and the geo “AF”
+
+- Results confirmed by analysis of content on XKEYSCORE
+
+- A VSAT private network belonging to a Ministry of Foreign Affairs
+was identified
+
+- NOSEY PARKER events were correlated with SSE
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+TOP SECRET/lSI/I’REL TO USA, AUS, CAN, GBR, NZL
+
+Contacts
+
+TOP SECRET/ISWREL TO USA, AUS, CAN, GBR, NZL
+PVT Rwﬁ-Efoo THIS rrrrrrrrr nN IF. FKFMZTE;JEP:10::YT:FDSEFUZZES:;N£::MAEI:N Ac'r ZDDD INDIA) AND M A v a r r x r M D 7 n n N n r n 0 T H r9 LIK nnnnnnnnnnnnn ms ||||| N. W
+: _ I a — QCHQ?
+
+I: DDDDD NEII EEEEEEEEE AL Pﬁ nnnnnnnnnnnn ND' uuuuuuuuu av EBHm,
+T TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT UN. BUT ECHO uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu My
+
+ 
+

@@ -1,0 +1,1959 @@
+(TS//S|//REL)VPN SigDev
+Basics
+
+831244 - OTTERCREEK
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20341101
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/lCOMINT/lREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+(U) What is a VPN?
+
+‘ (U) A Virtual Private Network or VPN is a
+computer network that uses encryption to
+securely connect remote users/networks over
+an otherwise insecure network, usually the
+public internet.
+
+- (U) Common Types:
+a PPTP, IPSec, SSL
+
+- (U) Public Key Encryption
+a Diffie-Hellman, RSA
+
+ 
+
+ 
+
+ 
+
+(U) PPTP
+
+' (U) Microsoft Point—to—Point Tunneling
+Protocol
+
+- (U) Control Channel
+D TCP port 1723
+- (U) Data Channel
+D GRE-Next Protocol 47
+' (U) RFC 2637, RFC 3078
+
+ 
+
+ 
+
+ 
+
+(U)|PSec
+
+- (U) Authentication
+a Pre-shared key (PSK) or Public key certificates
+
+- (U) lSAKMP/IKE packets are used for key exchange
+and to establish the secure connection
+
+a UDP port 500, 4500; TCP port 500
+- (U) ESP packets contain the encrypted data
+a lP Next Protocol 50; UDP port 500
+- (U) RFC2402, RFC2406, RFC2409, RFC4306, RFC2408
+
+ 
+
+ 
+
+ 
+
+(U) IPSec in a nutshell
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) SSL/TLS
+
+- (U) Secure Sockets Layer/Transport Layer
+Securﬁy
+
+- (U) WARNING! e-commerce = tons of
+uninteresting SSL traffic
+
+- (U) Common ports: TCP ports 443, 995
+
+' (U) RFC2246, RFC4346, RFC5246
+
+ 
+
+(U) SSL in a nutshell
+
+   
+  
+
+ 
+
+ 
+
+Certificate
+Subject
+Validity
+P .
+
+ 
+
+CL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) SSL Exchange
+
+1. Client connects to server
+2. Server sends cert to client
+3. Client validates cert
+
+4. Key exchange
+
+5. Pass encrypted material
+
+   
+    
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS/lSI/REL) Who works VPNs?
+
+' (TS/lSI/lREL) VPN Workini Groui iio vpn)
+
+a 52, 556, CES (OTTERCREEK, NSP, 531322, S3117,
+S3112), TAO, etc.
+
+' (TS/ISWREL) Alias=—
+(Board alias=—)
+
+' (TS/lSlllREL) Meets every other Thursday at 1300
+
+ 
+
+-——l||
+
+ 
+
+ 
+
+(TS//S|/REL) Who works VPNs?
+
+> “92,2:32'me' I
+
+' 83117 + 83142
+' OTTERCREEK
+' NSP
+'8313
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'82
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 82 (if tasking needed)
+- 83112
+
+- TAO
+
+- OTTERCREEK
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS//S|//REL) So you think your
+target is using a VPN...
+
+ 
+
+(TS//S|//REL) SigDev Tools
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS/IREL) VPN Specific (TS/IREL) Also useful
+. W - MARINA
+.  - MASTERSHAKE
+- NKB
+° TOYGRIPPE - PINWALE
+- RENOIR
+- TREASUREMAP
+- TUNINGFORK
+
+- XKEYSCORE
+
+ 
+
+(TS//S|//REL) TOYGRIPPE
+
+- (TS/lSI/lREL) Database of VPN metadata
+D IPSeC, PPTP, ViPNet
+
+ 
+
+ 
+
+   
+
+ﬁle Edit MSW History ﬁookmarlcs InulS
+
+eve
+
+ﬁeld
+
+ 
+
+IKXKEYSCDRE @‘oroRIPPE DNKB Home Humanism Route ZlRoadaednetMyFage @Gold’oint
+
+ 
+
+ 
+
+!( 2K Results
+’Loguti
+Query
+.Standard
+QFreeFurm
+Results
+#Allﬁemlts
+.Vlew
+Omar
+’M
+Delimited
+Preferences
+.General
+
+Help
+’ﬂ
+
+OCumam Us
+
+DONE
+
+Stlﬂdlfd F6?“ - MOZIII-l FIFEFBX
+
+      
+ 
+
+  
+
+ 
+
+ 
+
+ﬂ)
+
+2)
+
+‘1
+
+ 
+
+ 
+
+U')
+
+ 
+
+ 
+
+ second level
+
+ 
+
+ 
+
+IDate Range(Required): '
+
+START.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ IEIEIOU
+
+ rd level
+
+ 
+
+lDisplay Fields:
+
+ 
+
+ 
+
+ 
+
+IData Fields: .—
+
+ 
+
+ 
+
+7:.
+" U53 LIIECKDUXES IU EKCIUUS the IndlCﬂIEd \'BIUE. " r
+
+ACTIVE_SURVEY 3
+
+I:I Selected Sources E]
+
+I] Case Notation
+
+Sites
+
+ 
+
+El Selected Sites
+
+Sources
+
+   
+  
+
+I] VendurNime
+I] Source CIDR
+D r‘
+
+I:
+
+ 
+
+'I
+.C 5 ate 0
+Site
+_,.x=~ Type
+
+Gen Source Country
+Source I3 Address
+Destinator IPAddreii
+
+Gen Destination Country!
+IFSEC AUIHEHIICSIIUI’I Name
+
+ 
+
+ 
+
+ =ie|d|ntnrmetior I
+* Tlmestan'p: The tln'estamp of
+
+the traffic as provided lay the
+source (dtTme, timestamp)
+
+ 
+
+ 
+
+ 
+
+CIDR [—
+I] Suurze Company
+a   l:
+I] Source Country
+
+ 
+
+ 
+
+ 
+
+Save 35 UEFBUIT CIEBI’ R9391 t0 DEFEUI',
+
+ 
+
+ 
+
+ 
+
+ 
+
+I] Dest. Country I
+
+IIP Addresses(Ranges and Wildcards Accepted]:
+
+ 
+
+:
+:1
+
+Query data field: based o1 constraints
+
+I] Deal. Domiin
+
+I] Into Marne
+
+ 
+
+Source IP Addresses
+
+ 
+
+ 
+
+ 
+
+ 
+
+Save Standard Query:
+
+Descnptlm
+
+ 
+
+ 
+
+ 
+
+Deellnalon IP Addre$es
+
+ 
+
+Source lP Poﬂsl:]
+CIEBI’ AGJFQSEQE FIIE
+
+CU'IS'I'EII‘I I'ESLIISIU SUJI’CE
+
+ 
+
+ 
+
+)eellnalon lP Ponsl:]
+CIQBF AddeEEEE HIE
+
+UESIII'IEIIGII P Address matches.
+
+ 
+
+ 
+
+ 
+
+- :l _7
+MW 
+
+ 
+
+ 
+
+(TSllRELlTYG T'pS'
+
+9 Populate “Display
+Fields"
+
+9 For both directions
+between 2 Ips, use
+AND
+
+9 For either direction
+connecting to a
+single IP, put IP in
+both “Source” and
+“Destination” boxes,
+and use OR
+
+ 
+
+ 
+
+ 
+
+mm
+
+ 
+
+ 
+
+ 
+
+      
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Query Results - Muzma Flrefax
+I
+
+       
+   
+
+ﬁle gum Mxew ngtury Bookmarks luuls 521p
+4: v w a
+
+IKXKETSCORE @TOYGNPPE wNKB:Hume 1NKBD15CuRuute ZIRuauneunetMyPage mGuldPomt
+
+3K XK Results I11 0 Query Hesmts I] v
+TSHSWREL To USA. EVEY 201104702 09.23 39.0 1 I WEVSHEIEU key
+IR
+
+TSHSIHRELTO USA. FVEV 2011704702 €913.14!) KLDABODOOLMIIOO UKJ7260D 1KEVJ.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1H
+
+pxershared key
+TSHSIHREL TO USA FVE‘!r 2011-04-021 D yam-shared key
+TSHSWREL TO USA_ FVEV 2011-04-0211 31 53 0 p19-S113l6d key
+TSHSIHREL TO USA. EVEY 2011-04-031222 03.0 KLDAB00001M1100 UKJ-ZEDD pwe-snaled key
+TSHSIHREL TO USA. FVEV 2011704703 [11103000 preshared key
+
+TSHSIHHEL TO USA FVEVr 2011704703 01'54'35 D pwershared key
+
+ 
+
+ 
+
+TSh'SIh'REL TD USA FVE‘V‘ 2011-04-03 [3'24'560 KLDABDDDDlMllﬂn UKJJGDD \KEV1 yam-shared key
+‘
+
+_,_ _ _ .
+TSHSWREL TO USA_ FVEV 2011-04-03 CA 59 DB 0 KLDABDDDD ID L K. -2 EOE 1|.Ev1 pxe-shaled key 6 ( U ) E X p O rt
+
+TSIISIIIRELTO USA. EVEY 2011-04-0111.3?¢190 KLDAB00001M1100 UKJ-ZEDD ESP
+
+TSHSIHREL TO USA. FVEV 20117047011713?‘33.0 KLV125999750000 USVQEEE ESP  S u I t O
+
+TSHSWREL TO USA FVEY 20117047011251 DE 0 KLDABDDDDlMllDD UKJVZGDD
+
+TSHSWREL TO USA FVE‘F 2011-04-01CD'DB 15 0 |RS103T DS-300  e I O r
+
+TSHSWREL TO USA. EVEY 2011-04-01. 00.23250 |RS1037 DS-300
+TSHSIHREL TO USA FVEY 2011-04-03 [5'41'27 D KLDABDDDDlMllDD UKJ-ZEDD yam-shared key  d O C  r
+TSHSWREL TD USA. FVEV 2011-04-03 CE'25‘53 0 KLDABDDDDlMllDD UKJ-2EDD pre-shared key
+TSHSIHREL TO USA. EVEY 2011-04-03 [27.56 09.0 KLDAB00001M1100 UKJ-ZEDD me-Shaled key e a S i e r
+TSHSIHREL TO USA. FVEY 2011704703 [29.42.05 0 KLDAB00001M1100 UKJVZEDD pwershaled key
+TSHSWREL TO USA. FVEY 2011704703 {1932.550 KLDABOOOOLMIIOO UKJVZGOD pwershared key S 0 i n g
+
+TSHSIHREL TD USA FVEY 2011-04-0310'16 16 0 KLDABDDDDlMllDD UKJ-ZGDD yam-shared key I
+
+TSHSWREL TO USA_ FVEV 2011-04-0310 59 39 0 KLDA300001M1100 UKJ-EEDD pwe-shaled key
+
+ 
+
+TSh'SIh'REL TO USA. EVEY 2011-04-0311.50 29.0 |R1S035 DS-200B pwe-shaled key
+
+ 
+
+TSHSIHREL TO USA. FVE‘F 20117047031234.4110 |RlS035 D57200B pwersnaled key
+TSHSIHHEL TO USA FVEY 201170470312'34'45 0 IﬁlSDSE DSVZDDB
+TSh'SIh'REL TO USA FVE‘!r 2011-04-0312'34'440 KLDABDDDDlMllDD UKJ-ZEDD yam-shared key
+TSHSWREL TO USA_ FVEV 2011-04-0301 23 51 0 KLDA300001M1100 UKJ-EEDD p19-S113l6d key
+TSh'SIh'REL TO USA. EVEY 2011-04-031323 50.0 |R1S035 DS-200B pwe-snaled key
+TSHSIHREL TO USA. FVEV 2011704703 13123510 |RlS03S DSy200B
+TSHSIHHEL TO USA FVEVr 2011704702 06'52 02 0 KLDABDDDDlMllDD UKJVZEDD
+
+TSh'SIh'REL TD USA FVEY 2011-04-02 C507 51 D KLDABDDDDlMllDD UKJ-ZGDD
+
+TSHSWRELTO USA. FVEY 2011-04-02 C6.16.31.0 KLDABOOOOlMllOO UKJ-ZGOD
+
+TSh'SIh'REL TO USA. EVEY 2011-04-02 [7.45.23 0 KLDAB00001M1100 UKJ-ZEDD
+TSHSWREL TO USA. EVEV 201170470205134151 0 KLDAB00001M1100 UKJVZEDD
+TSh'SIh'REL To USA FVEY 2011704702 CD'1B 42 D KLDABDDDDlMllDD UKJVZEDD
+TSHSWREL TO USA FVE‘F 2011-04-02 C001 51 D KLDABDDDDlMllDD UKJ-2EDD ESP
+
+TSHSWREL TO USA. FVE‘r‘ 2011-04-02 COLB4LO IRSLOB? DS-BOO 1KEV1
+
+ 
+
+ 
+
+TSHSIHREL TO USA. EVEY 2011-04-0ZED.16 51.0 |RS103? DS-300 ESP
+
+I4|
+
+Dune
+
+[I
+
+ 
+
+(TS//S|//REL) XKEYSCORE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS/IREL) Fingerprints (TS/IREL) Search Forms
+- IPSec - Start with FULL DNI
+a vpn/esp a vpn/*
+a vpn/isakmp a network_encrytion/*
+- PPTP 'IPSec
+a vpn/pptp* a IKE Parser
+- SSL - SSL
+
+a network_encyption/ssl a SSL Parser
+
+ 
+
+ 
+
+ 
+
+ 
+
+XK Search Full Log Mozilla Firefox El I
+
+ﬁle gait Mew Higtory guokmarks Innis ﬁeip
+
+4: :> V a» o a vnv a:
+
+ 
+
+PKXKEYSCCHE @TOYGRIPFE bNKB-Fume am; DisEuRnuta Ziihadbad natMyPage @eaidpuim
+
+ 
+
+ 
+
+It XK Search Fui Lag K ‘@ Standard Furm X
+
+KKEYSWRE Weiaama SMiISZ‘ ernlm; your 335mm his Haired! Log Out
+QHnme R Sea'ch fwgrkﬂm Centre , Results [7'1 Fingerprints 35mins QMap lMyAmoum P‘XK Farum 0 -ieip'
+Shown—Hue Fieids' Advarcej Fealures' 5mm Linden Search Fieids Ciea' Seann ‘u‘aiues Reina: L591 Search Vaiues '
+
+ 
+
+l'Jﬁ-n‘lgﬁliUHFiliEI N E 
+
+EISearcr Wzam 7 Seamh:FuII Ltﬂ ﬂ —
+Q m CNE
+
+Bﬁciassic
+anew Nana;
+QEIMul'iSaamh
+
+dﬁclassmA—M
+Ewen ("SH‘SIHREU Laoklrg fo' 3%;
+
+L Justiﬁcation; train: to psrfnrn W
+
+: vuirerahlhty anessmsnt
+
+   
+
+ 
+  
+  
+  
+  
+ 
+
+Auditunal mszlflcatlon. " 7
+
+CiSW Passwords
+a DNS
+
+Dummeni Metadaia _ :u'vent‘iima Elm-[WM M ()4 ()4 GMT
+
+Egan-:lrfﬂliggg Dumlme: Stan Eon-3403 E DU 00 3 snap. 2011-04-05 E 00.00 9 ii
+
+trained Flies
+
+Ganin'u
+
+El HTFP Activity
+eylngger
+
+Machine Info
+iGiODILlQ n Metidma “IAN (mama‘-
+
+E| Obfusmlinnﬂliunged
+
+a S Class”: N-Z
+guemmm wmwssm: [:i
+
+El I‘iaiwom Lngs
+mam WLAN 533m: l:i
+
+PF VulP Melacala
+
+hcne NumberExtia
+
+RTF
+: Racluchgs
+
+   
+   
+  
+   
+
+SEAD" i V
+
+ 
+
+Ac'ive i '
+
+     
+   
+   
+
+1iFDFF Culiemmn
+Eliupmﬂecn Stnngs
+El User Arlinin
+UserAztimry (M r
+
+   
+    
+ 
+
+- dress Fleid Builder
+
+Imam» i _:
+Wm» i —:
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dune 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+XK Search: Full Log - Mozilla Flrefox _ u 3:
+ﬁle Edit Miew Higtury guukrnarks Innis jeip
+
+4: a a viiv
+
+.‘(XKEYSCORE @TOYGHIPFE >NKB:Hume 3MB Disco Route ZlnauueunetMyPage @GuiuPumt
+
+ 
+
+ 
+
+ 
+
+ 
+
+It XK Search Full Leg K  Standard Form 3: I 1' Y
+
+KKEYSCDHE Welcome SWMISEI Warnim: ynur 533mm has Haired! Lug Out
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+ 
+   
+ 
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QHome Q Search {Wuricriuw Central . Results In"; Fli’ige'prints E Statistics @Map Hilly Accuunt PKXK Fumm ﬂ Haip-
+iia-.igaic-ni=iiiei X PM“ i I I [Ffum 3I ;
+El Search Wizard :
+anew: Pm“ l I I [TO ¢I
+jﬁclasslc
+M ilS n
+:IECL‘S‘::L Cnu'ilry iLSAND iGB ANDICAAND iNZANDIAu v '3 Dowside is nuiser
+given
+7 Iagkgerry Cnu'ilry iLSAND iGB AND ICAAND iNZAND IAU V '3 Bothsides are rimEeyes I I I
+ 9 For Inltlal
+aim:an DNl CityiiP) [ I [From :I  
+EIIuIarDNI
+  i If“ =l searches you may
+iarEriI ’
+N5
+acumerilMetadata ’ “‘“WEI'PI I I [Wm 'I '
+ want to eave t is
+mai Addresses LaiiiudeiiP) I I [Tu :I
+Extracted FIIES
+  l rim ti an to see a o
+eulnfo
+HTiPA '
+m"? La'igiiudeilP) I I ITu ¢I
+
+ 
+
+EParsEr
+Keyiogger
+
+the different kinds
+riaxrm'“ ‘   of traffic are found
+
+icrcplugin Metadata
+E Dmuscatini'iuiiuriged
+
+jammqu oma-‘runnaiiFAadass i I I [mm 5] ‘l' W   I P  i r-
+
+'— Newarkinformatinri
+I [To 3] ill IPAddressFielc Euilded
+
+ 
+
+ 
+
+  
+
+ 
+
+EMJrk Lugs Ouie'TurineliF‘ Addass
+
+ 
+
+OuierTurinelPari‘i i I [Frum vI
+
+ 
+
+PF Vail: Meiadala I
+asspurlsfrolri image
+
+ 
+
+ 
+
+ 
+
+none Number Ealra
+EGAN OuiarTurinElPuni i [ I [Tu :I
+
+ 
+
+ 
+
+Appiicatiun Type‘
+
+IP
+5H Parser Application iliiu‘ 4%]
+
+Si. Parser
+Snalicaue
+
+   
+   
+ 
+
+   
+  
+ 
+
+Appircazrun
+
+Di
+TIPDFF C Ii cl
+N 1qu°" A ID: F n ' “at * Fugulatﬁ viiiii'i Field Builder
+npic e: erli'lgs p: + in erprins' u x
+9 ‘ Pugulabe wiii'i Tree Fieid Euiider
+UsBrAmivity
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+   
+
+XK Metavlawer
+
+ 
+
+vpn anllla Flrel'nx 1:1 X
+
+ENE Emt yew H1§tury ﬁuukmarki Isms Help
+
+1: v1.1 31 113 :11
+
+51111151520115 @TOYGRIPPE yNKB Home "111KB D1550 Route Z‘RoadbednetMyPage 9001111111111
+
+ 
+
+ 
+
+   
+
+NKB D1SCu Ruute K
+
+51‘ XK Metawewer. 84 1:1 2513... x I 1; 51311113111 Form x 1 ttps'ffncmd...248323681254 x | i- V
+
+ 
+
+ 
+
+XKEVSCORE Wa1mme 5111111521 Warnim; your Esswnrd has 313113111 L
+ﬁHnme 33-\ Searm SWorknm-memral , Fesults T1 F1ngerprims E] 51311511125 §Map ﬂMy Amoum 3x KK Forum 0 Help'
+
+' x ‘L' ‘1‘ —'P"
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+El 31331an Ward 7
+ﬂ INE I) Help Aminnsv FleponsY Via-1 SMame-r
+j 01.35513 31333 v Cassnmalmn [1313111112 A [1313111112 E 1:11 Pm F111 3111111121 F111 Cu F111 112 T11 Can 13 (2111111121 13 Fun 11311111231133 11311111 [+Flngarpnn15.)
+ﬂ Mumemh u1<3211011 KLmanmum 20110103 00:00:52 201101031 11 11 113111353 113111353 me1113m3mm311es3 :
+3 31355131111 UKJ-260D KLDABmlMllm 201101.03 00:03:52 201101030 0 0 113313153 1-31113s3m111113n13m311353
+’ A'E“ UKJ2301) 13111111011111.1110] 20110101010322 201101010 11 11 11 111115 1131111153 mcl‘vgnlgmtncnllesg
+3 ET?” u1<12500 KLDABIImlMllIIJ 20110103 01:01:52 201101030 11 11 1131111193 1131111193 mc~3m3rmoeulres3
+:: a D 5
+a mag; DN‘ UKJ—JBIID 10111111011111.1110] 20110101011152 201101010 11 11 11 11155 11311253 mcm3ru3mmuues3
+_ Can“, 3N1 UKHMD KLDABmlMllII] 20110103 01:15:52 201104030 11 11 113111353 113111353 mNnmgrmoculresn
+C151,.) 3355mm umaau KLDABIIIIIIMIIII] 211110103 01:13:52 2111101031 11 11 113313153 113113153 11111111131113m311es3
+(Harem u1<3211011 KLmBmmmum 20110103 00:21:52 201101031 11 11 1131111153 1131111153 me~3m3mnc311es3
+DNS umaau KLDABIIIIIIMIIII] 20110103002201 2111101031 501 51111 11331153111113 ' ' ' ' 1113113111311 3111111111133 1.1315333113111113 1 ' 11111113111
+Enauman:$a‘ada‘a _ UKJ23011 KL1111101111M11111 20110101012052 20110101111 11 113111353 11311135313311131113130113301153
+333111311 aggmg
+Ema” Addresses UKJ-250D KLDABIImlMllII] 20110103 01:27:52 201101030 11 11 1.- 0139 113111293 momnrugrmncuuesp
+: Emma We; UKJ-2110D KLDABIImlMllII] 20110103 01:30:52 201101030 11 11 1131111153 1131111153 mmnmgrmnculresp
+puum 3N1 DIG-260D KLDABlIIIIIMull] 2H11-l]44|3ﬂ]:33:52 20114144130 H H v 0155 11111111353 I'IIBNQNQIEIIIHIIBSQ
+1;
+Geulmu UKHMD KLDABmlMlm 2011010300:311:52 201104030 0 0 113111333 113111333 monumgrmocalresg
+“VP “WW UKJ2500 KLDABm1M1101 20110103 01:39:52 201101030 11 11 113313133 113111353 1111110131113mul1es3
+‘KE Parser 1110211011 KLmBmmum 20110103 00:42:52 201101030 11 11 119111559 113111133 mc~3n13mncnl1es3
+Keymgger
+3 : : 1.- Es 113 es3m1; 3 311mm e53
+:| LED” am Pagmnm UKJ-250D KLDABOm1M1101 2011010301 15 52 201101030 11 11 11 111 111 111 I1
+: u0123011 13111111011111.1110] 2011010101:51:52 201101010 11 11 113111353 113111353133111311131313330353
+31113331331103
+11113133139111 11131311313 UKJ-ZEIID KLDABIImlMllII] 20110103 01:51:52 201104-030 I] I] 11 11155 11301553 mwnmgnmcullesp
+OMuscaﬂonIMungem UKHMD KLman1M1101 20110101 01:51:12 201101010 11 11 1131111153 v31111as3rnn1113113mmuues3
+=1 3‘35“ “*2 011121100 KLDABmlMllW 2011010301:00:52 201101030 0 0 11 0155 113111353 m03m3mocal1es3
+ENEMDH‘ "WWW" UKJ2500 KLDABm1M1101 20110103 01:05:31 201101030 11 11 113313133 v31113s3m111113n13m30es3
+11311-13111 .3 5
+mam” g u1<3211011 KLmanmum 20110103010751 201101031 51111 51111 11311033111113 ' ' ' ' 11131131111211 exchange 11131312113111“ “3111133111113 1311111111
+__ : : 113 s3 113 s3m1; 3 311mm :3 _
+; PPF Vow Memm UKJ-230D KLDABOm1M1101 20110103 01 09 51 201101030 11 11 1115 1113 111 111 He
+- 3555 01511011..“ 3 u0123011 13111111011111.1110] 2011010101:12:51 201101010 11 11 11 11135 1131113531331113111313133311353
+p a
+PhunE Number Exlfﬂﬂ UKJ-2110D KLDABIImlMllII] 20110103 01:15:53 201101030 11 11 1131111153 1131111153 mmnmgrmnculresp
+REGAN UKJ-211011 KLman1M1101 211110101 01:13:51 2011011011 11 11 11 11155 1131111133 mcrvgrﬂgmullesp
+:7: L UKHMD KLDABmlMlm 20110103012053 2011010300 0 113111333 113111333 monumgrmocalresg
+R 1|.I5 D 5
+new"! 9 umaau KLDABIIIIIIMIIII] 20110103012053 2111101031 11 11 113313153 113113153 11111111131113m311es3
+: u1<3211011 KLmBmmmum 20110103 01:30:53 201101031 11 11 1131111153 v311res3mc~31113mm311es3
+3| SIP
+SSH page, UKJ-250D KLDABOm1M1101 20110103 01:33:53 201101030 11 11 1.- Mes 1-31113s3m1111131113mul1es3
+SSL Parser u0123011 13111111011111.1110] 211110101 01:35:51 201101010 11 11 113111353 113111353 13311131031313330353
+Sham“ u1<121100 KLDABIImlMllIIJ 20110103013953 201101030 11 11 11 11155 1131111153mr113n13rmoc311es3
+gm DIG-211011 KLman1M1101 20110101014251 201101010 11 11 113111333 113111333 chQrﬂgmullesp
+: T1FOFF 3311331133 _
+Tummm mugs UKHMD KLDABmlMlm 20110103 01:45:53 201104030 0 0 1.- 11133 13111333 mwmgrmocauesg :
+I1 1 >1
+El UserAcwuy
+_ Page 1 1:124 P W in Page 51:3: 50 (11311111013111: perpage) 31splaying1-500111'1‘1
+3 05311131111111» (Newax 7
+
+  
+
+ 
+
+ 
+
+1E1 11,3111 11311131311133
+
+ 
+
+Done
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+XK Metavlawer CREAKSTTLE_HW_PK anllla Flrefox :1 X
+Ewe gmt Mew ngtury ﬁuukmarKS luuls Ham
+
+4 v40 a VIP:
+
+FKXKEYSCORE IQTOYCRIPPE yNKE Hume WNKB DISC: Ruute Z‘RDSGEEG netMyFage sGOIOPOmt
+
+ 
+
+"34
+
+ 
+
+J
+
+ 
+
+ 
+
+SK XK new“; x '3‘ x0 Metawewer CREAKSTILH. x ‘ a Query nesuIts x I i- v
+
+ 
+
+XKEVSCUHE WaImma srwIlsEl Warnimqnur Essword has elgired!
+ﬁl—Iome L} Search ﬁ'wDrk-‘ImcEmraI , Hesuls 'P—I Fingerprints E] statistias @Map EMy Aaanunt SK x411=nmm 0 Many
+
+ 
+
+:4 1 il Himmmln (3m "
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Essa-m W'z‘m 7 Page 1 MI E‘ GTearSeTemiun Eapon Dismaymg 1464
+0 CNE
+FIITeT Fm IP T0 \P Count v
+j Classm 32
+0 Mumsaarch 2
+j C‘ﬂSSTCA-M
+54050
+a BTaaKBarry 8
+a Can Lugs
+g] Calegnw DNI
+a Cel‘u‘ar DNI
+a (34500 Passwnmi CREAKSTILEHWLPK
+a CIarem .
+EDNS 9 H4310 Amnni' REDUHS' VIEL't' SMaDVIew FILTERS: 'f' '
+a Document Metadata — Slaw \D CTassificaTIon Sigad Casenmanon Dalenme A Fm Pon Fm CiTy UP) Fm C0 Fm \P v To IP T0 C00 To my (I?) To Pun Apphcaton ADDTD [+Fingerprims)
+:5] DncumemTagging 1 I @ TOP SECRETUDOMINTURELTO [450,005, 000,4 04403020 PKCSE01000I1H00 20110401414:41:04 m4 501 vnru‘imhmg vgn'isnkmgvmisnkmg mrlErl vgmisnkmg gr :
+El Ema" AWFESSES 2 I @ TOP SECRETUOOMINTNRELTO u50,005,4;00,4 04403020 PKCSE01000I1H00 20110401414:41:04 m4 501 [-rnse1 policy
+5‘ a‘m‘id “'35 3 I m TOP SECRETIJ‘OOMINTIIRELTO 050,005, c0441 04(03020 PKCSEMammDo 20110401001104 000 300 phrase] nolicv
+a?” :0? DM 4 I m TOP SECRETUOOMINTHRELTO U50,00§, (200,4 0440:1020 PKC§E01000I1H00 20110401404104 m4 501 upmisntmg vgn'isnkmgvpruimkmg mrlErl vgnlisnkmg ph
+3: SD M D
+a HT”: Amiwly g | @ TOP SECRETIJ‘COMINTIIRELTO USA,AU5, CANJ UKCJOZA PKCSEIIJBAIIIJHDO 201101-01 [III-16:33 .‘III 500 vpnrisalcmn vnn'isaklnpvpnrisakmp comer!
+a IKE parse, 6 I & TOP SECRETUOOMINTHRELTO us0,0us, (:0N,4 04(03020 PKC§E01000I1H00 20110401004633 504 501 ugruimmg vun‘imkmnunm‘imkmn mum
+a Key‘ogger 7 | & TOP SECRETIJ‘COMINTIIRELTO USA,AU5, CANJ UKCSOZA PKCSEIIJBAIIIJHDO 2011414411 00:49:00 000 SM vnnrisalcmn unn'isakmpvpnrisakmp wrwem
+El LPUIPS and 9555mm 3 I E TOP SECRETUOOMINTIJ‘RELTO U50,0us, (200,4 04(03020 PKC§E01000I1H00 20110m1m:49:m 110 Ell] upnﬂsakmg vgn'isakmpupmisakmp mmen
+:: 9 I — v a v' : 3 WE 
+imam”? W 265 TOP SECRETIJ‘OOMINTIIRELTO 050 005 c044 04(03020 PKcszmmnHDa 20110401014531 000 500 nr I: 44 nr 44
+aggmpw'” Enema; 1 I E TOP SECRETUOOMINTHRELTO [150,005, c044,: UKO3020 PKCSEMBMIIJHDTI 20110401014531 00 vgn'isakmgugnfisakmg mmem
+=: uscauon 4.4005 my (default) _ _
+3 this“! N1 11 I 3 TOP SECRETIJ‘OOMINTIJ‘RELTO USA,AUS, CANJ UKCMA PKCSEIHEAIIIJHDTI 20113131022421“ 000 vgn'lsakmgvgnhsakmg wnﬂem
+a New“ IHIDImmIan 12 I @ TOP SECRETUOOMINTURELTO us0,0us, 4:00,: Ukc3020 Pkcs:0100000H00 20110401021140 000 vgn'isakmgugnfisakmg mmm
+:: Nan-mm L0 5 ﬂ TOP SECRETUOOMINTURELTO USA,AUS,CAN,I UKCMA PKCSEWTAMHDO 20110401032709 000 500 ' " ' J ' ' ' phase,
+9 1.3 |
+El D‘LEEAM 14 I a TOP SECRETIJOOMINTIJRELTO us0,0us, c044,: ch3020 PKCSEnaTmHm 2011040103271!) 0m 5m ugnfisakmg vgn'isakmgugmdevicerigsec vgnlisakmg 24m:
+3 pp; VD“: "45mm 15 I a TOP SECRETUOOMINTIIRELTO U50,0us, C00,: ukcauzA PKCSEII‘BTNIIIHDI] 201104-01 03:27:10 000 5401 vgnrisatmg vgn'isakmgvgmisakmg wrwem vgnlisnkmg gr
+§::::”::;::r‘$: 16 I g TOP SECRETuoomNTuRELTO us0,0us, c044,: 0Kc3020 PKCSEMTAII‘IIHDI] 20110401 03:27:10 000 500 ugnfisakmg vEn'isakmEuEnfisakmE mmm vEnlisakmE Eh
+% REGAN 17 I E TOP SECRETUOOMINTIIRELTO u50,005, c044,: UKC3020 PKcszuTamnHDa 201104411 03:34:12 3044 500 vgnrisatmg vgn'isakmgvgmisakmg 4:00:04
+5 R-Ip 13 | @ TOP SECRETIT‘OOMINTHRELTO USAJWS, CANJ UK0302A PKCSEIIJﬂmHDo 201104-01 03:34:12 5W 5W vgnrisalimg vgn'isaklngvgwisaklng 00mm
+35] R0400: Lugs 19 I 1 TOP SECRETNOOMINTURELTO U50,005, CAN,I UKCMA FKCSEWTNIIIHW 2011414411 03:50:52 3044 500 vgnrisahmg vgn‘isakmgvgmisakmg wrwem
+:5] R595"? 1;) | 2 TOP SECRETIT‘OOMINTHRELTO USAJWS, GANJ UKOSOZA PKGSEIBTAMHDO 2011040103253252 ﬁll 500 Puntinka vnn'isnklnnvnrvisnklnn 00mm
+5 5”” 21 I 3 TOP SECRETUOOMINTIIRELTO U50,00§, 000,4 0440:1020 PKC§E01000I1H00 20110401071520 m4 501 vpnnsntmg vgn'imklngvgm‘imklnp mum
+:— SSH P
+ism F NEE” 22 | E TOP SECRETIJ‘COMINTIJ‘RELTO USA,AU5, CANJ UKOJOZA PKCSEIIJBAIIIJHDTI 201104-01 07:15:29 .‘III 500 vpnrisalcmn vnn'isaklnpvpmisaklnp camera
+I: ﬂFSET
+a Shenwde 23 I m TOP SECRETUOOMINTIIRELTO U50,0us,c044,4 04(03020 PKC§E01000I1H00 20110401432436 m4 501 vpnnsatmg vgn'isakmgvpmisakmg mmaru
+a-IDI 221 | m TOP SECRETIJ‘COMINTIJ‘RELTO USA,AU5, CANJ UKCJOZA PKCSEIIJBAIIIJHDO 201101-01 [3:24:36 .‘III 500 vpnrisalcmn vnn'isaklnpvpnrisaklnp comer!
+51020:: cmlecuon 25 I 3 TOP SECRETUOOMINTIIRELTO US0,0U§,E00,4 04(03020 PKC§E01000I1H00 20110401001438 m4 501 Vﬂrﬂimtmﬂ vgn'imkmgvgnnmkmg mmerl 7
+v
+awmcﬂecn 30mg: I I I IN—
+=: UseerTwiTy _ _ _
+USErAwW WEMEXDi Page 1 01 G P Pl E‘ Page 5426 5: [Max 100 raws per Jags) Dlsmaymg 1 r 50 01 298
+
+jhim2im02400130194530~71
+
+ 
+
+http;11>‘k§-Cenrralrnm MA ir nnv-EM1IXKF‘4“;r“0RFImmawawarlmaradaraﬂmr dn7nupN|d=Ih 354477 00066749001 101 3216186 U!
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS//S|//REL) PINWALE
+
+- (TS/ISIIREL) Both VPN traffic and Sys Admins
+passing information about VPN setup
+
+° (TS/ISIIREL) IP addresses and port numbers (ex.
+AP 00500) ***Document Zone = C2C
+
+- (TS/ISIIREL) Display ‘DZ Protocol SRC Port’,‘DZ
+Protocol DEST Port', ‘Next Protocol Name’
+
+ 
+
+(TS//S|//REL) DISCOROUTE
+
+- (TS/ISI/REL) Router configuration data
+D From passive and active collection
+
+D Key terms to search for within configs:
+
+a ‘crypto map’, ‘isakmp’, ‘ipsec’, ‘pre-shared-key’
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NKB Disco Route - Mozilla Flrefox _ u x
+Hie gait Miew Higtury ﬂuukmams loch: ﬁeip
+
+«tween M
+.‘(XKEYSCORE GTOYGRIPPE bNKB Home ENKB Discanaute Zlnoadbad netMyPage @Gaidpoint
+
+KXKResults x QueryResults x 31MB Disco Route 5 ETREASUREMAPVTOOLS x 1- v
+
+ 
+
+a DiscoRoute (Version 2.14)
+
+“NEW”? NetworkMgthuery(ComingSonn) "B'P WW“
+
+ 
+
+sum" ‘5' Tips imio im a Pmninipramca. M will mm manilaluig Ill mm. Query HISWW?
+
+I: Cailapse Results byﬂaslnameISigaﬂ
+
+ 
+
+BernlemryTennl
+
+ 
+
+Text Query 9
+
+D“ lPAddnass 9
+
+End D‘m' [1.2 3.4 ur 1.2 3.aI[ciDR] or 12.3 5-14.55:
+
+0 DOI 0 Lead Date ® Entire Database
+
+  
+
+IPRama&mmh ExmﬂPﬂmmh
+interfaces - Subnet IP Header FROMITO
+Static Route IP
+Vendor Assess Lists Anywhere Else in the XML
+
+Routing Prutumi iP
+Cism E Huawei iniinet
+
+ 
+
+ 
+
+ 
+
+ 
+
+Juniper Mikrutik Tennrswitch LimiiSearethiDR Ranges SmalierThan [orequal f24 V (I/
+x m]:
+I58 Emmi ICiEEiNIi > ISeiemAIil lEleaer‘ i Any checked items can he iound (0R condition) in comig I 7
+Hosmnme
+Mnnifea (Cisuu Only) ‘7
+SIGAD
+case [I A 7 EQUANT :l i7 Show interfaces D P 7 Vaip
+0 [I B - EGP :l K - Crypto Keys D R - Show Run
+comm D D - Show GDP :1 M - Multihnp U T - Tacacs
+TAO Wm Name 9‘ [I G - GPRS :i N - Tgt Net Sewice I: V - Show Versmn
+El H-TAOPup II 0.03m:
+A5 Number
+ICiearAliI | All checked items must be 10mm (AND condition) in comig
+AS'
+[I Seen in Conﬂg D Derived 5553mm
+ClearFanei
+Snmp Community
+
+IOS image Name
+
+DEViEE Type
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ |
+
+DUNE
+
+ 
+
+NKB Dlscc Rout: - Mczllla Flrefox _ E! X
+
+ 
+
+ 
+
+Eh! Edrt grew ngtury ﬁuukmarks Inals Help
+
+4: ever" a— vlrv 1-!
+
+.‘(XKEYSCORE ©TOYGRIPPE DNKE Home F‘NKE Drsannute Ztananned netMyFage @Gnrmrnt
+
+ 
+
+ 
+
+K ENKE D‘SCOHGUIE 3‘ EmmiJInCmdr..255953345553 K [Emma I!rrzmd...255303960492 K [Erran I!ncmd...299304204961 K 1 ‘
+
+   
+
+[xxx 035005 a: I Standard Form
+
+         
+
+a DiscoRoute (Version 2.14)
+
+“WWW” Network MgthuerHComrngSoor) “9'” F“de
+
+ 
+
+ 
+
+ 
+
+Detailad Combined Command Results Eu]
+I:I H0stname Model DOM Vend0r Srgad Case Mamwﬁ rDSImageA Snurcerp 500mm scw Sessron Quarir SPon DPon a
+|_| L-W_5M5 2Uu012-23 nuawer 05010.00: MNUAQ 4432 10 0002': 12400
+I] EW75MS 200312-15 huawer USD—lmlTE MNDAQ 25555 20 00023 13120
+El GW_SMS 200912715 huawer USDlDJlTE MNDAQ 25956 20 00023 13920
+I] 200311-131 crsco USD—lDJlTE MNDAQ 56 5 00023 13425
+05va 20001022' huawer 050790 smvannnnnmrvrwc R7 20055 51 00023 01327
+D ﬁstN 20001022' huawer USP-790 503v50000001mwc 11— :7004 55 00023 01327
+D .65va 200010131 huawer 050790 5013000000001ch 117 0000 47 00023 01000
+D 200010021 huawer 050-10310 MNDAQ 57200 1 23 1x32
+I] 200909101 huawei U5D1011TE MNDAQ 4210 1 23 15073
+El 200009-101 huawer USD—1031TE MNDAQ 4905 1 23 13841
+El 200008151 huawer USP-790 501100000001ch 31407 54 23 1031
+r I I
+.r r Page 1 an / 21 1'2? save 05:29! Save Fi‘esroDrsk Campare Resultssummary ' Mai‘oraerout MapinRenoir Frna Pe‘atea Raeu‘sl-slc
+9
+
+Payhm hML Summary Ma; Query Parameters lope" "‘ Neww‘mml
+
+password c1pher 15, [51EA, ‘RsB..\#E3VB!11| ‘
+serum-type telwet te'minal
+1eve13.r.17.‘L
+
+#
+
+ 
+
+   
+   
+ 
+  
+
+lke proposal 1E)
+
+encrypunn-algnrlthm ides-c0:
+dh gruup2I. rUr.
+if
+
+   
+
+e peer peerjrq
+exchangeymode aggressive
+prersharedrkey Kay-dtuharnﬁ
+10-1y'pe name
+remote-address
+
+nat traversal
+
+peer multirsubnetl. 7v“
+
+ 
+  
+
+  
+ 
+       
+   
+   
+ 
+
+1pser u n. . . sal_ph2
+esp authenticatian-alqurithm shal
+
+ 
+
+PDNEIBd II! [I'D SEDEV Lab
+Versiun Number: 2 14*
+NAG Ln Milieu! Dame; March 14. 2011
+— 'March 14 2011
+55521. 0603341
+CON; 55521 0600342
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+NKB Disco Route - Mozilla Fi
+
+ﬁle Edit Mew Higtary goakmarks Ioals Help
+
+a :> v w P a ﬁ'H'l a]
+
+P‘XKEYSCORE @TomaPPE 1>NKE Hame ﬂNKEDism Route ZRoaanednetMyPage @GaaPaint
+
+ 
+
+ 
+
+     
+
+’K XKResults 5! 0' Standard Form 2  NKB stcu Rnute x Ehhs:!bcmd...248823631254 R 1' v
+
+  
+
+         
+
+l5 DiscuRoute (Version 2.1.4)
+
+“NEON NemorkMgthuerMCDmlngSoon) "9”1 WW“
+
+ 
+
+ 
+
+Diacnﬁnma Combined Query a
+sum" ‘5“ Tlps Th: mm newmscoaoure wehserver um: aw hocumansu bring you hen: Query sttory:
+v
+D muapsz Results hyHustnamElquad
+4
+Gemmlquery'lennl /
+Twang“, a UNAMI K E
+D” IPAMms: 9
+5‘5” D“? D u: mama.
+End DaTE " [1.23.4or123.41[cmn] ar12.34-345.5)
+0 DO\ 0 Load Date ® Entire Database IP Hume 5mm“ Exam“: 5mm“
+El \ntetfaces 7 Subnet CI IF Header FROMITO
+El Stan: mute IP El Interfaces - Exact
+Vendm U Access Lists D Anywhere e‘se \n the XML
+
+D Romng Protoco‘ IP
+stco Huawex Inﬂnat
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Juniaer E M‘kmlk Tenurswitm Lirrn Seamh w CID? Ranges Smalbr Than [Dream V 7
+ml
+‘SelemAl‘ lmeamul Ismmmn \aearm | Any checked items can be iound (OR nondiiion) in coniig \
+Humane: Manifest ICiacn Only) 0
+SIGAD'
+Gate D A - EQUANT El \- Show Interfaces nip
+0 I] B . 36p , K . Cryptu Keys L R . Shaw Run
+CM” ' D D 7 Show CDP [I M 7 Multxhop D T 7 Tacacs
+m mm Name a I] G . GPPS El N . Tgt Net Service D V . ShquerSiun
+DH7TACPup [I O7OSPF
+A5 Number
+AS IClearAHI \ All hams musl be found [AND " in nonﬁg
+U Seen \r Config E Denved SE55” D
+C‘earPanel
+Snmp Cnmmunlly
+IOS mag: Nana. 7
+
+ 
+
+ 
+
+ 
+
+[ \ m
+
+Dune
+
+ 
+
+NKB Dlsco Rout: - Mozilla Firefox
+
+ 
+
+ﬁle Edit View Higtory Euokmarks Ioois Help
+
+ 
+
+¢c>v€>&"ﬁ_
+
+ 
+
+ 
+
+ 
+
+.‘(XKEYSCORE ©TOYGRIPFE DNKB: Hume TANKS DISCO Raute ZlRuaubednetMyPage @GuidPoint
+
+ 
+
+[2‘ XK Results x [Q Standard Farm at E NKB DiSCG Route x E https:11ncmd."248823531254 x ‘-
+
+  
+  
+
+ 
+
+ 
+
+| :   r 13 DiscoRoute
+
+90m”in 9“” Network Mgmt QLIery(Coming Soon) He'll WWW"
+
+Detailed Cnmhin v nmmind Raaults L91
+
+DDI Vendur Sigad Cese Hermes“? IDSImagER SourcelP SCuunlr) SCIIy Sesslun Queue SPon DPun E
+
+    
+   
+ 
+
+Hoslrlama
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+       
+
+RESERVED 109450 78 23 $1470
+RESERVED 134422 75 00023 H19
+RESERVED 38202 75 00023 02012
+
+VPNDLUNAMLE 200908091 Disco UKD125W 5281000001ch R PR
+200910151 Disco UKD125W 52833200001ch D K RT
+
+200910311 Disco UKD125W 52833200001ch D K R
+
+  
+ 
+
+GiLATHRT5B2S D2600
+
+ 
+
+ 
+
+ 
+
+ 
+
+berl—uﬂami-m: BZDDDnm 2010-05225 Dlsco UK0125W 62367000001MWC RESERVED 40264 SE!
+
+ 
+
+D
+
+I
+
+D kuwehui: 200910151 Disco UKD125W G288900001MWC _D_K R_ RESERVED 32379 74 00023 50554
+D kuwyhul: 200910151 Dlsco UKC125W GZBEQUDDDlMWC RESERVED 32379 74 00023 50554
+D kuw—huh 2005-10151 Dlsco UKC-125W 6237500001MWC RESERVED 30000 74 00023 50554
+D VPND2-UNAMi-K 200905-10T Dlsco UK0125W G2ES2UUUUIMWC RESERVED 53930 73 23 3403
+D r-unEmI-kuw-isu 200901-161 Dlsco UK0125W G236900001MWC RESERVED 2W2 71 23 59225
+D ISPUZ-UNAMI-Ah 200907-02” Dlsco US—BS7J 1AH11E§374542UD DUBAI 29372 71 23 27714
+D berl—uﬂami-Klr 200906-07T Dlsco UK0125W G2E7DUUUUIMWC DUBAI 23927 69
+
+Ci
+
+ 
+
+I Page 1M2 i H a? SaueﬁsCSV SﬁVBFTIBEIDDTSK Compari Risuhssummary' Mailumiroul Mauinﬁenmr FdeilﬁIeu RESHIISI-ZUUE
+
+Payload - Summary - Query Parameters TODEninNawwindWI
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+mmmmm *Mmmmxtxmkmk*mkkmkxmmmmmmzktmktmm)mmmmhkmhk A
+>12 12 _
+* UNAMI 5*
+
+w 1k
+
+* Authorlzed Personnel Only *
+
+* If you do not have exphclt authorlzation lssued by UNAMI NMU to access *
+
+* this H
+
+E dawns, leave nuw‘ *
+
+w 1k
+
+* System: *
+
+* IP Add: *
+
+e :1
+
+* DESCRIPTION : THIS ROUTER IS THEVDICE GATEWAY INTENDED FOR USE WITH THE *
+
+* H
+
+ER *
+
+e :1
+
+e :1
+
+* FEATURES * 7
+
+ 
+
+ 
+
+Powered by [IE SBDEV Lah-
+Vminn Mumbe 14 *
+NAC um Milieu Dam, March 14, 2011
+— Ln Reviewed DIME March 14 2011
+
+ 
+
+  
+
+(Version 2.14)
+
+ 
+
+Dane
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) Others
+
+’("SHRE_)NKB
+' ("S/lRE _) TUNINGFORK
+’("SHRE_)TREASUREMAP
+'("SURE_)RENCNR
+’("SHRE_)MASTERSHAKE
+( _)ROADBED
+( _)
+
+BEENK%K%+R¥
+
+° "SHRE
+' "SURE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_||
+(TS//S|//REL) Basic VPN rules of
+
+ 
+
+"mm If you have an IP address...
+
+ 
+
+th—[H men.) If you don’t 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Check TOYGRIPPE and XKS
+a Look for paired traffic
+
+- For IPSec, check sys admin
+chatter for PSK
+(DISCOROUTE; PINWALE;
+MARINA)
+
+- Share your data with
+O'ITERCREEK for vulnerability
+assessment (XKEYSCORE or
+DROPBOX)
+
+- Submit tasking
+
+' Look in DISCOROUTE
+
+- Query Sys Admins in
+PINWALE and MARINA
+
+- Check your targets TAO
+projects
+
+ 
+
+ 
+
+EITHER WAY,
+JOIN THE
+VPN WORKING GROUP
+FOR ALL OF YOUR
+VPN SIGDEV NEEDS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U//FOUO) Useful Links
+
+- (TS/ISIIIREL) VPN Working Group (go Vpn)—
+- (TS/ISIIIREL) O'I'I'ERCREEK (go VPN XFT)
+
+a VPNXFT DROPBOX
+
+- (TS/lSI/IREL) Network Securiti Products (i0 NSP)
+
+ 
+
+ 
+
+ 
+
+(U) Questions?
+
+OTI'ERCREEK
+
+ 
+

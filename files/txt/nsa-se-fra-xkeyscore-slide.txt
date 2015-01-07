@@ -1,0 +1,60 @@
+D
+
+1. If V011 know the particular website the target Visits. For this example, I’m looking
+for evelyone in Sweden that Visits a particular extremist web forum.
+
+Search: HTTP Activity
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Query Name: |HTTP_in_Sweden
+Justification: |SwedishExtrernist website Qis‘itoir‘s    u n u 
+Additional Justification: v
+Miranda Number: i 
+Datetime: ﬁiﬂ Start: 2009-01-20 [3 0:
+HTTP Type: v
+
+ 
+
+: Host;  
+
+ 
+
+@try: SE
+
+Country:
+
+Scroll down to enter a country code (Sweden is se  a 
+
+    
+
+ 
+
+The website URL (aka “host) is
+entered in with a wildcard to
+account for “W’W’W” and “mail”
+other hosts.
+
+To comply with US SID- 1 8 you
+must AND that with some
+other information like an IP or
+country
+
+ 
+
+ 
+

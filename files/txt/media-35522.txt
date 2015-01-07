@@ -1,0 +1,450 @@
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+DRAFT
+
+SPIN 15 VPN Story
+
+VPN has two thrusts, one has high mission impacts and the other has high performance
+and functionality impacts for Program B.
+
+Mission impact — Start generating SIGINT from VPNs at SMK.
+
+SMK is a VPN rich environment with targets of high value. Mission impact is high.
+Consumers of the SIGINT reporting based on sources from SMK are at high levels of
+government. NSA leadership has tasked CES to deploy decryption capabilities to SMK.
+Security concerns have been addressed. SPFs have been signed to deploy TS/lSI equities
+to the S/ISI site. VPN transformation tests have passed and capabilities ready for
+deployment to the T- 16 development server at SMK. To achieve a successful
+deployment to SMK on the T-165 (first) and LPTs, the following are high level steps:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Task Owner Date
+
+Load Spin 13 on T-16 DEV (first) Turmoil March
+
+and then T-16 LIVE system
+
+Configure Blade 14 for PIQ CES March
+Services Spin 13.
+
+Configure AME/IslandHideaway AME March
+
+for PIQ blade and VAO messaging
+
+traffic
+
+Add IP tasking to Keycard for CES March
+VPNs of interest
+
+Evaluate decrypted data in CES March/April
+Xkeyscore for Strong Selectors
+
+Update Keycard with Strong CES March/April
+Selectors
+
+Verify decrypted data which hits CES April
+
+on a strong selector is forwarded
+from Turmoil to Pressurewave
+
+ 
+
+Verify analysts can retrieve the CES April
+data from Pressurewave for
+reporting
+
+ 
+
+Identify Dell for PIQ Blade at CES April
+SMK for LPT DEV system
+
+ 
+
+Load Spin (13/ 14 ?) on LPT DEV Turmoil May
+(first) and then the LPT LIVE
+Systems
+
+ 
+
+ 
+
+Configure Dell for PIQ Services CES May
+Spin 13.
+
+ 
+
+ 
+
+ 
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAFT
+Configure AMF/IslandHideaway AMF May
+for PIQ blade and VAO messaging
+traffic
+Add IP tasking to Keycard for CES May
+VPNs of interest
+Evaluate decrypted data in CES May/June
+Xkeyscore for Strong Selectors
+Update Keycard with Strong CES May/June
+Selectors
+Verify decrypted data which hits CES June
+on a strong selector is forwarded
+from Turmoil to Pressurewave
+Verify analysts can retrieve the CES June
+data from Pressurewave for
+reporting
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: MDC upgrade and Site Store deployment at SMK will impact the VPN decryption
+deployment. March 16-31 is the schedule for the upgrade and site store deployment.
+VPN decryption deployment may slip due to availability.
+
+Risk Reduction Activity for Program B
+
+Program B Capabilities Document has provided Key Performance Paramerters (KPPs)
+for VPN. In order to achieve the KPP identified for Sep 30, 2009, a risk reduction
+activity has been initiated. This activity will gather performance benchmarks early in
+SPIN 15 on the current architecture running on two 2.5G platforms, the T-16 Heavy and
+the Dell LPT. Information from the performance benchmarks will indicate the level of
+redesign (if any) needed to meet the KPPs. The following are the performance
+requirements in Program B.
+
+ 
+
+. NCC CA Service Requests (Decrypt) per hour (aggregate for all VPN exploitation-enabled systems).
+
+ 
+
+Q4 FY09 (Risk 1,000
+
+ 
+
+ 
+
+Reduction)
+Q4 FY10 10,000
+Q4 FY11 100,000
+
+ 
+
+. NCC front end systems shall fully process (i.e. decrypt and re-inject) at least 20% of CA service
+requests (~20% Reinject Rate?)
+
+ 
+
+. For tasked IP addresses, NCC front end systems shall identify relevant IPSec sessions and generate
+attack requests (Rates?)
+
+ 
+
+. NCC front end systems shall buffer VPN data for up to 15 minutes (900 seconds) while waiting for
+response from Attack Orchestrater (AO)
+
+ 
+
+. After successful key recovery and decryption PIQ services shall re-inject decrypted VPN for Stagel
+8: Stage2 processing
+
+ 
+
+. Aggregate VPN buffering and processing rate per TML system (Assumptions — LPT? T16? U64?)
+
+ 
+
+ 
+
+Q4 FY09 (Risk 4 VPN 25 Concurrent VPN 100 Mbps Aggregate VPN Data 1’ System I
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+ 
+
+DRAFT
+Reduction) Systems Flows/ System
+Q4 FY10 10 VPN 100 Concurrent VPN 100 Mbps Aggregate VPN Data 1’ System
+Systems Flows/ System
+Q4 FY11 100 VPN 100 Concurrent VPN 500 Mbps Aggregate VPN Data 1’ System
+Systems Flows/ System
+
+ 
+
+. Desired SSL Exploitation - Aggregate TURMOILs shall exploit all sessions associated with a given
+cryptovariable at the rates:
+
+ 
+
+Q4 FY09 (Risk 10,000 Sessions / Day
+
+ 
+
+ 
+
+ 
+
+Reduction)
+
+Q4 FY10 100,000 Sessions 1’ Day
+Q4 FY11 1,000,000 Sessions / Day
+Q4 FY12 10,000,000 Sessions 1’ Day
+
+ 
+
+. Desired Password Recovery - Aggregate TURMOILs shall detect the presence of at least 100
+password based encryption applications at the rates:
+
+ 
+
+Q4 FY09 (Risk 500 Sessions 1’ Month
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reduction)
+
+Q4 FY10 2,000 Sessions / Month
+Q4 FY11 8,000 Sessions / Month
+Q4 FY12 20,000 Sessions / Month
+
+ 
+
+A schedule has been proposed to gather the performance benchmarks on current turmoil
+2.56 systems (T- 16 and LPT).
+
+ 
+
+Benchmark functionality and performance testing on TBAR 2.56 T-16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Task Owner Date
+Configure T-16 with SPIN Turmoil April 1-3
+13. Configure Keycard
+
+Configure Blade 14 in T-16 CES April 1-3
+with PIQ services
+
+Configure ITx/IH for PIQ AMF April 1-3
+blade and VAO messaging
+
+traffic
+
+Run PIQ to VAO interface CES April 6
+test
+
+Provide data set that can be CES and Turmoil April 6
+
+looped to meet performance
+requirements. Data set is
+characterized for outcome.
+Data needs to be loaded in
+streamer (?)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Load Keycard with IPs and CES April 6
+Strong Selectors
+
+Run test CES and Turmoil April 7-8
+Identify issues CES and Turmoil April 9-10
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAFT
+Fix issues CBS and Turmoil April 9-10
+Rerun test CBS and Turmoil April 9-10
+Document Benchmarks CBS and Turmoil April 13-15
+
+ 
+
+ 
+
+April 16 will be a review date of the performance benchmarks gathered on a 2.56 T-16
+Heavy system. This information will guide decisions to pursue architectural and design
+planning and implementation to meet the Sep 30, 2009 KPPs.
+
+ 
+
+Benchmark functionality and performance testing on 2.5G LPT (T-16)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Task Owner Date
+Configure LPT with SPIN Turmoil April 30
+14. Configure Keycard
+
+Configure Dell with PIQ CES April 30
+services
+
+Configure ITx/IH for PIQ AMF April 30
+blade and VAO messaging
+
+traffic
+
+Run PIQ to VAO interface CES April 30
+test
+
+Provide data set that can be CBS and Turmoil April 31
+
+looped to meet performance
+requirements. Data set is
+characterized for outcome.
+Data needs to be loaded in
+streamer (?)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Load Keycard with IPs and CBS April 31
+Strong Selectors
+
+Run test CBS and Turmoil May 1
+Identify issues CBS and Turmoil May 1
+Fix issues CBS and Turmoil May 4-5
+Rerun test CBS and Turmoil May 6
+Document Benchmarks CBS and Turmoil May 7
+
+ 
+
+May 8 is the second review date of the performance benchmarks. This will include the
+benchmarks from the 2.56 LPT system. This information will guide decisions to pursue
+architectural/design planning and implementation to meet the Sep 30, 2009 KPPs.
+
+Turmoil technical discussion can be hosted in parallel to the benchmark testing. The
+purpose of the discussions is to ??????.
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
