@@ -12,7 +12,7 @@ exit_msg(){
 }
 
 refused (){
-    mv $f $REFUSED_PATH
+    mv "$f" "$REFUSED_PATH"
 }
 # check files exist
 if [ ! -f $OCR_TODO_FILE ] ; then 
@@ -30,32 +30,37 @@ if [ 0 -eq $TMP_NUM ] ; then
 echo "Calculating files hashes..."
 pushd "$MYPATH/../files/pdf" 1>/dev/null
 for f in $( find .  -name "*pdf"); do
-    HASH=$(md5sum $f)
-    echo "$HASH" >> $HASH_FILE
+    HASH=$(md5sum "$f")
+    echo "$HASH" >> "$HASH_FILE"
 
 done
 popd 1>/dev/null
 
 pushd "$MYPATH/../tmp" 1>/dev/null
+IFS="
+"
 for f in $(find . -name "*pdf") ; do 
     
 
-    echo -e "Checking file $f... ";
-	
+    VALID_NAME=`echo $f|tr " " "-"`
+    echo $VALID_NAME
+    mv "$f" "$VALID_NAME"
+    echo -e "Checking file $VALID_NAME... ";
     # compare if name found
-    NAME=$(grep $f $HASH_FILE);
+    NAME=$(grep "$VALID_NAME" "$HASH_FILE");
     if [[ "" != $NAME ]] ; then
 	echo -e "  ERROR File exists with same name\n"
-	refused "$f"
+	refused "$VALID_NAME"
 	continue
     fi
 
     # compare if hash found
-    HASH=$(md5sum $f |cut -d" " -f 1)
-    HASH_EXISTS=$(grep $HASH $HASH_FILE);
+    HASH=̀`md5sum "$VALID_NAME" |cut -d " " -f 1`
+    HASH_EXISTS=$(grep "$HASH" "$HASH_FILE");
+    echo "hash $HASH "
     if [[ "" != $HASH_EXISTS ]] ; then
 	echo -e "  ERROR File exists with same content : '$HASH_EXISTS'\n"
-	refused "$f"
+	refused "$VALID_NAME"
 	continue
     fi
 
