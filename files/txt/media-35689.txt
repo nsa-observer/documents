@@ -1,0 +1,6908 @@
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+DEFIANTWARRIOR
+andthe
+NSA's Use of Bots
+
+Overall Classification: TOP SECRET/lCOMINT/IREL FVEY
+Current As Of: 24 May 2010
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20350401
+
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+ 
+
+SECRET/IREL USA, FVEY
+
+Overview
+
+BotNet Background
+
+Bot Herding 101
+
+NSA’s Adventures in Bot Herding (FAIL)
+Successful Endeavors
+
+SECRET/IREL USA, FVEY
+
+Bot Networks - Worldwide
+
+ 
+
+I» Average of 63,912 active bot network computers per day, an 11% increase.
+Worldwide total rose to just over 6,049,594 - a 29% increase.
+
+I» 4,746 Command and Control servers were observed; 40% U.S. based
+
+h China has moved to the top — to 26% while the United States continues to
+decline. EMEA countries, with the exception of the U.K., showed the largest
+
+increase.
+ United
+
+ 
+
+ 
+
+Kingdom ‘ -
+t6] 4%
+
+France  _ Poland
+(315% . V I [333%
+
+Spain Germany
+is! 5% {4} 6%
+
+Her
+tit] :- Rank.
+95 = Cmrqnt proportion
+
+          
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Bot Herding 101 — It’s a Business
+
+- Used Extensively for Illicit Means
+— Distributed Denial of Service (DDoS)
+— SPAM Operations
+— Financial Fraud
+— Intelligence Collection (Brazil, Russia, China, etc)
+
+- Three Modes of Control
+— Phase 1 - IRC
+— Phase 2 - HTTP (OLYMPUS/UNITEDRAKE are Bots)
+— Phase 3 — Peer—to-Peer
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+' Master Herder Controls
+Subordinate Command &
+Control Nodes
+
+- Each C2 Nodes Relays
+Herder’s Instructions to
+Bots
+— Individuals
+— En-Mass
+
+° BotNets Have Been
+Observed with Millions of
+Nodes
+
+ 
+
+ 
+
+- BotNets are Regularly
+Exchanged, via
+— Rent
+— Sale
+— Hostile Take Over —
+aka BotWar
+- Sting Operations
+— Use Valid BotHerder
+Credentials
+
+— Take Control of the C2
+Channel
+
+ 
+
+ 
+
+- FBI Open BotNet Cases
+- US Government Control
+
+- Bots Directed to “Bot Prison”   
+— Custom IRC Server 3
+
+- Bot IPs Processed Through
+Quarantine Engine
+
+— .foreign — Directed to TAO IR
+Server
+
+— .gov/.mi| — NTOC Business
+Logic
+
+— .us — FBI Office of Victim
+Assistance
+
+- FBI Goes Public — Avoid
+BotWar
+
+FOREIGN r NSAJTAO
+
+  
+ 
+
+ 
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Bot l erding 101 — Success!!!
+An All SIGINT Approach
+
+- Leverage FVEY SIGINT Systems to Identify
+and Target Foreign Bots
+
+- Extensively Utilize GCHQ Mid-Point
+Collection Platforms (and Personnel)
+
+- Heavy Integration with TURBULENCE
+Architecture (aka QUANTUMBOT)
+
+— TURMOIL — Passive Tipping
+— TURBINE — High/Low/High Interaction
+— Snipers — Man-on-the-Side Injection
+
+ 
+
+ 
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+What the DW OPSEC Profile Buys:
+
+° “go broad” active CNE
+° Pervasive network analysis vantage points
+- Throw-away non-attributable CNA nodes
+
+Doreen 13 US ScriptK 16 Rom l33t Uber NS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Scale of L33t
+
+TOP SECRET/fCOMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Bot Acquisition Setup
+
+- Check XKEYSCORE for exploitable bots
+
+'ask'
+
+ 
+
+'URMOIL to watch for such traffic
+
+ 
+
+‘ask'
+
+'URBINE to generate MOTS packet
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+IRC Server
+
+" in - on for
+.. commands - p gp g
+
+commands E
+-  Bot - 
+
+l 9 -
+I‘m here Go download thrs
+  executable: I]
+
+TAO IRC TAO Bot
+Server Server
+
+ 
+
+E E
+
+command
+packet
+
+ 
+
+ 
+
+‘l’
+
+TURENE
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+The Reality
+
+QBOT tipping off of INCENSER
+ but nowhere else
+
+Have bots in and
+
+ but nowhere else
+
+Channel health is highly diurnal
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Channel Health
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+If wishes were ponies...
+
+- A botnet upon which the sun never sets
+
+- QUANTUMBOT tipping diversification
+* STELLABLUE
+— SMOKYSINK
+— TURMOlLs at Menwith, MSOC, YRS
+
+- Technique diversification
+
+— Man In The Middle (vs Man On The Side)
+
+- More locations
+- easier to exploit HTTP bots (no race condition)
+
+— Throw exploits from our bots
+- Exploit toe-holds on networks to get better penetration
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+Cylinders Of Excellence
+
+ 
+
+r” "*
+
+ 
+
+ 
+
+ 
+
+ 
+
+Through extensive coordination. we will build a community o complete incompatibility.
+
+ 
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Rube Goldbergian Challenges
+
+QBOT tasking can* get stale (bots change)
+TURMOIL QBOT tasking can* break
+TURBINE QBOT tasking can* break
+ISLANDTRANSPORT can* break
+QUANTUM Diodes can* break
+
+Web sniper can* break
+FESTIVEWRAPPER can* break
+TURBINE bot tasking can* break
+
+LPs can* break
+
+FREEFLOW diodes can* break
+TAO-homed post-processing can* break
+TURBINE-homed post-processing can* break
+Security Marking Service can* break
+PRESSUREWAVE can* break
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+* d0 / does
+
+    
+  
+   
+
+Internet
+
+Adversary LF'
+
+    
+  
+  
+
+DW‘ Humans
+
+ 
+
+Mia-ewe
+
+       
+ 
+
+IRC Server QUANTUM
+
+TURBINE GUI
+
+      
+ 
+    
+ 
+    
+ 
+    
+     
+  
+ 
+   
+ 
+    
+
+ 
+
+TURMGIL
+
+QUANTUM
+TURBINE
+
+ 
+   
+
+'u'ietirn Hes-1
+Gill-1Q I NSPJ‘Iet
+
+   
+
+WWW? 3°“ “TURMGIL‘
+
+DW Metrics
+Generator
+
+ 
+
+Amrersary LF'
+
+ 
+
+IRC Sewer
+
+     
+
+Coven
+Inlreetmcture
+
+HANGARSUFEPLLJS
+
+  
+   
+
+S URF‘LUSHANGER
+
+WAITMIFID
+
+  
+      
+    
+ 
+    
+ 
+   
+
+Listening
+Pest
+
+‘u'lctlm Hoe-.1 Web $niper
+
+   
+
+   
+
+Herrera-arr Ber.
+
+     
+
+TAD But
+We!) Sewer
+
+FEEHUEM'LIRAPP'ER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+   
+
+ 
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TAO Net mmsgus swam PIG
+DEEPFRIEDPIG FTPMMF Data cleanup "aw:
+SEAGULLFAHO Fi'“ 33’5‘5'" DataReceinI "
++
+f FREEFLDW _ FREEFLCIW _ ﬂ
+HAMGARSURPLUS {hlgh} SURPLU SHANGAH {hlgh}
+TAG Net : NSA Net DMZ 29mph; WAITAUTG
+“ YELLFIGJI “ SHCJUTPIG '" cum cm:
+FTP sew _ FASTEF’IG FTP sew In FREEFLDW FREEFLUW "‘
+{Netﬁppi HANGAHSURPLUS {law} SURPLUSHANGAR {low}
+1|.
+Nﬁmlel
+1F
+" Middlemn = um; Samar
+-"'r TURBINE
+I'I-I'IAILORDER .n.
+_...— '.: ICZI1I1I.=.'r Nah. Henna
+WARNVCILCAND
+1r 1' Listening Post Samr 1r
+ll'ltE'll'lEl BME Samar
+FESTIVEWFEAPPER
+_. IRC Serve-r 3M3
+Victim Huet f _F__,_._.—-—-
+E If
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+Staying Sane In A Decoupled World
+
+- Glom onto every status feed you can
+° Squeeze the possible problem region
+- Know who can help you
+
+TOP SECRET/fCOMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Metrics, Metrics, and more Metrics
+
+ 
+
+"|:-:~-'H3I.I'
+E-h3'. Reques‘.3-‘H3I.I'
+
+['3 -'-' “.33.:3'IH3U'
+
+ 
+
+ 
+
+ 
+
+_-p- : 3:33 _-p- : ::33 _-p- : 3:33
+
+ 
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+'1' Butlnstances: index - Mozilla Firefnx
+
+E115
+
+ Butlnstances: index El
+
+Edit
+
+we w
+
+6-6:
+
+ngtury
+
+Euokmarkj Inols Heb
+
+m3—
+
+1ﬁ. Must ViSIted , Gettxng Started ﬂ Latest Headhnes
+
+ Eotlnstances: Show
+
+[Herds] [Bots] [Connected Bots] [Bot Tynes] [Machines] [11= Usages] [Codntnes] [Command Reourrenoes] [Command Tynes]
+
+ 
+
+D0119
+
+For BotInstances Located In-Of Type XTNZ (
+
+ 
+
+Displaying BotInstances 1 - 30 of 1593 in total
+
+<<Prev1o05123456735
+
+PerPage:ﬁ<ﬂ<m<A_H
+
+ 
+
+.53 54 Next )1-
+
+'o
+
+Connected | [All] )
+
+ 
+
+A
+Logged in as: -
+
+El Refresh Every Minute
+
+ 
+
+Last Observed ID
+
+First Callback Time
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] But Instance But Type Machine
+1 D XTNZ *JGIAWCMVMBNIAHVJKIB] [+] m JGIAWCMVMBNIAHVJKIB]
+2 E! XTNZ -AVHTMQCSPJWQDWWYWD><B [+] ELM; AVHTN CSPJW DWWYWDXB
+3 D XTNZ -XE BJWC JNEVJEMEDGKUXT [+] m X BJWC NEVJEMEDGKUXT
+4 l] XTNZ *PDDWHBKVOIGRPPAUZABD [+] ELM; PDDWHBKVOIGRPPAUZABD
+.5 D XTNZ -XHJW§ DVTIIZHVMVF 113M [+] m HHJWE DVTIIZHVMVF! 13M
+6 D XTNZ *VWGCEFULROUZSWJIIFQC [+] KL; VWGCEFULROUZSWJIIF C
+7 E! XTNZ -SESL PVICGZVOKWNUN [+] m SESL F‘VICGZVOKWIVUM
+3 D XTNZ -IN‘FDMR‘{RROAC35330TZF‘ [+] ELM; INVDMR‘IRROACSSBBDTZF‘
+9 I: XTNZ -HUTANSC3[[ GKLCZLXVEA [+] m HUTANSCBI GKLCZLXVEA
+1|] El XTNZ *MKILDRAENRUXVHWONDM 1 [+] EL; MKILDRAENRUXVHWONDMQ
+11 l] XTNZ -H§ SHJBVRPJWBNFCEMSXK [+] m H SHJBVRF‘JWBNFCEMSXK
+12 El XTNZ -NCCRJFJJNM><UXJBIAUCH [+] E7; NCCPJFJJNMXUXJBIAUCH
+13 D XTNZ *EKSHESSIJURPILVTPBD 1 [+] m EKSHESSUURPILYTPBDQ
+14 D XTNZ -FFCKJ[OM3UVFHALTRF{3G [+] ><__; FFCKJIOMBUVFHALTRRBG
+15 D KTNZ *LNKWMUQJDRBIFERNUPEC [+] m LNKWMU JDRBIFERNUPEC
+16 l] XTNZ -PK QKRMROSSXUTEZHTE JN [+] EL; PK KRNROSSXUTEZHT JN
+17' El XTNZ -EVDELNABZLXZHYGBCMVG [+] m EVDELNABZLXZHYGBCNVG
+18 D XTNZ *FMWNTULXVOLVPCXLAUUH [+] ELM; FMWNTULXVOLVPCXLAUUH
+19 D XTNZ -HW[!WMVV3HWEAMEJOJDNA [+] m HW WMVVSHWEAMEJOJDNA
+20 [I XTNZ 7 vzvuvewo LZIIPPMO e [+153]; gvzvuvewongnPPMoge
+21 l] XTNZ -AGE><NM330I_I AVGXJHLOPA [+] m AGEXNMBBB AVGXJHLOPA
+22 El XTNZ -MRSGJRZ><USMMMUP><WM1Q [+] ELM; MRSGJRZﬂUSMNMUPXWMIQ
+23 D XTNZ *CXDTLZNAZJJNTVKAQJGW [+] m CXDTLZNAZJJNTVKAQJGW
+24 D XTNZ - JHAEZJMBRVMWXKMFVKTA [+] ELM; EHASZJMBRVMWXKMFVKTA
+25 D XTNZ *FBFXHJGMEMWALTVAREZZ [+] m FBFKHJGMEMWALTVAREZZ
+26 l] XTNZ -XZA3 D1 MKXUDN VWLL [+] ELM; XZAB D1 NKXUDN VWLL
+27' El XTNZ -LNLHUQNJZGAHDQELTHJU [+] m LNLHU NJZGAHD ELTHJU
+28 D XTNZ *RFSDIDGLVVLVFTQGFYZC [+] ELM; RFSDIDGLVYLVFT GFYZC
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Last Callback Time 1
+
+Lifetime
+
+ 
+
+Country
+
+ 
+
+2010303325 13: 56: 42 UTC
+
+2010304321 19:21:03 UTC
+
+26:! 5h 24m 215
+
+ 
+
+2010-03-22 07:49: 12 UTC
+
+2010-04-21. 19:21:00 UTC
+
+30d 11h 31m 435
+
+ 
+
+2010-03-03 10:42:03 UTC
+
+2010-04-21 19: 20: 54 UTC
+
+44d 3h 33m 435
+
+ 
+
+2010303310 03:02:17 UTC
+
+2010304321. 19: 20: 54 UTC
+
+42d 11h 13m 375
+
+ 
+
+2010-03-10 13:55:54 UTC
+
+2010-04-21 19: 20: 54 UTC
+
+42d 5h 25m 05
+
+ 
+
+2009311330 05: 15:05 UTC
+
+2010304321 19: 20: 45 UTC
+
+142:! 14h 5m 4-05
+
+ 
+
+2010-03-21 16:16:34 UTC
+
+2010-04-21. 19:20:29 UTC
+
+31d 3h 3m 555
+
+ 
+
+2010-03-17 19: 015: 23 UTC
+
+2010-04-21 19: 20: 23 UTC
+
+35El 0h 14m 05
+
+ 
+
+2010-03-13 06: 54: 59 UTC
+
+2010-04-21 19: 20: 23 UTC
+
+34d 12h 25m 295
+
+ 
+
+2010303321 15:45:32 UTC
+
+2010304321. 19: 20: 23 UTC
+
+31:! 3h 34m 565
+
+ 
+
+2010-03-21 19:52:13 UTC
+
+2010-04-21 19:20:23 UTC
+
+30d 23h 23m 155
+
+ 
+
+2010-03-22 10:01:02 UTC
+
+2010-04-21. 19:20:23 UTC
+
+30:! 9h 19m 265
+
+ 
+
+2010304301 10:27:41 UTC
+
+2010304321. 19:20:21 UTC
+
+20d 3h 52m 405
+
+ 
+
+2010-03-11 11:59:05 UTC
+
+2010-04-21 19: 20: 17 UTC
+
+41d 7h 21m 125
+
+ 
+
+2010303317 21:07:41 UTC
+
+2010304321. 191201 17' UTC
+
+34:! 22h 12m 365
+
+ 
+
+2010-04-01 13:09:15 UTC
+
+2010-04-21 19: 20: 03 UTC
+
+20d 1h 10m 535
+
+ 
+
+2010-03-31 1.3: 53: 33 UTC
+
+2010-04-21. 19: 1.9147 UTC
+
+21:! 5h 26m 145
+
+ 
+
+2010303311 091 36: 23 UTC
+
+2010304321. 19:19:36 UTC
+
+41d 9h 43m 35
+
+ 
+
+2010-03-23 09:30:13 UTC
+
+2010-04-21 19:19:21 UTC
+
+29d 9h 49m 35
+
+ 
+
+2010303323 09:42:21 UTC
+
+2010304321. 19: 1.9119 UTC
+
+29:! 9h 36m 53S
+
+ 
+
+2010-03-22 06: 23: 50 UTC
+
+2010-04-21 19:19:07 UTC
+
+30d 12h 55m 175
+
+ 
+
+2010-03-23 09:29: 10 UTC
+
+2010-04-21. 19: 1.9107 UTC
+
+29:! 9h 49m 575
+
+ 
+
+2010303325 13:21:43 UTC
+
+2010304321. 19:19:07 UTC
+
+26d 5h 57m 195
+
+ 
+
+2010-03-27 01: 4E: 33 UTC
+
+2010-04-21 19:19:01 UTC
+
+25d 17h 32m 235
+
+ 
+
+2009311311 13:00:34 UTC
+
+2010304321. 19: 1.3130 UTC
+
+161:! Eh 17m 565
+
+ 
+
+2010-04-01 03: 53: 39 UTC
+
+2010-04-21 19:16:47 UTC
+
+20d 10h 13m 35
+
+ 
+
+2010-03-23 04: 42: 40 UTC
+
+2010-04-21. 19: 1.6120 UTC
+
+29:! 14h 33m 405
+
+ 
+
+2010304302 09:19:50 UTC
+
+2010304321. 19:14:29 UTC
+
+19d 9h 54m 395
+
+ 
+
+ 
+
+ 
+
+ 
+
+Binary Key
+
+ 
+
+ 
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Walk The Line
+
+Be awesome enough to be useful...
+ and not get caught trivially
+
+ but not as awesome as a state actor
+ and notice when we do get burned
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Prevent and Detect
+
+- Today
+— Uniquely packed shipped binaries
+— Uniquely keyed shipped binaries
+— Separate LPs
+
+° Tomorrow
+— LPs shielded with commercial services
+— Deployment is carefully staged
+— Reverse honey-nets
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+TOP SECRET/IC OMINT/IREL USA, FVEY
+
+Getting Data To Useful Places
+
+- Today
+— Put SIGDEV surveys in PRESSUREWAVE
+— Send traceroutes to TREASUREMAP
+
+- Tomorrow
+— Enrich connect logs with PUZZLECUBE
+— Make bot data visible to MARINA
+— Make file collection possible with SEEKER
+— Put BMS on NSANet
+— Push captured PKI to CES
+— Harvest user identifiers and marry up with other data
+
+TOP SECRET/[C OMINT/IREL USA, FVEY
+
+ 
+
+  
+
+  
+
+ Botlnstances: index
+
+ﬁle w
+
+are
+
+:g, Most ViSIted * Gettan Started i] Latest Headhnes
+
+History Euekmarks Innis Help
+
+4:33—
+
+El
+
+J Ectlnstances: Show
+
+[Heres] [Bets] [Cennecteﬂ Bets] [Bet Tyges] [Machines] [1; Usages] [Ccumries] [Command Recurrences] [Command Types]
+
+ 
+
+For BotInstances Unfiltered ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 5940 in total
+
+<< Premcus 1 2 3 4 5 El 7' E 0197 1‘38 NEXT >3-
+
+ 
+
+PerPage:ﬁ<ﬂ<m<A_”
+
+ 
+
+Logged in as: 73552
+
+El Refresh Every Mir-lute
+
+ 
+
+  
+
+Last Observed 1P
+
+First Callback Time
+
+ 
+
+Last Callback Time 1'
+
+Lifetime
+
+ 
+
+ 
+
+2010-03-22 06:24:57 UTC
+
+2010-04-21 19:07:25 UTC
+
+30d 12h 42m 255
+
+ 
+
+ 
+
+2010503521 15:
+
+16:34
+
+UTC
+
+2010504521 19:07
+
+:24 UTC
+
+31d 2h 50m .505
+
+ 
+
+ 
+
+2010-03-31
+
+:53:
+
+33
+
+UTC
+
+2010-04-21
+
+107':
+
+14 UTC
+
+21d 5h 13m 415
+
+ 
+
+ 
+
+ 
+
+ 
+
+2010504501
+
+:13
+
+UTC
+
+2010504521
+
+107‘:
+
+11 UTC
+
+19d 23h 27m 505
+
+ 
+
+ 
+
+2010-04-01
+
+:15
+
+UTC
+
+2010-04-21
+
+:10 UTC
+
+20d 0h 57m 555
+
+ 
+
+ 
+
+ 
+
+  
+
+2010-03-11
+
+UTC
+
+2010-04-21
+
+:09 UTC
+
+41d 2h 5m 355
+
+ 
+
+ 
+
+2010503524
+
+:31
+
+UTC
+
+2010504521
+
+:09 UTC
+
+28d 0h 34m 305
+
+ 
+
+ 
+
+ 
+
+2010-04-01
+
+:36
+
+UTC
+
+2010-04-21
+
+:00 UTC
+
+   
+
+20d 5h 54m 335
+
+ 
+
+ 
+
+ 
+
+2010-04-16
+
+:04
+
+UTC
+
+2010-04-21
+
+:00 UTC
+
+5d 3h 57m 5s
+
+ 
+
+ 
+
+20100311
+
+:20
+
+UTC
+
+2010*04i21
+
+:04 UTC
+
+41d 9h 30m 365
+
+ 
+
+ 
+
+2010-03-23
+
+:29
+
+UTC
+
+2010-04-21
+
+:04 UTC
+
+29d 14h 23m 355
+
+ 
+
+ 
+
+2010-03-27
+
+:09
+
+UTC
+
+2010-04-21
+
+:04 UTC
+
+25d 5h 52m 555
+
+ 
+
+ 
+
+2010503531
+
+:32
+
+UTC
+
+2010504521
+
+:04 UTC
+
+21d 4h 44m 325
+
+ 
+
+ 
+
+2010-03-11
+
+:1?
+
+UTC
+
+2010-04-21
+
+:03 UTC
+
+  
+
+40d 23h 19m 465
+
+ 
+
+ 
+
+20100322
+
+:53
+
+UTC
+
+2010*04i21
+
+:54 UTC
+
+30d 15h 49m 15
+
+ 
+
+ 
+
+2010-03-22
+
+:50
+
+UTC
+
+2010-04-21
+
+:54 UTC
+
+30d 12h 43m 45
+
+ 
+
+ 
+
+2010-03-22
+
+:26
+
+UTC
+
+2010-04-21
+
+:54 UTC
+
+30d 9h 15m 205
+
+ 
+
+ 
+
+2010503523
+
+:29:
+
+10
+
+UTC
+
+2010504521
+
+:54 UTC
+
+29d 9h 37m 445
+
+ 
+
+ 
+
+2010-03-26
+
+:21:
+
+45
+
+UTC
+
+2010-04-21
+
+:54 UTC
+
+26d 5h 45m 65
+
+ 
+
+ 
+
+2010-03-30
+
+:04:43
+
+UTC
+
+2010-04-21
+
+:54 UTC
+
+22d 11h 2m 115
+
+ 
+
+ 
+
+2010-03-30
+
+:46:34
+
+UTC
+
+2010-04-21
+
+:54 UTC
+
+22d 8h 20m 205
+
+ 
+
+ 
+
+ 
+
+  
+
+2010-03-11
+
+:47:
+
+19
+
+UTC
+
+2010-04-21
+
+:52 UTC
+
+40d 23h 19m 335
+
+ 
+
+ 
+
+2010503524
+
+:44: 37
+
+UTC
+
+2010504521
+
+:52
+
+28d 3h 22m 155
+
+ 
+
+ 
+
+ 
+
+2010-03-24
+
+:44:53
+
+UTC
+
+2010-04-21
+
+:52
+
+  
+
+28d 3h 21m 595
+
+ 
+
+ 
+
+2010-04-01 19:
+
+:29
+
+UTC
+
+2010-04-21
+
+:52
+
+   
+
+19d 23h 31m 235
+
+ 
+
+ 
+
+2010-03-24 13:
+
+:48
+
+UTC
+
+2010-04-21
+
+:42
+
+23d 5h 23m 545
+
+ 
+
+ 
+
+ 
+
+2010-03-24 17':
+
+:20
+
+UTC
+
+2010-04-21
+
+   
+
+28d 1h 15m 225
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] Bet Instance But Type Machine
+
+1 El ><TNZ -1VKCCBINSVEENCFLCH><M [+] m IVKCCBINSVEENCFLCHKM
+
+2 D ><TNZ *SESL PWCGZVDKWIYUN [+] m SESL PVICGZVOKWWUN
+E D XTNZ -EVDELNABZLXZHVGBCNVG [+] m EVDELNABZLXZHVGBCNVG
+4 D TURD *NGVWGSPF‘CADQOMSVIVDW [+] w NGVWGSF‘F‘CADQOMSVWDW
+5 El ><TNZ -PK KRNROSSXUTSZHT JN [+] m PK KRNROSSXUTSZHT JN
+6 El TURD -PDDWHBKVOIGRPPAUZABD [+] w PDDWHBKVOIGRPPAUZABD
+7 D TURD *IUCWQTDONQFGUARDSVOK [+] M IUCW TDON FGUAROSVOX
+El D TURD -CXDTLZNAZJJNTVHA JGW [+] w CHDTLZNAZJJNTVXAE JGW
+9 D TURD -§ VVZLCRMTLDVICGEU ERL [+] w E VVZLCRMTLDVICGEU ERL
+10 El KTNZ *FMWNTULKVOLVPCXLAUUH [+] m FMWNTULXVOLVPCXLAUUH
+11 El ><TNZ -MFRDCUMTVKZGLYCRWEFW [+] m MFRDCUMTVKZGLYCRWEFW
+12 D XTNZ -JERBPDBEDP[YK5]WDJUHH [+] m JERBPDBEDPIVK WDJUHH
+13 El KTNZ *B CGVRAFWWIJHACJO G [+] m B CGVRAFWWIJHACJO G
+14- D TURD -FMWNTULXVOLVPCXLAUUH [+] w FMWNTULXVOLVPCXLAUUH
+15 El KTNZ *IUCWQTDONQFGUAROSVOK [+] m IUCW TDON FGUAROSVOK
+16 El ><TNZ -AGE><NMBSBQAVGKJHLOPA [+] m AGEXNMBSB AVGXJHLOPA
+17 D XTNZ -VZAIH JEDBSE IOZGHHANS [+] m VZAIH EDBS IOZGHHANS
+13 El KTNZ *MRSGJRZXUSMNMUPKWNIE [+] m MRSGJRZXUSMNMUPKWNIQ
+19 D XTNZ -C><DTLZNAZJJNTV><A§ JGW [+] m CXDTLZNAZJJNTVXAE JGW
+20 El ><TNZ -GJPDFSZHXIBVGQIRCB><C [+] m GJPDFSZHXIBVG IRCBKC
+21 El ><TNZ -HQFDDPPVCKFKGDGOAHHS [+] m H FDDPPVCKFKGDGOAHHS
+22 D TURD -><5 BJWCE NEVJEMEDGKUXT [+] w X BJWC NEVJEMEDGKUXT
+23 El TURD *OHTFJEDWUKFBNDMQDQNI [+] w OHTFJEDWUKFBNDM D NI
+24- D TURD -IASTIKAOAOIDWVNMVSCA [+] w IASTIKABAOIDWVNMVSCA
+25 El TURD -ALNABRMDZQJOKBKUZDIJ [+] w ALNABRMDZ JOKBKUZDIJ
+26 El TURD -AGEXNMBSBQAVG><JHLOPA [+] w AGEXNMBSB AVGXJHLOPA
+27 D TURD -VZA[H EEDBB JIOZGHHANE [+] w VZAIH EDBS IOZGHHANS
+23 El TURD *IUWCJVNSTCILDHQWZA 1 [+] w IUWCJVNSTCILDHQWZAQ
+
+ 
+
+ 
+
+2010503524 10:
+
+:23
+
+UTC
+
+ 
+
+2010504521
+
+ 
+
+28d 0h 35m 195
+
+ 
+
+ 
+
+Geuntrv Binarv Kev
+
+ruFVuSycHT 
+
+BFFXbF‘lVQB .::
+HcgiEzEEuZh ..:
+
+RVHdEﬂEJLl 
+
+erDlegHmt 
+
+ngTVEsveD ..:
+
+aEanfhmVn .::
+
+QGEVQREng 
+F‘s 5n7:0WC 
+ESrZJBFSA? 
+:rLgAIQSBx 
+
+CEIlCINdi2F7f 
+
+K32 llerDmk 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/7C OMINT/lREL USA, FVEY
+
+ENE Edit ﬂiew History Eeekmarks Innis ﬂe‘p
+
+6 ' c -L  ﬂ _ .0._
+
+1;; Most ViSIted * Gettan Started __ Latest Heedhnes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Botlnstances: index a J Ectlnstences: Show 5"
+[Herds] [m] [Cehhectec Bcts] [Bct Tyges] [Machines] [IF Usages] [Ccumries] [Command Recurrences] [Command Types] Logged in as: 73552
+D Refresh Every Minute
+For BotInstances Unfiltered ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 5940 in total
+<< 99341095 1231551931“ EEW
+PerPage:ﬁ<ﬂ<m<A_ll
+
+[+] Bet Instance But Type ‘ Machine Last Observed 1P First Callback Time Last Callback Time 1' Lifetime Ceuntrv Binarv Kev
+1 El ><TNZ -NKCCBINSVEENCFLCH><M   I _ ” -FLCHKM 2919-93-22 96:24:57 UTC 2919-94-21 19:97:25 UTC 39:! 12h 42m 295
+2 D XTNZ *SESL PWCGZVOKWIYUN r i r I VIII? OKWIYUN 2919593521 16:16:34 UTC 2919594521 19:97:24 UTC 31d 2h 59m 595
+
+View Bcts also of Type
+
+9 D XTNZ -EVDELNABZL><ZHVG9CNVG I WGBCNVG 2919-93-31 13:53:33 UTC 2919-94-21 19:97:14 UTC 21d 5h 13m 415
+4 D TURD *NGVWGSPF‘CADQOMSVIVDW l J W OMSVIVDW 2919594591 19:39:13 UTC 2919594521 19:97:11 UTC 19:! 23h 27m 595 erUu3ycHT 
+5 l] XTNZ -PK KRNROSSXUTSZHT JN [+] m F'K KRNROSSXUTSZHT JN 2919-94-91 19:99:15 UTC 2919-94-21 19:97:19 UTC 29d 9h 57m 555
+6 El TURD -PDDWHBKVOIGRPPAUZABD [+] w PDDWHBKVOIGRPPAUZABD 2919-93-11 17:91:31 UTC 2919-94-21 19:97:99 UTC 41d 2h 5m 39S BFFXbF‘lVQB 
+7 D TURD *IUCWQTDONQFGUARDSVOK [+] w IUCW TDON FGUAROSVOX 2919593524 19:32:31 UTC 2919594521 19:97:99 UTC 29d 9h 34m 395 HCQiEZE6Zh 
+9 D TURD -CXDTLZNAZJJNTVHA JGW [+] w CHDTLZNAZJJNTVXAE JGW 2919-94-91 13:12:35 UTC 2919-94-21 19:97:99 UTC 29d 5h 54m 335 99419995le1 
+9 D TURD -§ VVZLCRMTLDVICGEU 19L [+] w E VVZLCRMTLDVICGEU ERL 2919-94-16 15:19:94 UTC 2919-94-21 19:97:99 UTC 5d 3h 57m 55 erDlegHmt 
+19 El KTNZ *FMWNTULKVOLVPCXLAUUH [+] m FMWNTULXVOLVPCXLAUUH 2919593511 99:36:29 UTC 2919594521 19:97:94 UTC 41:! 9h 39m 365
+11 l] ><TNZ -MFRDCUMTVKZGLYCRWEFW [+] m MFRDCUMTYKZGLYCRWEFW 2919-93-23 94:43:29 UTC 2919-94-21 19:97:94 UTC 29d 14h 23m 355
+12 D XTNZ -JERBPDBEDP[YK5]WDJUHH [+] m JERBPDBEDPIVK WDJUHH 2919-93-27 13:14:99 UTC 2919-94-21 19:97:94 UTC 25d 5h 52m 555
+13 El KTNZ *9 CGVRAFWWIJHACJO G [+] m 9 CGVRAFWWIJHACJO G 2919593531 14:22:32 UTC 2919594521 19:97:94 UTC 21:! 4h 44m 325
+14- D TURD -FMWNTULXVOLVPCXLAUUH [+] w FMWNTULXVOLVDCXLAUUH 2919-93-11 19:47:17 UTC 2919-94-21 19:97:93 UTC 49d 23h 19m 455 [VXTVESVED 
+15 El KTNZ *IUCWQTDONQFGUAROSVOX [+] m IUCW TDON FGUAROSVOK 2919593522 93:17:53 UTC 2919594521 19:96:54 UTC 39:! 15h 49m 15
+16 l] ><TNZ -AGE><NMBSBQAVGXJHLOPA [+] m AGEXNMBSB AVGXJHLOPA 2919-93-22 96:23:59 UTC 2919-94-21 19:96:54 UTC 39d 12h 43m 45
+17 D XTNZ -VZAIH JEDBSE IOZGHHANS [+] m VZAIH EDBS IOZGHHANS 2919-93-22 99:51:29 UTC 2919-94-21 19:96:54 UTC 39d 9h 15m 295
+19 El KTNZ *MRSGJRZXUSMNMUPKWNIE [+] m MRSGJRZXUSMNMUPKWNIQ 2919593523 99:29:19 UTC 2919594521 19:96:54 UTC 29:! 9h 37m 445
+19 D XTNZ -C><DTLZNAZJ1NTV><A§ JGW [+] m CXDTLZNAZJJNTVXAE JGW 2919-93-26 13:21:49 UTC 2919-94-21 19:96:54 UTC 26d 5h 45m 55
+29 El XTNZ -GJPDFSZHXIBVGQIRC9><C [+] m GJPDFSZHXIBVG IRCBKC 2919-93-39 99:94:43 UTC 2919-94-21 19:96:54 UTC 22d 11h 2m 115
+21 l] ><TNZ -HQFDDPPVCKFKGDGOAHHS [+] m H FDDPPVCKFKGDGOAHHS 2919-93-39 19:46:34 UTC 2919-94-21 19:96:54 UTC 22d 8h 29m 295
+22 D TURD -><5 BJWCE NEVJEMEDGKUXT [+] E X BJWC NEVJEMEDGKUXT 2919-93-11 19:47:19 UTC 2919-94-21 19:96:52 UTC 49d 23h 19m 335 aEanfhth 
+23 El TURD *OHTFJEDWUKFBNDMQDQNI [+] M OHTFJEDWUKFBNDM D NI 2919593524 15:44:37 UTC 2919594521 19:96:52 UTC 29:! 3h 22m 155 9GEVgR2ng 
+24- D TURD -IJ§9T1K99AOIDWVNMV9CA [+] w IASTIKABAOIDWVNMVSCA 2919-93-24 15:44:53 UTC 2919-94-21 19:96:52 UTC 29d 3h 21m 595 95 5n719WC 
+25 El TURD -ALNABRMDZQJOK9KUZDIJ [+] w ALNABRMDZ JOKBKUZDIJ 2919-94-91 19:35:29 UTC 2919-94-21 19:96:52 UTC 19d 23h 31m 235 ESrZJBF3A7 
+26 l] TURD -AGEXNMBSBQAVGXJHLOPA [+] w AGEXNMBSB AVGXJHLOPA 2919-93-24 13:42:49 UTC 2919-94-21 19:96:42 UTC 29d 5h 23m 545 :r’LgAI959X 
+27 D TURD -VZA[H EEDBS JIOZGHHANE [+] w VZAIH EDBS IOZGHHANS 2919-93-24 17:49:29 UTC 2919-94-21 19:96:42 UTC 29d 1h 19m 225 C9bNdi2F7f 
+29 El TURD *IUWCJVNSTCILDHQWZA 1 [+] w IUWCJVNSTCILDHQWZAQ 2919593524 19:31:23 UTC 2919594521 19:96:42 UTC 29:! 9h 35m 195 K3ZIDGrDmk 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/7C OMINTIIREL USA, FVEY
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_ yew History euukmarks Innis ﬂe‘p
+
+@ ' C “B J — ' '3'
+
+1;, Most ViSIted * Gettan Started i] Latest Heedhnes
+
+ Botlnstances: index i] #1 Eotlnstences: Show *
+
+[Heres] [m] [Cennecteﬂ Bets] [Bet Tynes] [Machines] [11? Usages] [Countries] [Command Recurrences] [Command Types] Legged in as: 73992
+
+Ci Refresh Every Minute
+For BotInstances 0f Type XTNZ ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 3556 in total
+<< WEWDUS lgiiéﬁlﬂﬂu ﬂaw
+PerPage:ﬁ<ﬂ<ﬂ<A_ll
+[+] But Instance Bet Type Machine Last Observed IF' First Callback Time Last Callback Time 1‘ Lifetime Ceuntrg Binary Key
+
+1 El XTNZ -AVHTMQCSPJWQDWWYWD><B [+] m AVHTN CSPJW DWWVWDKB 2313-03-22 07:49:12 UTC 2010-34-21 19119121 UTC 30:! 11h 30m 95
+2 D XTNZ *HWQWMYVSHWEAMEJOJDMA [+] ELM; HW WMYVSHWEAMEJOJDNA 2313533523 091 :13 UTC 201050-4321 19119121 UTC 29d 9h 49m 35
+3 D XTNZ - VZVUVPWD LZHPPMO F‘ [+] m EVZVUVPWD 1L2I1PPMO§ 3 2313-33-23 D91 :21 UTC 2313-34-21 119113 UTC 29d 9h 36m 535
+4 l] XTNZ *IUCWQTDONQFGUAROSVOK [+] ELM; IUCW TDON FGUAROSVOX 2313533522 031 :53 2010504321 11913? UTC 30:! 16h 1m 145
+5 El XTNZ -AGE><NMBSB AVGXJHLOPA [+] m AGEXNMBSB AVGXJHLOPA 2313-33-22 361 :53 2313-34-21 11913? UTC 33d 12h 55m 175
+6 El XTNZ -VZAIHQEDBSQIOZGHHANS [+] ELM; VZAIH EDBS IOZGHHANS 2313-03-22 091 :26 2010-34-21 119137 UTC 30:! 9h 27m 415
+7 D XTNZ *MRSGJRZXUSMNMUPXWM] g [+] m MRSGJRZXUSMNMUPXWMIQ 2313533523 091 :13 201050-4321 119137 UTC 29d 9h 49m 575
+3 D XTNZ -C><DTLZMAZJJMTVXA JJGW [+] ELM; CNDTLZMAZJJMTVXA 13GW 2313-33-23 131 :43 2313-34-21 11913? UTC 23d 5h 57m 195
+9 D XTNZ -H§ FDDDDVCKFKGDGOAHHS [+] m H FDDDDVCKFKGDGOAHHS 2313-33-33 1|31 :34 2313-34-21 11913? UTC 22d 3h 32m 335
+ll] El XTNZ *QHASZJMBRYMWKKMFYKTA [+] ELM; QHASZJMBRVMWXKMFYKTA 2313032? 011 :33 2010434521 119131 UTC 25:! 17h 32m 235
+11 El XTNZ -XPINCPGRUCIKQRBNCDTN [+] m XPINCPGRUCIK RBNCDTN 2313-03-33 211 :09 2010-34-21 113154 UTC 21d 22h 11m 455
+12 D XTNZ -XE BJWC JNEVJEMEDGKUXT [+] ELM; X BJWC NEVJEMEDGKUXT 2313-33-33 1|31 :33 2313-34-21 113143 UTC 44d 3h 36m 435
+13 El XTNZ *PDDWHBKVOIGRPPAUZABD [+] m PDDWHBKVOIGRPPAUZABD 2313533513 031 :17 2010504321 113143 UTC 42:! 11h 16m 315
+14 D XTNZ -XHJW§ DVTIIZHVMVD 332M [+] ELM; XHJWE DVTIIZHVMVD! 32M 2313-33-13 131 :54 2313-34-21 113143 UTC 42d 5h 22m 545
+15 El XTNZ *OGBCUWGTUBUMCOVEKOPL [+] m 0GBCUWGTU3UHCOVEXOPL 23130322 031 :13 2010434521 113143 UTC 30:! 10h 41m 355
+16 El LXTNZ -OHTFJ_MU><FBNDMQDQNI [+] ELM; OHTFJEDWUXFBNDM D NI 2313-03-23 041 :10 2010-34-21 113143 UTC 29d 14h 34m 335
+17' D XTNZ -DFFZDNZVJK! HZA JJXFHU [+] m DFFZDNZVJK HZA JXFHU 2313-33-31 131 :41 2313-34-21 113143 UTC 21d Eh 14m 75
+18 El XTNZ *VWGCEFULROUZSWJIIFE C [+] EL; VWGCEFULROUZSWJIIF C 2339511533 051 :35 2010504321 113143 UTC 142:! 14h 3m 35S
+19 D XTNZ -F3FXHJGMEMWALTVAREZZ [+] m FBFXHJGMEMWALTVAREZZ 2339-11-11 131 :34 2313-34-21 113133 UTC 161d Eh 17m 565
+2|] El XTNZ -ALNABRMDZ JOKBKUZDIJ [+] EL; ALNABRMDZ JOKBKUZDIJ 2313-04-01 191 :19 2010-04-21 113133 UTC 20:! Oh ?m 115
+21 El XTNZ -NGVWGSPPCADQDMSVNDW [+] m NGVWGSPPCADQQMSWVDW 2313-03-29 101 :23 2010-34-21 113129 UTC 23d 3h 53m 15
+22 D XTNZ -CTVEMNP O LBYZSUTJ [+] EL; CTVEMNP O LBYZSUTJ 2339-12-31 1.51 :12 2313-34-21 113121 UTC 141d 4h 14m 95
+23 El XTNZ *IMVDMRVRROACSSBBDTZP [+] m IMVDMRVRROACSSBBDTZP 2313533517 191 :23 2010504321 113121 UTC 35:! Uh 11m 53S
+24 D XTNZ -HUTAMSC3I[ GKLCZLXVEA [+] EL; HUTANSCBI GKLCZLXVEA 2313-33-13 361 :59 2313-34-21 113121 UTC 34d 12h 23m 225
+25 El XTNZ -MKILDRAENRUXVHWOMDMQ [+] m MKILDRAENRUXVHWONDMQ 2313-03-21 151 :32 2010-04-21 113121 UTC 31:! 3h 32m 495
+26 El XTNZ -HQSHJBVRPJWBNFCEMS><K [+] EL; H SHJBVRPJWBNFCEMSXK 2313-03-21 191 :13 2010-34-21 113121 UTC 30d 23h 26m E15
+27' D XTNZ -PM1MPROBL[E><AOAWWYDN [+] m PMINF‘ROBLIEXAOAWWYDN 2313-33-22 I]? :36 2313-34-21 113121 UTC 33d 11h 43m 455
+28 El XTNZ *MCCRJFJJNMXUXJBIAUCH [+] EL; NCCPJFJJNMXUXJBIAUCH 2313533522 101 :32 2010504321 113121 UTC 30:! 9h 17m 19S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENE Edit ﬂiew History Euekmarks Innis ﬂe‘p
+@ﬁ - C' 4:: J —
+1;; Most ViSIted * Gettan Started ﬂ Latest Heedhnes
+
+ Botlnstances: index i] J Eotlnstences: Show
+[Heres] [Bets] [Cennecteﬂ Bets] [Bet Tyges] [Machines] [IF Usages] [Countries] [Command Recurrences] [Command Types] Legged in as: 73552
+
+El Refresh Every Minute
+
+For BotInstances 0f Type XTNZ ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 3556 in total
+
+<< Preweus 1 2 3 4 .5 El 7' 8 8  118 118 NEXT >3-
+
+D 03 HI U‘ Ln 4* W M H
+
+Hl-l
+H:
+
+T
+
+El
+D
+E
+El
+El
+El
+D
+E
+El
+El
+El
+D
+E
+El
+El
+El
+E
+El
+El
+El
+El
+E
+El
+El
+El
+El
+D
+
+But Instance
+
+XTNZ *HWQWMYVSHWEAMEJOJDNA
+XTNZ - VZVUVPWD LZHPPMO P
+XTNZ *IUCWQTDONQFGUAROSVOK
+XTNZ ‘AGEXNMBSB AVGXJHLOPA
+XTNZ -VZAIHQEDBSQIOZGHHANS
+XTNZ *MRSGJRZXUSMNMUPXWNIQ
+XTNZ -C><DTLZNAZJJNTW<A QJGW
+XTNZ -H§ FDDDDVCKFKGDGOAHHS
+XTNZ *QHASZJMBRYMWKKMFYKTA
+XTNZ -XPINCPGRUCIKQRBNCDTN
+XTNZ -><§ BJWC JNEVJEMEDGKUXT
+XTNZ *PDDWHBKVOIGRPPAUZABD
+XTNZ -XHJW§ DVTIIZHVMVD EJRM
+XTNZ *OGBCUWGTUBUNCOVEKOPL
+XTNZ -OHTFJ_MUXFBNDMQDQNI
+XTNZ -DFFZDNZVJK[ HZA JJXFHU
+XTNZ *VWGCEFULROUZSWJIIFQC
+XTNZ -FBF><HJGMEMWALTVAREZZ
+XTNZ -ALNABRMDZ JOKBKUZDIJ
+XTNZ -NGVWGSPPCADQDMSWVDW
+XTNZ -CTVEMNP O LBYZBUTJ
+XTNZ *INVDMRVRROACSSBBDTZP
+XTNZ -HUTANSCBI[ GKLCZLXVEA
+XTNZ -MKILDRAENRUXVHWONDMQ
+XTNZ -HQSHJBVRPJWBNFCEMS><K
+XTNZ -PM1NPROBL[E><AOAWWYDN
+XTNZ *NCCRJFJJNMXUXJBIAUCH
+
+Machine
+
+HW WMYVSHWEAMEJOJDNA
+EVZVUVPWD gLZIIPPMOE P
+IUCW TDON FGUAROSVOX
+AGEXNMBSB AVGXJHLOPA
+VZAIH EDBS IOZGHHANS
+MRSGJRZXUSMNMUPXWNIQ
+CXDTLZNAZJJNTVXA 136W
+H FDDDDVCKFKGDGOAHHS
+QHASZJMBRVMWXKMFYKTA
+XPINCPGRUCIK RBNCDTN
+>< BJWC NEVJEMEDGKUXT
+PDDWHBKVOIGRPPAUZABD
+XHJWE DVTIIZHVMVD! JRM
+OGBCUWGTUBUHCOVEXOPL
+OHTFJEDWUXFBNDM D NI
+DFFZDNZVJK HZA JXFHU
+VWGCEFULROUZSWJIIF C
+FBFXHJGMEMWALTVAREZZ
+ALNABRMDZ JOKBKUZDIJ
+NGVWGSPPCADQQMSWVDW
+CTVEMNP O LBYZSUTJ
+INVDMRVRROACSSBBDTZP
+HUTANSCBI GKLCZLXVEA
+MKILDRAENRUXVHWONDMQ
+H SHJBVRPJWBNFCEMSXK
+PMINF‘ROBLIEKAOAWWYDN
+
+NCCFUFJJNMXUXJBIAUCH
+
+Last Observed IF'
+
+<3
+
+First Callback Time
+
+2010583523 891
+2818-83-23 881
+2010583522 831
+2313-03-22 '36}
+2818-03-22 8'31
+2010583523 891
+2818-83-28 131
+2818-83-38 181
+2010*03’27 81.1
+2818-03-38 21.1
+2818-83-88 181
+2010583510 881
+2818-83-18 131
+2010*03’22 UB1
+2818-03-23 841
+2818-83-31 131
+2009511530 851
+2889-11-11 131
+2010-04-81 1.91
+2818-03-29 1.81
+2889-12-81 1.51
+201058351? 1.91
+2818-83-18 881
+2010-03-21 1.51
+2818-03-21 1.91
+2818-83-22 I]?
+
+2010583522 1.81
+
+Last Callback Time 1‘
+
+Lifetime
+
+ 
+
+2818584821
+2818-84-21
+2818584821
+2010-04-21
+2810-84-21
+2818584821
+2818-84-21
+2818-84-21
+2810*04’21
+2810-84-21
+2818-84-21
+2818584821
+2818-84-21
+2810*04’21
+2810-84-21
+2818-84-21
+2818584821
+2818-84-21
+2810-04-21
+2810-84-21
+2818-84-21
+2818584821
+2818-84-21
+2810-04-21
+2810-84-21
+2818-84-21
+
+28 1.858482 1.
+
+1911.9
+
+1181
+11.91
+11.91
+11.91
+11.91
+1181
+1191
+11.91
+11.31
+1181
+11.81
+1181
+11.81
+11.31
+1181
+11.81
+1181
+11.81
+11.31
+1181
+11.81
+1181
+11.81
+11.31
+1181
+
+11.81
+
+29d 9h 49m 85
+29d 9h 38m 585
+38d 16h 1m 14-5
+38d 12h 55m 1.75
+30d 9h 27m 415
+29d 9h 49m 575
+28d 5h 57m 195
+22d 8h 32m 33s
+25d 17h 32m 255
+21d 22h 11m 455
+44d 8h 36m 485
+42d 11h 16m 315
+42d 5h 22m 545
+30d 10h 41m 355
+29d 14h 34m 355
+21d Eh 14m 7s
+142d 14h am 355
+181d Eh 17m 565
+20d Uh ?m 115
+23d 8h 53m 15
+141d 4h 14m 95
+35d Uh 11m 535
+34d 12h 23m 225
+31d 3h 32m 495
+30d 23h 26m 55
+38d 11h 48m 455
+
+38d 9h 17m 185
+
+Ceuntrg Binary Key
+
+View Bets in Ccuntry
+
+View Country Szats
+
+ 
+
+ 
+ 
+    
+
+we w
+
+1;, Most ViSIted * Getting Started i] Latest Heediines
+
+ Botlnstances: index i]
+
+History
+
+Euakmarks Innis ﬂeip
+
+QA—
+
+J Eotlnstances: Show
+
+[Herds] [Bets] [Cennecteﬂ Bets] [Bet Tynes] [Machines] [111 Usages] [Countries] [Command Recurrences] [Command Types]
+
+ 
+
+For BotInstances Located In-Of Type XTNZ (
+
+Displaying BotInstances 1 - 30 of 1593 in total
+
+«31'311'1335123456739
+
+PerPage:ﬁ <ﬂ < IUD <_
+
+ 
+
+53 54 Next :7-
+
+ 
+
+Connected | [All] )
+
+ 
+
+Legged in as:73E1E12
+
+i:i Refresh Every Minute
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] But Instance But Type Machine
+1 El XTNZ -JGIAWCMVMBN1AHVJKIBI [+] m JGIAWCMVMBNIAHVJKIBI
+2 D XTNZ *AVHTNQCSPJWQDWWYWDXB [+] ELM; AVHTN CSPJW DWWYWDXB
+3 D XTNZ -X§ BJWC QNEVJEMEDGKUHT [+] m H BJWC NEVJEMEDGKUXT
+4 D XTNZ *PDDWHBKVOIGRPPAUZABD [+] ELM; PDDWHBKVOIGRPPAUZABD
+5 El XTNZ -XHJWQDYTIIZHYMYPQJRM [+] m ><HJW DYTIIZHYMYP JRM
+6 El XTNZ -VWGCEFULROUZSWJ[IFQC [+] ELM; VWGCEFULROUZSWJIIF C
+7 D XTNZ *SEEL PVICGZVOKWIVUN [+] m SEEL PVICGZVOKWIYUN
+3 D XTNZ -INVDMRVRROAC3533DTZF‘ [+] ELM; INVDMRVRROACSSBBDTZF‘
+9 D XTNZ -HUTANSC3I[ GKLCZLXVEA [+] m HUTANSCBI GKLCZLXVEA
+1|] El XTNZ *MKILDRAEMRUXYHWOMDMQ [+] ELM; MKILDRAENRUXYHWONDMQ
+11 El XTNZ -HQSHJBVRPJWBNFCEMS><K [+] m H SHJBVRPJWBMFCEMSXK
+12 D XTNZ -NCCR]F]]NM><UXJ3IAUCH [+] ELM; NCCWFDNMXUXJBIAUCH
+13 El XTNZ *EKSHESSIJURPILVTPBD 1 [+] m EKSHESSUURPILVTPBDQ
+14 D XTNZ -FFCK][OME\UVFHALTRRBG [+] ELM; FFCK]IOMBUVFHJ§LTRRBG
+15 El KTNZ *LNKWMUQJDRBIFERNUF‘EC [+] m LNKWMU JDRBIFERNUPEC
+16 El XTNZ -PKQKRNROSS><UTSZHTQJN [+] ELM; PK KRNROSSXUTSZHT JN
+17' D XTNZ -EVDELNABZLXZHYGBCN‘FG [+] m EVDELNABZLXZHYGBCN‘FG
+18 El XTNZ *FMWNTULKVOLVPCHLAUUH [+] EL; FMWNTULKVOLVPCHLAUUH
+19 D XTNZ -HW[!WMVV3HWEAME]O]DNA [+] m HW WMVVBHWEAME]O]DNA
+2|] El XTNZ - VZVUVPWD LZIIPPMO P [+]EL; QVZVUVPWDQLZIIPPMOQP
+21 El XTNZ -AGE><NMBSB AVGXJHLOPA [+] m AGEXNMBSB AVGXJHLOPA
+22 D XTNZ -MRSGJRZ><USMNMUPXWN1 2 [+] EL; MRSGJRZXUSMNMUPXWNI 1
+23 El XTNZ *CXDTLZNAZJJNTVXAQJGW [+] m CXDTLZNAZJJNTVXAQJGW
+24 D XTNZ - QHAEZJMBRVMWXKMFVKTA [+] EL; EHABZJMBRVMWXKMFVKTA
+25 El XTNZ -FBF><HJGMEMWALTVAREZZ [+] m FBFXHJGMEMWALTVAREZZ
+26 El XTNZ -XZAB DI NKXUDN VWLL [+] EL; XZAB DI NKXUDN VWLL
+27' D XTNZ -LNLHU[ NJZGAHD! ELTHJU [+] m LNLHU N]ZGAHD ELTHJU
+28 El XTNZ *RFSDIDGLVVLVFTQGFYZC [+] EL; RFSDIDGLVVLVFT GFYZC
+
+ 
+
+Last Observed IF'
+
+First Callback Time
+
+Last Callback Time 1‘
+
+Lifetime
+
+ 
+
+Cnuntrg
+
+ 
+
+2313-33-26 131
+
+:42 UTC
+
+2313-34-21 19
+
+1211
+
+33 UTC
+
+26:! 5h 24m 215
+
+ 
+
+2313333322 371
+
+:12 UTC
+
+23 1.333432 1.
+
+121.1
+
+33 UTC
+
+333 11h 31m 4-35
+
+ 
+
+2313-33-33 131
+
+:33 UTC
+
+23 13-34-2 1
+
+1231
+
+54 UTC
+
+44d 3h 33m 435
+
+ 
+
+2313333313 331
+
+:1? UTC
+
+23 1.333432 1.
+
+:23:
+
+54 UTC
+
+42d 11h 13m 975
+
+ 
+
+2313-33-13 131
+
+:54- UTC
+
+23 13-34-2 l
+
+1231
+
+54- UTC
+
+42d 5h 25m 3S
+
+ 
+
+2339-11-33 351
+
+:35 UTC
+
+23 13-34-2 1
+
+1231
+
+45 UTC
+
+142:! 14h 5m 435
+
+ 
+
+2313333321 1.61
+
+:34 UTC
+
+23 1.333432 1.
+
+1231
+
+29 UTC
+
+31Ei 3h am 555
+
+ 
+
+2313-33-17 191
+
+:23 UTC
+
+23 13-34-2 1
+
+1231
+
+23 UTC
+
+353 3h 14m 35
+
+ 
+
+2313-33-13 361
+
+:59 UTC
+
+23 13-34-2 1
+
+:23:
+
+23 UTC
+
+34d 12h 25m 295
+
+ 
+
+23133321 151
+
+:32
+
+23 133432 1
+
+1231
+
+23 UTC
+
+31:! 3h 34m 565
+
+ 
+
+2313-33-21 191
+
+:13
+
+2|] 13-34-2 1
+
+1201
+
+23 UTC
+
+33d 23h 23m 15S
+
+ 
+
+2313-33-22 131
+
+:32
+
+23 13-34-22 1
+
+1231
+
+23 UTC
+
+333 9h 19m 235
+
+ 
+
+2313334331 1.31
+
+:41
+
+23 1.333432 1.
+
+1231
+
+21 UTC
+
+233 3h 52m 435
+
+ 
+
+2313-33-11 111
+
+:35
+
+23 13-34-2 1
+
+:23:
+
+17 UTC
+
+41d 7h 21m 12s
+
+ 
+
+2313331.? 211
+
+:41
+
+23 133432 1
+
+1231
+
+17' UTC
+
+34:! 22h 12m 365
+
+ 
+
+2313-34-31 131
+
+:15
+
+2|] 13-34-2 1
+
+1201
+
+33 UTC
+
+23d 1h 13m 535
+
+ 
+
+2313-33-31 131
+
+:33
+
+23 13-34-22 1
+
+1191
+
+47' UTC
+
+213 5h 26m 14s
+
+ 
+
+2313333311 391
+
+:23
+
+23 1.333432 1.
+
+11.91
+
+36 UTC
+
+4-13 9h 43m 35
+
+ 
+
+2313-33-23 391
+
+:13
+
+23 13-34-2 1
+
+:19:
+
+21 UTC
+
+29d 9h 49m 35
+
+ 
+
+2313-33-23 391
+
+:21
+
+2|] 13-34-2 1
+
+1191
+
+19 UTC
+
+29:! 9h 96m 595
+
+ 
+
+2313-33-22 361
+
+:53
+
+2|] 13-34-2 1
+
+1191
+
+CIT UTC
+
+33d 12h 55m 17S
+
+ 
+
+2313-33-23 391
+
+:13
+
+23 13-34-22 1
+
+1191
+
+37' UTC
+
+293 9h 49m 575
+
+ 
+
+2313333326 1.31
+
+:43
+
+23 1.333432 1.
+
+11.91
+
+37' UTC
+
+263 5h 57m 19S
+
+ 
+
+2313-33-2? 311
+
+23 13-34-2 1
+
+:19:
+
+31 UTC
+
+25d 17h 92m 235
+
+ 
+
+2339-11-11 13:
+
+2|] 13-34-2 1
+
+1131
+
+33 UTC
+
+161d 6h 17m 565
+
+ 
+
+2313-34-31 331
+
+23 13-34-2 1
+
+1161
+
+47 UTC
+
+23d 13h 13m 35
+
+ 
+
+2313-33-23 341
+
+23 13-34-22 1
+
+1131
+
+23 UTC
+
+293 14h 33m 43s
+
+ 
+
+2313334332 391
+
+ 
+
+23 1.333432 1.
+
+11.41
+
+29 UTC
+
+ 
+
+19d 9h 54m 39S
+
+ 
+
+ 
+
+Binary Key
+
+ 
+
+ 
+
+ 
+ 
+    
+
+_ yew
+6 - c
+
+ Botlnstances: index i]
+
+History
+
+Eeakmarks Innis ﬂe‘p
+
+QA—
+
+1;, Most ViSIted * Gettan Started i] Latest Headhnes
+
+J Eetlnstances: Show
+
+[Herds] [Bets] [Cenneeteﬂ Bets] [Bet Tynes] [Machines] [1; Usages] [Countries] [Command Recurrenees] [Command Types]
+
+ 
+
+For BotInstances Located In-Of Type XTNZ (
+
+Displaying BotInstances 1 - 30 of 1593 in total
+
+<<PVEV1D0512345EITE9
+
+ 
+
+PBI' Paging < E < 100 <
+
+53 54 Next :7-
+
+ 
+
+Connected | [All] )
+
+ 
+
+Logged in as: 73992
+
+D Refresh Every Minute
+
+ 
+
+Last Observed IF'
+
+ 
+
+ 
+
+Last Callback Time 1‘
+
+Lifetime
+
+ 
+
+ 
+
+Cnuntrg
+
+ 
+
+ 
+
+ 
+
+2010-03-26 1.31
+
+20 10-04-21. 19
+
+121.1
+
+03 UTC
+
+26:! 5h 24m 215
+
+ 
+
+ 
+
+ 
+
+2010303322 071
+
+20 1.030432 1.
+
+121.1
+
+00 UTC
+
+300 11h 31m 435
+
+ 
+
+ 
+
+2313-03-03 101
+
+20 10-04-2 1
+
+1201
+
+54 UTC
+
+44d 3h 33m 465
+
+ 
+
+ 
+
+2010303310 031
+
+20 1.030432 1.
+
+1201
+
+54 UTC
+
+42d 11h 13m 375
+
+ 
+
+ 
+
+2010-03-10 131
+
+20 10-04-2 l
+
+1201
+
+54 UTC
+
+42d 5h 25m 05
+
+ 
+
+ 
+
+2009-11-30 051
+
+20 10-04-2 l
+
+1201
+
+45 UTC
+
+142:! 14h 5m 405
+
+ 
+
+ 
+
+2010303321 1.61
+
+20 1.030432 1.
+
+1201
+
+29 UTC
+
+310 3h am 555
+
+ 
+
+ 
+
+2313-03-17 191
+
+20 10-04-2 1
+
+1201
+
+23 UTC
+
+35d 0h 14m 05
+
+ 
+
+ 
+
+2313-03-13 061
+
+20 1|]-|]4-2 1
+
+1201
+
+23 UTC
+
+34d 12h 25m 295
+
+ 
+
+ 
+
+20100321 151
+
+20 100432 1
+
+1201
+
+23 UTC
+
+31:! 3h 34m 565
+
+ 
+
+ 
+
+2010-03-21 1.91
+
+20 10-04-2 l
+
+1201
+
+23 UTC
+
+30d 23h 23m 155
+
+ 
+
+ 
+
+2313-03-22 101
+
+20 10-04-22 1
+
+1201
+
+23 UTC
+
+30E| 9h 19m 265
+
+ 
+
+ 
+
+2010304301 1.01
+
+20 1.030432 1.
+
+1201
+
+21 UTC
+
+20d 3h 52m 4-05
+
+ 
+
+ 
+
+2313-03-11 111
+
+20 1|]-|]4-2 1
+
+1201
+
+17 UTC
+
+41d 7h 21m 125
+
+ 
+
+ 
+
+2010031.? 211
+
+20 100432 1
+
+1201
+
+17' UTC
+
+34:! 22h 12m 365
+
+ 
+
+ 
+
+2010-04-01 1.31
+
+20 10-04-2 l
+
+1201
+
+03 UTC
+
+20d 1h 10m 535
+
+ 
+
+ 
+
+2313-03-31 131
+
+20 10-04-22 1
+
+1191
+
+47' UTC
+
+21E| 5h 26m 145
+
+ 
+
+ 
+
+2010303311 091
+
+20 1.030432 1.
+
+11.91
+
+36 UTC
+
+41d 9h 43m 35
+
+ 
+
+ 
+
+2313-03-23 091
+
+20 1|]-|]4-2 1
+
+1191
+
+21 UTC
+
+29d 9h 49m 35
+
+ 
+
+ 
+
+2010-03-23 091
+
+20 10-04-2 1
+
+1191
+
+19 UTC
+
+29:! 9h 36m 535
+
+ 
+
+ 
+
+2010-03-22 061
+
+20 10-04-2 l
+
+11.91
+
+CIT UTC
+
+30d 12h 55m 17S
+
+ 
+
+ 
+
+2313-03-23 091
+
+20 10-04-22 1
+
+1191
+
+37' UTC
+
+290 9h 49m 575
+
+ 
+
+ 
+
+2010303326 1.31
+
+20 1.030432 1.
+
+11.91
+
+07' UTC
+
+26d 5h 57m 19S
+
+ 
+
+ 
+
+2313-03-2? 011
+
+20 1|]-|]4-2 1
+
+1191
+
+31 UTC
+
+25d 17h 32m 235
+
+ 
+
+ 
+
+2009-11-11 131
+
+20 10-04-2 1
+
+1191
+
+30 UTC
+
+161d 6h 17m 565
+
+ 
+
+ 
+
+2010-04-01 031
+
+20 10-04-2 l
+
+11.61
+
+47 UTC
+
+20d 10h 13m 35
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] But Instance But Type Machine
+1 El XTNZ -JGIAWCMVMBN1AHVJKIBI [+] m JGIAWCMVMBNIAHVJKIBI
+2 D XTNZ *AVHTNQCSPJWQDWWYWDXB [+] ELM; AVHTN CSPJW DWWYWDXB
+3 D XTNZ -X§ BJWC QNEVJEMEDGKUHT [+] m H BJWC NEVJEMEDGKUXT
+4 D XTNZ *PDDWHBKVOIGRPPAUZABD [+] ELM; PDDWHBKVOIGRPPAUZABD
+5 El XTNZ -XHJWQDYTIIZHYMYPQJRM [+] m ><HJW DYTIIZHYMYP JRM
+6 El XTNZ -VWGCEFULROUZSWJ[IFQC [+] ELM; VWGCEFULROUZSWJIIF C
+7 D XTNZ *SEEL PVICGZVOKWIVUN [+] m SEEL PVICGZVOKWIYUN
+3 D XTNZ -INVDMRVRROAC3533DTZF‘ [+] ELM; INVDMRVRROACSSBBDTZF‘
+9 D XTNZ -HUTANSC3I[ GKLCZLXVEA [+] m HUTANSCBI GKLCZLXVEA
+1|] El XTNZ *MKILDRAEMRUXYHWOMDMQ [+] ELM; MKILDRAENRUXYHWONDMQ
+11 El XTNZ -HQSHJBVRPJWBNFCEMS><K [+] m H SHJBVRPJWBMFCEMSXK
+12 D XTNZ -NCCR]F]]NM><UXJ3IAUCH [+] ELM; NCCWFDNMXUXJBIAUCH
+13 El XTNZ *EKSHESSIJURPILVTPBD 1 [+] m EKSHESSUURPILVTPBDQ
+14 D XTNZ -FFCK][OME\UVFHALTRRBG [+] ELM; FFCK]IOMBUVFHJ§LTRR3G
+15 El KTNZ *LNKWMUQJDRBIFERNUF‘EC [+] m LNKWMU JDRBIFERNUPEC
+16 El XTNZ -PKQKRNROSS><UTSZHTQJN [+] ELM; PK KRNROSSXUTSZHT JN
+17' D XTNZ -EVDELNABZLXZHYG3CN‘FG [+] m EVDELNABZLXZHYGBCN‘FG
+18 El XTNZ *FMWNTULKVOLVPCHLAUUH [+] EL; FMWNTULKVOLVPCHLAUUH
+19 D XTNZ -HW[!WMVV3HWEAME]O]DNA [+] m HW WMVVBHWEAME]O]DNA
+2|] El XTNZ - VZVUVPWD LZIIPPMO P [+]EL; QVZVUVPWDQLZIIPPMOQP
+21 El XTNZ -AGE><NMBSB AVGXJHLOPA [+] m AGEXNMBSB AVGXJHLOPA
+22 D XTNZ -MRSGJRZ><USMNMUPXWNI 2 [+] EL; MRSGJRZXUSMNMUPXWN] 1
+23 El XTNZ *CXDTLZNAZJJNTVXAQJGW [+] m CXDTLZNAZJJNTVXAQJGW
+24 D XTNZ - QHAEZJMBRVMWXKMFVKTA [+] EL; EHABZJMBRVMWXKMFVKTA
+25 El XTNZ -FBF><HJGMEMWALTVAREZZ [+] m FBFXHJGMEMWALTVAREZZ
+26 El XTNZ -XZAB DI NKXUDN VWLL [+] EL; XZAB DI NKXUDN VWLL
+27' D XTNZ -LNLHU[ NJZGAHD! ELTHJU [+] m LNLHU N]ZGAHD ELTHJU
+28 El XTNZ *RFSDIDGLVVLVFTQGFYZC [+] EL; RFSDIDGLVVLVFT GFYZC
+
+2313-03-23 041
+
+20 10-04-22 1
+
+1161
+
+23 UTC
+
+290 14h 33m 405
+
+ 
+
+ 
+
+2010304302 091
+
+ 
+
+20 1.030432 1.
+
+11.41
+
+29 UTC
+
+ 
+
+19d 9h 54m 39S
+
+ 
+
+ 
+
+Binary Key
+
+ 
+
+ 
+
+ 
+ 
+    
+
+EHe ﬂiew Higtury Euukmarks quls ﬂe‘p
+
+6-6 2:35— 
+
+‘g, Most ViSIted * Gettan Starth E] Latest Headhnes
+
+d 'o
+l
+I
+
+ Botlnstances: index E! J EDHHStanCBS: Show 7:
+
+[Hands] [Bots] [Connecteu Bots] [Bat Tynes] [Machines] [1; Usages] [Countries] [Command Recurrences] [Command Types]
+
+ 
+
+For BotInstances Located 1.01 Type XTNZ ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 1593 in total
+
+<<PVEWD0512345EITEQ
+
+PBI' Pagaﬁ < E < 100 <
+
+ 
+
+53 54 Next :7-
+
+ 
+
+ 
+
+Lngged in as: 73332
+
+l:l Refresh Every Minute
+
+ 
+
+ 
+
+  
+
+Cnuntrv Binarv Kev
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] But Instance But Type Machine Last Observed IF First Callback Time f Last Callback Time Lifetime
+1 El ><TMZ -thPNZNJTDMTNWZICNDF [+] m tmgPNZMJTDMTNWZICNDF 2010-04-21 10:47:31 UTC 2010-04-21 13:34:32 UTC 2h 47m 15
+2 D XTNZ *thSZOLLXJUZWGKTHDLG [+] ELM; thEZDLLKJUZWGKTHDLG 2010*04i21 07:01:26 UTC 20l0*04*21 08:20:05 UTC 1h 18m 4-25
+3 D XTNZ -thVJFM§ UHVRFHSVGK! R [+] m tm VJFM UHVRFHSVGK R 2010-04-21 :53:50 UTC 2010-04-21 101 :19 UTC Elh 50m 2‘35
+4 l] KTNZ *thEKTAZMEEOKMQVJLGC [+] ELM; tm EKTAZMEEOKM YJLGC 2010*0‘220 : :50 UTC 2010*04i20 19: : 1h 3m 57's
+5 El ><TNZ -tm JHTBAVOMDKI MIGTH [+] m tm JHTBAVONDKI MIGTH 2010-04-17 : :4? UTC 2010-04-1? 02:
+6 El ><TMZ -thRPJSQSl<VMRRG><GIIR [+] ELM; trn RPJS SKYMRRGXGIIR 2010-04-15 : :15 UTC 2010-04-15 1.2: : 23m 35
+7 D XTNZ *thGGZIYEVGCCZLVLPJM [+] m thGGZIYEVGCCZLYLPJM 2010*04r15 : :50 UTC 2010*04r15 12: : 26m 295
+B D XTNZ -thEDCCJKWCGRP§ [E EZi-‘A [+] ELM; tm EDCCJKWCGRP I EZA 2010-04-15 : :57 UTC 2010-04-15 101 : 5h 26m 42S
+9 D XTNZ -thKOTDK QGWE BGDXMWGC [+] m tm KOTDK GW BGDXMWGC 2010-04-15 : :11 UTC 2010-04-15 04: : 1h 2m 205
+10 El KTMZ *thWCFGGGCIKBAZZAGUN [+] ELM; tmgWCFGGGCIKBAZZAGUN 2010704714- 10: :36 UTC 201304-14- 14: : 3h 23m 75
+11 El ><TNZ -tmg><GEFADDVRTLLUIKE1 [+] m tmgXGEFADDYRTLLUIKEI 2010-04-14 04: :0? UTC 2010-04-14 I39: : 5h 12m 505
+12 D XTNZ —trn XDPKFFFAI JNNVNID [+] ELN; trn XDPKPFFAI JNNYNID 2010-04-14 03: :43 UTC 2010-04-14 05: : 2h 15m 55
+13 El KTNZ *tmpKJVNIERZFOVNVVGWB [+] m tmgKNNIERZFOYNYVGWB 2010*04r13 : :57 UTC 2010*04il3 151 : 3h 47m
+14- D XTNZ -thAOTVUWLf—\AOSNPJCXT [+] ELM; tmgAOTVUWLAAOSNPJCXT 2010-04-13 : :10 UTC 2010-04-13 00: : 32m 05
+15 El KTMZ *thIOUDBWCPJARXJDKCD [+] m tmgIOUDBWCPJARXJDKCD 2010704713 : :22 UTC 201304-13 11: : 5h 55m
+16 El ><TNZ -tmgAVQECDHRPGOQJANFI [+] ELM; tm AV ECDHRPGO JANFI 2010-04-13 : :4? UTC 2010-04-13 I35: : 10m Us
+17 D XTNZ —trn LDKUFFNK EKIKMINID [+] m trn LDKUFFNK KIKMINID 2010-04-12 : :25 UTC 2010-04-12 09: : Em 485
+10 El KTNZ *tmeNWIOPUAIHVMJWFSj [+] EL; trn NWIOPUAIHVMJWFSJ 2010*04r12 : :52 UTC 2010*04r12 121 : 3h 23m
+19 D XTNZ -tm TOGK CJEDMSUMVOS [+] m tm TOGK CJEDMSUMVOS 2010-04-12 : :57 UTC 2010-04-12 03: : 43m 2s
+20 El ><TMZ -thUBCVDAVZMGE-MGWLR>< [+] EL; tmgUBCVDAVZMGBMGWLRX 2010-04-11 : :1? UTC 2010-04-12 08: : 21h 18m 465
+21 El ><TNZ -tmpWZNSFQHUB-DJGNRMFL [+] m tm WZNSF HUBDJGNRMFL 2010-04-11 : :33 UTC 2010-04-11 1.0: : 3h 16m 24s
+22 D XTNZ —trn EZ JSZJXOHJK] JKNVT [+] EL; trn EZ EZJXOHJKI KNVT 2010-04-11 : :55 UTC 2010-04-11 0?: : 1h 45m 255
+23 El KTNZ *tmpWZVAPKOOEFKRUEBMJ [+] m tmgWZVAPKOOEFKRUEBMJ 2010*04r11 : :14 UTC 2010*04ill 051 : 3m 14S
+24- D XTNZ -thVRE§ VAC) QRGKVVILBX [+] EL; tm VRE VAC) RGKVVILBX 2010-04-11 : :17 UTC 2010-04-11 05: : 1h 1m 4-4-5
+25 El ><TMZ -tmgMGMZCLTWUSMZDVGJN [+] m tmgMGNZCLTWUSNZDVGJN 2010-04-11 : :14 UTC 2010-04-11 14: : 10h 1m 225
+26 El ><TNZ -tmpVJFIZPWVRJLLMPU><J [+] EL; thVJFIZPWYRJLLMPUXJ 2010-04-10 : :23 UTC 2010-04-11 I34: : 1?h 23m 22s
+27 D XTNZ —trn LF IUF‘RCRTNHAGWM [+] m tmgg LF EIUPRCRTNHAGWM 2010-04-10 : :15 UTC 2010-04-10 11: : 3h 22m 35
+20 El KTNZ *tmpHOFKTGEWDCHGCLKJI [+] EL; tmgHOFKTGEWDCHGCLKJI 2010*04r10 : :54 UTC 2010*04il0 071 : 45m 43S
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eiie Edit ﬂiew History Euokmarks Innis ﬂeip
+
+6'6 «53:1—
+
+Ej Most ViSIted * Gettmg Started  Latest Headhnes
+
+ 
+
+lj Botlnstances: index a  Eotlnstantes: Show 7“
+
+ 
+
+[Herds] [Bots] [Connected Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types]
+
+Listing Herds
+
+i '-
+
+Logged in as: 73882
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+New herd
+Herd Action
+netmook Show AI] 3‘ Show Connected H Edit I H de
+xtnz Show AI] / Show Connected g‘ Edit I} dee
+Some Awesome Herd Show Al] / Show Connected M Edit I} de
+
+ 
+
+ 
+
+ 
+
+ 
+
+New herd
+
+ 
+
+ENE Edit ﬂiew History Euokmarks Incl; ﬂeip
+
+@ .c a: 3— 
+
+E5 Most ViSIted * Gettmg Started  Latest Heedhnes
+
+ 
+
+.
+a,
+
+ 
+
+C] Botlnstances: index a C] Eotlnstences: Show 7"
+[Herds] [Bots] [Connected Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in as:73EiEiE
+
+Listing Herds
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Herd Action
+netmook Show AI] 3‘ Show Connected H m f H_de
+xtnz Show AI] / Show Connected g‘ it / H\_de
+Some Awesome Herd Show Al] / Show Connected M m f E
+
+ 
+
+ 
+
+ 
+
+ 
+
+New herd
+
+ 
+
+ENE Edit ﬂiew History Euukmarks quls ﬂak]
+
+6 vc a— 
+
+[ii Most ViSIted * Gettmg Started  Latest Heedhnes
+
+.
+a,
+
+ 
+
+ Botlnstances: new a  Eetlnstances: Show 7“
+[Herus] [Bets] [Cemeeteu Bets] [Bet Types] [Machines] [1P Usages] [Cmmtries] [Command Reeurrenees] [Cemmaﬂd Types] Logged in as:73EDE]2
+
+New herd
+
+Name
+
+"My New Herd]  Create
+
+ 
+
+ENE Edit ﬂiew History Euukmarks quls ﬂeip
+
+eve
+
+[£5 Most ViSIted * Gettmg Started ﬂ Latest Headhnes
+
+ Botlnstances: edit f]
+
+ 
+
+J Eatlnstances: Show
+
+{BJ—
+
+[Herds] [Bets] [Connected Bets] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types]
+
+Update and 
+
+View Connected Herd
+
+ 
+
+Editing Herd ‘My New HerdT «- w v -
+
+Bet Types ( Any)
+phererseﬂ Erat‘lr'ype
+
+Currently In Country (Any )
+
+ 
+
+ 
+
+ 
+
+ 
+
+V} Chess-BAKEDWW
+
+Ever In Country ( Any)
+
+ 
+
+CheeseACeunW
+
+ 
+
+Currently In Netblnck ( Any )
+
+‘ Add Netbleck
+
+Historically In Netblnck ( Any )
+
+Add Netbleck
+
+Bet Instances ( Any)
+
+‘ Add E501 \nstance
+
+d '-
+l
+I
+
+Logged in as: 73882
+
+ 
+
+Eiie Edit ﬂiew History Euekmarks
+
+eve
+
+iii Most ViSIted * Gettxng Started ﬂ Latest Headhnes
+
+Innis ﬂeip
+
+ Botlnstances: edit
+
+ 
+
+a  Eatlnstances: Show
+
+fad—
+
+[Herds] [Bets] [Connected Bets] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types]
+
+Editing Herd ‘My New HerdT «- w v r
+
+d '-
+l
+I
+
+Logged in as: 73882
+
+ 
+
+Update and 
+
+View Connected Herd
+
+ 
+
+ 
+
+HEPE
+NEW
+'TUPD
+
+ 
+
+Bet Types ( Any)
+
+    
+
+Chelsie-e} E Di Type
+
+ 
+
+ 
+
+Currently In Country (Any )
+
+Currently In Netblnck ( Any )
+Ch? 959 AQQUﬁW
+
+ 
+
+ 
+
+ 
+
+7". ‘ Add Netbleck
+EVB" 1“ CDUMW ( NW) Historically In Netblnck ( Any)
+CheeseACeunW V.
+
+ 
+
+Add Netbleck
+
+Bet Instances ( Any)
+
+‘ Add Eiei \nstance
+
+ 
+
+Eiie Edit ﬂiew History Euekmarks Innis ﬂeip
+
+i . , u _ ..
+6 v C G: d—  - -.l at
+[£5 Most ViSIted * Gettxng Started ﬂ Latest Headhnes
+
+ Botlnstances: edit f]  Eatlnstances: show 7“
+
+ 
+
+[Herus] [Bets] [Cenneetee Bets] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types] Logged in as:73EDE]2
+
+Editing Herd ‘My New HerdT «- a v -
+
+But Types ( @Any of | C-Mune of) Currenth In Country ( Anv ) Currently In Netblnck ( Any )
+
+ 
+
+ 
+
+ 
+
+Update and  Cheese  Cerumry
+
+_‘ 57 " Add Neibleck
+_ EVE" 1“ COLIN“! ( NW) Historically In Netbleck ( Anv)
+' CheeseACeuntry ‘ Add Nemlock
+View Connected Herd
+But Instances An
+‘ “
+
+Add Bet Instance
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eiie Edit ﬂiew History Euukmarks Innis ﬂeip
+
+6 ' C‘ Q J—  '
+Iii Most ViSIted * Gettxng Started ﬂ Latest Headhnes
+
+d '-
+l
+I
+
+ Botlnstances: edit f]  Eatlnstances: show
+
+ 
+
+[Herus] [Bets] [Cenneetee Bets] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types]
+
+Logged in as: 73882
+
+Editing Herd ‘My New HerdT «- a v -
+
+But Types ( @Any of | C-Mune of) Currently In Country (Any ) Currently In Netblnck ( Any )
+Update and  V N N V
+
+57 Change A Craan V Add Neibleck
+Ever In Country ( Any )
+_ View Herd
+
+Choose A Country
+
+ 
+
+ 
+
+ 
+
+Historically In Netbleck ( Any)
+
+Add Neibleck
+
+Bet Instances ( Any)
+
+Add Bet Instance
+
+ 
+
+ 
+
+View Connected Herd
+
+ 
+
+ 
+
+ 
+ 
+    
+
+ 
+
+ENE ﬂiew History Euekmarks Innis ﬂe‘p
+
+ 
+
+ 
+
+ 
+
+    
+ 
+ 
+   
+  
+ 
+   
+ 
+ 
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@ - C' 4;} 3‘— .. - -:l- J
+TL Most ViSIted * Gettan Started i] Latest Heedhnes
+ Botlnstances: index i] J Eotlnstances: Show 5" *
+[Heres] [m] [Cemeeteﬂ Bets] [Bet Tyges] [Machines] [IF Usages] [Countries] [Command Recurrences] [Command Types] Legged in as: 73552
+Ci Refresh Every Mir-lute
+For Herd 'Mv New Herd' ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 3556 in total
+<< WEV‘DUS lgiiéﬁlﬂﬂm umw
+PerPage:ﬁ<ﬂ<ﬂ<A_ll
+[-1-] But Instance But Type Machine Last Observed IF' First Callback Time Last Callback Time 1" Lifetime Ceuntry Binary Key
+1 El XTNZ -BOGPMHKNXLHVAU><FQVQM [+] m BOGPMHKNﬂLHVAUXFQVQM ‘ 2010-03-10 16153136 UTC 2010-04-21 18148152 UTC 42:! 2h 55m 165
+2 I: KTHZ *JCBJRBWCKTSHQXXXSHNG [+] W JCBJRBWCXTSHQXKKSHNG ‘ 2010503517 181 134- UTC 2010504521 19148152 UTC 35d 0h 59m 185
+8 D XTMZ -DHTFJEDWUHF8NDM[ DE NI [-1-] XTNZ OHTFJEDWUXFBNDM! DE NI ‘ 2010-03-23 041 110 UTC 2010-04-21 148152 UTC 28d 15h 4m 425
+4 I] XTNZ *FTWQJZMWWMHHGTVEVPG [+] KTNZ FTVIQJZMWWMHHGTVEVPG ‘ 2010504501 201 106 2010504521 14-8152 UTC 19:! 23h 14m 4-65
+5 El XTNZ -AFWIQMOQFKVKTZNMJDUC [+] m AFW] MO FKVKTZNMJDUC ‘ 2010-04-01 201 118 2010-04-21 148152 UTC 19d 23h 14m 335
+6 El XTNZ -SRUKDPVTOGIVWOHAWVTL [+] m SRUKDPVTOGIVWOHAWVTL ‘ 2010-04-01 201 152 2010-04-21 148152 UTC 19:! 22h 56m 05
+7 I: KTHZ *OKXJLBTTOOZNKLDPVVMZ [+] m OKXJLBTTOOZNKLDPVVMZ ‘ 2010504509 141 152 2010504521 148138 UTC 12d 5h 36m 465
+8 D XTNZ -FMWNTUL><VOLVPC><LAUUH [-1-] XTNZ FMWNTULHVOLVPCXLAUUH ‘ 2010-03-11 081 128 2010-04-21 148137 UTC 41d 10h 12m 95
+Q I] XTNZ JERBPDBEDPIVK 3WDJUHH [-1-] ﬂ JERBDDBEDF‘IVK WDJUHH ‘ 2010-03-27 131 108 2010-04-21 148128 UTC 25d 6h 34m 195
+10 El XTNZ]*WHOBIGFVHJSMBGCFMZSH [H KTNZ ﬂLZJBIGFVHJSMBGCFMZi-t ‘ 2010503522 211 137 2010504521 148117 UTC 29:! 22h 11m 4-05
+11 El XTNZ -LQKUNHPCHTSWOZULOPPR [+] m L KUNHPCHTSWOZULOPF‘R ‘ 2010-03-22 101 107 2010-04-21 148110 UTC 30d 9h 9m 35
+12 I: XTNZ - !HABZJMBRVMWXKMFVKTA [-1-] XTNZ EHASZJMBR‘IMWXKMFVKTA ‘ 2010-03-27 011 133 2010-04-21 148110 UTC 25d 18h 1m 375
+13 El XTNZ *NGVWGSPPCADQOMSWVDW [+] XTNZ NGVWGSPPCAD OMSVIVDW ‘ 2010503529 101 128 2010504521 148110 UTE: 23d 9h 22m 4-25
+14 I] XTNZ -VWGCEFULROUZSWJIIF§ C [-1-] ﬂ VWGCEFULROUZSWJHFE C ‘ 2009-11-30 051 105 2010-04-21 148101 UTC 142d 14-h 32m 565
+15 El XTNZ *IUCWQTDONQFGUAROSVOX [H m IUCWQTDOHQFGUAROSVOX ‘ 2010503522 031 153 2010504521 147155! UTC 30:! 16h 30m 65
+16 El XTNZ -AGEXNMBSBQAVG><JHLOPA [+] m AGEXNMBSBQAVGXJHLOPA ‘ 2010-03-22 061 150 2010-04-21 147159 UTC 30d 13h 24m 95
+17 I: XTNZ -MREGJRZ><U8MNMUF‘><WNI I1 [-1-] m MRBGJRZXUBMNMUFXWNI 1 ‘ 2010-03-23 091 110 2010-04-21 147159 UTC 29d 10h 18m 495
+18 El XTNZ *CKDTLZNAZJJNTVKAQJGW [+] KTNZ CKDTLZNAZJJNTVXAQJGW ‘ 2010503526 131 1 2010504521 147159 UTE: 26d 6h 26m 115
+19 [:1 XTNZ -><D[NCPGRUCIK§ RBNCDTN [-1-] ﬂ XPINCDGRUCIK RBNCDTN ‘ 2010-03-30 211 1 2010-04-21 14714-1 UTC 21d 22h 40m 325
+20 El XTNZ -XHJWQDVTI[ZHVMVPQJRM [+] XTNZ XHJW DVTIIZHVMVP JRM ‘ 2010-03-10 131 1 2010-04-21 147139 UTC 42:! 5h 51m 455
+21 El XTNZ -INVDMRVRROACSSBBDTZP [+] m INVDMRVRROACSSBBDTZP ‘ 2010-03-17 191 1 2010-04-21 147139 UTC 35d 0h 41m 115
+22 I: XTNZ -8E8L PVICGZVOKWIYUN [-1-] XTNZ BESL PVICGZVOKWI‘FUN ‘ 2010-03-21 161 1 2010-04-21 147139 UTC 31d 3h 31m 55
+23 El XTNZ *OGBCUWGTUBUNCOVEXOPL [+] XTNZ OGBCUWGTUBUNCOVEHOPL ‘ 2010503522 081 1 2010504521 147139 UTE: 30d 11h 10m 265
+24 [:1 XTNZ -DFFZDNZVJK§ HZA EJXFHU [-1-] ﬂ DFFZDNZVJKE HZA JJXFHU ‘ 2010-03-31 131 1 2010-04-21 147139 UTC 21d 6h 42m 585
+25 El XTNZ -EKSHESSIJURP1LVTPBDQ [+] m EKSHESSIJURPILVTPBDQ ‘ 2010-04-01 101 1 2010-04-21 147139 UTC 20:! 9h 18m 585
+26 El XTNZ -CTVEMNP O LSYZSUTJ [+] m CTVEMNP 0 LSVZSUTJ ‘ 2009-12-01 151 1 2010-04-21 147130 UTC 141d 4h 43m 185
+27 I: XTNZ -HUTANSC8[E GKLCZLXVEA [-1-] m HUTANECBI GKLCZLXVEA ‘ 2010-03-18 061 1 2010-04-21 147130 UTC 34d 12h 52m 315
+28 El XTNZ *POUUCQTDEDTYPJUMJBAL [+] KTNZ POUUC TDEDTVRJUMJBAL ‘ 2010503521 211 1 2010504521 147130 UTE: 30d 22h 31m 14-5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ENE ﬂiew History Euekmarks Innis ﬂe‘p
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@ﬁ - C «a 3‘— .. - -:I- J
+1;; Most ViSIted * Gettan Started i] Latest Heedhnes
+ Botlnstances: index i] J Eotlnstances: Show *3 *
+[Herds] [m] [Cennecteﬂ Bets] [Bet Tynes] [Machines] [1; Usages] [Countries] [Command Recurrences] [Command Types] Legged in as: 73992
+El Refresh Every Minute
+For Herd 'Mv New Herd' ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 3556 in total
+<< WEV‘DUS 1231621831“ ﬂaw
+PerPage:ﬁ<ﬂ<ﬂ<A_ll
+[-1-] But Instance But Type Machine Last Observed IF' First Callback Time Last Callback Time 1" Lifetime Ceuntry Binary Key
+1 El XTNZ -BOGPMHKN><LHVAU><FQVQM [+] m BOGPMHKNXLHVAUXFQVQM 2010-03-10 16153136 UTC 2010-04-21 19148152 UTC 42d 2h 55m 165
+2 I: KTHZ *JCBJRBWCKTSHQXKXSHNG [+] m JCBJRBWCXTSH XXXSHNG 2010503512 181 134 UTC 2010504521 19148152 UTC 35d 0h 59m 185
+El D XTMZ -DHTF3EDWUHF8NDM[ DE NI [-1-] XTNZ OHTFJEDWUXFBNDM! DE NI 2010-03-23 041 110 UTC 2010-04-21 148152 UTC 29d 15h 4m 425
+4 I] XTNZ *FTWQJZMWWMHHGTVEVPG [+] XTNZ FTVI JZMWWMHHGTVEVPG 2010504501 201 106 2010504521 148152 UTC 19d 23h 14m 465
+6 El XTNZ -AFWIQMOQFKVKTZNMJDUC [+] m AFW] MO FKVKTZNMJDUC 2010-04-01 201 119 2010-04-21 148152 UTC 19d 23h 14m 335
+6 El XTNZ -SRUKDPVTOGIVWOHAWVTL [+] XTNZ SRUKDPVTOGIVWOHAWVTL 2010-04-01 201 152 2010-04-21 148152 UTC 19d 22h 56m 05
+2 I: KTHZ *OKXJLBTTOOZNKLDPVVMZ [+] m OKXJLBTTOOZNKLDPVVMZ 2010504509 141 152 2010504521 148138 UTC 12d 5h 36m 465
+8 D XTNZ -FMWNTUL><VOLVPC><LAUUH [-1-] XTNZ FMWNTULHVOLVPCXLAUUH 2010-03-11 091 128 2010-04-21 148132 UTC 41d 10h 12m 95
+9 I] XTNZ -JERBPD8EDPIVK 3WDJUHH [-1-] ﬂ JERBDDBEDF‘IVK WDJUHH 2010-03-22 131 109 2010-04-21 148128 UTC 25d 6h 34m 195
+10 El XTNZ]*WHOBIGFVHJSMBGCFMZSH [+] XTNZ WIGFVHJSMBGCFMZSj 2010503522 211 132 2010504521 14811? UTC 29d 22h 11m 4-05
+11 El XTNZ -LQKUNHPCHT5WOZULOPPR [+] m L KUNHPCHTSWOZULOPF‘R 2010-03-22 101 107 2010-04-21 148110 UTC 30d 9h 9m 35
+12 I: XTNZ - !HABZJM88VMWXKMFVKTA [-1-] XTNZ EHASZJMBR‘IMWXKMFVKTA 2010-03-22 011 133 2010-04-21 148110 UTC 25d 18h 1m 325
+13 El XTNZ *NGVWGSPPCADQOMSWVDW [+] XTNZ NGVWGSPPCADQOMSVIVDW 2010503529 101 128 2010504521 148110 UTE: 23d 9h 22m 425
+14 I] XTNZ -VWGCEFULROUZSWJIIF§ C [-1-] XTNZ VWGCEFULROUZSWJHF C 2009-11-30 051 105 2010-04-21 148101 UTC 142d 1411 32m 565
+15 El XTNZ *IUCWQTDONQFGUAROSVOX [+] m IUCW TDOH FGUAROSVOX 2010503522 031 153 2010504521 142159 UTC 30d 16h 30m 65
+16 El XTNZ -AGEXNM855QAVG><JHLOPA [+] XTNZ AGEXNMBSB AVGXJHLOPA 2010-03-22 061 150 2010-04-21 142159 UTC 30d 13h 24m 95
+12' I: XTNZ -MREGJRZ><U8MNMUF‘><WNI 1 [-1-] m MRBGJRZXUBMNMUFXWNI 1 2010-03-23 091 110 2010-04-21 142159 UTC 29d 10h 18m 49S
+18 El XTNZ *CKDTLZNAZJJNTVKAQJGW [+] XTNZ CKDTLZNAZJJNTVXAQJGW 2010503526 131 1 2010504521 142159 UTE: 26d 6h 26m 115
+19 [:1 XTNZ -><D[NCPGRUCIK§ RBNCDTN [-1-] ﬂ XPINCDGRUCIK RBNCDTN 2010-03-30 211 1 2010-04-21 142141 UTC 21d 22h 40m 325
+20 El XTNZ -XHJWQDVTIIZHVMVPQJRM [+] XTNZ XHJW DVTIIZHVMVP JRM 2010-03-10 131 1 2010-04-21 142139 UTC 42d 5h 51m 455
+21 El XTNZ -INYDMRVRROACSSBBDTZP [+] m INYDMRVRROACSSBBDTZP 2010-03-12 191 1 2010-04-21 142139 UTC 35d 0h 41m 115
+22 I: XTNZ -8E8L PVICGZVOKWIYUN [-1-] XTNZ BESL PVICGZVOKWI‘FUN 2010-03-21 161 1 2010-04-21 142139 UTC 31El 3h 31m Es
+23 El XTNZ *OGBCUWGTUBUNCOVEXOPL [+] XTNZ OGBCUWGTUBUNCOVEROPL 2010503522 081 1 2010504521 142139 UTE: 30d 11h 10m 26S
+24 [:1 XTNZ -DFFZDNZVJK§ HZA EJXFHU [-1-] XTNZ DFFZDNZVJK HZA JXFHU 2010-03-31 131 1 2010-04-21 142139 UTC 21d 6h 42m 58s
+25 El XTNZ -EKSHESSIJURP]LVTPBDQ [+] m EKSHESSIJURPILVTPBDQ 2010-04-01 101 1 2010-04-21 142139 UTC 20d 9h 19m 585
+26 El XTNZ -CTVEMNP O LSYZSUTJ [+] XTNZ CTVEMNP O LSVZSUTJ 2009-12-01 151 1 2010-04-21 142130 UTC 141d 4h 43m 185
+22' I: XTNZ -HUTANSC8[E GKLCZLXVEA [-1-] m HUTANECBI GKLCZLXVEA 2010-03-18 061 1 2010-04-21 142130 UTC 34El 12h 52m 31S
+28 El XTNZ *POUUCQTDEDTYPJUMJBAL [+] XTNZ POUUC TDEDTVRJUMJBAL 2010503521 211 1 2010504521 142130 UTE: 30d 22h 31m 145
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+Eiie ﬂiew Higtury ﬁbukmarks Innis ﬂeip
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@ - C (a — .. - -:l- J
+TL Most ViSIted * Gettan Started i] Latest Heedhnes
+ Botlnstances: index i] J Butlnstences: Show *3 *
+[Herds] [m] [Cenneeteﬂ Bets] [Bet Tyges] [Machines] [1; Usages] [Countries] [Command Recurrenees] [Command Types] Legged in as: 73992
+El Refresh Every Mir-lute
+For Herd 'My New Herd' ( [Connected] | A_H )
+Displaying BotInstances 1 - 30 M40 in total
+<< Previous 1 g m
+PerPage:ﬁ<ﬂ<ﬂ<A_ll
+[+] But Instance But Type Machine Last Observed lP First Callback Time Last Callback Time 1' Lifetime Ceuntrg Binary Key
+
+1 El XTNZ -OHTFJEDWUXFBNDM D M] [+] m OHTFJEDWUXFBNDM D NI 2010-03-23 04:44:10 UTC 2010-04-21 19:50:29 UTC 29d 15h 6m 19s
+
+2 D ><TNZ *JERBPDBEDPIYKQWDJUHH [+] ELM; JERBPDBEDPIVK WDJUHH 2010*03i27 13:14:09 UTC 2010*04r21 19:50:29 UTC 25d 6h 36m 205
+
+3 D XTNZ -ODKISFVLRVHHKRZVTF§ C [+] m ODKISFVLR‘HKHKRZVTPHC 2010-04-01 :EI7:19 UTC 2010-04-21 :50:29 UTC 20d Dh 43m 1EIS
+
+4- D ><TMZ *FTVIQJZMWWMHHGTVEVPG [+] ELM; FTV] JZMWWMHHGTVEVPG 2010*04*01 :34:06 UTC 2010*04r21 :50:2'9 UTC 19d 23h 16m 235
+
+5 El ><TNZ -AFWIQMOQFKVKTZNMJDUC [+] m AFWI MO FKVKTZNMJDUC 2010-04-01 34:19 UTC 2010-04-21 :50:29 UTC 19d 23h 16m 105
+
+6 El ><TNZ -5RUKDPVTOGIVWOHAWVTL [+] ELM; SRUKDPVTOGNWOHAWVTL 2010-04-01 :52:52 UTC 2010-04-21 :50:29 UTC 19d 22h 57m 37's
+
+7 D ><TNZ *WHOBIGFVHJSMBGCFMZSH [+] m WHOBIGFVHJSMBGCFMZSH 2010*03i22 :36:37 UTC 2010*04r21 :50:24 UTC 29d 22h 13m 47s
+
+B D XTNZ -MGVWGSPPCAD lOMBVIVDW [+] ELM; NGVWGEPPCAD 1OM5VIVDW 2010-03-29 :25:28 UTC 2010-04-21 :50:15 UTC 23d 9h 24m SEIS
+
+Q I] ><TNZ -L[ KUNHPCHTSWOZULOF‘DR [+] m L KUNHF‘CHTEWOZULOPPR 2010-03-22 39:07 UTC 2010-04-21 :50:16 UTC 30d 9h 11m 9s
+
+10 El ><TNZ *QHASZJMBRYMWXKMFYKTA [+] ELM; QHASZJMBRYMWXKMFYKTA 2010*03s27’ :46:33 UTC 20100421 :50: 14 UTC 25d 18h SW] 415
+
+11 El ><TNZ -VWGCEFULROUZSWJIIFQC [+] m VWGCEFULROUZSWJIIF C 2009-11-30 :15:05 UTC 2010-04-21 :50:06 UTC 142d 14h 35m is
+
+12 D ><TNZ -JCBJRBWCXTEH§ XXXBHNG [+] ELM; JCBJRBWCXTBH XXXSHNG 2010-03-17 :49:34 UTC 2010-04-21 :50:Elﬁ UTC 35d 1h Elm 325
+
+13 El ><TNZ *IUCWQTDONQFGUAROSVOR [+] m IUCW TDOM FGUAROSVOX 2010*03i22 :17:53 UTC 2010*04r21 :50:04 UTC 30d 16h 32m 115
+
+14 I] ><TNZ -AGEXMME\SB§ AVGXJHLODA [+] ELM; AGEXNMBBB AVGXJHLODA 2010-03-22 23:50 UTC 2010-04-21 :50:EI4 UTC 30d 13h 26m 14s
+
+15 El ><TNZ *MRSGJRZXUSMNMUPXWMIQ [+] m MRSGJRZKUSMNMUPXWMIQ 2010*03s23 :29: 10 UTC 20100421 :50:04 UTC 29d 10h 20m 545
+
+16 El ><TNZ -CXDTLZNAZJJNTV><AQJGW [+] ELM; CXDTLZNAZJJNTVXAQJGW 2010-03-26 : :48 UTC 2010-04-21 :50:04 UTC 26d 6h 28m 165
+
+1? D ><TNZ -><HJWE DTTHZHVMYP! JRM [+] m XHJWE DYTIIZHYMTF! JRM 2010-03-10 : :54 UTC 2010-04-21 :49:45 UTC 42d 5h 53m 515
+
+IE [I ><TNZ *INVDMRVRROACSSBBDTZP [+] EL; IMVDMRVRROACSSBBDTZP 2010*03*17 : :28 UTC 2010*04r21 :49:45 UTC 35d 0h 43m 17s
+
+19 D ><TNZ -SESL DVICGZVOKWIVUM [+] m SEEL DVICGZVOKWIVUM 2010-03-21 : :34 UTC 2010-04-21 :49:45 UTC 31d 3h 33m 11s
+
+20 El ><TNZ -><PINCPGRUC[KQRBMCDTN [+] EL; XPINCPGRUCIK RBMCDTN 2010-03-30 : :09 UTC 2010-04-21 :49:45 UTC 21d 22h 42m 36s
+
+21 El ><TNZ -EKSHESSIJURPILYTPBDQ [+] m EKSHESSUURPILVTPBDQ 2010-04-01 : :41 UTC 2010-04-21 :49:45 UTC 20d 9h 22m 4S
+
+22 D ><TNZ -OGBCUWGTUBUNCOVE><OPL [+] EL; OGBCUWGTUBUNCOVEXOFL 2010-03-22 : :13 UTC 2010-04-21 :49:44 UTC 30d 11h 12m 315
+
+23 El ><TNZ *DFFZDNZVJKQHZAQJKFHU [+] m DFFZDMZVJK HZA JKFHU 2010*03i31 : :41 UTC 2010*04r21 :49:44 UTC 21d 6h 45m 3S
+
+24 D ><TNZ -CTVEMNP O LSVZSUTJ [+] EL; CTVEMND O LSVZSUTJ 2009-12-01 : :12 UTC 2010-04-21 :49:3|] UTC 141d 4h 45m 18s
+
+25 El ><TNZ -HUTANSCBIQGKLCZLXVEA [+] m HUTANSCBI GKLCZLXVEA 2010-03-18 : :59 UTC 2010-04-21 :49:30 UTC 34d 12h 54m 315
+
+26 El ><TNZ -POUUCQTDEDTYRJUMJBAL [+] EL; POUUC TDEDTYRJUMJBAL 2010-03-21 : :16 UTC 2010-04-21 :49:30 UTC 30d 22h 33m 145
+
+2? D ><TNZ -NCCRJFJJNMXU><JBIAUCH [+] m NCCRJFJJNMXUXJBIAUCH 2010-03-22 : :02 UTC 2010-04-21 :49:3|] UTC 30d 9h 48m 285
+
+23 El ><TNZ *OELIQEMWBASOUVLEU JGT [+] EL; OSLIQENWBASOUVLEUQGT 2010*03i23 : :09 UTC 2010*04r21 :49:30 UTC 29d 9h 51m 215
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+Eiie ﬂiew Higtury ﬁbukmarks Innis ﬂeip
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@ﬁ - C 4:) 5‘— .. - -:I- J
+TL Most ViSIted * Gettan Started i] Latest Heedhnes
+ Botlnstances: index i] J Butlnstences: Show *3 *
+[Herds] [m] [Cenneeteﬂ Bets] [Bet Tyges] [Machines] [1; Usages] [Countries] [Command Recurrenees] [Command Types] Legged in as: 73992
+El Refresh Every Mir-lute
+For Herd 'My New Herd' ( [Connected] | A_H )
+Displaying BotInstances 1 - 30 M40 in total
+<< Previous 1 g m
+PerPage:ﬁ<ﬂ<ﬂ<A_ll
+[+] But Instance But Type Machine Last Observed lP First Callback Time Last Callback Time 1' Lifetime Cuuntrg Binary Key
+
+1 El XTNZ -OHTFJEDWUXFBNDM D M] [+] m OHTFJEDWUXFBNDM D NI 2010-03-23 04:44:10 UTC 2010-04-21 19:50:29 UTC 29d 15h 6m 19s
+
+2 D ><TNZ *JERBPDBEDPIYKQWDJUHH [+] ELM; JERBPDBEDPIVK WDJUHH 2010*03i27 13:14:09 UTC 2010*04r21 19:50:29 UTC 25d 6h 36m 205
+
+3 D XTNZ -ODKISFVLRVHHKRZVTF§ C [+] m ODKISFVLR‘HKHKRZVTPHC 2010-04-01 :EI7:19 UTC 2010-04-21 :50:29 UTC 20d Dh 43m 1EIS
+
+4- D ><TMZ *FTVIQJZMWWMHHGTVEVPG [+] ELM; FTV] JZMWWMHHGTVEVPG 2010*04ﬁ01 :34:06 UTC 2010*04r21 :50:2'9 UTC 19d 23h 16m 235
+
+5 El ><TNZ -AFWIQMOQFKVKTZNMJDUC [+] m AFWI MO FKVKTZNMJDUC 2010-04-01 34:19 UTC 2010-04-21 :50:29 UTC 19d 23h 16m 105
+
+6 El ><TNZ -5RUKDPVTOGIVWOHAWVTL [+] ELM; SRUKDPVTOGNWOHAWVTL 2010-04-01 :52:52 UTC 2010-04-21 :50:29 UTC 19d 22h 57m 37's
+
+7 D ><TNZ *WHOBIGFVHJSMBGCFMZSH [+] m WHOBIGFVHJSMBGCFMZSH 2010*03i22 :36:37 UTC 2010*04r21 :50:24 UTC 29d 22h 13m 47s
+
+B D XTNZ -MGVWGSPPCAD lOMBVIVDW [+] ELM; NGVWGEPPCAD 1OM5VIVDW 2010-03-29 :25:28 UTC 2010-04-21 :50:15 UTC 23d 9h 24m SEIS
+
+Q I] ><TNZ -L[ KUNHPCHTSWOZULOF‘DR [+] m L KUNHF‘CHTEWOZULOPPR 2010-03-22 39:07 UTC 2010-04-21 :50:16 UTC 30d 9h 11m 9s
+
+10 El ><TNZ *QHASZJMBRYMWXKMFYKTA [+] ELM; QHASZJMBRYMWXKMFYKTA 2010*03s27’ :46:33 UTC 20100421 :50: 14 UTC 25d 18h SW] 415
+
+11 El ><TNZ -VWGCEFULROUZSWJIIFQC [+] m VWGCEFULROUZSWJIIF C 2009-11-30 :15:05 UTC 2010-04-21 :50:06 UTC 142d 14h 35m is
+
+12 D ><TNZ -JCBJRBWCXTEH§ XXXBHNG [+] ELM; JCBJRBWCXTBH XXXSHNG 2010-03-17 :49:34 UTC 2010-04-21 :50:Elﬁ UTC 35d 1h Elm 325
+
+13 El ><TNZ *IUCWQTDONQFGUAROSVOR [+] m IUCW TDOM FGUAROSVOX 2010*03i22 :17:53 UTC 2010*04r21 :50:04 UTC 30d 16h 32m 115
+
+14 I] ><TNZ -AGEXMME\SB§ AVGXJHLODA [+] ELM; AGEXNMBBB AVGXJHLODA 2010-03-22 23:50 UTC 2010-04-21 :50:EI4 UTC 30d 13h 26m 14s
+
+15 El ><TNZ *MRSGJRZXUSMNMUPXWMIQ [+] m MRSGJRZXUSMNMUPXWMIQ 2010*03s23 :29: 10 UTC 20100421 :50:04 UTC 29d 10h 20m 545
+
+16 El ><TNZ -CXDTLZNAZJJNTV><AQJGW [+] ELM; CXDTLZNAZJJNTVXAQJGW 2010-03-26 : :48 UTC 2010-04-21 :50:04 UTC 26d 6h 28m 165
+
+1? D ><TNZ -><HJWE DTTHZHVMYP! JRM [+] m XHJWE DYTIIZHYMTF! JRM 2010-03-10 : :54 UTC 2010-04-21 :49:45 UTC 42d 5h 53m 515
+
+IE [I ><TNZ *INVDMRVRROACSSBBDTZP [+] EL; IMVDMRVRROACSSBBDTZP 2010*03*17 : :28 UTC 2010*04r21 :49:45 UTC 35d 0h 43m 17s
+
+19 D ><TNZ -SESL DVICGZVOKWIVUM [+] m SEEL DVICGZVOKWIVUM 2010-03-21 : :34 UTC 2010-04-21 :49:45 UTC 31d 3h 33m 11s
+
+20 El ><TNZ -><PINCPGRUC[KQRBMCDTN [+] EL; XPINCPGRUCIK RBMCDTN 2010-03-30 : :09 UTC 2010-04-21 :49:45 UTC 21d 22h 42m 36s
+
+21 El ><TNZ -EKSHESSIJURPILVTPBDQ [+] m EKSHESSUURPILVTPBDQ 2010-04-01 : :41 UTC 2010-04-21 :49:45 UTC 20d 9h 22m 4S
+
+22 D ><TNZ -OGBCUWGTUBUNCOVE><OPL [+] EL; OGBCUWGTUBUNCOVEXOFL 2010-03-22 : :13 UTC 2010-04-21 :49:44 UTC 30d 11h 12m 315
+
+23 El ><TNZ *DFFZDNZVJKQHZAQJKFHU [+] m DFFZDMZVJK HZA JKFHU 2010*03i31 : :41 UTC 2010*04r21 :49:44 UTC 21d 6h 45m 3S
+
+24 D ><TNZ -CTVEMNP O LSVZSUTJ [+] EL; CTVEMND O LSVZSUTJ 2009-12-01 : :12 UTC 2010-04-21 :49:3|] UTC 141d 4h 45m 18s
+
+25 El ><TNZ -HUTANSCBIQGKLCZLXVEA [+] m HUTANSCBI GKLCZLXVEA 2010-03-18 : :59 UTC 2010-04-21 :49:30 UTC 34d 12h 54m 315
+
+26 El ><TNZ -POUUCQTDEDTYRJUMJBAL [+] EL; POUUC TDEDTYRJUMJBAL 2010-03-21 : :16 UTC 2010-04-21 :49:30 UTC 30d 22h 33m 145
+
+2? D ><TNZ -NCCRJFJJNMXU><JBIAUCH [+] m NCCRJFJJNMXUXJBIAUCH 2010-03-22 : :02 UTC 2010-04-21 :49:3|] UTC 30d 9h 48m 285
+
+23 El ><TNZ *OELIQEMWBASOU'V‘LEU JGT [+] EL; OSLIQENWBASOUVLEUQGT 2010*03i23 : :09 UTC 2010*04r21 :49:30 UTC 29d 9h 51m 215
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eiie Edit ﬂiew History Euokmarks Iuols ﬂeip
+
+i . , _ u _ ..
+6 - c (a o—  -.l at
+[£5 Most ViSIted * Gettxng Started ﬂ Latest Headhnes
+
+ Botlnstances: edit f]  Eotlnstances: show 7“
+
+ 
+
+[Herus] [Bots] [Connecteo Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types] Logged in as:73EDE]2
+
+Editing Herd ‘My New HerdT «- a v -
+
+Bot Types( @Any Ofl C'Nune 0f) CUI'I'EFIUV "1 CDLlr‘ItI'V ( Arw)
+Update and m Choose A EotType Vi 050,05? A CRUWW
+
+_ 57 " Add Neiblook
+_ EVE" 1“ COLIN“! ( NW) Historically In Netblock ( Any)
+' ChooseACountry ‘ Add Nemlock
+View Connected Herd
+Bot Instances An
+‘ “
+
+Add Bot Instance
+
+Currently In Netblock ( Any )
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EH5 Edit ﬂiew
+
+ Most ViSIted * Gettan Starth E Latest Headhnes
+
+History Euukmarks quls ﬂe‘p
+
+(DJ—
+
+I
+
+d '-
+
+l
+I
+
+. J '
+ Botlnstances: edit f]  Butlnstances: Show
+
+ 
+
+Logged in as:-
+
+[Herus] [Bots] [Connecteu Bots] [Bet Tynes] [Machines] [IF Usages] [Countries] [Command Recurrences] [Command Types]
+
+Editing Herd ‘My New Herd‘ «- w v r
+
+ 
+
+But Types( l533‘i'my Ofl C'Nune 0f)
+
+ 
+
+ 
+
+Currently In Country (Any ) Currently In Netblnck ( Any )
+Update and  ChooseAEmType V ,
+SlayHere HTNZ
+
+Add Netblock
+
+Historically In Netblock ( Any)
+
+Add Netblock
+
+View Connected Herd
+
+ 
+
+But Instances ( Any)
+
+Add Bet Instance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eiie Edit ﬂiew History Euukmarks Innis ﬂeip
+
+. , u _
+6 v C G: —  - -.l
+[£5 Most ViSIted * Gettxng Started ﬂ Latest Heedhnes
+
+ Botlnstances: edit f]  Eotlnstances: Show 7“
+
+ 
+
+[Herds] [m] [Connected Bots] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrences] [Command Types]
+Editing Herd ‘My New HerdT «- w v -
+
+But Types( @Any Ofl C'Nune 0f) ICiurrentl'w In Ceuntry( {‘35 Any Ofl ONune 0f) Currently In NEtblﬂck( NW)
+
+Update and  ChooseAEmType V3 ChooseACDuntry V" 3 Add Netblock
+HTNZ Pakistan
+Historically ln Nethlnck( Anv )
+
+Ever In Country ( Any) ' Add Netblock
+
+ 
+
+ 
+
+ 
+
+ 
+
+View Connected Herd  ‘
+Bat Instances ( Any )
+, Add Edtlnstance
+
+ 
+
+Cheese A Cmumry
+
+ 
+
+ 
+
+Logged in as-
+
+ 
+
+Eiie Edit ﬂiew History Eunkmarks Innis ﬂeip
+
+iii Most ViSIted * Gettmg Started ﬂ Latest Heedhnes
+
+d '-
+l
+I
+
+ Botlnstances: edit f]  Eetlnstances: Show
+
+ 
+
+[Herus] [Bets] [Cenneetee Bets] [Bet Types] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types]
+
+Logged in as-
+
+Editing Herd ‘My New HerdT «- w v -
+
+ 
+
+But Types( @Any Ofl C'Nune 0f)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Currently In Cuuntry( {‘35 Any Ofl ONune 0f) Currently In NEtblﬂck( MW)
+Update and  CheeseAEetType V CheeseACeuntry V" [@
+HTNZ Pakistan
+_— Historically ln Nethlnck( Anv )
+I‘M Ever In Country ( Any)
+
+Cheese A Cmmiry
+
+ 
+
+Bat Instances ( Any )
+
+, Add Eat Instance
+
+ 
+
+  
+
+we w
+
+are
+
+ig, Most ViSIted * Getting Starth E] Latest Headiines
+
+  
+
+ Botlnstances: index
+
+Higtury
+
+Euckmarks Incl; ﬂeip
+
+ﬁd—
+
+El
+
+J Eotlnstances: Show
+
+[Hares] [Bots] [Cchnecteﬂ Bots] [Bet Tynes] [Machines] [1; Usages] [Countries] [Command Recurrences] [Command Types]
+
+ 
+
+For Herd 'Mv New Herg' ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 1655 in total
+
+<< PFEWDUS 1 2 3 4 5 El 7' l3 9  55 56 Next >>
+
+PBI' Pagaﬁ < E < 199 <
+
+Logged in as: 73992
+
+El Refresh Every Minute
+
+ 
+
+  
+
+Last Observed [P
+
+First Callback Time
+
+Last Callback Time I“
+
+Lifetime Country
+
+ 
+
+ 
+
+2919-94-91 19:97: 19 UTC
+
+2919-94-21 19:57:
+
+17
+
+UTC
+
+29d 9h 49m 595
+
+ 
+
+ 
+
+2919593527 13: 14:99 UTC
+
+2919594521 19:56:
+
+41
+
+UTC
+
+25d 6h 42m 32S
+
+ 
+
+ 
+
+2919-93-22 :17:53 UTC
+
+2919-94-21 :56:
+
+UTC
+
+39d 16h 38m 2135
+
+ 
+
+ 
+
+2919593523 :44:19 UTC
+
+2919594521 :56:
+
+21
+
+UTC
+
+29d 15h 12m 115
+
+ 
+
+ 
+
+2919-93-39 :97:99 UTC
+
+2919-94-21 :55:
+
+54
+
+UTC
+
+21d 22h 48m 45S
+
+ 
+
+ 
+
+2919-93-22 :37:13 UTC
+
+2919-94-21 :55:
+
+53
+
+UTC
+
+39d 11h 18m 495
+
+ 
+
+ 
+
+2919593531 :94:41 UTC
+
+2919594521 :55:
+
+.53
+
+UTC
+
+21d 6h 51m 125
+
+ 
+
+ 
+
+2999-12-91 :94:12 UTC
+
+2919-94-21 :55:
+
+I313
+
+UTC
+
+141d 4h 51m 265
+
+ 
+
+ 
+
+2919-93-23 :59:99 UTC
+
+2919-94-21 :55:
+
+1313
+
+UTC
+
+29d 9h 57m 295
+
+ 
+
+ 
+
+2919*93’39 :36:17' UTC
+
+29199421 :55:
+
+39
+
+UTC
+
+22d 9h 19m 215
+
+ 
+
+ 
+
+2919-93-39 :32:49 UTC
+
+2919-94-21 :55:
+
+39
+
+UTC
+
+22d 2h 22m 595
+
+ 
+
+ 
+
+2919-94-91 :11:19 UTC
+
+2919-94-21 :55:
+
+I313
+
+UTC
+
+29d 9h 44m 195
+
+ 
+
+ 
+
+2919593539 :51:95 UTC
+
+2919594521 :55:
+
+22
+
+UTC
+
+22:1 9h 4m 175
+
+ 
+
+ 
+
+2919-93-29 :34:92 UTC
+
+2919-94-21 :55:
+
+94
+
+UTC
+
+22d 21h 21m 25
+
+ 
+
+ 
+
+2919*93’39 :46:34 UTC
+
+29199421 :43:
+
+UTC
+
+22d 9h 57m 175
+
+ 
+
+ 
+
+2919-93-22 :29:36 UTC
+
+2919-94-21 :43:
+
+23
+
+UTC
+
+39d 12h 13m 475
+
+ 
+
+ 
+
+2919-93-39 :29:41 UTC
+
+2919-94-21 :43:
+
+23
+
+UTC
+
+22d 9h 14m 425
+
+ 
+
+ 
+
+2919593522 :51:26 UTC
+
+2919594521 :39:
+
+46
+
+UTC
+
+39:1 9h 48m 295
+
+ 
+
+ 
+
+2919-94-91 :15: 17' UTC
+
+2919-94-21 :29:
+
+23
+
+UTC
+
+29d 9h 5m 115
+
+ 
+
+ 
+
+2919-93-27 :14:29 UTC
+
+2919-94-21 :16:
+
+17’
+
+UTC
+
+25d 6h 1m 495
+
+ 
+
+ 
+
+2919-93-22 :19: 12 UTC
+
+2919-94-21 :12:
+
+42
+
+UTC
+
+39d 9h 54m 395
+
+ 
+
+ 
+
+2919-93-31 :22:32 UTC
+
+2919-94-21 :99:
+
+12
+
+UTC
+
+21d 4h 46m 495
+
+ 
+
+ 
+
+2919593539 :94:43 UTC
+
+2919594521 :96:
+
+54
+
+UTC
+
+22:1 11h 2m lls
+
+ 
+
+ 
+
+2919-94-91 :91:54 UTC
+
+2919-94-21 :96:
+
+35
+
+UTC
+
+29d 16h 4m 415
+
+ 
+
+ 
+
+2919-93-23 :19:42 UTC
+
+2919-94-21 :95:
+
+39
+
+UTC
+
+29d 9h 46m 565
+
+ 
+
+ 
+
+2919-93-29 :33:26 UTC
+
+2919-94-21 :92:
+
+44
+
+UTC
+
+22d 21h 29m 195
+
+ 
+
+ 
+
+2919-94-91 :99:31 UTC
+
+2919-94-21 :91:
+
+55
+
+UTC
+
+19d 23h 53m 245
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[+] But Instance But Type Machine
+
+1 El KTNZ -ODK15FVLRY><HKRZVTPQC [+] m ODKISFVLR‘HKHKRZVTP C
+2 D XTNZ *JERBPDBEDPIVKQWDJUHH [+] ELM; JERBPDBEDPIVK WDJUHH
+3 D KTNZ -]UCW ETDON QFGUAROSVOX [+] m IUCW TDON FGUAROEVOX
+4- D 'KTMZPOHTFJEDWUXFBMDMQM [+] ELM; OHTFJEDWUXFBNDMQDQNI
+5 El XTNZ -XPIMCPGRUCIKQRBNCDTM [+] m XPINCPGRUCIK RBMCDTN
+6 El KTNZ -OGBCUWGTUBUMCOVE><OPL [+] ELM; OGBCUWGTUBUMCOVEXOPL
+7 D XTNZ *DFFZDNZVJKQHZAQJXFHU [+] m DFFZDNZVJK HZA JKFHU
+e [I [KTNZ]-CTVEMNPQOQQQLEVZEUTJ [+] ><_T_M; CTVEMNP 0 LBVZSUTJ
+9 D XTNZ -UEL[’Q ENWBAEOUVLEU EGT [+] m OSL] EENWBASOUVLEU GT
+19 El KTNZ *UUF‘HEOQPCDMF‘ZHSADZOI [+] ELM; UUPHEO PCDMPZHSADZOI
+11 El XTNZ -WFMQPEKFUH><ZFMIBLBWL [+] m WFMQPEKFUHXZFMIBLBWL
+12 D XTNZ -ALNABRMDZ !JOKBKUZDIJ [+] ELN; ALNABRMDZ JOKBKUZDIJ
+13 El >{TNZ *NLEEGIEKSLEITLFVAVUE [+] m NLEEGIEKSLEITLFYAVUE
+14- D XTNZ -XT§ TDFIKIZELINKOKLVW [+] ELM; ><T§ TDFIKIZELINKOKLVW
+15 El KTNZ *HQFDDPF‘VCKFKGDGOAHHS [+] m H FDDPPYCKFKGDGOAHHS
+16 El XTNZ -PM1NPROBLIEXAOAWWVDN [+] ELM; PMINPROBLIEXAOAWWVDN
+17' D XTNZ -5 VVZLCRMTLDVICGEU JRL [+] m WVZLCRMTLDVICGEUE RL
+13 El >{TNZ *VZMHQEDBSQIOZGHHANS [+] EL; VZAIH EDBS IOZGHHANS
+19 D XTNZ -MMTOVCHLCZBTUVSBBDJA [+] m MMTOVCHLCZBTUVSBBDJA
+29 El KTNZ -XLDIZDUHZSZWVBUMKHTF [+] EL; XLDIZDUHZSZWVBUMKHTF
+21 El XTNZ -XVBKUJALLWATCCTHIEXU [+] m XVBKUJALLWATCCTHIEXU
+22 D XTNZ -El CGVRAFWWIJHACJO G [+] EL; 9 CGVRAFWWIJHACJO G
+23 El >{TNZ *GJPDFSZHKIBYGQIRCBXC [+] m GJPDFSZHKIBVG [RCBXC
+24- D XTNZ -UU XVE SLVFHVAFHCJH [+] KL; UU XVE BLVFHVAFHCJH
+25 El KTNZ -1UWCJVNSTCILDHQWZAQ [+] m IUWCJVNSTCILDHQWZAQ
+26 El XTNZ -NBGJJMFLTJSASGJFGMDO [+] EL; NBGJJNFLTJSASGJFGMDO
+E? D XTNZ -DAFJVZOLNYHJRKBDE\HWU [+] m DAFJVZOLNYHJRKBDBHWU
+23 [I [KTNZ]*TLKIMQKWXZMVQTAMQXLZ [+] EL; TLKIN RWKZMV TAN KLZ
+
+2919593531 14:93:27 UTC
+
+ 
+
+2919594521
+
+:54:97 UTC
+
+ 
+
+21:1 4h 59m 495
+
+ 
+
+ 
+
+ 
+
+ 
+
+Binary Key
+
+ 
+
+ 
+
+ 
+
+ 
+
+m it? [+] m
+m m [+] m
+m 21.? [+] m
+m m [+] Wm
+HtaijHjms BAX mm 271? [+] HfDHjWHHj/HB SAX nn— ZNi><
+axaaal DAEIXHZSdeED m [+] m
+a OfDVHEIMMj‘v/HABD a f i>< [+] E) orawnmmwama a— mm
+m m [+] mm
+m 21? [+] m
+m m [+] m
+SI‘WHHEJZOI 5903 HIVZA 21TH] m
+m m [+] mm
+W 21.? [+] W
+SHHV‘ODGDNjHDAddGGj H ZNi>< [+] m
+m 271? [+] m
+m m [+] m
+Hazmaxor zawaavmv it? [+] m
+m m [+] m
+IOZGVSHZdwaad oaHdm f1? [+] m
+m m [+] m
+[inSZAS‘I 0 dNWHAiD it? [+] m
+nHij VZH MAZNCIijCI m [+] m
+m 21? [+] m
+NiCIDN'E‘d Nlanasdamdx m [+] m
+M ii? [+] mm
+Konaownsj NOGi mam m [+] m
+m Z1? [+] m
+
+:J dinzaondesmao ZNi>< [+] oGdiAszmmAdsmo- zmx
+Ran MDula ﬂaunt-D EIUJHEIJH .1 Hum. xﬂnquao 1591 awu. auaqnna ISJH dl pamasqo 1591 BUNC'E'IN aim. we 3311915111106
+
+HT} 001 >E>ﬁmﬁedmd
+<<1xamﬁﬁmﬁﬁIﬁ§¥EEI WERE-id»
+
+"9101 u! 559: .w as - I saoumsunoa ﬁulheldsla
+( [IN] | PBIDBI-IUOD ) .TMBH MBN Aw; pJaH .Io=|
+
+SCH? W05 Lit DIE Din LDi‘bSi 13417040103 Din iZiEDi‘bI TE’EU’UIDZ HZ
+
+ 
+
+ 
+
+5172 UJES‘ HEB FIST Din E'E'illﬂ: IE-‘bD-DIDE Din IEIEIEIIEI IEI-‘aEl-DIEIE LE
+
+ 
+
+ 
+
+93
+
+SET M63 HIE FIZZ Din bblaﬂl IE-‘bU-UIUE Din 93533518 63-90-0103
+
+ 
+
+ 
+
+595 U191? LIE: F'EIE Din 8515016 IE-tD-U'EUE Din 317181160 BE-EU-UIUB SE
+
+ 
+
+ 
+
+511’ LU? L191 F'DE Din E‘Eiglﬂiﬁ IE-‘PD-DIDE Din 'FSiIEliED IEl-tEl-DIEIEZ 1’3
+
+ 
+
+ 
+
+SIT W3 L111 [333 Din bEIQUiE 13417040103 Din E‘biirDiBU UE’EU’UIDZ EZ
+
+ 
+
+ 
+
+SCH? LUSH? Lit» [CITE Din BI :EDIE IE-‘bD-DIDE Din ZEIEE: IE-EIl-DIEIE ZZ
+
+ 
+
+ 
+
+SUE LU‘bE L16 FIGS Din 31,2116 IE-‘bU-UIUE Din ETlBTl EE-EEI-UTCIE TZ
+
+ 
+
+ 
+
+5817 WE L19 F'SE Din [£19116 IE-tD-U'EUE Din 6311,11 iE-EU-UIUE UK
+
+ 
+
+ 
+
+511 WE Lil] PDE Din Bﬁiﬂiiﬁ IE-‘PD-DIDE Din LIiﬁ‘Ii IEl-‘bEl-DIEIE: ﬁI
+
+ 
+
+ 
+
+503 W81? L16 DUE QbIEEiE 13417040103 Din 93:15: 3345040103 91
+
+ 
+
+ 
+
+53b UJ‘bI HI] DEE EEiEtIE IE-‘bD-DIDE Din 117133: ElEI-EIEI-DIEIE LI
+
+ 
+
+ 
+
+5L1? LUST L131 F'UE EalE‘blﬁ IE-‘bU-UIUE Din 995635 EE-SEI-UTCIE 91
+
+ 
+
+ 
+
+5&1 [111.5 L18 [5'32 :E'hiﬁ IEg‘PDgUIUE Din 1,591,: DEAEEIAUICIZ SI
+
+ 
+
+ 
+
+'I’I
+
+ 
+
+ 
+
+5LT UH? L18 [333 33556 {3417040103 Din SUI i UE’EU’UIDZ 91
+
+ 
+
+ 
+
+SEII UJ‘b‘b LU] FIDE BESSIE! IE-‘bD-DIDE Din E11: : IEl-‘aEl-DIEIE ZI
+
+ 
+
+ 
+
+H
+H
+
+585‘ LUBE L43 F'ZZ 8335516 IE-‘bU-UIUE Din 0193 3 CIE-ECI-UTCIE
+
+ 
+
+ 
+
+CI
+H
+
+STE U161! L18 [5'32 43515516 IEg‘PDgUIUE Din LI: 1 DEAEEIAUICIZ
+
+ 
+
+ 
+
+56E: LULS HE! FEE Din 335516 IE-‘PD-DIDE Din EH]: 1 EZ-EII-DIEIE:
+
+ 
+
+ 
+
+593 WIS Lit F'Hﬂ Din BEiEEiE IE-‘ivEl-DIDE Din ZIibEli IEl-ECI-EDEIE
+
+ 
+
+ 
+
+iiéEIDDDDEIDDDDEIDDDDEIDDDDEI
+
+SET UJTS‘ L19 PIE Din ES‘iﬁﬁiﬁ 13417040102 Din T‘biirCl: TE’EU’UIDB
+
+   
+
+ 
+
+ 
+
+I
+
+SCH? LUST LIII F'UE Din 5515516 IE-tU-UIUE Din 31315: 33-50-0103
+
+ 
+
+ 
+
+531’ LL18? L133 [TEE Din #935516 IE-‘bD-DIDE Din ﬁﬂliﬂl EIEi-EEI—DIEIEI
+
+ 
+
+ 
+
+I
+
+SIT “JET L151 [363 Din 1319516 1341,040103 Din UTi'H’: BE’EU’UIDZ
+
+ 
+
+ 
+
+I
+
+SEE LUBE L191 F'DE Din IEiQEiE IE-‘ivEl-DIDE Din 8311 El] EE-EEI-DIEIE
+
+ 
+
+ 
+
+I
+mead-Innoth
+
+SEE W817 L19 P52 Din Iii-:QSHS 13417040102 Din ﬁﬂiirT :E LB’EU’UIDB
+
+ 
+
+ 
+
+ 
+
+53 W13 HIE F'EE tﬂiﬁﬁiﬁ IE-‘PD-DIDE Din El]: 1 EIEZ-EIl-DIEIEZ |
+
+DE
+
+535 U161? LID [5'03 Din [[1516 IE-tU-UIUE Din 61310161 TCI-‘PEI-UICIE
+
+ 
+
+ 
+
+ 
+
+ 
+
+E
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amugw Man; usagaa D
+
+ 
+
+-:se u! paﬁﬁm [Tm—SB i puewwag] [—ssaueunaaa puewwog] [—samuna§] [—ﬁ—sa esm d1] [—sau!uaew] {—Lﬁ—sa .1 me] [—5109 nanaauuagj [—5109] [512mm]
+v
+
+4 :4 MOHS :senueqsunag F [I Hapu! :sanueqsulqou 
+
+  
+  
+
+sequeeH 152191 I! p914qu fumes * pQJISIA :sow I?!
+
+,r -.;-- —F@ 3‘9
+
+diaﬁ slnuI B149Lm|nn§ Jhuﬁm Mam a“;
+
+ 
+
+ 
+
+ENE Edit ﬂiew History Eookmarks Iools ﬂe‘p
+6 - C .413 J —
+1;, Most ViSIted * Gettan Started i] Latest Heedhnes
+ Botlnstances: index i] J Eotlnstences: Show 3 i
+
+A
+[Herds] [Bots] [Cemeeteﬂ Bots] [Bet Tyges] [Machines] [1; Usages] [Countries] [Command Recurrenees] [Command Types] Logged in as:-
+
+i:i Refresh Every Mir-lute
+
+For Herd 'Mv New Herg' ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 1655 in total
+
+<< Prewous 12 3 45 6 TE 9  55 6 Next >7-
+
+<
+t hard with H Bot Type Machine Last Observed [P First Callback Time Last Callback Time I“ Lifetime Country Binary Key
+
+ 
+
+H.
+
+[+] XTNZ ODKISFVLRVKHKRZVTP C 2010-04-01 19:07:19 UTC 2010-04-21 19:57:17 UTC 20d 0h 49m 595
+Elm T EB [+] ELM; JERBPDBEDPIVK WDJUHH 2010503527 13:14:09 UTC 2010504521 19:56:41 UTC 25d 6h 42m 325
+
+current‘ Has [P [+] HTNZ IUCW TDON FGUAROEVOX 2010-03-22 117153 UTC 2010-04-21 1561 UTC 30d 16h 38m 285
+‘3';
+
+Ever Had 1p [+] ELM; OHTFJEDWUXFBNDMQDQHI 2010*03i23 :44:10 UTC 2010*04r21 :56:21 UTC 29:! 15h 12m 115
+[+] ><TNZ XPINCPGRUCIK RBNCDTN 2010-03-30 :U?:EIEI UTC 2010-04-21 :55:54 UTC 21d 22h 48m 455
+Currenﬂy In Country
+[+] ELM; OGBCUWGTUBUNCOVEXOPL 2010-03-22 :37:13 UTC 2D10-04—21 :55:53 UTC 30d 11h 18m 405
+Ever In Country
+[+] XTNZ DFFZDNZVJK HZA JKFHU 2010*0321 104141 UTC 2010*04i21 1551.53 UTC 21d 6h 51m 12S
+
+Emery Key
++ — — : 4: — 4— : : 4 m s
+H N2 C VEMNP O LBVZSU J 2009 12 01 0 12 U C 2010 0 21 55 32 U C 1 1d 4h 51 26
+
+£15 65 1.] 01 U1 {L a: M
+
+XTNZ -UEL[’Q ENWEAEOUVLEU EGT [+] XTNZ OSL] EENWBASOUVLEU GT 2010-03-23 1.52109 UTC 2010-04-21 155132 UTC 29d 9h 57m 295
+KTNZ *UUF‘HEOQPCDMF‘ZHSADZOI [+] ELM; UUPHEO PCDMPZHSADZOI 2010*03*3U 136117I UTC 2010*04r21 155135 UTC 22d 8h 19m 215
+
+HH
+HD
+
+XTNZ -WFMQPEKFUHXZFMIBLBWL [+] m WFMQF‘EKFUHKZFMIBLBWL 2010-03-30 132140 UTC 2010-04-21 155138 UTC 22d 2h 22m 585
+XTNZ -ALNABRMDZ !JOKBKUZDIJ [+] ELI; ALNABRMDZ JOKBKUZDIJ 2010-04-01 111119 UTC 2010-04-21 155132 UTC 20d 0h 44m 195
+>{TNZ *NLEEGIEKSLEITLFVAVUE [+] m NLEEGIEKSLEITLFYAVUE 2010503530 151105 UTC 2010504521 155122 UTC 22:! 8h 4m 17s
+XTNZ -><T§ TDFIKIZELINKOKLVW [+] £13]; ><T§ TDFIKIZELINKOKLVW 2010-03-29 134102 UTC 2010-04-21 155104 UTC 22d 21h 21m 2s
+KTNZ *HQFDDPF‘YCKFKGDGOAHHS [+] m H FDDPPYCKFKGDGOAHHS 2010*03*30 146134- UTC 2010*04r21 14-31 UTC 22d 8h 57m 175
+XTNZ -PM]NPROBLIEXAOAWWVDN [+] ELM; PMINPROBLIEXAOAWWVDN 2010-03-22 129136 UTC 2010-04-21 143123 UTC 30d 12h 13m 475
+XTNZ -5 VVZLCRMTLDVICGEU JRL [+] m WVZLCRMTLDVICGEUE RL 2010-03-30 122141 UTC 2010-04-21 143123 UTC 22d 0h 14m 425
+>{TNZ *VZMHQEDBSQIOZGHHANS [+] T_ VZAIH EDBS IOZGHHi-‘ANS 2010503522 151126 UTC 2010504521 139146 UTC 30:! 9h 48m 205
+XTNZ -MMTOVCHLCZBTUVSBBDJA [+] m MMTOVCHLCZBTUVSBBDJA 2010-04-01 11.511? UTC 2010-04-21 120122 UTC 20d 0h 5m 115
+KTNZ -XLDIZDUHZSZWVBUMKHTF [+] T XLDIZDUHZSZWVBUMKHTF 2010-03-27 114129 UTC 2010-04-21 11611? UTC 25d 6h 1m 485
+
+XTNZ -XVBKUJALLWATCCTHIEKU [+] ><TN XYBKUJALLWATCCTHIEXU 2010-03-22 118112 UTC 2010-04-21 112142 UTC 30d 9h 54m 305
+
+XTNZ -El CGVRAFWWIJHACJO G [+] L B CGVRAFWWUHACJO G 2010-03-31 122132 UTC 2010-04-21 109112 UTC 21d 4h 46m 405
+>{TNZ *GJPDFSZHKIBYGQIRCBXC [+] m GJPDFSZHKIBVG [RCBXC 2010503530 104143 UTC 2010504521 106154 UTC 22:! 11h 2m 115
+XTNZ -UU XVE SLVFHVAFHCJH [+] KL UU XVE BLVFHVAFHCJH 2010-04-01 101154- UTC 2010-04-21 10613.5 UTC 20d 16h 4m 415
+KTNZ -]UWCJVNSTC[LDHQWZAQ [+] m IUWCJVNSTCILDHQWZAQ 2010-03-23 119142 UTC 2010-04-21 105138 UTC 29d 9h 46m 565
+XTNZ -NBGJJNFLTJSASGJFGMDO [+] KL NBGJJNFLTJSASGJFGMDO 2010-03-29 133126 UTC 2010-04-21 102144 UTC 22d 21h 29m 135
+
+XTNZ -DAFJVZOLNYHJRKBDBHWU DAFJVZOLNTHJRKBDBHWU 2010-04-01 108131 UTC 2010-04-21 10115.5 UTC 19d 23h 53m 245
+
+El
+El
+|:|
+El
+[I
+[I
+El
+|:|
+El
+El
+|:|
+El
+|:|
+El
+El
+|:|
+El
+|:|
+El
+El
+
+>{TNZ *TLKINQKWXZMVQTANQXLZ TLKIN RWKZMV TAN KLZ 2010503531 14103127 UTC 2010504521 154107 UTC 21:! 4h 50m 405
+
+ 
+
+[Herds] [Bets] [Connected Bets] [Bet Types] [Machines] [1P Usages] [Cmmtnes] [Command Recurrences] [Command Types] Logged in as: 73552
+
+El Refresh Every Minute
+
+For Herd 'Mv New Herg' ( Connected | [All] )
+Displaying BotInstances 1 - 30 of 1655 in total
+
+<< Prewcus 12 3 45 El 7'3 9  55 El Next >7-
+
+<
+Bet Instance But Type Machine First Callback Time Last Callback Time V Lifetime Ceuntrv Binarv Kev
+
+XTNZ -ODKISFVLRVKHKRZVTPQC [+] m ODKISFYLRYXHKRZVTF'QC 2313-34-31 191 119 UTC 2313-34-21 19157117 UTC 23d 3h 49m 535
+XTNZ *JERBPDBEDPIYKQWDJUHH [+] m JERBPDBEDPIYKQWDJUHH 2313333327 131 139 UTC 2313334321 19156141 UTC 25d 6h 42m 325
+HTNZ -IUCW§ TDONHFGUAROBVOX [-1-] ﬂ IUCW ETDON QFGUAROSVOX 2313-33-22 331 153 UTC 2313-34-21 153121 UTC 33d 16h 33m 235
+ME *OHTFJEDWUKFBNDMM [H ml; OHTFJEDWUXFBNDM D NI 2313333323 341 113 2313334321 156121 UTC 29d 15h 12m 115
+XTNZ -><PINCPGRUCIKQRBNCDTN [+1 ﬂ XPINCPGRUCIK RBNCDTN 2313-33-33 211 133 2313-34-21 155154 UTC 21d 22h 43m 4-55
+XTNZ -OGBCUWGTUBUNCOVEXOPL [+] m OGBCUWGTUBUNCOVEﬂOF‘L 2313-33-22 331 113 2313-34-21 155153 UTC 33d 11h 13m 435
+KTNZ *DFFZDNZVJKQHZAQJXFHU [+] ﬂ DFFZDNZVJKQHZAQJXFHU 2313333331 131 1 2313334321 155153 UTC 21d 6h 51m 125
+><TN2 -CTVEMNF O LS‘HZSUTJ [-1-] TN CTVEMNP O LEVZEUTJ 2339-12-31 151 1 2313-34-21 155133 UTC 141d 4h 51m 235
+><TNZ -OSLI§ ENWBASOUVLEUOGT [-1-] XTN DELI! ENWBAEOUVLEU QGT 155133 UTC 29d 9h 57m 29s
+XTNZ *UUPHEO PCDMPZHSADZOI [H TN UUF‘HEO PCDMF‘ZHSADZOI 155133 UTC 22d 3h 19m 215
+XTNZ -WFMQPEKFUH>{ZFMIBLBWL [+1 XTN WFMQPEKFUHXZFMIBLBWL 155133 UTC 22d 2h 22m 535
+XTNZ -ALNABRMDZ§ JOKBKUZDIJ ALNABRMDZ JOKBKUZDIJ New Hercl 1 1 155133 UTC 23d 3h 44m 195
+
+HIDE
+
+I
+
+03 NI 9‘ Ln ii a: N H
+I I
+
+XTNZ *NLEEGIEKSLEITLFVAVUE _ NLEEGIEKSLEITLF‘I‘AVUE 33 111 1 2313334321 155122 UTE: 22d 3h 4m 175
+><TNZ -><T QTDFIKIZELINKOKLVW XTE TDFIKIZELINKOKLVW 29 221 1 2313-34-21 155134 UTC 22d 21h 21m 2s
+XTNZ *HQFDDPPYCKFKGDGOAHHS 7 HQFDDF‘F‘YCKFKGDGOAHHS 2313*33’33 131 1 2313*34c21 143151 UTC 22d 3h 57m 175
+XTNZ -PMINPROBLIEXAOAWWVDN PMINPROBLIEXAOAWWYDN 2313-33-22 37'1 1 2313-34-21 143123 UTC 33d 12h 13m 475
+XTNZ -§ VVZLCRMTLDVICGEU JRL 7 5 VVZLCRMTLDVICGEU 33L 2313-33-33 191 1 2313-34-21 143123 UTC 22d 3h 14m 425
+XTNZ *VZAIH E333 IOZGHHANS VZMH E335 IOZGHHANS 2313333322 391 1 2313334321 139143 UTE: 33d 9h 45m 235
+XTNZ -MMTOVCHLCZBTUVSBBDJA _ MMTOVCHLCZBTUVSBBDJA 2313-34-31 191 1 2313-34-21 123123 UTC 23d 3h 5m 11s
+XTNZ -><LDIZDUHZSZWVBUMKHTF XLDIZDUHZSZWVBUMKHTF 2313-33-27 131 1 2313-34-21 11611? UTC 25d 6h 1m 435
+XTNZ -><VBKUJALLWATCCTHIEXU _ XYBKUJALLWATCCTHIEXU 2313-33-22 391 1 2313-34-21 112142 UTC 33d 9h 54m 335
+XTNZ -E. CGVRAFWWIJHACJO G B CGVRAFWWIJHACJO G 2313-33-31 141 1 2313-34-21 139112 UTC 21d 4h 43m 435
+XTNZ *GJPDFSZHRIBVGQIRCBKC _ GJPDFSZHKIBYGQIRCBXC 2313333333 331 1 2313334321 136154 UTE: 22d 11h 2m 115
+><TNZ -UU XVE SLVFHVAFHCJH UU XVE SLVFHVAFHCJH 2313-34-31 331 1 2313-34-21 136135 UTC 23d 16h 4m 41s
+XTNZ -IUWCJVNSTCIL3HQWZAQ 7 IUWCJVNSTCILDHQWZAQ 2313-33-23 391 1 2313-34-21 135133 UTC 29d 9h 46m 565
+XTNZ -NBGJJNFLTJSASGJFGMDO NBGJJNFLTJSASGJFGMDO 2313-33-29 211 1 2313-34-21 132144 UTC 22d 21h 29m 135
+
+XTNZ -DAFJVZOLNVHJRKBDBHWU DAFJVZOLNYHJRKBDBHWU 2313-34-31 191 1 2313-34-21 131155 UTC 19El 23h 53m 245
+
+[I
+[I
+El
+El
+El
+[I
+[I
+El
+El
+El
+El
+El
+El
+El
+El
+El
+El
+El
+El
+El
+
+ 
+
+ENE Edit ﬂiew Higtury Euekmarks [eels ﬂe‘p
+
+6'0
+
+ti; Most ViSIted * Gettan Started i] Latest Heedhnes
+
+Ij Botlnstances: edit f]  Eetlnstences: Show
+
+ 
+
+Q J— '3'
+
+[Herds] [Bets] [Connected Bets] [Bet Tyges] [Machines] [1P Usages] [Countries] [Command Reeurrenees] [Command Types]
+
+Editing Herd ‘My New HerdT « Va » r
+
+Logged in as: 73882
+
+ 
+
+Update and 
+
+_ View Herd
+
+View Connected Herd
+
+ 
+
+ 
+
+Bet Types( @Any Ofl C'Nune 0f)
+CheeseAEetType
+HTNZ
+
+ 
+
+ 
+
+v
+
+Currently In Cuuntry( '59 Any Ofl O‘Nene 0f) Currently In NEtblﬂck( MW)
+
+V" Add Netbleck
+
+Historically In Nethlnck( Any )
+
+Add Netbleck
+
+But Instances ( @Any Of I ONune Of)
+
+Add Bet Ins1ence
+
+[XTNZ]*IUCWQTDONQFGUAROSVOX
+[XTNZ]*OHTFJEDWUKFBNDMQDQNI
+[XTNZ]«DINCPGRUCIKQRBNCDTN
+[XTNZ]-OGBCUWGTUBUNCOVEXOPL
+[XTNZ]-DFFZDNZVJKQHZAQJ><FHU
+
+ 
+
+ 
+
+Choose A Country
+Pakistan
+
+Ever In Country ( Any)
+
+ 
+
+Cheese A Ceumry
+
+ 
+
+Hill!
+
+ 
+
+ 
+
+ 
+
+ENE Edit ﬂiew Higtury Euukmarks quls ﬂe‘p
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+6 '9 ﬁJ—  «r
+ti; Most ViSIted * Gettan Started  Latest Headhnes
+ Botlnstances: index i]  Eotlnstances: Show 7“ v
+[Herus] [Bots] [Connecteu Bots] [Bat Tynes] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in a5:73882
+D Refresh Every Mmute
+1 I
+For Herd NV New Herg ( Connected | [All] )
+Displaying all 5 BotInstances
+PerPage:ﬁ<ﬂ<ﬂ<A_H
+[+] Bat instance Bot Type Machine Last Observed IP First Callback Time Last Callback Time I“ Lifetime Country Binary Key
+1 KTNZ *IUCWQTDONQFGUAROSVOX [+] KTNZ IUCW TDON FGUAROSVOH 2010703722 0311?:53 UTC 2010704721 20:00:30 UTC 30:! 16h 42m 3T5 [+] ﬂ
+
+ 
+
+ 
+
+XTNZ -XD[NCPGRUCIK§ RBNCDTN [+] XTNZ KPINCF‘GRUCIK RBNCDTN
+XTNZ *OGBCUWGTUBUNCOVEXOF‘L [+] KTNZ OGBCUWGTUBUNCOVEXOPL
+XTNZ 'DFFZDNZVJKQHZAQJXFHU [+] XTNZ DFFZDNZVJK HZA JXFHU
+XTNZ -OHTFJEDWU><FE\NDME DE NI [+] m OHTFJEDWUXFBNDM! D5 NI
+
+2010-03-30 2110?:09 UTC 2010-04-21 20:00:00 UTC 21d 22h 52m .515 [+] ﬂ
+
+ 
+
+ 
+
+ 
+
+2010503522 08137513 UTC 2010504521 19:59:59 UTC 30d 11h 22m 465 [+] ﬂ
+
+ 
+
+ 
+
+2010-03-3]. 13:04:41 UTC 2010-04-21 19:59:59 UTC 21d 6h 55m 1.35 [+] ﬂ
+
+ 
+
+ 
+
+ 
+
+Ln-PQJM
+DECIDE
+
+2010-03-23 04:44:10 UTC 2010-04-21 19:56:21 UTC 29d 15h 12m 115 [+] ﬂ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EH5 Edit ﬂiew History Euukmarks quls Heb
+
+6 'c 53:1— 1--%"-=l' «r
+E5 Most ViSItad * Gettmg Started  Latest Headhnes
+lj Botlnstances: index a  Eatlnstances: Show 7“ v
+[Herus] [Bets] [Camecteu Bets] [Bat Types] [Machines] [1P Usages] [Cmmtries] [Command Recurrenees] [Cammaﬂd Types] Logged in as:73EDE]2
+
+ 
+
+Listing CommandRecurrences
+
+NEW Command RECUWBHCB
+
+ 
+
+ 
+
+ 
+
+ 
+
+Edit Erase
+C Dirwalk Erase
+dema for huh Erase
+
+ 
+
+Get PFDEESS INFO EYESE
+
+ 
+
+ 
+
+ 
+
+GetPrch Erase
+mare dirwalks Erase
+Mare dwalks Erase
+
+ 
+
+mare dwalks 2 Erase
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NEW Command RECUW’EHCE
+
+ 
+
+ENE Edit ﬂiew History Euukmarks quls Heb
+
+6 .c aa—
+
+ﬁj Most ViSIted * Gettmg Started  Latest Headhnes
+
+d '-
+l
+I
+
+J Botlnstances: newI a  Batlnstances: Show
+
+ 
+
+[Herus] [Bets] [Cemeetee Bets] [Bet Types] [Machines] [1P Usages] [Cmmtries] [Command Reeurrenees] [Cemmaﬂd Types]
+
+Logged in as: 73882
+
+New Command Recurrence
+
+ 
+
+Name
+
+Dwaile FI'W
+Command Type
+'* Sal-est. ¢9mmsmd Type * 5::
+Herd
+
+— Salem Herd, — 7:!
+
+ 
+
+ 
+
+ENE Edit ﬂiew History Euukmarks quls Heb
+
+6 vc aa— 
+
+[ﬁj Most ViSIted * Gettmg Started  Latest Heedhnes
+
+.
+a,
+
+J Botlnstances: newI a  Botlnstences: Show 
+
+ 
+
+[Herus] [Bets] [Cemeetee Bets] [Bet Types] [Machines] [1P Usages] [Cmmtries] [Command Reeurrenees] [Cemmaﬂd Types] Logged in as:73EDE]2
+
+New Command Recurrence
+
+ 
+
+Name
+Dwaile FI'W
+
+Command Type
+
+ 
+
+‘4 SelectEPmmsnéTyesr V 
+
+7 Select Commend T e 7
+
+ 
+   
+
+GeiPredm’e
+
+ 
+
+ 
+
+ENE Edit ﬂiew History Euukmarks quls Heb
+
+@ .c M—
+
+[ﬁj Most ViSIted * Gettmg Started  Latest Headhnes
+
+ﬂ Botlnstances: newI a  Batlnstances: Show
+
+[Herus] [Bets] [Cemeetee Bets] [Bet Types] [Machines] [1P Usages] [Cmmtries] [Command Reeurrenees] [Cemmaﬂd Types]
+
+ 
+
+New Command Recurrence
+
+ 
+
+   
+   
+   
+   
+    
+ 
+
+Name
+
+Dwaile FI'W
+Command Type
+Gerbifvfa‘h
+
+Herd
+
+“"—  HEM '
+My New Herd
+peki nelbleek
+
+paki rm:
+Same Awesome Herd
+
+ 
+
+i '-
+
+Logged in as: 73882
+
+ 
+
+Elle Edit ﬂiew History ﬁookmarks Iools Help
+
+6 .c (a a— 
+
+E; Most ViSIted * Gettlng Started ﬂ Latest Heatlhnes
+
+.
+a,
+
+ 
+
+lj Botlnstances: edit a  Eatlnstantes: Show 7“
+[Herds] [Bots] [Connected Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in as:73ElElE
+
+CommandRecurrence was successfully created.
+
+Editing Command Recurrence 'Dirwalks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+:Dlnnralkslffl‘lu’il” ‘ {Geloimaik if: :lvlyNewl-lerd 5:"
+Earliest Execution Time Latest Execution Time
+
+ 
+
+1Yes"? Cycle Commands?
+
+‘feeivi Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions For Herd
+
+] 1 Maximum Concurrent Executions Per Bot
+II] Delay Interval For Herd (seconds)
+‘0 Delay Interval For Bot (seconds)
+
+ 
+
+Upda1e Update And Activate AddACcmmandSpec
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elle Edit ﬂiew History Eookmarks Iools Help
+6 ' C
+lﬁj Most ViSIted * Gettlng Started ﬂ Latest Headlmes
+
+ Botlnstances: edit a  Eatlnstances: Show 7“
+
+ 
+
+(ad—
+
+[Herds] [Bets] [Cemectee Bots] [Bet Types] [Machines] [1P Usages] [Countries] [Command Recurrenees] [Command Types]
+
+CommandRecurrence was successfully created.
+
+Editing Command Recurrence 'Dirwalks FTW'
+
+ 
+
+imam; Frw" 
+
+Recurrence Name
+
+Earliest Execution Time
+
+Command Type Name
+
+Herd Name
+
+errelljirWalk r   My Newl-lerd :Vr
+
+Latest Execution Time
+
+ 
+
+7 II April 2010 II
+N
+Su Mo Tu We Th Fr Sa
+‘ll 1 2 3
+‘l- 5 El 7 3 9 10 FnrHerd
+11 1.2 13 14 1.5 16
+, Per Bot
+18 1.9 20 2]. 22 23 24
+25 26 27 28 29 an utions For Herd
+] ‘ Maximum Concurrent Executions Per Bot
+I] Delay Interval Fer Herd (seconds)
+‘0 Delay Interval For Bot (seconds)
+
+ 
+
+ 
+
+Upda1e Update And Activate
+
+AddACammand Spec
+
+ 
+
+ 
+
+.
+a,
+
+Logged in as: 73882
+
+ 
+
+Elle Eclit ﬂiew History ﬁookmarks Iools Help
+
+6 vc 53— 
+
+lﬁj Most ViSIted * Gettlng Started ﬂ Latest Heatlhnes
+
+ 
+
+.
+a,
+
+ 
+
+ Botlnstances: edit f]  Eatlnstantes: Show 7“
+[Herds] [Bots] [Connected Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in as:73ElElE
+
+CommandRecurrence was successfully created.
+
+Editing Command Recurrence 'Dirwalks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+iDirlwaIks  ‘ iGeIDiHWalk if; :MyNewl-lerd V'vr
+Earliest Execution Time Latest Execution Time
+"Elma/2m
+
+ 
+
+1Yes": Cycle Commands?
+
+‘Yresivi Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions For Herd
+
+] Maximum Concurrent Executions Per Bot
+I] Delay Interval For Herd (seconds)
+‘0 Delay Interval For Bot (seconds)
+
+ 
+
+Upda1e Update And Activate ‘ AddACcmmandSpec
+
+ 
+
+ 
+
+ 
+
+ 
+
+EHe Edit ﬂiew History Euekmarks Incl; Heb
+
+6 vc a: J— 
+
+E; Most ViSIted * Gettmg Started  Latest Heedhnes
+
+.
+a,
+
+ 
+
+lj Botlnstances: edit a  Eetlnstences: Show 7“
+[Herus] [Bets] [Cemectee Bets] [Bet Types] [Machines] [1P Usages] [Ceumtries] [Command Recurrenees] [Cemmaﬂd Types] Logged in as:73EDE]2
+
+Editing Command Spec
+
+Ccmmend Recurrence
+
+—L’ .
+WENDUS 5 EC De]ete ThlS Bgec
+
+ 
+
+ruutPath
+P]
+recurseDepth
+5|
+UpcIate and gc tc...
+
+Premcus - Ccmmand Recurrence
+
+ 
+
+ 
+
+Elle Edit ﬂiew History ﬁookmarks Iools Help
+
+6 vc m a— 
+
+E; Most ViSIted * Gettlng Started ﬂ Latest Heatlhnes
+
+.
+a,
+
+ 
+
+lj Botlnstances: edit a  Eatlnstantes: Show 7“
+[Herds] [Bots] [Connected Bots] [Bet Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in as:73ElElE
+
+CommandSeec was successfully updated.
+
+Editing Command Recurrence 'Dirwalks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+:Dlnnralkslffl‘lu’il” ‘ Sie'eloimalk if: :lvlyNewl-lerd 5:"
+Earliest Execution Time Latest Execution Time
+
+ 
+
+1Yes"? Cycle Commands?
+
+‘feeivi Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions For Herd
+
+] 1 Maximum Concurrent Executions Per Bot
+II] Delay Interval For Herd (seconds)
+‘0 Delay Interval For Bot (seconds)
+
+ 
+
+ 
+
+Upda1e , Uédate And Activate [ Add A Command Spec l [ View Command Specs
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 ‘fou are about to activate this Command Recurrence
+This Will result in tasking being transmitted to Bet Instances ;, _ ’l _ ‘ . .
+Vou will not be able to change this tasking once commenced) only cancel it.  ' ' -"
+Are you sure you want to proceed?
+
+ 
+
+ 
+
+[Herds] [Bots] [Connected Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Recurrences] [Command Types] Logged in as:73ElElE
+
+ 
+
+CommandSoec was successfully updated.
+
+Editing Command Recurrence 'Dirwalks FTWr
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+j‘_b'.'makgnw“‘  ‘ [comment  :ngrmewnad’ fl
+Earliest Execution Time Latest Execution Time
+
+ 
+
+teeVVE Cycle Commands?
+
+:‘TrlElrSi"l Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions For Herd
+
+l 1 Maximum Concurrent Executions Per Bot
+II] ‘ Delay Interval For Herd (seconds)
+‘0 1 Delay Interval For Bot (seconds)
+
+ 
+
+ 
+
+Upda1e Uédate And Activate [ Add A Command Spec l l View Command Specs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENE Edit ﬂiew History Eookmarks Innis ﬂe‘p
+
+@ vc «2  
+
+E; Most ViSIted * Gettan Started  Latest Heedhnes
+
+.
+a,
+
+lj Botlnstances: show a  Eotlnstences: Show 7“
+[Herus] [Bots] [Connecteo Bots] [Bot Types] [Machines] [1P Usages] [Countries] [Command Reeurrences] [Command Types] Logged in as:73ETE]2
+
+ 
+
+CommandRecurrence was successquy updated and actwated.
+
+Executions for Command Recurrence 'Dirwalks FTW‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Execution I Spec I But Instance I Creation Time I' I Transmission Time I Acknowledqement Time I Completion Time I Status I
+
+ 
+
+ 
+

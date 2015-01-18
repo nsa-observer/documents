@@ -1,0 +1,2394 @@
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+ 
+
+(U/IFOUOINALTAP:
+Making Passive Sexy for
+Generation Cyber
+
+, R1,
+, F77
+, F77,
+
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+   
+
+TOP SECRETHCOMINTIIREL TO USA, FVEY
+
+ 5 ‘3,
+
+  
+
+; 
+._:.J
+
+‘   8 PIN A LTA P
+
+/
+
+ﬁ
+
+- Extracts selectors from TAO/SFC/GCHQ
+boxes that should also appear in passive
+coHecﬂon
+
+° Translates selectors from active context to
+passive context
+
+° Creates fingerprints to label passive
+collection related to endpoint-derived
+selectors
+
+° Automated
+
+- Scalable
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETIICOMINTHREL TO USA, FVEY
+
+i SPINALTAP
+
+endpointlrelatelelCKEDAMPllIuser*
+endpointlrelateleICKEDAMPlllnetwork*
+endpointlrelateleICKEDAMPJJImachineID*
+end pointlrelatelelCKEDAMPllIcypher_key*
+' - endpointlrelatelelCKEDAMP11Iattached_device*
+
+IMEIS
+UDIDS
+
+Serial numbers usernames machinele
+Browser tags
+Hostmacs
+
+usernames
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+ 
+    
+  
+
+Key Name a.
+
+   
+ 
+    
+ 
+ 
+    
+    
+
+Kev Name A
+
+ 
+
+Cﬂlﬂputer 535110111 El hkeLIoca|_machinelcata\ogﬂs
+
+/ hI-CELIucal_machmelcatamgsls
+Gateway;
+IVE-5334
+
+W0 EKG
+
+a / hI-(eLIucalimachmelsuﬁwarela 93 3D gaggaqznw
+
+hkeLlucalimachmelsum-varela 3'3 93 30195537
+
+    
+
+/ hHeLIncalimachinelsnmwarela 3'3 E13 43311-12
+_/ hHeLIncal_machmelsnﬁwareta 300%3‘103
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Standalo
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+  
+
+ Selector Types
+
+Machine IDs Attached Devices User Leads
+- Cookies - lMEls for Phones - User selectors from
+Hotmail GUIDs . Apple lMEIS Cookies, Registry, and
+Google prefIDs . Nokia IMEIS Profile Folders
+- YahooBcookies _ UDIDS - msnpassport
+mailruMRCU _ Apple UDIDS - google
+- yandeind _ Bluetootho - yahoo
+- twitterHash I ' - Youtube
+ramblerRUlD Devfce Name - Skype
+- facebookMachine DeV'Ce Address - Paltalk
+doubleclicle - Fetion
+- Serial numbers - ' QQ
+- Browser tags Clpher KEyS ' hotmaiICID
+gimbar ' Fiphér Keys uniquely - STARPROC-identified
+ShopperReportS Identlfled to a user active users
+SILLYBUNNY ' eJKey'D
+- Windows Error IDs
+- Windows Update IDs Network
+
+- Wireless MACS
+- VSAT MACs and lPs
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+     
+
+=.=_ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+  
+ 
+
+ Network Level Sel
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+ECtO rs
+
+ 
+
+m
+
+Windows
+terminal
+services
+
+ 
+
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+   
+
+ if 1
+ 3‘:
+
+ §§* Act I ve/ P ass ive M ap
+
+1. XKS Fingerprints parse files collected from endpoint accesses and feed
+active_passive_map microplugin
+
+2. Micro-plugin feeds SPINALTAP Database / GUI
+
+3. SPINALTAP Database generates fingerprints
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+:l E CHE
+ml Fltti'a-‘E Passive Hep Input Seurce: IACRIDMINI"
+Analysts can
+query Filter reletienshipjype reletienehipjelue Ceunt v
+microplugin to eeriel_nurnber_dell 2
+windeweupdeteGLllD 2
+see What windeweupdeteGLllD 2
+seleCtors have windeweupdeteGLllD 2
+been extracted yeheeLleer 2
+for their target tahmuﬁer 2
+- yeheeLleer 2
+proJeCtS yeheeLleer 2
+yeheeUeer 2
+yeheeLleer 2
+reelm_mid_GeeglePREF 1
+reelm_rnicl_GeegleF'REF 1
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+ 
+    
+
+ 
+
+h-‘iaehine Info
+
+DARKSCREWI DARKSCREW46 *
+
+Last Collection[limit 3 listed]:
+2012—02—12
+2012-02-08
+2012-02-06
+
+List All Collection
+
+Categorized Collection
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+3$Sample Lifecycle: DARKSCREW46
+
+ 
+
+ 
+
+ 
+
+ 
+
+endpoint-"reIatetI.-DARHECREW:I&-'llser.-'nsa.-'cnefvahool.lser
+
+ 
+
+ 
+
+Frn IF' v To IF' Sigad
+[IS-200K mail
+
+DS-E'ﬂﬂl'l chat
+[IS-2'00}: that
+
+Apolioetion Type
+
+ 
+
+ 
+
+_< ............................... ..
+
+ 
+
+S :
+........................................... "*E
+relationshipjype relationship_velue Input Souroe
+eeriel_numi:uer_lenovo LBPWEBE DARKSCREW-drﬁ
+hotrnailGLllD EISMAEIFEEEAEICBAW SCCDAEQFEEQCEABD DARKSCRElﬂ-ME
+hotmailGLllD 1IIIFSDEIIIIDBDSABCAASEBEIDEIEAMSAECCB DARKSCREIN-iiﬁ
+hotrnailGUlD 2??D434EIII|1AEIE485E|3DE41Eli-'IZISAEIE4EEI DARKSCREthiE
+doubleoliole 22bod51 EM 801 IZIIZIEie DARKSCRElNaiE
+doubleoliole 22fd81 5335401 ["31 b DARKSCREthiE
+feoehooklbleohine eDnyECE‘iﬂhHJEItTeemghlle DARKSCRENE
+GoogleF‘REFlD 3054552fddofod52 DARKSCREW-E‘rﬁ
+IGoogleF‘REFID SEIIIISSabSEIEoElS’l e’l DARKSCREthiE
+GoogleF‘REFlD 5f234o?ao?381e2f DeRKSCREIN-iﬁ
+hotrnailGUlD EEICTIIIIIIEDSFl F4EIDII3i33EEIFi3EI5FE1i3FE1T-r DARKSCREthiE
+yehooEioookie 2emrth?h2hoe DARKSCREN4E
+.. {a oeemeoeeme
+1 a maehinelD
+4 IS nee
+J a one
+a IGoogleF‘REFID —
+a hotrnailGLllD
+
+ 
+
+......................... “Elﬁﬁaﬁﬁﬁiﬁﬁémﬁ
+
+a eeriel_nurnber
+
+4 a user
+1 a nee
+:- a one
+5| ekypeHeeh
+
+-_ Lt'whﬁll cw
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+  
+    
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ Im proving CN E Collection
+
+ 
+
+' Pushed for routine, standardized collection of
+artifacts containing useful selectors to support
+SPINALTAP
+
+- Registry: additions to SIGDEV survey to collect new
+registry keys and values
+
+- Files: broad, repeated cookie collection via additions to
+SIGDEV survey
+
+- Directories: dirwalks already standardized, no changes
+necessary
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+  q . .
+* "*1 S P | NALTAP Fingerprl nts
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+'31168 active fingerprints attached_device fingerprints 1102
+
+'Fingerprints for 722 projects “serﬁngerprims 23173
+.488 TAO CNE projects machinelD fingerprints 5599
+.7 GCHQ CNE projects cipher_key fingerprints 1293
+
+ 
+
+ 
+
+'227 SFC Forensics projects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . NSA TAO fin er rints 29361
+'Fingerprlnts for 6188 unique _ g p_
+machines NSA SFC fingerprints 1745
+GCHQ CNE fingerprints 61
+
+ 
+
+ 
+
+ 
+
+ 
+
+endpointIrelatedI<BOXNAME>l<id_class>l<agency_owner>l<source>l<id_type>
+endpoint/related/STONEHENGE18/user/nsa/cne/skypeHash
+endpoint/related/DEADDRUMMERlO/machinel D/gchq/cne/simbar
+endpoint/related/FREEFLOWERPEOPLE1/attached_device/nsa/forensic/appleUDI D
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY *LaSt UpdatEd 11
+
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+., a \4 ' I I
+ SPINALTAP Flngerpl‘lnt HIts
+
+Since activUJuly 2011:
+
+Hits from 2087 unique fingerprint hits
+
+ 
+
+ 
+
+ 
+  
+ 
+   
+
+ 
+
+ 
+
+  
+  
+    
+
+(7%)
+Hits from 1619 unique boxes (26%) mmuw
+8395 box/id type/sigad c v ' '
+
+Sigad _
+
+LIKJ-EEIZID Of  MaChlne
+
+USJ-F'SEIA - .
+
+LIKJ-EEEID end nirlti'relatedi‘SlLVERJLl    
+
+LIKE-302A end DirltfrelatEdEL‘r’NlNJM
+
+ 
+
+ 
+
+ 
+
+.LOE'I'IOO EAISSVd
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UKJ-EEDD endpointi'relatedi‘SLWMEARm EIUserInsaIcn-e
+
+UKJ-EEEEIG endpointi'relatedJSLWEARm EIUserInsaIcneNathser
+UKJ-EEDD endpointi'relatedi‘SLWMEARDm J'userfnsai'cnefskvpeuser
+
+LIHJ-EBEID endpointi'relatedEPARTANFLIRW BIuseri'nsaJ'cneIskvpeuser
+DS-EIZIIZI endnnirltirelatedi‘STRAlTLACEDﬁ54Msermsaﬁcnewahnumer
+DS-SIZIIZI endpnirltfrelatedIS‘IMTCHDOiﬂ-M IR EIR1 SENSermsaIcneNahnDUser
+BIS-SUD endpoinﬂrelatedi‘S‘LMTCHDOtﬂW IR EIR245MSermsaIcneNahuDUser
+DS-SIZIIZI endpnirltfrelatedIS‘IMTCHDOiﬂ-M IR EIR24EIUserInsaIcneNahuuUser
+LIKE-302A endpointi'relatedITHlEVESQUARTERESIUserinsafcnerahnnUser
+IDS-3E": endminti'relatedWATERCASKET1IZIBImachinelesaicn-eisimbar
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY *LaSt UpdatEd 11
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+Hits by Project/Site
+
+El FOXACID
+I ATOMICMON KEY
+
+n DRINKMINT unique MaChines
+
+El DARKFIRE
+
+r  I/ I ANCIFEégTBRE seen  PrOject
+i
+
+\
+1 \ l MUSHROOMKINGDOM
+\
+\
+\
+
+     
+
+1’»
+
+ 
+
+90-
+
+IR
+
+80-
+
+ 
+
+70-
+
+ 
+
+ 
+
+60*
+
+ 
+
+ 
+
+50*
+
+III FIRESWAMP   pl'OjeCtS)
+
+I SHAKEWEIGHT
+
+I OPTIMUSF’RIME
+
+I ATOMICFIREBALL
+
+I WOLFACIDileC
+
+l SWITCHDOWNilRiBR
+I TOXICSNOW
+
+I DARKTHUNDER
+
+ 
+
+40*
+
+.\.\,\\.\,\
+
+ 
+
+ 
+
+ 
+
+30-
+
+ 
+
+20-
+
+ 
+
+ 
+
+\
+
+ 
+
+ 
+
+ 
+
+10-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Unique Boxes Seen by Project
+
+ 
+
+GCHQ IB
+936
+
+Unique Machines
+seen by SIGAD
+
+1619 unique machines seen
+At 68 different sigads
+Using 31 different ID types
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+AEIA:I IVISI’] OJ. 'IEIHIIlNIWOOIIlEIHOEIS d0.L
+
+w tw‘oorsgrzsp - -
+4__——‘_]‘
+— oz 891. 261-
+)UZ'bZL'SQL'ZBL w
+
+x'ap'sgrzm @ {LEEEQLZEL
+I u‘EbZ‘EQl-‘ZBL
+gagzsgrzm 7 v @
+
+M
+@@
+@@
+
+    
+       
+   
+
+Z
+:1"
+9
+
+/ "f" i“ ‘ 'UUL'UUL'UL
+ l A;  man  A
+x'sa'sgrzsp
+
+x'sa'sgrzsp
+
+x'vop'sgrzm -
+- ‘ZUL 89’ 35’ x'oa'sgrzsp
+I '1' 
+
+- 4 s'l-S'SQL'ZEL ._ . _
+I - - x
+ ’ 1:2- ’*
+118 [IE BEH- ZEL-
+’ .
+LZ'EDL'SQL'Zﬁ A A A
+
+.F
+Eng-u”. :IE: -'- :=:I: iii:-
+bgogsgyam Zgggggyzm Al LJ‘IEIEIL] n H
+I sepoN
+
+I] ‘ |] ‘ I] L
+
+   
+
+ 
+
+AEIA:I ‘VSD OJ. 'IEIHIILNIWOOIILEIHOEIS dOJ.
+
+  
+  
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+deseriptien
+
+Show 25 V entries
+
+ 
+
+I Refresh 1
+
+easn_tetal_see re
+
+A
+V
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+I 2 [Ir E:E:00IIIIIIIII 1'-.-'1|_I2::: :i
+E805J00000 M0000
+E80HL00000 M0000
+588AK00000M|004
+80 893000000 M0000
+
+ 
+
+CBS“
+
+ﬁngerprint
+
+E80FT00000 M0000
+
+ 
+
+ 
+
+1358131000000M0100
+
+ 
+
+ 
+
+258131800000 M0285
+258131800000 M0285
+258434800000 M0285
+208951800000 M0285
+208131800000 M0285
+208131800000 M0285
+2CBA800000 M0285
+2CBA800000 M0285
+2CEA800000 M0285
+208A800000 M0285
+208A800000 M0285
+208A800000 M0285
+
+ene_re|etedIANC|ENTElREW11EIueerfneereheeUeer
+ene_re|atedfCHDCDLﬂTESHIPEueerfneafemai|
+ene_re|atedf0000L1’8A06ER15fueerfneafyeheeLJeer
+ene_re|atedeARKTHLJNDEREMUSerfneafyaheeLJser
+ene_re|atedr'DISTDRTAFFECWfueen’near’yeheeUeer
+ene_re|atedr’DR|N1<M|NT158fueen’neer’yaheeUeer
+ene_re|atedeRlNKMlNT185fueerfneer’3reheeUeer
+ene_re|atedr’DRlNKMINT822fueerfneer’3reheeUeer
+ene_re|atedeRlNKMINT850fueerfneefyeheeUeer
+ene_re|atedeRlNKMINT884fueerfneefyeheeUeer
+ene_re|atedeR|NKMlNT410fueerfneer’3reheeUeer
+ene_re|atedIDRlNKMINT420r'ueerfneeI3raheeUeer
+
+588441430000 M0000
+NFH1 15400280000
+NFDJG00000M414?r
+NFH111F1F'504144
+
+ 
+
+1._.| ELI-74288.4. '1 5574748
+081258431 84584
+08125844 .7'5044
+081.758 18.728
+08.125895» 85248
+081-25824 115081
+0817458131 2.7'882
+081745844 25018
+USJ-F58 150
+
+USJ-F’58A 2.7580
+
+0817458431 18824
+
+ 
+
+ 
+
+201 202-1 2
+2012-02-04
+201 1-12-20
+2012-02-08
+201 2-01 -2.'-'r
+2012-02-01
+2012-02-08
+201 202-1 2
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA,
+
+FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ Application: Target Relationships
+
+Histogram Grid '-
+
+ 
+
+Page 1 at 1 $1 Clear Selection Expert Ilnteraetive Made I
+:ilter Input Seuree Ceunt v
+mLFACID_PRECIOU35 32
+DOUBLETAF‘EE 45
+DOUBLE-[AW 4 33
+mLFACID_UR.ﬂ-.NIUM1 24
+WLFACIDJODINH 1E
+mLFACID_PRECIOUS4 '13
+mLFACIDﬁRGONE 12
+mLFACIDJRON’l U '12
+ATOMICFOGJW 3
+OFFICELINEBACKER’l '35 3
+OFFICELINEEQCKERQU El
+DOUBLE-[AW 1 I"
+mLFACID_BARIUM4-Q I"
+
+ejkeyid
+
+r} Help Aetienev Reperte* Viewv @Map View FILTERs: v "va
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State ID Datetirne Highlights ApplD (+Fingerprinte)
+I | E 2011-12-1423:53:00 & {Illt “aﬂoatlr’file cneieclminuefunitetlralta Wren-twleruuestfcno activitvdm paﬂeatWeatle-r Ilarsetl encmltien:
+3 l E 2011-05-20 18:41:00 & tlrrt Ilawoatlﬁile cneﬁteclmiuuefunitetlrake cw}er.-'c\u11ert|uest.-R:Iw activiw {III't paw-)atheatler parse-{l encrwltien:
+3 | E 2011-05-20 20:03:00 &‘ tlrrt llawoatlﬁfile cneﬁteclmitluefunitetlrake m}er.-'cw11ert|tlestfr:|w activiw {III't paw-)atheatler parse-{l encrwltien:
+4 | E 2011-11-031ﬂ:31:00 & {llrt Ilmdaatlﬁila cue-technitlue-‘unitatlraka Mlerr'mﬂlartlueetr'cna activitvdm llamaatlrheatler Ilareetl encrwltian:
+5 | E 2011-11-30 21:42:00 & tllrt llﬂh'lﬂatlrﬁle ‘u’PllrSita to Site ‘u’PHJ‘v‘lara Settu} titles alllliama er filenamaa acne-Discovervrl'r'lalrilaTermsg
+f. l E 2011-10-25 10:50:00 & tlrrt llawoatlﬁfile cneﬁteclmitlueftlantlersnritz Mler.-'c\u1:-ert|uestfcno activiw {Int uaﬂeadﬂwatler parsetlencmnie
+1r | E 2011-10-25 20:00:00 & {Int llawoatlﬁile cneﬁteclmitlueftlantlersnritz Mler.-'c\u1:-ert|uestfcno activitv {Int |1aw10atl.-heatler parsetlencmnie
+3 | E 2011-10-25 20:01:00 FE; {Illt llﬁﬂﬂﬂtlr’file cneﬁteclminue.-'{lantler5|1ritz Mlle-Limleruuestfcno actiuiw {Int |1trw10atl.-heatler parsetlencmnie
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+     
+
+,
+
+TOP SECRETHCOMINTIIREL TO USA, FVEY
+
+‘ Application: Selector Discovery
+
+ 
+
+ﬂ Horne
+
+Navigatic
+
+X MvXKS  Fidmin & Users 53‘ Search 3' Workflow Central
+
+_. Results IF"; Fingerprints
+
+EE Tagging Statistics
+
+53 Tasking Q Map
+
+#3 Help *
+
+Note: Icons on this page represent categories of services (e.g. II.I.Ieb searches. 1il'oIP. browsers) provided by established commercial firms. Thev do NOT identil'v targeted ﬁrms.
+
+ 
+
+.+.+.+.+.-II-.-|-.-|-.-|-
+
+.4-.+.+.+.+.-_‘
+
+.+.+.+
+
+:la Corr
+kc
+.QE
+
+.QE
+
+.+.+.+.+
+
+.QE
+
+t'QE
+t'QF
+t'kbl.
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+    
+ 
+
+IP Address: —Eountr-,I: PK Start: 2313349? 14:45:45 Duration: 3mln'153 Easenotation(s)EEEEESQSEEE'
+HHFp; 13cBeea4 Cit ; KARACHI Stu ; 2012-04-2? 14:49:21 5i ad 5 ; UKC-SDEA _
+v p g i J Active Userlfs‘i:
+mu - ¥ mus v 1——
+Fil'l er rint
+g n Type Page TrilerHoat Count E To it Hits v +
+defeatratrowerwahooiinaicleriolient ad get _ ‘ p
+host Ineidermegvahoocom 1
+clefeaﬂatxksWahooﬁnsrderIollent ad Elet mat “snailsewenwhoolcom 1 Browsers ‘ +
+enclgointi're|ated.I'atornicmonlte5.:3TZonaohineidrnealeneraimhar T_ tile:.I'i'C:'IDoeumenta‘ii—..2Dan... _
+mailM-ebmailﬂahoo user Agent
+E MozillaMJJ (compatible; MSIE 6.0; Windows NT 5.1; SV1
+<_ I 2
+Page 1 m1 ["13 Diepla'yingi -4 of4
+1 Active Accounts A + Page 1 D“ E Displﬁi’il'lw - 2 0f 2
+' @ IWeb Searches v +
+_<yahooBoookie>
+Targets: Content Hits v + <— 3
+3' Device Information A + J Images v +
+Cl‘ I'le CI‘ I'dGECI L k IF A
+l3 l3 ea er ti  v + 
+_ PK, KARACHI (24.31, 5?. . '
+E] ssH v +
+Page 1 m1 924' Displayingl -1 m1 ._- 55L 7 +
+aﬂllﬂccuunts A +
+IE User Flole State
+-vahooElooo... unknown active
+{ | 2
+
+TOP EECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+   
+   
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+acﬂve_uaerjd
+
+Sigad
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+UKJ-EEDE
+
+n F ~\
+ Appli
+
+idjype
+yahoaner
+MEHDDUSEF
+yahoaner
+MEHDDUSEF
+yahuuUaer
+MEHDDUSEF
+yahuuUser
+facehunk
+yahuuUser
+MEHDDUSEF
+MEHDDUSEF
+yahuuUser
+facehunk
+yahuuUser
+MEHDDUSEF
+facebuuk
+MEHDDUSEF
+yahuuUser
+MEHDDUSEF
+yahuuUser
+yahooUser
+yahuuUser
+yahooUser
+
+yahuuUser
+
+machhe_name
+TDHICSNCIIWE
+
+WTOMICMONKEMSEID
+SLYNINJW1 5D
+SLMNINJW1 5D
+SL‘I’NINJW1 51
+MUSHROOMKINODOM143
+WTOMICMONKEMEDD
+OFFICELINEEIWCKER21
+S‘Ie"-.I1TCHDO'I.-“-.IT'-J_IR_EIR1 54
+SPARTWNFURMSS
+OF'TIMUSF'RIMEEEE
+SPARTWNFUR‘HE-ﬂr
+STRWITLWCEDEISS
+WWTERCWSKETBB
+SPARTWNFURMSS
+IlilOUEILET.-E'-.F'2T'r
+WWTERCWSKET1D3
+'|.-“I.|'.5-.TERCWSKETE?r
+OPTIMUSF‘RIMESSB
+SPARTWNFUR‘HBS
+OPTIMUSF‘RIMESSB
+OPTIMUSF‘RIMESSB
+SPARTWNFURYBS
+SPARTWNFUR‘NS
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+cation: Wgﬁté Dagt Collect
+
+R E E N A B LE
+qJECHMque Mgad
+ODIRK USJ-FSEIA
+QDIRK USJ-TSEIW
+ODIRK USJ-FSEIA
+QDIRK USJ-TSEIW
+QDIRK LISJ-TSEIA
+QDIRK USJ-TSEIW
+IEDIFIK USJ-TSEIW
+QEIISCLIIT BIS-SDI]
+I:QEIISCLIIT DS-SEIIII
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT BIS-SDI]
+lOEIISCLIIT EDS-SDI]
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT DIS-SDI]
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT DIS-SDI]
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT DIS-SDI]
+QEIISCLIIT EDS-SDI]
+QEIISCLIIT DIS-SDI]
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT DIS-SDI]
+QEIISCLIIT BIS-SDI]
+QEIISCLIIT DIS-SDI]
+
+uppununnyjype
+CONFIRMED
+
+F‘OTENTIWL
+POTENTIAL
+CONFIRMED
+CONFIRMED
+CONFIRMED
+UNKNOWN
+CONFIRMED
+UNKNOWN
+CONFIRMED
+UNKNOWN
+UNKNOWN
+UNKNOWN
+UNKNC'W'N
+UNKNOWN
+POTENTIWL
+UNKNOWN
+UNKNC'W'N
+CONFIRMED
+POTENTIWL
+UNKNOWN
+POTENTIWL
+CONFIRMED
+CONFIRMED
+
+uMque_pnur
+25
+
+5
+4
+2?
+
+MLAJ
+
+—‘n.M—‘-
+
+33
+
+11
+
+15
+11
+1
+
+14
+
+i 2D12ﬂD1f11
+DB:DD
+
+L ED 125 13134
+DQ:D5
+
+1 2D11f12fﬂ2
+13:4?
+
+3 2D11f11f2El
+22:54
+
+3 2D11f11f2El
+EOE?
+
+5 2D11f11f13
+[IT-“:56
+
+] 2D11f11f12
+10:12
+
+? 2D11f11fﬂ3
+11:40
+
+3 2D11f1Df'11
+12:18
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+REENABLE
+
+i Application: Mitig‘até Dost Collect
+
+- Combine XKEYSCORE Map/Reduce Results
+(QTM Opportunities) with GMPLACE Callback
+Analytics (Lost Implants)
+
+— Last updated: Thu May 31 09:5?24 +0000 2012
+
+ 
+
+      
+
+  
+ 
+   
+
+0000 3130 yahooUser ATOMICMONKEY100 UNKNOWN OEIISCLJIT LIE-3121 2012-04-00T10242230.000+00200
+00 4002?Ir yahooUser DARKFIRE1000 POTENTIAL OEIISCLJIT LIE-3121 2012-04-04T03210:14.000+00:00
+00 £1007Ir yahooUser ATOMICMONKEY400 POTENTIAL OEIISCLJIT LIE-3121 2012-04-00T10:3?200.000+00:00
+00000 00 facebook DARKFIRE1002 CONFIRMED ODIRK LIE-3121 2012-04-13T0023221T.000+00200
+33000 00 yahooUser ATOMICMONKEY400 CONFIRMED ODIRK LIE-022D 2012-04-00T10:3?200.000+00200
+
+100?? 00 yahooUser COEIALTOLJF'F'Y30 CONFIRMED OEIISCLJIT LIE-3121 2012-04-10T1023125?.000+00200
+
+ 
+
+TOP SECRETHCOMINTIIREL TO USA, FVEY
+
+ 
+ 
+  
+   
+
+q , 3:;
+
+L.J
+-\._
+\.__
+
+* Xi F u t u re Work
+
+/
+
+ 5‘ " 491» 45
+
+- Further automate extraction, fingerprint
+
+creation (currently weekly)
+- Provide access to SPINALTAP DB via GUI
+
+- Support for new ID types
+- MAC addresses
+° Expansion of SFC related fingerprints
+- Expansion of 2nd Party CNE related fingerprints
+
+- Deprecation/Expiration of fingerprints
+- Improve private network identification
+- Provide as enrichment source to other tools
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+YELLOWFAN
+WOLFACID_ZINC
+WOLFACID_TIN
+WOLFACID_LEAD
+WOLFACID_JUPITER
+WOLFAC|D_|RON
+WOLFACID_CHILI
+WOLFACID_BARIUM
+WOLFACID_ARGON
+WOLFACID_ANISE
+WITHEREDFRUIT
+WILDCHOCOBO
+WAXCHIP
+WATERWINGS
+WATERCASKET
+VEILEDMAGIC
+UPPERM UTANT
+UMBRAGESPIDER
+TROPICALSTORM
+TOXICSNOW
+TOTALDAGGER
+TOADYTEAL
+THIEVESQUARTER
+SWITCHDOWN_IR_CD
+SWITCHDOWN_IR_BR
+SWITCHDOWN_IR_AW
+STRAITLACED
+STEELSKY_GOLF
+STEELSKY_FOXTROT
+STEELSKY_ECHO
+STEELSKY_DELTA
+SPIKEYFARM
+SPARTANFURY
+SNAPKEY
+SLYWIZARD
+SLYSNOW
+SLYNINJA
+SKYJACKBRAD
+SILVERJUMP
+SILENT_TONGUES
+SHATTEREDSH IELD
+SHAKEWEIGHT
+SHADYNINJA
+SCARFSLOOP
+SANDPALACE
+ROLLEDHAT
+PRETZELDOG
+PLUMREVOLVER
+PHANTOMSTARFISH
+PARLAYBUFFET
+OPTIMUSPRIME
+
+OFFICEQUARTERBACK
+
+OFFICELINEBACKER
+OBSCUREBLAZE
+NATIVEFLORA
+NAPALAN
+MUSHROOMKINGDOM
+MIRACLEMAX
+MILKSTEAK
+MIDNIGHTSCORPION
+MICEFUR
+MAXRANKLE
+MAGNUMOPUS_CC
+MAG NUM OPUS
+LUTEUSASTRO
+KUKRISTEEL
+KOOPATROOPA
+KIDSHIP_AA
+JEEPFLEA_MARKET
+JEEPFLEA
+JEALOUSJOKER
+JAVAFRESCO
+INDEPENDEN CEPIE
+IMPUREHOLSTER
+ICEBLOCK
+HORSEWRAP
+HASTYCOBRA
+HAMMERBROTHERS
+GOODM ONKEY
+FURRYEWOK
+FREEWOODENSTICK
+FREEWINDSHEAR
+FREEWINDCLOUD
+FRE EWHEELN UT
+FREEWHEELCOVER
+FREEWAYPOINT
+FREEWAVECREST
+FREEWATERTOWER
+FREEWATERTANK
+FREEWATERGLASS
+FREEWATERBED
+FREEWARRIORPAINT
+FREEVINYLMESH
+FREEWINBEE
+FREETRUEPINBALL
+FREETROUTSTREAM
+FREETRICKYKICK
+FREETINYTANK
+FREETIMESHARE
+FREETIMELEGEND
+FREETICKETBOOTH
+
+FREETHUNDERCLOUD
+
+FREETESTSHEET
+FREETANKSTAND
+FREESTORAGEROOM
+FREESTONESHIP
+FREESTATEWARD
+FREESPEEDTRAP
+FREESPACEFLIGHT
+FREESNOWSHOVEL
+FREESNOWCLOUD
+FREESMOKESCREEN
+FREESMALLSPACE
+FREESLOWFAST
+FREESINEWAVE
+FREESHORTPASS
+FREESHORTCARD
+FREESEADADDY
+FREESCREENDOOR
+FREESCHOOLLOCKER
+FREESASHCORD
+FREESALTTRUCK
+FREESAFEKEY
+FREEROCKSONG
+FREERIPPINGBLADE
+FREERIGHTWHALE
+FREERIDEAROUN D
+FREEREDSTAIN
+FREEREDSHIRT
+FREEREDMARKER
+FREEREDERASER
+FREEREDBEER
+FREERAVENTICKET
+FREERAINCLOUD
+FREEPULLCHAIN
+FREEPUFFYCLOUD
+FREEPOWERFAILURE
+FREEPOSTMARK
+FREEPONGPLAYER
+FREEPLASTICCASE
+FREEPINEPLANK
+FREEPICKLEBRINE
+FREEPAINTBALL
+FREEOUTRUN
+FREEOLDBIKE
+FREEOILPAINT
+FREEOILLEAK
+FREEOBLIQUECASE
+FREENIGHTTRAIN
+FREENAVYBLUE
+
+TOP SECRETIICOMINTHREL TO USA, FVEY
+
+Hits — All Projects
+
+FREEMINTJELLY
+FREEMINETUN NEL
+FREEMETALSHARD
+
+FREEM ETALFILE
+FREEMETALCRATE
+FREEMARBLEBASIN
+
+FREELOLLYPOP
+
+FREELINEDOWN
+
+FREELIKESAME
+FREELIFERAFT
+FREELEADSINGER
+FREELEADSHOT
+FREELANDLINE
+FREEKN OCKOUT
+FREEKINGSPAWN
+FREEKIDPOOL
+FREEJETFUEL
+FREEHOOPDREAM
+FREEHOOKHAN DLE
+FREEHOMEBASE
+FREEHAVEFUN
+
+FREEGLUESTRIP
+
+FREEGLASSTU BE
+
+FREEGEMSTONE
+
+FREEFRIEZEFRESCO
+
+FREEFLOWCHART
+
+FREEFLATFIBER
+FREEFILEDELETE
+FREEFIBERBOARD
+FREEFASTCAR
+FREEFAM ILYTIE
+FREEENERGYTAX
+FREEEMUFARM
+FREEDOVETAIL
+FREEDOM ECU POLA
+FREEDOGCRATE
+
+FREEDISKBRAKE
+
+FREEDISCOVERY
+
+FREEDIRTYTRICK
+
+FREEDETOURSIGN
+FREEDEADBATTERY
+
+FREEDATALOSS
+FREEDARKSUIT
+FREECRUSHEDDISK
+FREECREEKMOOR
+FREECORNMAZE
+FREECORNHUSK
+FREECOLDTEA
+FREECLEARTAPE
+FREECHESSBOARD
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+FREECHERRYCOLA
+FREECEMENTBLOCK
+FREECATBOX
+FREECANESUGAR
+FREECANALLOCK
+FREEBUTTERCLOUD
+FREEBRASSBRUSH
+FREEBLUEMAT
+FREEBLOWNTURBO
+FREEBLOODYWOLF
+FREEBLACKCLOUD
+FREEBITTERCLOUD
+FREEBIGBOSS
+FREEBEACHTREE
+FREEBATTLEZONE
+FREEBALLROOM
+FREEBADRENT
+FREEBADFIBER
+FREEBACKGAMMON
+FREEARCADEZONE
+FREEAIRFARE
+FREEACIDRAIN
+FRANTICDANCER
+FOXBASE
+FOXACID
+FIRESWAMP
+FIREEATER
+FIREBRU SH
+EMPTYMOCHA
+ELECTRONSWORD
+EFFABLELAMBDA
+EDITIONHAZE
+DRUMBEAT
+DRINKMINT_AA
+DRINKMINT
+DOUBLETAP
+DISTORTAFFECT
+DIRTDIVER
+DETASSELJANICE
+DEPUTYSHIP
+DARKTHUNDER
+DARKSCREW
+DARKRAZOR
+DARKRAVEN
+DARKINTENT
+DARKHELMET
+DARKFIRE
+CYGNUSOLOR
+CU DDLYBADGER
+CRYPTICSENTINEL
+
+CRISPWARE
+COCOAMELTDOWN
+COBALTGUPPY
+CHOCOLATESHIP
+CAFFEINECRASH
+BULLETTOOTH
+BROKENTHOUGHT
+BLOODDIAMOND
+BLACKMESA
+BLACKAM ETHYST
+BEEFCAKE
+BEDOUINSTRIKE
+BACKSNARF
+AZTECTOMB
+ATOMICSTRIKE
+ATOMICPUNCH
+ATOM ICM ONKEY
+ATOMICFOG
+ATOMICFIREBALL
+ATOMICCANNON
+ARMOREDCONDOR
+APACH ERIVER
+ANCIENTBREW
+AFTERYARDARM
+AFTERWINDBLOWN
+AFTERWAYBACK
+AFTERTREEFORM
+AFTERTANKERTRUCK
+AFTERSHORTRUN
+AFTERRICHGEAR
+AFTERLASTTEAM
+AFTERGASSTATION
+AFTERDOGHOUSE
+AFTERCLIFFD IVE
+AFTERBOOTSOLE
+ACR IDM |N|
+ABSOLINEDELTA
+AARDVARKSTAKE
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+Contributions
+
+ 
+
+832361
+
+   
+     
+    
+  
+
+has reenvered from a serious error.
+
+errer has been created.
+
+II Hicmsnft ahnut [his problem,
+
+- 831322
+
+   
+
+t data this error report contains, click here.
+
+ﬁend Erler Hepelt Qen‘t Send I
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+Windows crash reports in passive:
+
+- Identify application crashes on TAO targets
+
+' Another data point to correlate active/passive
+
+coHecﬂon
+- Identify applications of interest on TAO machines
+
+- Track 4th Party tools
+' Crashes from attributed .dlls identify targets of
+foreign CNE
+- Analytics may be able to highlight suspicious
+processes
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+. Windows Error Reports
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eyent Type Exception Code Exception Offset Fault Module Timestamp Count v
+APPCBASH c9999995 91 c123aa9 411999124 9
+D  I e d e r  r  d APPCBASH c9999995 91993aa9 411999134 9
+APPCBASH c9999995 935?3aa9 411999124 9
+   m i   r APPCRASH c9999995 94F133aa9 411999134 9
+APPCRASH c9999995 911313aa9 411999134 4
+ u b I e S h 0  n g ’ APPcelulsH c9999995 93993aa9 411oee134 2
+BE}: 99953aa9 c9999995 411999124 2
+tr  n g ’  d BE}: o1 e1 3aa9 c9999995 411oee134 2
+EIEi-t 91 f93aa9 c9999995 411999134 2
+m  n n  c e 9E}: 93993aa9 c9999995 411999134 2
+BE}: 931393aa9 c9999995 411999134 2
+9E}: 9ca13aa9 c9999995 411999134 2
+System Manufacturer System Product Name BIOS Version Count v Application Version OS Version Count
+FUJITSU SIEMENS AI'I.I1|LO Pro V2949 R91-A1B 39 9.9.?99919999 9.1 .T999.2.99919199.9.9.1 .19395 39
+Hewlett-Packard Presario C9159 Notebook PC P95 14 99299919999 9.1.T9992.99919399.9.9.11.19395 14
+TOSHIBA SATELLITE U599 1 .59 9 99299919395 9.1 .T999.2.99919199.9.9.1 .19395 9
+TOSHIBA Satellite C949 1 .59 3 99299919939 9.1 2999299919399.9.9.3.19395 9
+PRG3119H.99A.9995.2[ 2 9.9.?99919999 9.1.F999.2.99919399.9.9.3.19395 3
+Hewlett-Packard HP Mini 119-3T99 F23 2 99299919999 9.1 .F999.2.99919199.9.9.1 .1 9395 2
+TOSHIBA Satellite L399 1 .49 2 9.9.?991 .11514 9.1 .T991 2999191991 9.49.1 T514 2
+TOSHIBA Satellite L935 1 .49 2 % =
+TOSHIBA Satellite P195 V3.39 2
+Dell Inc. OptiPlex res A99 1 I  nd OWS 7
+System manufacturer System Product Name 9391 1
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+‘2 Crashes on TAO Targets
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SLYNINJA‘IS‘I
+
+Value Name A Value Type Display Content
+:I errnrpprt REG_SZ IWindpwsErrerepprtingSewicePprt _
+1||machineid REG_SE 34FEIEHDE-QDH-4DDQ-AE54-EEC¢1561FBYEF   
+1| maxqueuesizepertentage REG_DWURD IZIIZIIZIIIIIZIIZIIZIl
+:I purgethreshhuldvalueinkp REG_DWORD IZIIZIIZIIIIIZIIZIIZIA 
+:I sewicetimeuut REG_DWORD IZIIZIIZIIIIEAEIZI
+
+Error report In passwel
+
+SL‘HNINJMSl
+
+ 
+
+GET rstogooooreoooooEEmoxo1oro_oxors_p_?o01_1?514r4oo?9912 _ _ U_U_D_Df¢le417’8b9I603f1430fc0ﬂ00005
+f00000008.htm?LC]D=3081 oooszo.13601.2.0001010010.1.1?514 &SM=Hewlett—Pack o £oSPN=HP Pavﬂipn {11113 Notebook PC
+
+SEEM-U3 _HTTPH-1
+
+ 
+
+Comantipn: Knapp 43.1fm:
+User—Agent: MSDW
+H0 51:: wats onnﬁcrosoﬁ. corn
+SLYNINJA151
+- Application Name Sigad Casenptatipr Fm IF‘ Count v
+   iexplpre.exe USJ-TSQA EQDCJDUUUU EIEIEIEI 32
+  ACFDRdBEEXE LISJ-F'SElﬂ-l EQDCJUUDUU EIEIEIEI “I
+Flash Gamesexe LIE-HEELS. EEIDC-JDEIUEIIJ GOOD 1
+TOP SEliRETHCOMINTHREL TO USA, FV EY
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+    
+ 
+
+1 * Windows Error Reports
+
+ 
+
+Similar work completed for Windows Update
+
+- April 2012:
+2827 Windows Update and Windows Error IDs from endpoints
+
+17 CNE Machines found in Passive (8 for the first time, for other
+9 it’s the first time with MachineID)
+
+Crashes from 4th party Tools
+- At least one crash report from a likely 4th party found
+
+- lngesting into The Cloud for Whizbang! analytics
+- Crashes from target networks
+- Crashes of uncommon .dIIs
+- Crashes of known 4th party .dlls
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+TOP SECRETHCOMINTHREL {TO USA, FVEY
+
+i ButAlso...
+
+- Windows crash reports in oassive:
+
+- Reveal crashes of TAO tools on targets
+Troubleshoot problems with T 0 tools
+Identify OPSEC issues from qopeated crashes
+
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+Datetime Application Name Fault Module Name
+
+2912-91-19 11:51:45 iexploreﬁxe {lll_unloa-rlerl
+
+2111 2-111 -1 9 1 1:51:45 iex|1lore.exe tlll_unloa-tletl
+
+2111 2-111-19 11:51:45 iex|1lore.exe {lll_unloa-rletl I d U  q   
+2111 2-111-19 91:44:28 iexploraexe [III_lII1IOﬂ[IetI _
+
+2111 2-111-19 11:51:45 iexplore.exe {lll_unloa-rle{l   R 
+2912-81-1918:51:11 iex|1lore.exe tlll_unloautletl  
+
+2111 2-l11-19 18:51:41 iex|1lore.exe {lll_unloa-rlerl
+
+2111 2-111 -1 9 1 8:58:39 iexplorenaxe tlll_unloa-tletl
+
+2111 2-111 -1 9 1 8:59:48 iex|1lore.exe {lll_unloa-rletl
+
+2912-91-19 29:93:23 iexploraexe tlll_unloatletl
+
+ 
+
+ 
+
+ 
+
+TOP SECRETHCOMINTHREL FI'O USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+Aftermath
+
+° Setup automated workflow for TAO VALIDATOR
+team to receive daily updates
+
+10-30 crashes per day
+In a month ~30 machines
+
+Pinpointed to:
+
+- VALIDATOR 8.2.5.1
+' VALIDATOR 12
+
+- Win 7 32bit
+
+TAO/ROC Mission Directors deciding way
+fon/vard
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+QUESTIONS?
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+     
+
+EIEINT
+FDRENEIEE
+CENTER
+
+(sxmsuTracking Courier Use of
+
+Secure Diiital _Cards
+
+SIGDEV gonferenCeZOlZ
+The overall claSSI Icatlon of thlS briefing Is:
+TOP SECRETIICOMINTIIREL FVEY
+
+' Derived From: NSAICSSM 1-52 Dated: 20070108 Declassify On: 20320108
+
+h=
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY SECRETHREL *- ‘.
+
+  
+
+(UHFOUOSD Cards
+
+(Ul/FOUO) 
+(Ul/FOUO) Convenient
+
+    
+ 
+
+(Ul/FOUO) Com men
+
+*n ' It. ‘
+“III-{Hull 1..
+
+SECRETNREL To USA, FVEY TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+(SHREUTracking SD Cards: The
+(Ul/FOUO) NO  
+
+(Ul/FOUO)   I esyStem
+
+ 
+
+ 
+
+"‘..A..-':'- --
+Hin.....;..
+
+    
+
+f
+
+U-SB- One Or More
+
+m Flash Memory Chips
+(filesystem stored here)
+
+SECRETNREL To USA, FVEY TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETIICOMINTIIREL TO USA, FVEY
+
+ 
+
+(SI/REUThe solution: Volume Identification
+
+(U/IFOUO)VSNI Volume 
+(Ul/FOUO)VL: Volume Label
+
+Actual Values:
+Usama 728c0200
+
+Nokia N73 aYbec691
+Google_earth 65ba457d
+
+ 
+
+Located in the boot sector of a volume
+
+*CDs and DVDs also contain VSN/VLs
+
+SECRETI-‘REL To USA, FVEY TOP SECRETIICOMINTIIREL To USA, FVEY
+
+TOP SECRETIICOMINTIIREL TO USA, FVEY
+
+ 
+
+(SHREUUnique USB Identification
+
+USB Controller
+(USB ID stored here)
+
+A-gii-iliilmlilrmq”
+:izniiiilzziiilj
+
+ 
+
+One Or More
+Flash Memory Chips
+(VSNN L stored here)
+
+USB Connector
+
+SECRETNREL To USA, FVEY TOP SECRETIICOMINTHREL To USA, FVEY
+
+  
+    
+
+TOP SECRETHCOMINTNREL To USA, FVEY TOP SECRETHCOMINTHREL  , ‘
+
+
+ _‘
+
+(SI/REUVSN/VL Sources
+
+(gr/REL) Filesystem/Volume boot sector
+(SI/REL) Windows Registry
+(SHREDVista/7 provide comprehensive history
+
+[:17] E M D M gmt
+E _??_LI 5 B 5 T [I H 14D iSkEcVEhJE enerioEcF'rod_Ll 5 ELS ELF! eaderEcFl EV_1.UUHUEBF312D B1B EUMEEfEEEUF-bﬁbf-‘l 1dU-E4f2—UUBUGEI'I EHZIBIZIL1 21 F3532] 3
+E _??_L|S B ET [I H ﬁDiSkEc'U'EHJE enericﬂcF'rod_L|SE_S [LR eaderﬂcH EV_1.UUHUEEF312D B1E&0ﬁ{53fEEEUF-bEbF-1 1dU-El4f2-UUEIUCS'IEHZIBIZIL1E'I 135521 El
+E _??_LI 5 E S T [I F! 11D iskEcUen_Kingston3cF'rod_D ataT raveler_E ZﬁcFi EV_1.E|E|11E|E|E|FE.|5.FE BEE E FUEUE434U5523cﬂﬁ{53f553ﬂ?-|:IE|:If-1'Idﬂ-ﬂde-UUBUCEH Ebeb}K|N E S T [I N_1UUEEEEE|52
+
+(SI/REL) XP provides VSN for “last mounted”
+(SI/REL) LNK files
+
+(SI/REL) Identify VSf$l/@device type 
+removable media, etc)
+
+TOP SECRETNCOM'NTHREL To USA, FVEY TOP SECRETHCOMINTHREL To USA, FVEY
+
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+(Si/REUVSN/VLS & UBL
+
+(SI/REL) Published report (S/OO/SFC/3-12)
+
+(SI/REL) Identification information identified for
+
+36 devices not seized during UBL raid
+16 Missing devices
+
+6 Connected via SD Reader
+5 via USB
+
+5 unknown
+
+(SI/REL) Determined uniqueness & first
+connect date
+
+SECRETNREL To USA, FVEY TOP SECRETHCOMINTHREL To USA, FVEY
+
+ 
+
+TOP SECRETHCOMINTHREL T0 USA, FVEY TOP SECRETHCOMINTHREL  ‘.
+, 5/ .
+
+    
+ 
+
+(mug) Developing a Solution
+
+ 
+
+(TS/ISIII REL)
+
+ 
+
+ 
+
+iiullpmgtr '
+3/ I   -'
+[ml LIP: l_'.‘- F. Hum nu, mum
+
+(TSl/SlllREL) Automated solutions between seized media & CNE media via
+JOLLYROGER
+
+ 
+
+ 
+
+(TS/lSl/IREL)
+
+ 
+
+TOP SECRETNCOM'NTHREL To USA, FVEY TOP SECRETHCOMINTHREL T0 USA, FVEY
+
+TOP SECRETHCOMINTNREL TO USA, FVEY
+
+(W/Foquuestions?
+
+NSA SIGINT Forensics Center
+
+ 
+
+ 
+
+ 
+
+ 
+
+“GO SFC"
+
+ 
+
+UNCLASSIFIEDHFOR OFFICIAL USE ONLY Top SECRETHCQMINTHREL To USAI FVEY
+
+UNCLASSIFIEDHFOR OFF ‘ 
+,. x3! I
+E9224
+
+  
+
+TOP SECRET/ISIHREL USA, FVEY
+
+QUANTUMFALCON
+Summarization to support QUANTUM Targeting
+
+ 
+
+TOP SECRET/ISU/REL USA, FVEY
+
+38 TOP SECRET/ISIIIREL USA. FVEY
+
+Overview
+Chaﬂenges
+Triage selectors for potential QUANTUM
+targeting
+
+Enrich with strongly correlated selectors
+
+ 
+
+Possible manually with MARINA with multiple
+queries (no workflows)
+
+TOP SECRET/ISII/REL USA, FVEY
+
+39 TOP SECRET/ISIIIREL USA. FVEY
+
+Overview
+
+Solution
+Cloud analytic developed to support targeting
+Map/Reduce ideal for counting activity
+
+Using corporate resources to perform
+activities
+- Seed selector list — INQUIRY service
+
+Summary of ASDF data already on
+GHOSTMACHINE
+
+REACTOR E score data inside ASDF
+
+records (User = User Atom)
+
+U'I'I' sent daily to GHOSTMACHINE
+
+       
+   
+   
+   
+   
+   
+
+TOP SECRET/ISII/REL USA, FVEY
+
+L0 TOP SECRET/ISIIIREL USA. FVEY
+
+The Napkin
+
+9
+>
+L
+a:
+>
+.
+
+ 
+
+  
+ 
+  
+ 
+   
+
+a ‘ .i
+. 1 i 3 .- 1 I g “a
+
+ I1 31+} Lﬁﬁit .ﬂLCLt} I|1""*
+
+' u..-"
+' I I i 4
+- I .51 | "! 'I
+F-i "‘9‘: U»! '~r“ _4";l  “"11: L1: "Fr
+I
+
+: _ I... f ' - _ "" I H . I: _
+LIE-{F-JEIIL: ILI' ill-ll} lefljzfllﬂl aﬁQ-   Illicit. I 
+
+  
+
+TOP SECRET/ISII/REL USA, FVEY
+
+I. ]_ TOP SECRET/ISII'IREL USA, FVEY
+
+What does it look
+mm?
+
+  
+      
+        
+   
+   
+    
+  
+   
+   
+   
+   
+   
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+    
+       
+     
+     
+
+ 
+
+ 
+
+         
+ 
+
+Selector ' Altll] ' UTrCategoryr ' SIGAD Y‘I’ CASENDTATIDN ' IPDirectit' Froml' FromASN' TDI' TOASN' #TRSII' 4631,1559” Laa
+16666622228564ﬂ<1facebuuk} US-67’2U AF.QKAP08666666 (2-35 AF '38742 US 32634 1 12|
+166666222185646<ZFEI3E|2IUUk? US-622U AF.QKAPOS C->3 AF 138242 US I325134 1 12|
+1066666638315DT<.facebuuk> UKC-362A PKCSE635K666HD6 [-35 PK 145555 US 126161 2 1 2|
+166666663891567F<ifacebuuk3~ UKC-362A PKCSE635L666H66 [-53 PK 145595 US 126161 2 2 2|
+166666672561875<ifacebuuk1> UKC-362A PKCSE668A666HD6 [-15 PK I45565 I36 Ir32634 1 1 2|
+166666672561825<2facebuukr> UKC-362A PKCSE668A666HD6 C-bS PK 145595 US 32634 8 2 2|
+166666672561825<1facebuuk} - UKC-362A PKCSE668A666HD6 S-:=C US 132634 PK '45595 1 1 2|
+
+1 166666682666676<2faCEbUUkZ> 6652A13 USU-1618 H56635343366666 S-:=C US 132834 36 r2366 8 2 2|
+
+i 166666222645165<2fachUUkZ> 1866521363 238EUKC-362A PKCSE635L666H66 E2215 PK 145595 US 126161 2 1 2|
+
+3 166666222645165<2fachUUk§ 1866521363 238[ UKC-36213 PKC3E639K666HD6 [-35 PK 545595 US r14228 66 2 2|
+
+1 166666222645165<'facebuuk} 1866521363 238E UKC-36213 PKCSE633K666HD6 [-15 PK 51.5565 US '36646 28 3 2|
+
+1 166666222645165<1facebuuk} 1866521363 238E UKC7362A PKCSE639L666HD6 (1:53 PK 45595 US r14728 81 4 2|
+
+I 166666222645165<2facebnnk> 1866521363 238E UKC-362A PKCSE639L666HD6 C->5 PK 45555 US '36646 46 4 2|
+
+3 166666826622286<1facebuuk} USJ-759A 58DA266666M6666 3-PC 8'3 132534 IQ 116212 26 1 2|
+
+1 166666326621286<1facebuuk} U5J-255A 58DA266666M6666 S-Z‘C US 132534 ID 116212 215 4 2|
+
+3 166666826622286<2fachUUk} USU-256 58D13266666M|D63 [-35 IO Ir16212 BG I32634 36 3 2|
+
+5 166666826627286<2facebuuk} USJ-TSB 5BD13266666M|D63 C-bS IQ Ir16212 US '32634 76 4 2|
+
+} 166661442563682<2facebuuk> U37666A E2H115434626666 373C US '8675 KK 531 6 2|
+
+I 166661442563682<2facebnnk> US-666A E2H115434626666 null - - - - 5| 1 2|
+
+i 166661442563682<2facebuuk> US-666A E2H1154346666TD C->3 1|}: - IE I325134 5 1 2|
+
+1 166661442553682<1facebuuk3~ U5-566A E2H1154346666TD [-35 1:34 - U5 I325134 2 1 2|
+
+3 166661442593682<2facebuuk3~ US-66613 E2H115434626666 3-24: IE 132634 1:14 46 4 2|
+
+1 166661442563682<2facebuukt> US-66613 E2H115434626666 S-bC U3 Ir32634 X32 - 56 6 2|
+
+I 166661456912244<2facebuukr> UKC-362A PKCSE635K666HD6 C-bS PK 145595 US 26161 2 2 2|
+
+' 166661456912344<2facebuuki> UKC-362A PKCSE635L666H66 [-35 PK 14595 US 26161 1 1 2| i
+166661251863833<1facebuuk} UKC-362A PKCSE635K666HD6 [-35 AF 155336 US 126161 1 1 2| E
+166661251863833<2fachUUk3 - US-8682 K5H116366664144 3-24: US 132834 AF I23648 5 1 2| 1
+1666621356325?3<ifacebuuk} 238156 431852 UKC-36213 PKC3E62213666HD6 [-35 PK 545595 US I32634 5 1 2| 1
+166662135632573<2facebuukb 238156 431852 UKC-362A PKCSE62213666HD6 3-:C US 132634 PK '45595 1 1 2| 1
+
+ 
+
+   
+
+TOP SECRET/lSI/IREL USA, FVEY
+
+l2
+
+TOP SECRET/[Sll/REL USA, FVEY
+
+What does it look
+
+lilza')
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Selectm V AItID V SIGAD J CASENOTATIDN V IPDiIECtiI V FrumlP V Fruml V TolP V TDI V HTRSIIV #DayESEI VL=_
+iGEGDDEET?SSD4D<;faceboob US-BTZU AEQIAPUSUDGUDD C-ES US J. '
+lUUUUDEEWBSDA-Wfaceboob USBTEU AEQKAPOS C735 US J.
+IDﬂﬂﬂﬂﬁglﬂﬂﬁﬁmﬁfatebnnk> USD-IEITB H5V035343360000 3-H: SE3 1
+J.UDGUGﬁSZCGﬁﬁHdaCEbDUk> USU-10??! H5VE53534BSEGDUU 3-251: SG 3
+iGEDDDESZUUEEN<faceboob USD-IUTB H5V035343SEGDDU S-E-‘C 5G 5 _
+IUUUUDEEUEZHE6<Zfacebuok> USJJ‘SSA SEDAEUUUDUMGUDU 3715C 10 152 I
+I00000320627286<2facebnuk> LBJ-759A SEDAZEDEIDDMDEIDD 5-H: JC! 35 '
+l0000032062728E<ifacebuuk> USJ-FSSA SEDAZGGGDUMGGDU 3-251: IO 26
+l0000032062728EifaCEbDUI-d} USJ-FSSJ—‘a EEDAZGDGDDMDUGD 5-3": JG 9
+IUUUUDEEUEZHE6<Zfacebuok> USJJ‘SSA SEDAEUUUDUMGUDU 3715C JO 19 .
+I00000320627286<2facebnuk> LBJ-759 SEDAZDEEIDDMJDDE [-55 US 5
+l0000032063286<ifacebnuk> USJ-FSS SEDAZGGGDUMJDU3 C->S US 34 .
+J.0000032062728EifaCEbDCII-c} USJ-FSS EEDAZGGGGUMJDGS C-ES US 24
+IUUUUDEEUEZHS6<Zfacebook> USJJ‘SS SEDAEUUUDUMJDUB C7153 BG 2
+I00003320527286{IfaCEbDDk> USJ-FSS SEDAZIJIJEIGUMJDEB C-:=S BG SJ. .
+l0000032063286<ifacebnuk> USJ-FSS SEDAZGGGDUMJDU3 C->S BG 3
+J.UUGUGBEUISETESE<Ifacebuuk> USJ-FSS EEDAZGGGGUMJDGB CJS US 2
+I[10333320627286<IfaCEbDCIk> USJJ‘SS SEDAEUUUDUMJDUB [7:55 US 3
+IGUGDDSEUEETESE<Ifacebuuk> USJ-FSS EEDAZGGUGGMJDGB CJS US J.
+l00000320627286<LfaCEbDCIk> USJJSS SEDAZGGGDDMJDUB CVFS US J.
+J.UB301442593582€faCEbDDk> US-BESA E2H115434620000 3-H: XX 3
+I00001442533682<2facebnnk> US-BEEA E2H115434520000 3-H: XX 1
+I00001442593582<ifacebuuk> US-ﬂﬁﬁﬂl E2H115434520000 3-H: XX 63
+100001441553682<Lfaceb00k> USBEEA E2H115434EZDGUU 57H: XX 4
+lUBUUI442593582<2facebuok> US-Hﬁﬁﬂ E2H115434EEUUUU 3-H; XX 12?
+I00001442533682<2facebnnk> US-BEEA E2H115434520000 3-H: XX 17"
+I00001442593582<ifacebuuk> US-Sﬁﬁﬂ E2H115434EEDUUU 3-H: IX 23
+lGUﬂﬂlMlEBBESEﬁfaCEbDUI-Ck US-BEEA E2H115434520000 5-3-4: 30': 90
+lUBUUI442593582<2facebuok> US-Hﬁﬁﬂ E2H115434EEUUUU 3-H; XX EJ.
+I00001442533682<2facebnnk> US-BEEA E2H115434520000 3-H: X)! J
+I00001442593582<ifacebuuk> US-Sﬁﬁﬂ E2H115434EEDUUU 3-H: IX J.
+lGUﬂﬂlMlEBBESEﬁfaCEbDUI-Ck US-BEEA E2H115434520000 5-3-4: 30': 24
+l80001442593582<2faceb00k> US$660 E2H115434EEUUUU 3715C XX IS
+I00001442533682<2facebnnk> US-BEEA E2H115434520000 3-H: XX 9 [
+I00001442593582<ifacebuuk> US-Sﬁﬁﬂ E2H115434EEDUCU 3-251: XX J.
+lGUﬂﬂlMlEBBESEﬁfaCEbDUI-Ck US-BEEA E2H115434520000 5-3-4: 30': ELJ.
+l80001442593582<2faceb00k> US$660 E2H115434EEUUUU 3715C XX J.
+I00001442593682<2facebnuk> US-EIEEA E2H115434520000 5-H: X)! J r
+I00001442593582<ifacebuuk> US-Sﬁﬁﬂ E2H115434EEDUCU 3-251: XX 10 if?"
+_ r H H'rts CaseNotationCDunts lPHits £1 'T'i‘.  _ '" 
+E}; 1105 uf31950 remrds fuund Average:10050205.58 Count: 14373 Sum: 44456103682  Ilyﬁﬁﬂtl  
+
+TOP SECRET/ISWREL USA, FVEY
+
+TOP SECRETHSII'INOFORN
+
+Issues
+
+Questions
+
+  
+
+TOP SEC RET/I'SWNO FO RN
+

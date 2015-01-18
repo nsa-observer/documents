@@ -1,0 +1,444 @@
+é
+
+
+:0; .1
+
+ 
+
+This Briefing is Classified TOP SECRETIICOMINTIIREL USA, FVEY
+
+ 
+
+Analytic Challenges from
+Active-Passive Integration
+
+— 8324
+
+ 
+
+This Briefing is Classified TOP SECRETIICOMINTIIREL USA,FVEY
+DERIVED FROM: NSAICSS Manual 1—52, Dated: 20070108, Declassify On: 20320108
+
+ 
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20320108
+
+ 
+
+ 
+
+ 
+
+war. "5' aﬁon Technﬂlﬂgy m'
+
+    
+
+_ . Dire orate ITD]  ._ 
+_ , _ _ , _ , _ III-IIIIII 
+
+- Working definition: Active implant copies traffic and
+directs a copy past a passive collector
+
+— Issues arise when collector is also processing passive traffic
+simultaneously
+
+° Current: Implants on network infrastructure devices,
+not user endpoints
+
+- Two types:
+— Physical/link layer:
+
+° an implant copies and shapes an entire link (E1, STMl) without
+selection; passive midpoint does selection
+
+— Network layer:
+
+° an implant performs targeted copying based on IP or
+application parameters and exfils only the targeted traffic;
+passive collector may or may not do further selection.
+
+TOP SECRET/[COMINT/IF
+
+y ' ‘ ' "Ni-"ration Technology 
+ Dir torate I D] ‘
+
+I  Fiji- Iii-ﬁr“   -  
+
+ 
+
+o Link layer: BRAVENICKEL project (optical Muxes)
+
+— Copied link is not disguised, just routed on an unused layer 2 path that a
+passive collector can monitor
+
+— Selection happens in the passive collector
+
+o Network layer: APEX for HAMMERMILL (routers)
+
+— Router is tasked to select and exfil targeted traffic (perhaps all of a
+particular protocol)
+
+— Exfil is disguised (“munged", encrypted) to avoid detection
+
+— Passive collector looks for IP source/destination address in order to
+detect the traffic
+
+— If further selection/processing is to be done in collector, the exfil must be
+"unwrapped" (unmunged, decrypted)
+
+— Exfil can be directed to passive or to TAO by changing the destination
+address
+
+TOP SECRET/[COMINT/IF
+
+' "—**r. "'5' ation Technology
+
+ 
+
+Dire torate D} ‘
+
+ 
+
+TAO implants have collection parameters that are put
+on exfil received thru TAO backend
+— case notation, SIGAD, PDDG, classification/legal authority
+
+The passive collector has another set of these:
+
+— Site has a SIGAD, collector has a PDDG, the link it sees the
+traffic on has a case notation, and the access has a
+classification floor/legal authority
+
+Current backend repositories and presenters weren’t
+designed to expect TWO of these!!!
+
+Which gets put on the data??? And where?
+
+And (drum roll)  how do we solve this problem
+CONSISTENTLY across the enterprise?
+
+TOP SECRET/[COMINT/IF
+
+ 
+
+IPSEC VPN:
+
+First packets between the devices establish the parameters
+and encryption keys (IKE)
+
+Following this setup, “content” packets are encrypted and
+transmitted packet by packet (ESP)
+
+CES wants the IKE exchange and maybe the ESP (content)
+
+- TU RMOIL passive capability:
+
+Passive capability to detect IKE and ESP
+Metadata record produced for every IKE exchange
+IKE for targeted VPN forwarded directly to CES database
+
+For targeted VPN, real-time decryption is performed IF CES
+can provide a key in time
+
+Decrypted IP traffic is processed by TURMOIL apps for
+normal selection (VoIP, webmail, etc, etc)
+
+TOP SECRET/[COMINT/IF
+
+   
+
+"""Fu "'5' ation echnologr
+:: a‘si'"-=.-u'-L=.u"t
+
+   
+
+ 
+
+ﬁt
+
+    
+       
+  
+
+TURMOIL intercepts link
+
+IKE Full take
+Metadata
+
+   
+   
+ 
+
+Send IKE - Ask
+for Keys
+
+App metadata
+& content to
+
+other <:i
+
+repositories
+
+TURMOIL apps
+
+App metad
+
+ 
+ 
+
+Selected Decrypted mm
+Content N511”! Neg .............. ..,
+
+nil I
+V
+
+Full take IKE
+metadata to TOYGRIPPE
+
+—-—-
+
+ 
+
+ 
+
+TOP SECRET/[COMINT/IF
+
+"Mr. "'5" ation Technology i #7
+
+Dire torate I D} .
+
+ 
+
+° HAMMERMILL implant collects VPN traffic and sends
+
+“past” TURMOIL
+- Spin 15: All IKE for SIGDEV (TOYGRIPPE)
+- Beyond: All IKE plus targeted content
+
+- TU RMOIL detects traffic, unwraps TAO wrapper
+
+° Unwrapped IP packets are fed back into the front of
+the VPN processing
+
+TOP SECRET/[COMINT/IF
+
+    
+
+   
+ 
+
+' "'"rl "”' ation Technology ‘ WV
+
+: : Twat-h.  my E. A..-
+
+  
+
+ 
+
+ 
+
+HI
+
+       
+ 
+ 
+    
+ 
+   
+
+IKE Full take TAO
+Metadata Wrapped Exfil
+with TAO
+
+To other metadata
+
+reposhoﬂes
+
+ 
+
+-<:::::::::::
+
+TURMOIL apps
+
+ 
+
+ 
+
+ 
+
+Selecte Decrypted
+C tent
+
+ 
+
+I II
+VI
+
+Full take IKE
+metadata to TOYGRIPPE
+
+{—-
+
+ 
+
+ 
+
+ 
+
+  
+
+TOP 8 E CRE T/IC OMIN T/IF
+
+"Mr. "'5' ation Technology i Irv
+
+III-IIIIII  .
+
+ 
+
+Dire torate IT}
+
+° Now app streams (VoIP, webmail, etc) extracted from
+the tunnel carry two case notations
+
+- Which gets put into metadata records?
+
+- Both can be carried to PWV — but what happens after
+that?
+
+° Not to mention...
+— Metadata records about VPN being stored in TOYGRIPPE
+
+— CES database storing IKE exchange
+
+TOP SECRET/lCOMINT/IF
+
+[1:11 71.:
+I
+
+a ' ation technology
+I ‘ - -
+
+ 
+
+-.__--_ D
+
+- l
+
+- Current fields:
+
+— caseNotation — searchable field
+
+— sourcelD — “The SIGAD of the site that provided the data"
+- APEX proposed extension: add
+
+— Agent CaseNotation
+
+— Agent ID (UUID)
+
+— Passive CaseNotation
+
+- Which caseNotation goes into searchable field?
+— Passive records won't have the APEX block
+
+— TAO-collected records (returned via TAO, not passive) won’t
+have the APEX block
+
+TOP SECRET/lCOMlNT/IF
+
+ 
+ 
+
+"Mr. "'5' ation Technology ‘ 
+. Directo te ITD ‘
+
+ 
+
+: VI 1-“. 61-1,]-  -   I I ‘
+
+ 
+
+° Operational (or coming soon) shaping:
+— HAMMERSTONE - TCP traffic to FORNSAT, soon SSO
+- No TURMOIL involvement
+— BRAVENICKEL — one operational flow — past 880 site
+— APEX — VPN metadata by end of June
+
+° Independent decisions being made about how to stuff
+the double metadata into legacy databases
+
+TOP SECRET/lCOMINT/IF
+
+"er. "'5' ation Technology '4"
+
+Directorate ITD.
+
+ 
+
+. E=-'.".'-:.'-;'-L1«-'-.'- I I  I  
+I
+
+ 
+
+- How do you want to identify the source of your data?
+— Does CaseNotation still make sense in this new world?
+
+- You need to drive processes, systems, & databases
+toward a CONSISTENT answer
+
+° Transformed systems and tools (M ETAWAVE,
+Marina, etc.) need to be designed to do more than
+accommodate
+
+— do “the right thing” (whatever you the analysts think that is)
+— Let me guess — you want everything, don’t you?
+
+TOP SECRET/[COMINT/IF
+
+i
+
+
+   
+
+  
+  
+
+ 
+
+a  ' enaogy ' V" ' V‘ ‘
+Directurate ITD   .
+IIIIIIIIIIIII—
+
+. LIBS IOI’IS .
+
+ 
+     
+
+   
+  
+
+ 
+
+":a
+.p:
+
+ 
+
+nnagy
+
+' e _.
+ITD
+
+tarate
+
+irec
+
+ 
+  
+  
+
+a
+
+     
+

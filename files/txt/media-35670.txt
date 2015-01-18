@@ -1,0 +1,2343 @@
+UK SECRET STRAPl COMINT  
+S/lSl/IREL  
+
+gr 4 
+r a
+l‘.‘ ‘ ".  r
+ _ t
+'\ " ,1 t
+' I
+
+Mobile apps doubleheg‘QASS Angry Birds
+
+From 6 weeks to 6 minutes: Ion in a rapidly changing world
+
+Exploring and?) y Mobile Apps With BADASS
+
+*-
+
+   
+
+ 
+
+ 
+
+  
+   
+  
+
+GTE/GCHQ GASA/CSEC
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT  _‘~.
+S/lSl/lREL  ,'
+
+Coming up...
+
+ 
+
+1) BADASS - From 6 weeks to 6 minutes: protocols
+exploitation in a rapidly changing world
+
+2) We Know How Bad You Are At “Angry Birds":
+Exploring and Exploiting Leaky Mobile Apps with
+BADASS (OtH)
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+UK SECRET STRAPl COMINT  _\.
+S/lSl/IREL  
+
+BADASS
+
+ 
+
+' Protocols Exploitation at GCHQ
+
+' Mobile Applications — a challenge
+
+' BADASS - BEGAL Automated Deployment And
+Survey System
+
+- UNIQUELY CHALLENGED — Rapid deployment
+
+' SEM — more complex extractions
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+UK SECRET STRAPl COMINT if?" "$31
+
+GCHQ
+
+---
+QFDS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Events
+(BLACKHOLE)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Content
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+UK SECRET STRAPl COMINT  j~.
+S/lSl/IREL  
+
+   
+
+1303138597 6 62824 80
+Google-Prefid-COOKie 16 8df8675ed8762cb2 TDI-Scope
+7 Machine Route 12 192.168.0.51 HHFP—Hash 8
+4909f053 User—Agent 138 Mozilla/4.0 (compatible;
+MSIE 8.0; Windows NT 6.0; WOWG4; Trident/4.0;
+SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0;
+.NET CLR 3.0.30729) Host 17 news.google.co.uk Geo—
+IP—Dst 38 37.4192;—122.0574;MOUNTAINVIEW;US;6LLM
+Event—security—label 6 10007F Stream—security—label
+10 400023EOFF Source-Bearer 4 TEST
+
+|_|
+
+ 
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+GEE-
+
+<surveyRule>
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+ 
+
+ 
+
+<ruleName>Google-Prefid-Cookie</ruleName>
+<action>
+
+\
+\
+\
+<actionType>EVENT<lactionType>
+<eventFormat>PRESENCE<leventFormat>
+
+\
+<eventLogicalDestination >presence<leventLogicalDestination>
+
+\
+<presence EventldentifierType>Google-Prefid-
+Cookie<lpresence EventldentifierType>
+
+\
+<presence EventUseSourcelp>true<lpresenceEventUseSourcelp>
+<presence EventTlType>TDl<lpresenceEventTlType>
+
+\
+\
+<presenceEventGenerationType>MACHINE<lpresenceEventGenerationTy
+[39>
+<laction>
+<criterion8et>
+
+TDI (Config)
+
+I
+<fs pras ki ng >
+
+ 
+
+ 
+
+I l
+I V
+I
+<selectorType>string<lselectorType>
+
+I BEGAL (App)
+{ |
+<selector>; PREF=ID=<Iselector> ,’ V
+<bitMaskl> ’
+<caseSensitive>true<lcaseSensitive>
+<position >-l</position>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, PPF (Framework)
+1'
+<protocol Layer>APPLlCATlON_LAYER</protocol Layer>
+rd>
+
+<numSu bsequentPacketsToFonNard >0<lnumSubsequentPacketsToFonNa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+“an. “:56.
+
+"wan Act-[3:
+ f  I:
+i f: i I i: '
+I ’J "a if 
+y
+“in: a!” a;
+
+'\
+madam W um. am-
+
+The Good Old Days
+
+UK TOP SECRET STRAPlS NOPERSON
+TOBESTOREDININACCESSIBLEFOLDERINGTESHAREDDRIVE
+
+_  __\
+‘6 C H Q
+
+e—
+
+a?
+E
+.r
+
+5"
+¢F
+'1 6
+cm"
+
+ 
+
+3‘
+
+UPD-GTE
+
+Application:
+
+Beho Mobile Service
+
+0900
+
+This information is exemption under
+other email
+
+ 
+
+New TDI
+Process
+2010
+
+V08
+Datastore (x 2!)
+BADASS.
+Matrix reports
+Spreadsheets
+Etc..
+
+ 
+
+wan. nefa-
+
+- alum»: 
+
+Mobile Applications — Some Stats
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT ‘ I
+S/lSl/IREL '3
+
+Why?
+
+Many different platforms (iOS, Android, WP7,
+Blackberry)
+
+App store business model — everyone is writing
+software
+
+Much greater diversity of software
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+(Basket) Case Studies
+
+ 
+
+GMM — 18 months from analysis to deployment
+
+TDls — typical time from rule
+
+Comp'etion to deployment ~ 3  
+  tolearnmore I.  
+
+    
+
+ﬂour-approximate location
+to within 300m
+
+Search
+
+- A
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Intro to BADASS
+
+   
+
+BEGAL Automated Development / Deployment
+And Something Something
+
+Protocols Analyst
+
+ 
+
+ 
+
+ 
+
+RUIeS BEGAL AEG
+’ PCAP '—’ running on
+
+DB <—— TeSter 4—— software
+Results PPF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+Rules
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BEGAL AEG
+
+Web Front End HW '—> running on
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tester <— hardware
+R ules p p I:
+to TPS
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and mav be subiect to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+_Google mobi I emaps-DDDe-Bodv
+
+Baoktohﬁ lCoggtMsrum
+
+Rule Properties show
+
+RMeteﬂ EﬁtHM HML
+
+Testing status Produced an invalid result in the FKB ncap testJ and testing has been suspended
+
+Testing Progress (GTE) Ruleﬁheck oKBiptAP FKEKAP rice-Soak
+
+Deployment status DEPLOYED
+
+Deployment Progress SubﬂSIon HEl writy Dﬂy deployed in heartbeats:
+(TPS)
+
+Version definition ide
+
+HM YAML
+
+<surveyRulE>
+<ruleName>H7GDUglemuhilemaps—DDUe—Eody</ruleName>
+(action)
+<act10nType>EVEHT</a:tionType>
+(eventFormat>PRESENCE<XeventFDrmat>
+(eventhgicalDeatlnatinn>preaence<feventhgiDalDestination}
+(presencEEvantIdentltlerTypE>M_Ganglemnh1lemaps—DDDE—Endy</presenc
+<presenCEEventUseSDurceIp>true</presenceEventUseSDurceIp>
+<presenceEventTIType>TDI<fpresenceEventTIType>
+<presencEEventGenerat1nnTypE>MACHIHE</prasen:eEventGenaratinnTvpe>
+</a:tion>
+<criteriDnSet>
+(criterion)
+<fsprasking>
+<selectanvpe>str1ng<fselectarType>
+{selector>/glm/mmap<XselectDr>
+{bitHask/>
+{caseSenSitive>true<fcaseSen51tlve>
+{DDSitiDn}*1{/DDSltiDn)
+(protocnllayer>APPLICATIOH_IA¥ER</prntocnllaver>
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+wan. refs
+
+Logs: ShDW
+
+Packet Dump
+ide
+
+HEREIqu ASCII
+
+download as pcap
+Packet #1
+Timestamp: 2011-04-12 16:25:11
+
+Network layer: protocol=TCP sr6ip_ destip_fragoff=0
+
+0000: 4500 0177 6256 4000 4006 4659 0640 addS E..U.XE.E.HT.@..
+
+0010: 6155 6564 .U.d
+
+Transport layer; sroport=50323 destport=60
+
+0014: 6493 0050 9661 405b 5660 6650 6018 7676
+
+0024: 6hf7 0000 0101 0806 ffff 6224 2660 63h2
+
+Application layer
+
+0034: 504f 5354 20 2046 POST H 5:.EPPLICATIEIHIANYIFIJJDIMEIfglmfmmap
+0044: 5454 502f 3126 310d 0643 6f66 7465 6674 TTPH1.1..Cont6nt
+
+0054: 2654 7970 6536 2061 7070 6669 6361 7469 -Typ6: applicatl
+
+0054: Efﬁe ZfEZ 696E 6172 7906 0643 Efﬁe 7455 onfhinary..Con:6
+
+0074: 6674 2d46 6566 6774 6636 2036 3530 0d06 nt—Length: 650..
+
+0064: 486f 7374 3620 666f 6269 6665 6661 7073 Host: mohilEmaps
+
+0094: 2663 6669 6566 7473 2667 6f6f 6766 6526 .EliEﬂtS.g00glE.
+
+0064: 636: 6606 0643 6:66 6665 6374 6966 663a com..Connection:
+
+00b4: 204h 6565 702d 4166 6976 650d 0655 7365 KEEP*AliVE..USE C:APPLICATIDN|ANYITAGIDIIIKnUsereAgenm
+0064: 7226 4167 6566 7436 2046 6f76 6966 6661 r—AgEnt: Hozilla
+
+0064: 2f35 2630 2026 4669 6675 763h 2055 3b20 f5.0 (Linux: U:
+
+0064: 4166 6472 6f69 6420 3226 312d 7570 6461 Android 2.17upda
+
+00f4: 7465 313h 2065 662d 6762 3h20 4654 4320 t61: 6n-gh: HTC
+
+0104: 4465 7369 7265 2042 7569 6664 2f45 5245 Desire BuildeRE
+
+0114: 3237 2920 4170 7066 6557 6562 4b69 742f 27] Appl6H6hKiti
+
+0124: 3533 3026 3137 2026 4b46 5446 4626 2066 530.17 [KHTHL, l
+
+0134: 696h 6520 4765 6366 6f29 2056 6572 7369 ik6 G66kol VEIEl
+
+0144: 6f66 2f34 2630 204d 6f62 6966 6520 5361 an4.0 Mobile 56
+
+0154: 6661 7269 2f35 3330 2631 3720 2862 7261 fari£530.17 (bra
+
+0164: 766f 2045 5245 3237 2931: 2067 76.69 70 vo ERE27J; gzipD F:APPLICATIONIANYITAGIOICIkt‘inkr‘inlffffffff
+
+0174: 060d 0:
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT  "115‘
+S/lSl/IREL  
+\‘xagggiﬁ/n
+
+Things worth mentioning
+
+- Testing — increased confidence in rules produced by
+GTE
+
+° Training — can use web interface to educate, and to prevent
+common mistakes
+
+0 Deduping effort — knowledge of what has already been done
+° Became corporate TDI repo through back door
+
+° Devolved management of protocols — no one person has to
+oversee all of them
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and mav be subiect to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+UNIQUELY CHALLENGED
+
+ 
+
+r _ _ _ — _ _ _ — _ _ — — _ _ — —'I
+
+ 
+
+ 
+
+ 
+
+ 
+
+BADASS :
+(BEGAL > UNIQUELY :
+TDI CHALLENGED g
+
+Rules)  10G _______ __
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+w
+
+ 
+
+l—_—_—_—_———_—_—_—_l
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UNIQUELY CHALLENGED
+
+Active Teskings rill Current Teskings Taskings Pending approval Expired Taskings Remeued Taskings
+
+ 
+
+Rules to Task
+
+ 
+
+Rule Library Selected Rules -::=~ Destinations
+Shaw: All Rules Filter:
+
+lEIjqka-Uneme-Eledy-legin
+’lEIjqke-Lleer-Ceekie
+lEE-MeillEE_een-Ceel{ie
+’lEE-MeiLuid-Ceekie
+lEE-Neteeee_een-Ceekie
+lEE-Nte_meil_ueer—Ceol<ie
+lEE-Ueerneme-Uri
+’lEE-Ueerneme-UrLl
+lEE-Meilll33_een-Cool<ie
+’lEB-MeiLuid-Ceekie
+
+ 
+
+fer destination: I Remove Rule from Selection I
+
+ 
+
+ 
+
+ 
+
+Deploy to Corporate MVR?
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT ‘ I
+S/lSl/IREL '3
+
+UNIQUELY CHALLENGED
+
+ 
+
+One person has complete
+oversight of a technology from
+analysis to deployment —
+important for rapidly changing
+protocols
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT ‘ I
+S/lSl/IREL l:
+
+SEM — the future
+Developed by ICTR at GCHQ
+Complex events - More than just TDls
+Social interactions
+Geo
+
+Network Events
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+HUIE I'IltEl'S
+
+Browse the current rules using [nJone or more ﬁlters
+
+Rule Descriptor Descriptor Value
+
+ite m_olese idenlilypresent
+
+item_semiee Faeeloook
+
+any
+
+FD
+I‘ll
+m
+=
+=
+a
+
+AotorlDlreot | Faoebooklioentitytpresentlemail Ilogin_><tCookie [VAML edit] [VAML create like]
+AotorlDlreot|Faoebooklioentitytpresentlemail Ilogin_><tSettCool<ie [VAML edit] [MML create like]
+AotorlDlreot|Faoebooklioentity—presentlemailllxe—Cookle [VAML edit] [MMLcreete like]
+AotorlDlreot|Faoebooklioentity—presentlemailllxe—Set—Cookie [VAML edit] [VAML create like]
+AotorlDireot|Faoebooklioentlty—presentlemail|mohlle—emalI—Methoo—Body [MML edit] [VAML create like]
+AotorlDireot|Faoebooklioentlty—presentlemail|rnoiJl|e—m_user—Cookie [VAML edit] [VAML create like]
+i—‘totorlDireot | Faoebooklioentlty—presentlemail |reg_fb_gate—Set—Cookle [VAML edit] [VAML create like]
+i—‘totorlDireot | Faoebooklioentlty—presentlemail |reg_flJ_ref—Set—Cookie ['r'Fil'rlL edit] [VAML create like]
+i—‘totorlDireot|Faoebook|identity—present|uid—o_u5er|o_user—Coo|<ie [VAML edit] ["iI'FlMLcreate like]
+
+EHHHHHHHH
+
+_orignal_tdi_rule: FecehooktIDtI-I'I'I'Ptliookiecoiuser
+_orignal_tdi_tﬂle: FecehooktCUeertCookie
+_rule_l:reator: sjearro
+_ru1e_editor: khheldta
+_ru1e_st.atus: looked
+data_stream: HTTPcReq'ueet.
+extract:
+toontext: Cookie
+pattern: '[?:A|[ ;]]o_uaer=[[* :]+l'
+extraction: Direct
+item_ai:tr:ihut:i.on: Actor
+item_o1ass: identity—present
+item_scope: User
+item_service: Facehoo]:
+item_tech_conte:lrt: c_u5er—Coo}:ie
+item_tme: uid—c_u3er
+item_1uiiverse: service
+rule: ActorlDirectlFaoehoo}:|identity—prosentluini—o_user|o_u3er—Coo]:ie
+
+_._.1_ _-.1. nnnnnn
+
+This information is exemp rom ISC osure uner o sulec o exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+ 
+
+Over to Marty...
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT  _\.
+S/lSl/IREL  
+
+Coming up...
+
+ 
+
+Quick Overview: Ads and Analytics in the Mobile Realm
+°Ads (Mobclix, AdMob, Mydas)
+
+°Analytics (Dataflurry)
+
+°Updates to Android IDs
+
+°Windows Phone 7 User and Device IDs
+
+aﬁsﬁusing BADASS for Fun and Profit
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+          
+
+UK SECRET STRAPl COMINT 
+S/lSl/IREL 
+
+\‘a's‘iﬂmia‘ﬁ/
+
+ 
+
+Wm aﬂE/
+
+Ads and Analytics in the Mobile Realm
+
+Lru-n
+
+ﬂwmﬁdcmwd
+
+Q: Why bother looking at mobile ads and analytics?
+
+wﬂusinm 1 IF'htInt'
+nippElt'It'lo-prnt'nl
+
+A: Developers use them to make money!
+
+     
+
+Ads and analytics support the developer with:
+-App Development
+-User Experience
+-App Marketing
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+  
+ 
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Ads are used as a means of generating revenue for a
+developer
+° Advertisers need information about the device/user to
+properly target ads
+° Unlikely to see ads in an app that charges
+° Many developers are releasing dual versions of apps:
+ad-supported and paid
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+
+ 
+ 
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+’I ' _-'-.'._' 'Iﬂ
+
+smears... :3er
+
+Analytics are used as a means of generating usage metrics
+for a developer
+
+“Anonymous usage statistics"
+
+Present in both paid and free apps
+
+°Developer is presented with aggregate data for an app
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and mav be subiect to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Ads: Mobclix
+
+ 
+
+ 
+
+WSJ: Mobclix, the ad exchange, matches more than 25 ad networks
+with some 15,000 apps seeking advertisers. The Palo Alto, Calif.,
+company collects phone IDs, encodes them (to obscure the number
+), and assigns them to interest categories based on what apps
+people download and how much time they spend using an app,
+among other factors. By tracking a phone's location, Mobclix also
+makes a "best guess" of where a person lives, says Mr. Gurbuxani,
+the Mobclix executive. Mobclix then matches that location with
+spending and demographic data from Nielsen Co.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+     
+
+may mus 9M
+
+Ads: Mobclix
+
+&s=320x50 (ad size)
+
+&u={IMEI}
+
+&andid={Android ID}
+
+&V=2.3.0
+
+&ct=nu11
+
+&dm={Phone Name}
+
+&hwdm={Phone Hw Model}
+
+&sv={OS Version}&ua={User-Agent}
+cl=°‘.l=°
+
+&11=51.903699%2C-2.078062
+
+User-Agent:
+Host: ads.mobclix.com
+Connection: Keep-Alive
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+   
+
+Ads: Mobclix
+GET /?p={p1atform}
+&i={GUID} -GET re uest indicates latform and the device
+&s=320x50 (ad size) _ _ _ q p
+&av=1 . 4. 2 identifier
+&u={$MEI} _ -the order of the p argument in the GET can
+gagglgjp‘mmld ID} vary between platforms
+&Ct=r',ui1 -II is lat,long; not always present
+&dm={Phone Name} °Uses multiple URLs for activities:
+&th?={Ph°”e HW}M°deU -Ads: ads.mobclix.com
+&sv= OS Version . I .
+&ua={Use r _ Agent} -Analytics. data.mobclntcom/post/sendData
+&0=9 -Feedback: data.mobclix.com/post/feedback
+&ap=0 -Config: data.mobclix.com/post/config
+
+&11=51.903699%2C-2.078062
+&1=eniGB HTTP/1.1
+
+Cookie:
+
+User-Agent: m
+
+Host: ads.mobc1ix.com
+Connection: Keep-Alive
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT
+Sl/SIIIREL
+
+Cross-Platform Ads: Mobclix
+
+GET /?p={p1atform}
+&i={GUID}
+
+&s=320x50 (ad size)
+&av=1.4.2
+
+&u={IMEI}
+&andid={Android ID}
+&v=2.3.0
+
+&ct=nutt
+
+&dm={Phone Name}
+&hwdm={Phone HW Model}
+&sv={OS Version}
+&ua={User-Agent} *: WP? Mobclix SDK still in beta
+&o=0
+
+&ap=0
+
+&tt=51.903699%2C-2.078062
+
+&t=en_GB HTTP/1.1
+
+Cookie:
+
+User-Agent: m
+
+Host: ads.mobctix.com
+
+Connection: Keep-Alive
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+SUSUREL
+
+Cross-Platform Ads: AdMob
+
+GET /p/i/e2/9b/e29b1e7503a5b24b3e693ece2c887173.png HTTP/1.1
+
+Host: mm.admob.com
+
+User—Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; Hw
+iPhone1,2; en_us) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-
+20090617)
+
+X—Admob—Isu: 7355c9d9f7d1033e0fe3ee13513366ad69170013
+
+Accept: */*
+
+Accept-Language: en-us
+
+Accept—Encoding: gzip, deflate
+
+Cookie: uuid=81a66cc2cf3f554e02f089c04d8d4fcb;
+admobuu=48617727332748471264744376038126
+
+Connection: keep-alive
+
+    
+
+The isu can appear both as an argument in a POST or in the X-ADMOB-ISU
+HTTP header extension. The value itself is 32-40 bytes long.
+
+Hosts using this value consistently: r.admob.com, mm.admob.com,
+mmv.admob.com, and a.admob.com
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+      
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL ‘
+\xlﬁwnMM-K,
+
+Cross-Platform Ads: AdMob
+
+GET /p/i/e2/9b/e29b1e7503a5b24b3e693ece2c887173.png HTTP/1.1
+
+Host: mm.admob.com
+
+User—Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; Hw
+iPhone1,2; en_us) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-
+20090617)
+
+X—Admob—Isu: 7355c9d9f7d1033e0fe3ee13513366ad69170013
+
+Accept: */*
+
+Accept-Language: en-us
+
+Accept—Encoding: gzip, deflate
+
+Cookie: uuid=81a66cc2cf3f554e02f089c04d8d4fcb;
+admobuu=48617727332748471264744376038126
+
+Connection: keep-alive
+
+   
+
+The platform can be identified by the User-Agent string:
+- iPhone: AdMob—iSDK-20yymmdd
+- Android: AdMob—ANDROlD-ZOyymmdd
+- WP7: possibly AdMob—WlNDOWSPHONEY-ZOyymmdd; observed
+20yymmdd-WlNDOWSPHONE7-AldaritSuperAds
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+Sl/SIIIREL
+
+Cross-Platform Ads: AdMob
+
+POST /ad_source.php HTTP/1 1
+Accept: */*
+Content-Length: 277
+Accept-Encoding: identi
+Content-Type: applicati
+User-Agent: {User-agent
+Host: r.admob.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+é‘QJEZSFAQent} *: isu can appear both as an argument in a POST
+
+&isu={isu} or in the X-ADMOB-ISU HTTP header extension
+&ex=1
+
+&client_sdk=1
+
+&1=en
+
+&f=jsonp
+
+&z=1304518478
+
+&s=a14d248b5738462
+
+&v=20101123—WINDOWSPHONE7—A1daritSuperAds
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+     
+
+Q7)
+
+Cross-Platform Ads: Mydas
+
+ 
+
+GET /getAd.php5?
+sdkapid=35447 _ _
+&auid={Phone IMEI} Ar ument IPhone AndrOId WP?
+&ua={User-Agent}
+&mmisdk=3.6.3-10.10.26.
+&kw={keywords for app}
+&mode=live
+&adtype=MMBannerAdTop
+HTTP/1.1
+
+ 
+
+Host: androidsdk.ads.mp.mydas.mobi
+Accept-Encoding: gzip
+Accept-Language: en-GB, en-US
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+  
+ 
+  
+
+UK SECRET STRAPl COMINT  j~.
+S/lSl/lREL  
+
+Analytics firm Flurry estimates that 250,000 Motorola Droid
+phones were sold in the United States during the phone's
+first week in stores.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+awt reggae
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT ‘ __  casual;
+“maer W "-1! .113“
+
+Analytics: Dataflurry
+
+Managing User Privacy Expectations
+
+i—‘tlthuugh some users may  euneerned about their privacy-3 all data  gathered
+Etlllill'i}-'n‘it'}tltil}’. Du Pinch h-‘lediais awn website, the eumpany states that when Pinch
+J‘Lnaly‘ties  installed within an applieatit‘m, the tilllut-t-‘irtgttr inti‘m‘natinn is sent back
+rm eaeh applicatiun run:
+
+— A hardware identifier nut L‘unneetable to any personal infurn‘ratiun
+
+'l'he Illﬂdﬂl [if the phtme {:l—i'l'C: Samsung, LG, Druid E: and su rm} and
+
+uperating system [2.1, 2.3, and St: r111]
+The applications name and versinn
+'t'he result [11— a check to  if the device has been jailbruken
+
+The result at a eheek to see it- the applieatiun has been sttilen and the
+develuper hasn't been paid
+
+'lhe length of time the application was run
+
+The user’s lucatiun [if the user explicitly agrees in share it}
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+“an. mg.
+
+   
+
+Analytics: Dataflurry
+
+Chapter 1? Using ﬁnclrnicl Ar‘iaiyties
+
+- The gender and age (if the user {if the application uses Eacebunk
+{Tunnectl
+None uf this interrelation can identify the individual. Nu names, phune numbers,
+email addr  or anything else ci'msidered personally identifiable infurmatiuri 
+ever cullected. The information sent from applicatiﬂns, when it arrii. at the
+servers, is quicklv converted in aggregated repurts—unprocessed data is processed
+as quickly as possible. The aggregated reports show counts and averages, not angr-
+thing user speciﬁc. For instance, a developer can see the thiluwing int'iurn'Iatit'Jn:
+- The number of distinct users i-i-‘hn’ve. accessed the application
+The average length of time the applicatiun was used
+The per entage cit" phones using each operating I tent
+The percentage cit" each niudel ul— phone {36, FIGS, and se on)
+A breakdt‘n-sn of user lecatiuns by country, state, and major rnelrapuli—
+tan area ii‘er esample, 213,000 in LES ‘t, Tlﬁltl in New Turk state, Still] in
+New York C j.“
+The percentage cit" users (if each gender
+
+- The. per '. '_ (if users hi; "age bucket" 31—29, 3i]—39,and so uni
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+_   UK SECRET STRAPl COMINT   
+'  l . . S/ISIIIREL   
+
+Analytics: Dataflurry Example
+
+ 
+
+POST http://data.flurry.com/aar.donu11 HTTP/1.1
+
+Host: data.f1urry.com
+Proxy_C0nnectiom keep_auve POST always calls aar.do or aar.donull
+
+Content—Type: application/octet—st ream Host is always data.flurry.com
+Content—Length: 1395
+
+Connection: close
+
+  
+
+. . . . . . . . ..0?.n..IPF9LEEU8YW91CKDSIUQ..2.0.74..BBPIN574646979....0?......0?......device.m
+odel..Blackberry8900..device.manufacturer..Research In
+Motion..device.os.version..5.2.0.31..runtime.tota1.memory..169452204..storage.available.
+.524280..audio.encodings.,encoding=audio/amr encoding=pcm
+encoding=gsm..microedition.commports..USBl..microedition.configuration..CLDC—
+1.1..microedition.encoding..1508859_1..microedition.globa1.version..1.0..microedition.lo
+cale..en—
+GB..microedition.p1atform..BlackBerry8900/5.0.0.411..microedition.profiles..MIDP—
+2.1..wireless.messaging.sms.smsc.
++441234567890..wireless.messaging.mms.mmsc.&http://mms.mycarrier.co.uk/serv1ets/mms..jav
+ax.b1uetooth.LocalDevice..true.)javax.microedition.content.ContentHand1er..true.)
+javax.microedition.globa1.ResourceManager..true.&javax.microedition.io.SocketConnection.
+.true.)javax.microedition.io.file.FileConnection..true.
+$javax.microedition.location.Location..true.—
+javax.microedition.media.control.VideoControl..true..javax.microedition.media.control.Re
+cordControl..true.,javax.microedition.payment.TransactionModule..false..javax.microediti
+on.pim.PIM..true.
+$javax.microedition.sip.SipConnection..false.*javax.microedition.sip.SipServerConnection
+..false..javax.obex.0peration..true.*javax.wireless.messaging.MessageConnection..true.
+$javax.wire1ess.messaging.TextMessage..true.)
+jlarll§PﬁfMirraQiloﬁﬁssemﬁﬁéﬁgoer91is‘glbgﬁde‘ﬂ%l$éﬁr€e%domrd¥%formation Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+SHQHREL
+
+POST http://data.f1urry.com/aar.donu11 HTTP/1 1
+Host: data.f1urry.com
+
+Proxy—Connection: keep—alive
+
+Content—Type: application/octet—stream
+Content—Length: 1395
+
+Connection: close
+
+ 
+
+ 
+
+gag? 'gu'm'” 'IPthEEUSYlmSIUQ' '2'0'74' 'BBPIN574646979' ' ' '0? "" "0? "" '
+135326191 -BlackBerry: BBP|N574646979 -) 22406AC3 lame.
+ °Android: AND{AndroidlD, 16 hex bytes} ion-lo
+ -iPhone: lPHONE{iPhoneUD|D, 40 hex bytes} 5. Jan]
+ °Symbian: lD{SomelDNumber, 8-10 digit int} ction-
+msmmsn as:
+ °|MEI: |ME|{|ME|, 15 digit int} 4 J J 333cm
+
+ 
+
+ 
+
+ 
+
+$javax.wire1ess.messaoing.TextMe
+jﬁii§PFifMirraQﬂaﬁﬁ§eﬂ§ﬁi§tqgéirHgjiﬂibgaljaotﬁ‘ioweﬁéﬁrgﬁdom'oﬁnformation Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT    I 
+S/lSl/IREL     
+
+g.
+
+ 
+
+Analytics: Dataflurry Example (Device Metadata)
+
+POST http://data.fturry.com/aar.donutt HTTP/1.1
+Host: data.fturry.com
+
+Proxy—Connection: keep—alive
+
+Content—Type: application/octet—stream
+Content—Length: 1395
+
+Connection: close
+
+. . . . . . . . ..0?.n..IPF9LEEU8YW91CKDSIUO..2.0.74..BBPIN574646979....0?......0?......device.m
+odet..Btackberry8900..device.manufacturer..Research In
+Motion..device.os.version..5.2.0.31..runtime.totat.memory..169452204..storage.avaitabte.
+.524280..audio.encodings.,encoding=audio/amr encoding=pcm
+
+ 
+
+encodi _ I
+gig-m Handset IS RIM BlackBerry 8900 With 08 5.2.0.31 lo
+ device.model Blackberry8900
+
+ device.manufacturer Research In Motion av
+javax. n.
+-t."“e- device.os.version 5.2.0.31
+
+$Javax
+
+ runtime.total.memory 169452204 
+ storageavailable 524280 on
+
+ 
+
+ 
+
+ 
+
+..fatse..javax.obex.0peration..true.*javax.wiretess.messaging.MessageConnection..true.
+$javax.wiretess.messaging.TextMessage..true.)
+
+jﬁll§it1f8ﬁ§ﬁtitaﬁ§§e§t§iﬁﬁérﬁ(ﬂiiéigsamogﬁ‘tﬁélargé‘é'edomiofqinformation Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT    I _ 
+Sl/Sl/IREL    « .. 
+
+Analytics: Dataflurry Example (Device Metadata)
+
+ 
+
+POST http://data.fturry.com/aar.donutt HTTP/1.1
+Host: data.f1urry.com
+
+Proxy—Connection: keep—alive
+
+Content—Type: application/octet—stream
+Content—Length: 1395
+
+Connection: close
+
+Phone Number and Carrier Information
+wireless.messaging.sms.smsc +441234567890
+wireless.messaging.mms.mmsc
+http://mms.mycarrier.co.uk/servlets/mms
+
+ 
+
+ 
+
+ 
+
+ 
+
+cate..en—
+GB..microedition.ptatform..BtackBerry8900/5.0.0.411..microedition.profites..MIDP—
+2.1..wiretess.messaging.sms.smsc.
++441234567890..wiretess.messaging.mms.mmsc.&http://mms.mycarrier.co.uk/servtets/mms..jav
+ax.b1uetooth.LocatDevice..true.)javax.microedition.content.ContentHandler..true.)
+javax.microedition.gtobal.ResourceManager..true.&javax.microedition.io.SocketConnection.
+.true.)javax.microedition.io.fite.FiteConnection..true.
+$javax.microedition.tocation.Location..true.—
+javax.microedition.media.controt.VideoControt..true..javax.microedition.media.controt.Re
+cordControl..true.,javax.microedition.payment.TransactionModute..fatse..javax.microediti
+on.pim.PIM..true.
+$javax.microedition.sip.SipConnection..false.*javax.microedition.sip.SipServerConnection
+..fatse..javax.obex.0peration..true.*javax.wire1ess.messaging.MessageConnection..true.
+$javax.wiretess.messaging.TextMessage..true.)
+
+jﬁﬁ@%forirra‘€ibﬁ$§eﬂ§ﬁ|§talgoirﬁgiiﬂlbgaljeomweﬁéﬁrgegdom'oﬁnformation Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Analytics: Dataflurry Breakdown
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . . . . . . . . . . . . . ..*...—......DJPTCYNVVIV5H903RSIK.
+.1.1.1....IPHONEa7deb7b28a94c880f6f80f6b02bee4l6l
+$32122 ' Dataflurry App Metadata '1054De
+_ I I _ I I _ I Contains a unique identifier for the application and _ I Leve L
+restarter... . . _ _ --Wefa§9ﬂndﬂqﬁ.......__-*1
+started....From..comp1ete menu..Leve1..-10-
+
+19 . . . . . ..D . . . . . . . . ..Level
+
+restarted....From..pause menu..Birds
+used..3..Birds available..3..Level..-10-
+19..Attempts..l . . . . . . . . . . . . . . . . ..Level
+complete....
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+   
+
+UK SECRET STRAPl COMINT 
+S/lSl/IREL l
+
+Analytics: Dataflurry Breakdown
+
+. . . . . . . . . . . . . . . ..*...—......DJPTCYNVVIV5H9D3R5IK.
+.1.l.1....IPHONEa7deb7b28a94c880f6f80f6b02bee4161
+d157122...-./.....— . . . . . . ..device.modet.1..iOS4De
+vice . . . . ..l.1.1...-.wVH . . . . ..VG . . . . . . . . . . . . . . . . ..
+
+I flu-5A1 ﬁ-l—ﬂIA-l—a
+
+ 
+
+ 
+
+ 
+
+ 5']  Dataflurry Device Metadata 'L
+sta rted . Contains a unique identifier for the handset and l—
+19 , , , , , , properties of the handset
+
+ 
+
+restarted....From..pause menu..Birds
+used..3..Birds available..3..Levet..-10—
+l9..Attempts..l . . . . . . . . . . . . . . . . ..Level
+complete....
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+it)
+/‘
+
+Analytics: Dataflurry Breakdown
+
+   
+
+UK SECRET STRAPl COMINT 
+S/lSl/IREL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . . . . . . . . . . . . . ..*...-......DJPTCYNVVIV5H903R51K.
+llllllll TDHnNFn7doh7h7RnOArRRﬂFRFRQFGhm?bee416l
+d 157122 , App Analytics Metadata .1054De
+Vice- - - - Developer-specified application analytics - - - - - - -
+. . . . . . . . . . . . . . . . . . . . . . . ..LeveL started......Leve1
+restarted...,..Leve1 1 complete . . . . . ..Level
+started....From..comp1ete menu..Leve1..-10-
+
+19 . . . . . ..D . . . . . . . . ..Level
+
+restarted....From..pause menu..Birds
+used..3..Birds available..3..Leve1..-10-
+19..Attempts..l . . . . . . . . . . . . . . . . ..Level
+complete....
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Analytics: Dataflurry Device Metadata
+
+ 
+
+Device Hardware
+
+ 
+
+-device.model
+°device.manufacturer
+
+Phone Information
+
+-wireless.messaging.sms.smsc
+-wireless.messaging.mms.mmsc
+-IMSI
+
+-IMEI
+
+08 Information
+
+-build.brand
+-build.id
+-device.os.version
+-version.release
+
+Cell Network Metadata
+
+'network.mcc
+'network.mnc
+
+'networkJac
+
+'networkcellid
+'com.sonyericsson.net.cellid
+'com.sonyericsson.net.lac
+'com.sonyericsson.net.mcc
+'com.sonyericsson.net.mnc
+'CelllD
+
+-cellid
+
+'LAC
+
+'Lac
+
+'lac
+
+'MCC
+
+'Mcc
+
+'mcc
+
+'MNC
+
+'Mnc
+
+'mnc
+'com.nokia.mid.countrycode
+'com.nokia.mid.cellid
+'com.nokia.mid.networkid
+'com.nokia.network.access
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+cam
+
+UK SECRET STRAPl COMINT
+
+S/lSl/IREL
+
+ 
+
+Analytics: Dataflurry Device Metadata
+
+-devioe.model
+
+-device.manufacturer
+
+-device.os.version
+
+-devioe.software.version
+
+-build.brand
+
+-build.id
+
+-version.release
+
+-runtime.total.memory
+
+-storage.available.size
+
+-audio.enoodings
+
+-mioroedition.commports
+-microeditionconfiguration
+-microedition.encoding
+-mioroedition.global.version
+-microedition.|ocale
+
+-mioroedition.platform
+
+-microedition.profiles
+-wire|ess.messaging.smssmsc
+-wireless.messaging.mmsmmsc
+-javax.bluetooth.LocalDevice
+-javax.microedition.content.ContentHandler
+-javax.microedition.global.Resource Manager
+-javax.microedition.io.SocketConnection
+-javax.microedition.io.file.FiIeConnection
+-javax.microedition.location. Location
+-javax.microedition.rnedia.oontrol.VideoControl
+-javax.microedition.mediacontrol.RecordControl
+-javax.microedition.payment.TransactionModule
+-javax.microedition.pim.PIM
+-javax.microedition.sip.SipConnection
+-javax.microedition.sip.SipServerConneotion
+-javax.obex.Operation
+-javax.wirelessmessaging.MessageConnection
+-javax.wireless.messaging.TextMessage
+-javax.wirelessmessaging.MultipartMessage
+
+-pur.date
+
+-rel.date
+
+-pur.price
+
+-store.id
+-bluetooth.api.version
+-fileconn.dir.memorycard
+-fileconn.dir.photos.file
+-fileconn.dir.photos.name
+-fileconn.dir.private.file
+-fileconn.dir.videos.file
+-fileconn.dir.photos.name
+-fileconn.dir.tones
+-fileconn.dir.tones.name
+-mioroedition.chapi.version
+-microedition.io.file.FileConnection.Version
+-mioroedition.jtwi.version
+-microedition.m3g.version
+-microedition.pim.version
+-mioroedition.looation.version
+-suppons.audio.capture
+-suppons.mixing
+-suppons.reoording
+-suppons.video.oapture
+Nideosnapshotencodings
+-mioroedition.media.version
+-streamable.contents
+Nideoencodings
+-oom.sonyericsson.net.cellid
+-oom.sonyericsson.net.lao
+-com.sonyericsson.net.mcc
+-oom.sonyericsson.netmnc
+-mioroedition.timezone
+-microedition.hostname
+4ME|
+
+-I MSI
+
+-network.moc
+-network.mnc
+-network.|ac
+-network.cellid
+
+'CHHD
+
+-Cellid
+
+-cellld
+
+-LAC
+
+-Iac
+
+-Lao
+
+-MCC
+
+-Mcc
+
+-mcc
+
+-M NC
+
+-Mnc
+
+-mnc
+-commpons.maxbaudrate
+-com.nokia.mid.countrycode
+-com.nokia.mid.oellid
+-com.nokia.mid.networkid
+-com.nokia.network.access
+wersionrelease
+-country.code
+-defau|t.timezone
+-storage.available
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+or email
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Mobile Gateway HTTP Headers and Data Aggregators: DataFIurry
+
+POST /aar.do HTTP/1.0
+
+Connection: Keep-Alive
+
+User—Agent: SonyEricssonSBOOi/RSBA Profile/MIDP—2.0 Configuration/CLDC—1.1
+UNTRUSTED/1.0
+
+Host: data.flurry.com
+
+Accept: */*
+
+Accept—Charset: utf—S, iso—8859—1
+
+Content-Type: application/octet-stream
+Content—Length: 2327
+
+Via: infoX WAP Gateway V300R001, Huawei Technologies
+x—up—calling—line—id: +44
+
+x-forwarded-for:
+
+x-huawei-IMSI:
+
+ 
+
+- G .I'
+‘  «of, "
+
+   
+
+. . . . . . . ..%......KHFP142N4PHQBQ8R7XEH..1.5.0..IMEIIMEI 35808401-728365-6-
+
+65 ...!.
+$5....%...*....microedition.platform..SonyEricssonSSOOi/RBBA024....1.5.0...%.
+.N(.....;0 . . . . . . ..onChatMessageSent...(..onChatNewSession...Q.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on I or email
+
+ 
+
+    
+
+UK SECRET STRAPl COMINT  “11:5‘  a?!
+S/lSl/IREL   R3 
+
+“ 34mm  ' ”
+
+Analytics: Other Methods & Providers
+
+   
+
+Many apps send a beacon out when the app is started
+- Can be first- or third-party
+- Typicaly includes phone ID; can include IMEI, geo, etc.
+- Examples: Qriously, Com2Us, Fluentmobile,
+Papayamobile
+
+BB App World will geolocate users using MCC and MNC to
+determine what content to show in the app store
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Android ID Changes
+
+ 
+
+Typically, Android IDs have followed the format below:
+
+ 
+
+Seeing Android IDs starting to use the full 64-bits and
+decent distribution
+
+Special case: 9774d56d682e549c is a non-unique
+Android ID (related to a Froyo release bug)
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+UK SECRET STRAPl COMINT 
+S/lSl/IREL 
+
+Windows Phone 7 Device IDs
+
+ 
+
+App descriptions in the Marketplace will indicate whether a given
+app will use the account identifier or the phone identifier, both or
+neither.
+
+Device IDs are 20-byte values (40-byte hex strings) represented in
+the following ways:
+-A1A2A3A4ASBlB2BSB4BSC102C304CSD1D2D3D4D5 is the usual ASCII
+representation, typically in upper-case
+-A1A2A3A4-ASBlBZBS—B4BSClC2—CBC4CSD1-D2D3D4D5
+-A1-A2—A3—A4-A5-Bl—B2—BB-B4—BS-Cl—C2—CS—C4-C5-D1-D2—D3-D4-D5
+°Base64 encoding the integer value of the identifier. The resulting string
+looks like oaijKWxerOtcHCw8TFOdLT1NU:
+
+-Long number string (i.e.
+19621225364332011917921824118918419013320401482152118)
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+' lﬁtcf‘f.
+
+   UK SECRET STRAPl COMINT  
+I    S/lSl/IREL  
+
+a. Hammer” .
+
+Windows Phone 7 App IDs
+
+   
+
+All traffic from a Win7 handset appears to carry the GUID
+associated with the app in the HTTP Referer field.
+
+POST /Service/ServiceElleStyleTag.svc HTTP/1.1
+
+Accept: */*
+
+Referer: file:///Applications/Install/BB7CD1F6-BCDA-DF11-A844-
+00237DE2DBQE/Insta11/
+
+Content-Length: 243 . .
+Accept-Encoding: identity L If the Referer ﬁeld '5
+Content-Type: text/xml; charset=utf-8 formatted In this way only
+
+SOAPAction: “urn:ServiceElleStyleTag/GetPlaces -
+User-Agent: NativeHost for WP7 appsI It may be
+
+Host: styletag.e11e.fr possible to use this as a
+
+Connection: Keep-Alive mobile TDI against the
+Cache-Control: no-cache Live account
+
+ 
+
+<s:Envelope
+xmlns:s=“http://schemas.xmlsoap.org/soap/envelope/“><s:Body><GetP1acesIn
+Area><centerLat>51.899262428283691</centerLat><centerLong>-
+2.0722637176513672</centerLong><take>10</take><skip>0</skip></GetPlacesI
+nArea></s:Body></s:Envelope>
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Windows Phone 7 MSN Ads
+
+ 
+
+Apps that use MSN’s Mobile Ad service associate with
+the handsets Live account instead of the handset itself.
+
+GET /v3/Delivery/Placement?
+
+pubid=break001wp7
+
+&pid=USM3PB
+
+&adm=1
+
+&cfmt=text,image&sft=jpeg,png,gif&w=480&h=80
+
+&fmt=json
+
+&cltp=app
+
+&dim=le
+
+&nct=1&lc=en-GB&idtp=anid
+&uid=63388195C29A6lB3EA2E62EEFFFFFFFF HTTP/1.1
+
+Accept: */*
+
+Referer: file:///Applications/Install/DlCDZDCB-7C05-DF11-A844-
+0237DEZDBQE/Install/
+
+Accept-Encoding: identity
+
+User-Agent: NativeHost (or occasionally, User-Agent: windows Phone Ad
+Client (Xna)/5.1.0.0)
+
+Host: mobileads.msn.com
+
+Connection: Keep-Alive
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+   
+
+a UK SECRET STRAPl COMINT  
+. .— S/lSl/IREL  
+
+'R'QwQIess'W‘ I
+
+Windows Phone 7 Marketplace
+
+The WP7 Marketplace also associates with the handsets
+Live account, and can include enough metadata to
+indicate that the account is active on a handset.
+
+ 
+
+GET /v3.2/en-GB/apps? The “Store” arguments
+orderBy=downloadRank can help identify the
+&cost=paid&chunkSize=10
+
+&c1ientType=WinMobi1e%207 .0 handset manUfQCtu rer
+&store=Zest and the carrier
+
+ 
+
+&store=OZOGB
+
+&store=HTC HTTP/1.1
+
+User-Agent: ZDM/4.0; Windows Mobile 7.0;
+
+Host: catalog.zune.net (or origin-catalog.zune.net)
+Connection: Keep-Alive
+
+Cache-Cont r01: no-cache / cookie value for the
+Cookie: ANON=A=63388195C29A6lB3EA2E62EEFFFFFFFF&E=b - -
+NAP=V=1.9&E=ac2&C=WbPWetisthDSMaoaSylZlN44id48LnR account 355003th
+
+EVchOqud6DsOg&W=l with the handset
+
+This is the ANON
+
+  
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on I or email
+
+ 
+
+    
+
+UK SECRET STRAPl COMINT  “315‘
+SUSHREL t ;
+
+Hewmwe/
+
+ﬁeﬁusing BADASS for Fun and Profit
+
+   
+
+Medialytics traffic from Android uses MDS sum of the Android ID string
+
+Example: 200142d4dfcd56a9 = DEA9F697DEBOCBBBB433018A08723BF9
+
+POST /event HTTP/1.1
+
+ 
+      
+
+on: e
+nt: Apache-HttpCIient/UNAVAILABLE (java 1.4)
+
+- a --a‘ -A=CAFEBABE
+&s s=Android
+I&dev=dea9f697deb0cbbb8433018a0b723bf9 I
+mo e =goog e+ exus+ ne
+
+&app=77327b6f00e7aa0f452d9d3ac3e2d1618e0f3aaa
+&appv=2.5.3-BB70302
+&data=...
+
+onnec 1
+User-Age
+
+ 
+
+ 
+
+Odds are that they’re using something similar for iPhones....
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+“at; IL Acct-£9 wall lugs"
+
+ 
+
+ 
+
+g UK SECRET STRAPl COMINT A E;  6mg
+‘ g ‘--3  A! “La  
+
+:- S/lSl/IREL . I,“ if i 31.;
+“09"er W 103'” ism. aw” ""17 r .1 iﬁ
+
+ﬁﬁusing BADASS for Fun and Profit
+
+We can use the FKB PCAP testing step as a launching point for a fishing
+expedition...
+
+[LEQEEIAND}
+
+PI'EEEEEHIZE: identifier- V
+
+ v We use a very basic regular expression and
+restrict the traffic by requiring
+“Host: t.medialytics.com” (not pictured).
+Initially, we don't add a validator for
+sys=Android.
+
+f[a—fﬂ—9]"”l"
+directly after keywnrd
+
+ 
+
+This should give us traffic for Android, iPhone and any other platform they’re
+using MD5 sums against.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+    
+
+J ~~\
+ '-.\|
+w. il
+l. L r r
+
+ l,
+
+\\ a,“ /.'
+
+‘ﬁgmiw
+
+Abusing BADASS for Fun and Profit
+
+BADASS can show us packet dumps of traffic that completely matched the
+rule, and traffic that matched on the selector but failed on the rule.
+
+ 
+   
+
+Green indicates the selector hitting in the packet payload.
+
+    
+
+Yellow indicates where part of the rule hit. In
+this case, it’s the “Host: t.medialytics.com”
+validator and where a User-Agent extractor
+
+hit in the traffic.
+
+The lack of other highlighted regions indicates that there was no hit on the “dev”
+presence identifier...
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+e—
+
+l
+A“
+
+     
+
+31'
+:p
+:1
+
+[5"
+‘F 4.1
+6“}?
+“ﬁrm!”
+
+may m“ M
+
+Abusing BADASS for Fun and Profit
+
+ but that doesn’t mean that the dev identifier isn’t there! It’s just formatted
+differently.
+
+   
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+      
+
+UK SECRET STRAPl COMINT 
+S/lSl/IREL 
+
+“fairgmgeﬁ/
+
+Aldusing BADASS for Fun and Profit
+
+ 
+
+Using the FKB PCAP test in this manner has shown us
+that:
+
+!“
+
+Medialytic traffic can appear as form-data
+
+2. Our theory about iPhone traffic having a
+similar structure holds
+
+3. iPhone traffic is using the MDS sum against
+the UUID
+
+4. We can create a rule against the iPhone
+
+variant with ease (“sys=iPhone 08” vs.
+
+“sys=Android")
+
+and most importantly:
+
+ 
+
+1. Creativity, iterative testing, domain
+knowledge, and the right tools can help us
+target multiple platforms in a very short
+time period.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+   
+
+   
+
+ 
+
+ 
+
+   
+
+.-
+Ad M  MW JEN” wﬂung'htlnE
+mm: @i'ﬂ‘fliﬂ'ttll
+"_ I—Lll. .... I
+.-
+Dataflurry  _  I  M 431ch 
+. . " ' MW; imDmk-prnrnl
+(Flurry/Pinch Media  
+ wﬂusirlessviF'hune
+“ﬁfi'ﬂiliﬂ'itil
+Medialytics  _
+. sippDnek-prnrnl
+(Medialets) 
+— .
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

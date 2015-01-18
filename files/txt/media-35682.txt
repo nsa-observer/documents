@@ -1,0 +1,322 @@
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+   
+
+TRANSGRESSION Overview for P0d58
+
+831177
+7 Feb 2010
+
+DERIVED FROM: NSAICSSM 1-52
+DATED 08 JAN 2007
+DECLASSIFY ON: 20320108
+
+TOPSECRET/lCOMINTl/REL TO USA, FVEY
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+TRANSGRESSION Charter  “f5
+
+   
+
+Original:
+Discover, understand, evaluate, and exploit foreign
+
+CNE/CNA exploits, implants, command & control
+and exfiltration.
+
+Moving Forward:
+
+Provide cryptanalytic exploitation support for
+Network Defense (NTOC and lAD), 4th Party
+SlGlNT (82, NTOC and TAO), and Cyber (TAO,
+RA TWHARF) missions.
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+l—I—l—l—I
+
+L 531177
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+   
+
+- _— MAKERSMARK, RDP Lead
+1 CADP, 2 CMP (including DSD Integree), 1 RSE, 2 NIE, 2 STDP
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+Major Intrusion Set Efforts
+
+ 
+
+MAKERSMARK
+
+Enable WALKERBLACK/RED
+exploitation/improve collection
+
+CROWNROYAL, CROWNPRINCE,
+SHEPHERD, Zebedee
+
+BYZANTINE HADES
+
+NetDef RDP exploitation
+
+Trojan/beacon deobfuscation
+
+MAVERICK CHURCH PPTP, POPROCKS
+VOYEUR (GHOSTRECON
+
+Victim Exfil
+
+SSL Collection
+NIGHTTRAIN
+
+Decryption and processing of TAO exfil
+and passive collect
+
+SRE of malware
+SHADOWDRAGON
+
+RDP and password recovery
+
+FAA password recovery
+TOPSECRET/lCOMlNT/IREL TO USA, FVEY
+
+ 
+
+RECORDER
+
+Processing and decryption of passive
+collect
+
+PLAIDDIANAIINCAADAM
+Deobfuscation of passive collect
+TWE EZERS
+
+Processing and decryption of passive
+collect
+
+SNOWGLOBE
+
+Processing and decryption of passive
+collect
+
+WIDOWKEYISUPERDRAKE
+Future processing and decryption
+Numerous other watchlist intrusion sets
+
+Many one off customer requests — cyber
+cryptanalysis support
+
+ 
+
+ 
+
+Over 50 daily workflows
+SIGINT and POLARSTARKEY (NetDef)
+
+Fingerprints and Microplugins
+
+GUI Workflows and Webservice
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+ 
+
+XKS Webservice
+
+xksql and xkproc
+
+tfsql and tfproc
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+ 
+
+Victim _,
+
+LP _)
+
+"AO Op _)
+"UNINGFORK _)
+"RANSGRESSION _,
+SCISSORS _)
+PINWALE and Cloud
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+Where does our data
+come from?
+
+   
+
+XKEYSCORE
+UNINGFORK
+AO Direct
+
+N OC Internal
+
+N 00 External
+AFOSI/NCIS
+FBI
+Cyber Command
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+What Kinds of Data?
+(What is the plaintext)
+
+Command & Control
+RDP, RAdmin (heavyweight)
+many home-grown (lightweight)
+File ransfer
+Actor —> Victim (malware)
+Victim —> Actor (exfil)
+
+Email
+Credentials
+
+   
+
+ 
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+   
+
+1 - “Commercial”
+
+SSL/TLS
+SS:
+PGP
+
+PPTP
+
+RDP / RAdmin
+
+ 
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+ Wh at Ki n d s of E n c rypti o n ? f  * 
+ 2 — Other 
+
+Block Ciphers (DES, 3DES)
+Stream Ciphers (RC4)
+
+Masking
+short or long, fixed or variable
+
+Layered Encryption
+
+   
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+Crypt Examples:  a:
+Layered Encryption 
+
+BYZANTINE FOOTHOLD
+SSH
+Mod DES
+WIDOWKEY
+8mmeBweXOR
+Fixed Key mask
+3DES
+
+   
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+Crypt Examples:
+Setting Key
+
+Fixed (ADJUTANT VENTURE)
+
+   
+
+From Message Header (RAPTOR ROLEX)
+
+From Packet Headers (RAPTOR JOY/SAD)
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+(U/l FO U 0) Wh o to Co ntact? 
+
+   
+
+Email:
+
+Wiki:
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+Encodings
+
+   
+
+None (raw binary)
+base64
+Modified base64 (BYZANTINE RAPTOR)
+A permutation of the 64 base64 characters
+HTML Character encoding (ADJUTANT VENTURE)
+e.g., 0x1278cd = '&#18;&#120;&#205'
+
+TOPSECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+

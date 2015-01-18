@@ -1,0 +1,769 @@
+‘ECRETIICOMINT/IREL TO USA, FVEY -
+
+  
+
+MISSIQN
+CAPAE|L|T1ES
+
+ 
+
+HIDDENSALAMANDER
+
+Alerting and Characterization of
+Botnet Activity in TURMOIL
+
+Briefers: O
+—
+
+SECRET/[REL TO USA, FVEY MISSION
+
+(SI/REL) High Level Goals
+
+0 Detect (all!) botnet activity on our sensors
+
+- Alert only when activity is relevant and time-sensitive
+
+» Involves entities/commanding of high interest
+» Involves protected areas
+» Could initiate defensive action
+
+- Generate metadata always
+» Aids in attribution and retrospective analysis
+
+- Enrich metadata as much as possible
+» Alleviate the need for in-depth knowledge of actors or malware
+
+ 
+
+(S/lREL) Approach
+
+ 
+
+ 
+
+“Snort” Signatures
+Specialized Algorithms
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Analyze
+Packets
+
+ 
+
+ 
+
+MISSI ON
+CAPABLI ES
+
+ 
+ 
+
+  
+   
+   
+
+Track (32 (IP and
+HIDDENS “ Process Payload SID) over a
+
+for “targE‘tS”. period of activity,
+BotlDS. channels. document bots
+
+nicknames, add "i NEWS"
+Light directionality...
+Decrypt
+(future)
+
+Summarize
+Activity
+
+ 
+
+ 
+
+Repon
+Post Gather Track over Overall
+Process Spec'al'zec‘ Event's time
+
+knowledge “Event”
+
+ 
+
+ 
+
+IDecode,
+Detect APP'V Report
+
+. generic
+Encryption,  Knowledge Instance
+
+ 
+
+  
+
+ID ILH‘HIIUHJI
+
+  
+
+Apply 5-tuple
+metadata, SID,
+SIGAD, 
+
+SECRET/[REL TO USA, FVEY
+
+SECRET/[REL T0 USA, FVEY MISSIQN
+
+(SI/REL) Concept/Idea Behind It
+
+ 
+
+CLOUDSHIELD M ' I Itmy
+FIREWALL Network
+Bloc T
+
+Packets
+
+ 
+
+I :
+: Commands
+Bot Arm ’
+
+.0 Discovery
+
+ 
+
+SECRET/[REL TO USA, FVEY MISSION
+
+(SI/REL) What we offer today
+
+0 An extensible botnet processing service
+- Capabilities are added via configuration or specialized processors
+
+0 The ability to track events spanning across 5-tuples
+
+- Enables production of Event Summaries and Enrichment
+9 Geographical dispersion
+
+- SIGINT perspective, currently at SCS sites and MHS (prototype)
+O TURMOIL augments Defensive Efforts two fold
+
+- Early warning Tips for defensive action (to NETEZZA, then
+TUTELAGE)
+
+- Metadata for characterization and to support attribution (to
+GMPLACE and RONIN, then CYBERCLOUD and MARINA).
+
+ 
+
+SECRET/[REL TO USA, FVEY MlSSIQN
+m
+
+(SI/REL) Progress over the last year
+
+0 Advancements
+
+- Zeus RC4 encrypted processing flow
+- Base64 decoding e.g. BEB v1.8 target IP extraction
+
+- Limited Metadata Enrichment
+» Case Study to support QBOT activities
+- Deployment to F6 sites and a second system at MHS
+
+- Established ASDF to GMPLACE for GHOSTMACHINE analytics
+- Established flow to NETEZZA (TURQI) for validation
+
+- Defined Botnet Lifecycle Model for categorizing enrichment
+metadata
+
+ 
+
+SECRET/[REL TO USA, FVEY MISSION
+
+(S/lREL) Current Development Focus
+
+0 Attain analyst validation
+- Ingest into GM and creating Views
+- End-to-end dataflow validation
+
+0 Improve Metadata Enrichment capabilities
+- Define generic model to create metadata PCRE rules
+- Refine Enrichment Model for Malware
+
+O Improvements to function as a framework/service
+- Greater focus on metadata enrichment
+
+0 Provide dynamic AEG tasking
+
+O Re-factor Tasking and Tips to fit botnets
+- Update Tip format to closely align with extracted data
+0 Add specialized packet processors
+
+- Mariposa
+- Looking for opportunities
+
+ 
+
+SECRET/[REL TO USA, FVEY MISSION
+
+(SI/REL) Future Work
+
+0 Initial development
+- Initiate promotion (to XKS) or collection flows
+- Re-factor SEG to make Metadata Enrichment more flexible
+
+- Redesign the Analytic to provide more valuable Summaries
+» Possibly detect point of origin of Herder commanding
+
+0 Biggest Challenges
+
+- Currently have no means to track peer-to-peer botnet activity
+
+» May look to current TURMOIL Fast Flux capabilities for ideas
+- Encrypted bots defeat most attempts at tracking and reporting
+
+» Possible candidate for TU RMOIL Re-lnjection flow
+
+ 
+
+    
+   
+ 
+      
+
+MiSSI ON
+CAPABILI ES
+
+(TS/ISIIIREL) Current Implementation
+
+Attack Events:
+
+  
+      
+  
+    
+ 
+         
+  
+   
+
+FSPF f d TU RMOIL
+orwar s , — —
+. ASDFReporter ‘ .
+packets to AEG s . im-
+based on tasking \\  t
+
+\
+\
+\
+
+FirstStagePacketFilter
+
+Ennched
+
+BotDiscoveryAeg BotDiscoverySeg BotAnalytiCSeg
+
+ 
+
+MariposaAeg '
+Low Latency
+
+A:
+
+Tar-Q!
+  \ mmabothuerylnterface
+
+I HIDDENSALAMANDER n Existing I External Systems
+Components Components
+(S/lREL FVEY)
+
+ 
+
+  
+   
+   
+
+TOP SECRET/lCOMINT/IREL T0 USA, FVEY
+
+TOP SECRET/lCOMINT/IREL TO USA, FVEY MISSION
+
+(TS/ISl/IREL) The Components
+
+0 BotDiscoveryAeg
+- Not A Snort based Application.
+- Ingests translated Snort signatures and tasks the FSPF.
+- Emulates Snort behavior as closely as possible.
+0 RC4Aeg/RC4Seg
+- Highly specialized components aimed at detecting RC4 Encrypted Zeus activity
+0 MariposaAeg (Currently in development)
+- Highly specialized — detects and decodes a particular encoding.
+Q BotDiscoverySeg
+- De-dups on SID/5 Tuple for Tipping and MARINA.
+- De-dups on SID/IP/Port for BotAnalyticSeg.
+O BotAnaIyticSeg
+- Summarizes Event Metadata from BotDiscoverySeg.
+- Provides metadata to RONIN.
+O CIDR Block/SID Filter
+- Filters Tip Events based on IP information OR SID.
+O cbiot
+- Translates Tip messages to adhere to TRAFFICTHIEF schemas.
+
+ 
+
+SECRET/[REL TO USA, FVEY MISSION
+
+(SI/REL) Current Dataflow
+
+     
+   
+
+   
+         
+   
+   
+
+NETFZZA—’ 
+
+,\ _ W
+
+   
+
+i \_
+
+Passive
+Collection
+
+. ummarized
+
+_.. Ermal'ze ".' consume
+
+aggregate
+write
+
+GMPLACE
+
+TOP SECRET/lCOMINT/IREL TO USA, FVEY MISSION
+CAPABILIT‘IEE
+
+(TS/ISIIIREL) Prototype View - POUNDSAND
+
+PDUNDSAND Prototype Incubator
+
+ﬂuenea
+
+ 
+
+Welcome Bullet Famlly 5‘
+
+  
+  
+  
+
+     
+
+Emma Fall‘i'ieE ADDRESS oounmv ClT‘I" leLY ROLE
+Fammess LT 1llILFlIUL‘E. Denbet Central Channel 2
+gamut - ID ASSULM’MANIW Denbet ContrelChannel
+MOSCOW Dentist Control Channel _
+Time Frame
+' — L‘rr TRIPDLI Donbut Contrnl Channel 1
+Country Bots Target; Details Ds1ss1isn Address
+' mass munmv cmr FMlLY ROLE
+BEIRUT DUHDUT EDT ‘2
+EEIRUT Denbut Bet
+ASHGABAT Denbet Bet
+EEIRUT DDF‘IDDI EDI
+\ 33"” , BEIRUT Denbet Bet
+ASSUMVMANIW Denbet Bet
+BAGHDAD Dunrmt EIDt _
+AMSTERDAM Denbet Bet
+ASHGABAT Denbet Bet
+
+ 
+
+| <
+
+ 
+
+MISSI DN
+CAPABIL! as
+
+(TS/lSIIIREL) HIDDENSALAMANDER Outputs
+
+--_
+'T'
+
+ urn I
+
+" ' TLIrnaboui: Queryinterface
+
+Date SID Signature
+
+ 
+
+Wm? What else can we tell today?
+
+“\ﬁﬁQEl OLE of the IPs involved: Is it a Bot Controller? Bot Victim? Target?
+elf; 1;. Who I e Target of this activity? (for certain botnets)
+m- Who has th . Bot Controller been commanding (over time)?
+HL n. I x POUNDSAND
+
+What botnet milies are active in this region? How active?
+
+ 
+
+ 
+
+What? I
+What Will we tell tomorrow?
+
+What “Attack” commands are active that we could use to exploit?
+
+What type of botnet activity is seen in this region? For this bot family?
+- (e.g. Increased “Infections” in US, or, most BadBot activity is “Reconnaisance”)
+
+What actual [sen/er, filename, command, IP, url] did they send/grab/connect to?
+
+ﬁr (P Q
+r 4? ~53 c ‘3
+up is {3-
+5? @412 ﬁg (1 $9 1;!“ ‘3'?
+'9 39 0° 65° v @3
+d} «e 090 6"
+
+TOP SECRET/lCOMINT/IREL TO USA, FVEY
+
+ 
+
+SECRET/[REL T0 USA, FVEY
+
+MISSI ON
+CAPAEiLin as
+
+(SI/REL) Current Model for Metadata Enrichment
+
+0 tional Pa load Details
+
+Configuration
+
+lnfectionlExploit
+
+Recon naimnce
+
+C&C Communication
+
+Di ust Bot Name
+Redirect Traffic
+Flush DNS
+Mode
+Connect to Server
+Unknown
+e
+
+Download
+DNS I P/ Host Resolve
+Di Networklnformation
+Di lnfon'nation
+NetworkScm Enable
+NetworkScm Disable
+Harvest
+Di sconnect
+Connect
+
+In
+
+Out
+OJrrent Bot Status
+Remove Bot
+
+ermi nate Bot
+Execute File
+DDOS
+File
+Excecute Commawd
+
+Execute Code
+
+Server l P
+
+Server | P
+Server | P
+Record (multi e)
+
+Address
+Address
+
+Server | P
+Server | P
+
+(
+File Name
+Command
+Command
+
+ 
+
+SECRET/[REL TO USA, FVEY MESIQN
+m
+
+(SI/REL) “Categorizing” Existing Signatures
+
+  
+ 
+
+9‘ Most popular bot signature analyst repositories:
+- BLUESMOKE: Snort Rules
+- XKEYSCORE: Fingerprints
+
+ 
+
+o Requires author to add extra detail to the existing
+signature
+
+0 Requires front end tools to add extra fields to their
+GUls for analyst input
+
+- Suggested that the Lifecycle Stage Group and Stage
+Instance be required for submission for botnet signatures
+
+- Other attributes may be optional for submission
+
+ 
+
+SECRET/[REL TO USA, FVEY MISSION
+CAPABILI‘HEE
+
+(SI/REL) Bot Characterization Proposed =low
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, a", -  [ pm 60
+[HIDDEN
+SA LAMAN DE R]
+Signatures Translated Map-Raducéd JOb
+Tasked by TURMQLLH EesuﬂsAnauahL
+Analyst Search
+
+ 
+
+Metadata Produced
+
+ 
+
+ 
+
+Result vailahle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and Consumed
+CYBERCLOUD
+_ _ produces analytic GoGadget
+Signatures and include generate bot protocol incoming data results from
+required metadata for tasking and accept sources. RONIN CYBERCLOUD
+Sme'33'0n taSkinQ ffom provides immediate and detailed
+rePOS'tor'eS- hardware metadata for the
+characterization info. analyst
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ul/FOUO MISSIQN
+CAPABILITI ES
+
+ 
+
+ Questions???
+
+ 
+
+TOP SECRET/lCOMINT/IREL T0 USA, FVEY MISSION
+m
+
+Example
+
+0 Command Found:
+
+20;3000;10;0;0;30;300;20;20;2000;3000#ﬂ00d http !#1#XK3 28938090
+
+0 How alert describes it:
+IP SRC/DEST: 1.1.1.1 [2.2.2.2
+PORT TO/FROM: 234/123
+SlGAD/CASN:
+SID: 12345
+SIGNATURE NAME: BEB:B|ackEnergy_DDoS_X_of_Y
+TIME: 00:00:00
+
+0 How summary describes it today:
+
+IP SRC 1.1.1.1 PORT: 123 ROLE: C2]
+IP DEST a.a.a.a PORT: 23 BOT]
+b.b.b.b ..
+
+2.2.
+8.6mm-
+
+SID: 12345
+
+  
+ 
+
+SIGNATURE NAME: BEB:B|ackEnergy_DDoS_X_of_Y
+TIME: 00:00:00 — 00:00:10
+
+FAMILY: BEB
+Total Events: 51 -
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, FVEY MISSION
+CAPABILITIES
+
+Example
+
+0 Command Found:
+
+20;3000;10;0;0;30;300;20;20;2000;3000#f|00d http—E1#XK3 28938C90
+
+Q How Summary describes it (tomorrow):
+
+IP SRC 1.1.1.1 PORT: 123 [ROLE: 02]
+IP DEST a.a.a.a PORT: 234 [ROLE: BOT]
+
+b.b.b.b ..
+
+z.z.z.z 
+
+SIGAD/CASN:
+SID: 12345
+SIGNATURE NAME: BEB:BIackEnergy_DDoS_X_of_Y
+FAMILY: BEB
+TIME: 00:00:00 — 00:00:10
+
+Total Events: 51
+CONFIGU BOTID: xK3 28938090
+
+;0;0;30;300;20;20;2000;3000#ﬂood http
+
+  
+   
+ 
+
+A ACK / TARGET:
+
+ 
+ 
+
+ 
+
+TOP SECRET/lCOMINT/IREL T0 USA, FVEY MiSSIQN
+CAPABILITIES
+
+Example #2
+
+0 Command Found:
+
+JOIN :#marCh2#<crlf>:TESTlNG1.Virus.HERE 332 virus-squadlr #marCh2# :!NAZELmarCh2
+http://_lpage/file.jpeg aFile.exe 1<crlf>
+
+How alert describes it:
+We don’t want alert! It’s insigniﬁcant for defensive activity!
+
+0 How
+IP 8
+IP D
+
+  
+  
+
+SIGN S Fingerprint-derived)
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA, FVEY MISSION
+CAPABILITIES
+
+Example
+
+0 Command Found:
+JOIN :#marCh2#<cr|f>:TESTING1.Virus.HERE 332 virus-squadlr #marCh2# :!NAZELmarCh2
+http:/_/page/file.jpeg aFile.exe 1<crlf>
+Q How Summary describes it (tomorrow):
+IP SRC 1.1.1.1 PORT: 123 [ROLE: C2]
+IP DEST a.a.a.a PORT: 234 [ROLE: BOT]
+b.b.b.b ..
+z.z.z.z 
+SlGAD/CASN:
+SID: unknown!!!
+SIGNATURE NAME: botnet/quantumbot/possible_download1 (XKS Fingerprint-derived)
+FAMILY: |RC_GEN
+TIME: 00:00:00 — 00:00:10
+Total Events: 3
+CONFIGURATION / BOTID INICK
+C&C COMMS/ CONNECT / CHA
+C&C COMMS/ CONNECT / SER
+
+  
+ 
+  
+
+ 
+

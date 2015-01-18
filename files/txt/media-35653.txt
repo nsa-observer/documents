@@ -1,0 +1,125 @@
+SIDToday - Expanding Endpoint Operations
+
+DYNAMIC PAGE -- HIGHEST POSSIBLE CLASSIFICATION IS
+TOP SECRET fl SI fTK If REL TO USA AUS CAN GBR NZL
+
+(Ul/FOUO) Expanding Endpoint Operations
+
+FROM: COL _ USA
+
+Deputy Chief, Remote Operations Center (8321)
+Run Date: 09/17/2004
+
+(Si/SI) Endpoint operations actively subvert systems that create, store, or manage
+information -- computers, peripherals, and telephone switches -- in order to directly
+retrieve data of intelligence value or achieve other operational ends. Tailored
+
+10f3
+
+SIDToday - Expanding Endpoint Operations
+
+Access Operations (TAO) develops and employs technologies and techniques for
+endpoint operations.
+
+(S) Endpoint operations have resulted in reporting from all SID Product Lines and
+regularly assists SIGINT development, midpoint collection, and cryptanalysis and
+exploitation efforts. Endpoint collection also directly supports CIA andJSOC*
+counter-terrorism operations.
+
+(U/lFOUO) TAO is expanding endpoint operations: increasing the number and
+diversity of targets and building a more scalable and robust endpoint operations
+infrastructure. A part of this expansion is the acquisition of a new endpoint
+access remote operations center (ROC) that is capable of managing and
+conducting endpoint operations on a scale that will dramatically expand collection
+available to our internal and external customers.
+
+(S/lSl) This new ROC facility is scheduled to begin coming on line in the summer of
+2005. It will be located on the 3rd ﬂoor of the R&E Building. As well as the growth
+reﬂected in the table below, this expansion will provide a main operations ﬂoor, a
+Technology Demonstration Center, and a training facility. The main operations ﬂoor
+and operations break-out rooms are used to conduct initial exploitation operations
+and sustained collection that involves human command and control of the
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+operation.
+
+| Current ROC | - | ROC 2005
+I 5 I Operations Break-out Rooms I 13
+
+I 2 I Operations Teaming Areas I 5
+
+I 5 1 I Server Racks I 170
+
+I 120 I Personnel I 2 1 5
+
+| 17,000 | Usable Square Feet | 40,000+
+
+ 
+
+(S/lSl) Building the operations ﬂoor and increasing the number of break-out rooms
+will enable us to grow from the current average of 20-25 of these operations per
+day to over 100 per day and will facilitate the integration of NSA/CSS computer
+network operations and real-time customer support. Sustained collection involving
+automated implants pushing collected data from targets to the ROC as well as
+voice and geolocation collection are managed from the Operations Teaming Areas.
+The increased capacity in this area will support a growth from managing an
+average of 100-150 active implants today to simultaneously managing thousands of
+implanted targets. The increased personnel capacity will support this net growth in
+operations tempo and will allow the integration of TAO's Requirements 8: Targeting
+Division alongside the ROC's operators in order to better synchronize target
+development and efﬁciently plan and execute endpoint operations.
+
+(S/lSl) The new ROC is but one facet of a much broader endpoint access expansion
+program. Other elements include exporting endpoint access operations to the
+RSOCs, dramatic improvements in automation, entirely new classes of hardware
+and software implants, more modular and standardized tool designs, and robust
+technology sharing and coordinated development with our First and Second Party
+partners. Overall growth of endpoint operations depends on the synergy of all these
+elements to balance endpoint target development capabilities, mission
+
+SIDToday - Expanding Endpoint Operations
+
+management processes, and efﬁcient ﬂow of collected data to production
+
+organizations.
+
+ 
+
+*{U} Notes:
+
+JSOC = Joint Special Operations Command
+
+"(U/lFOUO) SIDtoday
+articles may not be
+republished or
+reposted outside
+NSANet without the
+
+consent of SD 121
+
+ 
+
+DYNAMIC PAGE --
+HIGHEST POSSIBLE
+CLASSIFICATION IS
+
+TOP SECRET // SI / TK
+// REL TO USA AUS
+CAN GBR NZL
+DERIVED FROM:
+NSA/CSSM 1-52,
+DATED 08 JAN 2007
+DECLASSIFY ON:
+20320108
+

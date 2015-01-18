@@ -1,0 +1,977 @@
+TOP SECRETIICOMINTI/REL TO U ‘
+FVEY
+
+  
+
+  
+
+TOP SECRETIICOMINTIIREL TO USA,
+
+ 
+
+TOP SECRET/[COMINTIIREL TO USA,
+
+Before Ti‘fTELAGE...
+
+AFTER
+
+ 
+
+INTRU SI ON
+: Manual Analysis of Reporting Logs Reporting Process
+: r ' Y ' W
+TIM E 
+
+   
+
+BEFORE E
+INTRUSION : MON TUE WED THU FRI
+
+TOP SECRET/[COMINTIIREL To USA, 2
+
+ 
+
+TOP SECRETI/COMINTl/REL TO USA,
+FVEY
+
+Mhe'l'm'EEnlIEEu .
+
+' AFTER
+
+I INTRUSION
+
+I
+Adversary Malware Design Pﬂmusal Analysis of Reporting Logs Reporting Process
+'| | I
+
+F I F W W W W
+
+   
+
+PLAN DEPLOY ATTACK
+
+ \;/ Sm
+
+J
+
+ 
+
+TIME
+
+ 
+
+ 
+
+(9-)
+
+    
+   
+
+Adversary Malware
+Dec
+
+BEFORE;
+
+INTRUSION : MON TUE WED THU FRI
+
+TOP SECRETIICOMINTIIREL To USA, 3
+
+ 
+
+TOP SECRETI/COMINTIIREL TO USA,
+
+With TUFylEiELAGE...
+
+AFTER
+
+INTRUSION
+
+Adversary Malware Design Process
+
+     
+  
+
+DEPLOY
+
+ 
+
+TIME
+
+ 
+
+  
+
+Discovery of
+Adversary
+Tools & Tradecraft
+
+T-T-l
+
+   
+ 
+ 
+
+Adversary Malware
+Decision Loop
+
+   
+
+ 
+  
+
+Tailored Countermeasure Discovery of
+Developed & Deployed Adversary Intentions
+
+l
+Countermeasure Development B E F O R E
+INTRU S ION
+
+ 
+
+TOP SECRETIICOMINTIIREL To USA, 4
+
+ 
+
+TOP SECRETI/COMINTIIREL TO USA,
+
+Application giYCapabilities
+
+   
+    
+
+Internet
+
+DOD Beale 
+
+Gateways
+
+  
+ 
+ 
+ 
+
+
+
+I -- Columbus I    r
+chkam San Antonio  II: 
+San Diego .- - - 'I '
+
+ 
+
+4 BACK TO CAPABILITIES TOP SECRETIICOMINTIIREL TO USA, 5
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGE Fﬁ‘ission Flow
+
+ 
+ 
+  
+ 
+
+Discovery & :
+Ch cterization of 5
+@ersary Tradecraft '
+
+         
+ 
+  
+ 
+
+® Foreign A a -
+
+Launche
+
+ 
+     
+     
+ 
+ 
+  
+  
+ 
+ 
+
+6 20mm MMme
+gMMhllomIAd-‘tmi'vjty
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I I
+
+I I
+
+I I
+
+I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I II
+.
+
+' ' MINT
+
+Foreign Adversary ' @mtﬁon
+Launches Attack
+
+   
+
+  
+
+ 1- Iert!
+
+m
+,- \
+(I'l)
+\ "7 '-
+
+ 
+
+I   ..   inﬁlﬁ'ua SIGINT
+
+  Signature & "
+
+Countermeasure I
+Development  U.S.
+
+ (fig Boundary
+
+Sensors
+
+   
+ 
+  
+ 
+
+mpmméjgmms _
+aﬁnmanmwweﬁmxﬁx DEW-‘éﬂﬁﬁturéé
+B%WYS%?BE°FS  _‘ anWmsures to
+
+‘ _‘ U.SF ' mmWeﬁce
+ BOD mamxks .  “gm?
+
+I _ ew ignatu res,
+"  g 'gﬁaglgsmew Signatures and
+oun'rermeasures with Partners
+
+SECRETI/COMINTIIREL To USA, FVEY ‘5
+
+ 
+
+ 
+
+UNCLASSIFIED/lFOUO
+
+Operational Landscape
+
+Foreign Intel _
+Service
+
+SIGINT
+
+Discover & Warn
+
+ 
+
+Threat
+Observability
+
+COMMERCIAL
+Anti-Virus, Firewalls,
+Intrusion Detection,
+Intrusion Prevention
+
+Script
+
+Kiddie
+
+ 
+
+ 
+
+)
+Email Phishing Zero Day Exploit
+
+Threat Sophistication
+
+UNCLASSIFIED/[FOUO 7
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Alert/Tip Redirect
+
+     
+
+SECRETI/COMINTIIREL To USA, FVEY 8
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+n Alert/Tip
+
+ 
+
+DoD
+
+  
+ 
+ 
+
+   
+
+Data
+
+Sensor: Request
+Generates Alerts
+
+Collects Data for Analysis i . . .
+DeCISIon Logic:
+
+Runs Applications
+3 Requests Data
+
+> ‘ Establishes Correlations
+@ Sends Out Tasks
+SIGINT Sends Alerts to SIGINT Tasking
+Tasking
+
+(SHREL T0 USA, FVEY)
+
+AlertITip indicates the presence of malicious activity
+and communicates this information with the rest of
+the TUTELAGE enterprise andlor the SIGINT
+(passivelactive) enterprise. Rule and Decision Logic
+determine whether data is stored.
+
+SECRETI/COMINTI/REL To USA, FVEY 9
+
+ 
+
+SECRETI/COMINTl/REL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+m lnte rcept
+
+ 
+
+DoD
+
+  
+
+ln-Line Packet Processor:
+
+Re-routes traffic dynamically
+Modify inbound & outbound packets
+Insert andlor delete packets
+
+(SIIREL TO USA, FVEY)
+Intercept is the means by which the TUTELAGE in-line
+
+packet processor can transparently intervene in
+adversarial activities, permitting the activity to appear
+to complete without disclosing that it did not
+reachlaffect the intended target.
+
+SECRETI/COMINTl/REL TO USA, FVEY
+
+10
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Su bstitute
+
+ 
+
+DoD
+
+00111010011
+10101110101
+01101010010
+11010011011
+
+ 
+
+(SHREL TO USA, FVEY)
+
+Substitute is the TUTELAGE in-line packet
+processor’s ability to perform bidirectional content
+detection and replacement.
+
+SECRETI/COMINTIIREL To USA, FVEY 11
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Redirect
+
+   
+
+ 
+
+DOD
+
+ 
+ 
+ 
+
+Domain
+
+What’s My
+I estination?
+
+   
+
+Q Tip SIGINT‘
+
+if Foreign
+
+(SIIREL TO USA, FVEY)
+Redirect is the TUTELAGE in-line packet processor’s
+
+ability to change the course or direction of an
+adversarial (or adversarial induced) activity.
+
+SECRETI/COMINTl/REL T0 USA, FVEY
+
+12
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Block
+
+  
+
+ 
+
+DoD
+
+(SIIREL TO USA, FVEY)
+
+Block is the means by which the TUTELAGE in-line
+packet processor can deny entrylexit of network
+activity at the Internet Access Points (IAPs) based
+initially on source andlor destination Internet Protocol
+(IP) addresses and ports.
+
+SECRETI/COMINTI/REL To USA, FVEY 13
+
+ 
+
+SECRETI/COMINTl/REL TO USA,
+
+TUTELAGEF‘EYa pabilities
+
+a Latency
+‘ DoD
+
+ 
+
+ 
+
+(SHREL TO USA, FVEY)
+
+Latency is the means by which the TUTELAGE in-line
+packet processor can stealthin vary the inloutbound speed
+of an adversary’s activities traversing the IAPs to provide a
+diminished quality of service. This creates more time for
+other TUTELAGE capabilities to be executed.
+
+SECRETI/COMINTl/REL To USA, FVEY 14
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA,
+FVEY
+
+How Many, How Often
+
+TUTELAGE currently operates against 28 major threat categories, using a total of 794 operational
+effects encompassed in seven capabilities (alerting/tipping, blocking, interception, sidelining,
+substitution, redirection and latency).
+
+CyberActivity AlertlTip w Black Intercept @ Latency B Redirect r> Substitute E
+
+SMTF' HTI'F' H'I'I'F' TCF’
+
+Adversarial Recon 3
+Bishop Khight
+
+Black Energy Bot
+
+Blind Marksmeh
+
+Byzantine
+Foothold
+c, a. W
+Byzantine Viking
+Cartmh Peptide
+Cohfioker
+CroeeeDomaih Violations
+Dahoing Panda
+Discovery
+Eleohore Exploit Kit [TECl
+Email
+GnomeFisher
+Gnome‘ifision
+MakersMarl:
+Maverick Church
+Native Dahoer
+Non Attributed Malware
+Other
+Phoenix Exploit Kit
+Technology
+WeaselWagglet'SubtleShow
+Widowkey
+Zeus
+
+TOTA L
+
+ 
+
+HI
+
+OOAJE-OOU‘ISM‘JUJO}
+Lit}
+
+41944009944:
+
+AMEND?
+CDU‘I'ﬁ-l
+
+liki‘.nbunl41li_nl._uw
+
+TUTELAGE posture against major threats' as of 11 February 2011.
+
+ 
+
+TOP SECRET/lCOMINT/IREL TO USA,
+
+IIIIIIIIIIIIIII U0
+
+FUTURE CAPABILITIES
+
+ 
+
+SECRETI/COMINTl/REL TO USA,
+
+Upgrades & Wﬁat They Mean
+
+Upgrade to 106 Sensor provides additional capabilities and
+enables future upgrades:
+°lmmediate Benefits:
+
+— Increased speed and capacity
+
+— TSIISI signatures
+
+— Full Snort (Current sensors use packet-based Snort. 10(3 sensors
+use session-based Snort.)
+
+— Multi-event Snort
+
+°Future Upgrades:
+— POPQUIZ: Real-time behavioral analytics
+— GNOMEVISION: De-obfuscation of malicious packages
+— Cryptanalytic Capabilities
+— Netflow: Traffic analysis with GHOSTMACHINE
+
+SECRETI/COMINTl/REL TO USA, FVEY
+
+17
+
+ 
+
+t SECRETI/COMINTl/REL TO USA,
+
+Latelgu-t-ure-TUTEljﬁhE Capability
+
+ﬂ TCP Reset
+
+ 
+
+DoD
+
+be found
+
+ 
+
+404 7 File not found
+
+ 
+
+(SHSIIIREL TO USA, FVEY)
+TCP Reset prevents malicious activity by breaking the
+connecﬁon.
+
+SECRETI/COMINTl/REL To USA, FVEY 18
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+Future TUTELRaE Capabilities
+
+Sideline for Session Analysis
+
+ 
+
+DoD
+
+   
+    
+
+Continue On?
+
+or
+Sideline Quarantine?
+
+Infrastructure
+
+ 
+
+(SIIREL TO USA, FVEY)
+
+Sidelining is an intentional redirection of an activity to
+a secondary level of intervention where an intermediate
+host(s) (e.g. Listening Post, Quarantine, etc.) is staged
+to provide additional processinglmanipulation to better
+engage andlor thwart adversarial activity.
+
+SECRETI/COMINTIIREL To USA, FVEY 19
+
+ 
+
+SECRETI/COMINTl/REL TO USA,
+
+Future TUTELRaE Capabilities
+
+Sideline for Listening Posts
+
+ 
+
+DoD
+
+DNS lnterdiction
+
+   
+
+Listening
+
+(SHREL T0 USA, FVEY)
+
+Sidelining is an intentional redirection of an activity to
+a secondary level of intervention where an intermediate
+host(s) (e.g. Listening Post, Quarantine, etc.) is staged
+to provide additional processinglmanipulation to better
+engage andlor thwart adversarial activity.
+
+SECRETI/COMINTl/REL To USA, FVEY 2°
+
+ 
+
+SECRETI/COMINTIIREL TO USA,
+
+Future TUTELRaE Capabilities
+
+HBSS Integration
+
+    
+
+ 
+
+ 
+
+(SIISIIIREL TO USA, FVEY)
+
+Integrating with the DOD’s Host-Based Security System
+allows malicious activity detected through classified
+signatures in TUTELAGE to be dealt with at the host
+level. Using HBSS, TUTELAGE can trigger less
+sensitive alerts to local network administrators.
+
+SECRETI/COMINTIIREL To USA, FVEY 21
+
+ 
+
+TOP SECRETI/COMINTIIREL TO USA,
+
+Future TUTELRaE Capabilities
+
+ 
+
+@ Quantum Tip
+
+DoD
+
+ 
+
+(TSIISIHREL TO USA, FVEY)
+TUTELAGE can tip QUANTUM to enable offensive
+action in adversary space.
+
+TOP SECRETIICOMINTIIREL To USA, 22
+
+ 
+
+TOP SECRETI/COMINTIIREL TO USA,
+
+Future TUTELRaE Capabilities
+
+ 
+
+@ Quantum Shooter
+
+DoD
+
+     
+ 
+
+PANDORAS
+MAYHEM
+
+(TSHSIHREL TO USA, FVEY)
+TUTELAGE can tip QUANTUM to enable offensive
+action in adversary space.
+
+TOP SECRETIICOMINTIIREL To USA, 23
+
+ 
+
+TOP SECRETI/COMINTl/REL TO USA,
+
+Future TUTELRaE Capabilities
+
+Real Time Cryptanalytics
+
+ 
+
+DoD
+
+     
+
+Sensor [3; PANDORAS
+
+MAYHEM
+
+(a Cryptanalytics
+
+(TSHSIHREL T0 USA, FVEY)
+Real-time cryptanalytics allows Quantum operations to
+take place at net-speed.
+
+TOP SECRETI/COMINTl/REL To USA, 24
+
+ 
+
+IIIIIIIIIIIIIII U0
+
+OPS SUCCESS STORIES
+
+ 
+
+SECRET/[REL TO USA, FVEY
+
+U.S. Military Leaders Defended
+
+- Based on information from SIGINT
+collection, a TUTELAGE
+countermeasure was developed and
+deployed in 2009 for a particular
+BYZANTINE HADES attack.
+
+-On October 21st and 22ml 2010, the
+spear-phishing attack was
+
+_  __ launched. The attack targeted four
+
+,-’Cﬂ‘:ountermeasurme'y users, including the Chairman of the
+
+“-.-.??Ye'°??€  Joint Chiefs of Staff and the Chief of
+ '   Naval Operations, with a carefully
+
+disguised malicious PDF.
+
+- NTOC operated the countermeasure
+and the attack was thwarted.
+
+ 
+
+SECRET/[REL TO USA, FVEY
+
+ 
+
+SECRET/[REL T0 USA, FVEY
+
+WAG Attempts to Deliver Holiday Present to DOB
+
+23 December
+
+' NTOC-TX calls ops center advising of phishing campaign with
+“Merry Christmas" subject associated with WAG actors
+
+° WAG actors attempted to use ZEUS malware to exfiltrate
+documents
+
+- NTOC-TX did malware analysis and identified 2 new callback
+domains
+
+° In < 3 hours, received CyberCommand approval and 
+
+domains on DNS interdiction at
+
+ 
+  
+
+30 December
+- NTOC-TX notices new spike in WAG mail signature
+° NTOC-TX discovers new callback domain
+
+- In < 20 minutes, received approval and placed domain on DNS
+interdiction
+
+° NTOC-W confirmed same malware from Xmas themed event
+
+SECRET/[REL T0 USA, FVEY 27
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+AMULETSTELLAR Spearphishing... Trying to Make New
+Fﬁends
+
+In SIGINT, NTOC observed
+AMULETSTELLAR use of
+@yahoo.com email account
+
+- On Christmas Day, account was used to
+generated Linkedln requests to 10
+general and flag grade officers
+
+- NTOC leveraged TUTELAGE and SIGINT
+for further discovery of activity
+
+ - In coordination with CyberCommand,
+
+D - “E [I a“ you 0"“.- m-J 33-5;an [1E II‘IJ'I:|[L; I::r|LlI'I|-:El:lll'l. . . I
+:d'” ‘j ‘ ” i i - Published 10 advusorles
+—
+
+Tl‘ I "‘1 lo met an; an In Rpm-la w  Furnfessiljnal net-24mm Em Linki‘ﬁl" '5 “WW” ""E """Mr'ﬂ
+p3- onyx-ham i: '- - v“ ’ "' -'
+
+ ° Identified 2 additional Linkedln accounts
+
+ll'lil': .3 ﬂ ru E
+On Decemhel  It»;
+
+- Deployed 4 countermeasures
+
+‘ ‘ - - -r >-  lalamitlma‘
+‘ ' an I'ﬁ-r'rlcw'e '--'GuI'=‘-Plffml'r‘l BEL-run? W. .=. nekurk
+'I' D U I. a .. ,l . v
+
+- Intercepted over 2000 emails from
+AMULETSTELLAR actors
+
+ 
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+
+SECRET/[REL T0 USA, FVEY
+
+Combating the Low Orbit Ion Cannon (LOIC)
+
+°The open-source LOIC tool has
+been used by “Anonymous” and -   
+
+others in several DDoS attacks. . v ‘ —
+
+   
+
+ 
+
+ 
+
+ 
+
+E1100 w I I
+- NTOC developed signatures to 1 ‘7’   
+2 30120 2011/03/06 07:19 35263765 I 83 0:10 LS r9940L
+      S 3 m 2611/03/06 07:19 35263766 I 63 0:10 LS‘994UL
+_  W
+     n 5 m 2011/03/06 07:19 35263760 _ 03 0:16 $199401.
+7 Vﬂ 2011/03/66 07:19 35 263763 I 03 036 1_3'-9640L
+°For example, for packets % 36653- i?  
+:J m loll/Uj/Ub U7119 531037th I EﬁJ U333 Lb ’994UL
+co  n I     10 m 2011/03/06 07:19 35203708 I 83 0.16 63—79943
+“ H 11 m 2011/03/06 07:19 35263750 _ 03 0:16 $199401.
+    o  12  2011/03/06 07:19 35263758 I 83 0:16 LS‘-DE‘40L
+ E - I I f  1:: VM 2011/03/66 07:19 35263758 I 83 0:16 LS_-9940L
+WI    1x.  2011/03/06 07:19 35 263753 I 33 111p 13—06401
+ k      i n g I P  mew 2011/03/06 07:19 35:263/55 I 63 0:10 057-99411
+16 m 2011/03/06 07:19 35263755 I 6:) 0:16 LS -9540L
+on a    17 m 2011/03/06 07:19 35263755 63 030 057-9543
+18  2011/03/06 07:10 35263755 I 8:1 0:15 LS’7994OL
+19 M 2011/03/06 07:19 35263753 I 8:1 03;: 63770043
+. b d h - ﬁ- f 20 m 7011/03/06 07:19 35 263753 I 33 011-1 13100401
+0        21 mew 201103 06 07:19 35263755 8;] 0:11 LS 9943
+I— am Ere-00.5. \ Hughlght 3.5352 Human-005001
+
+ 
+
+ongoing DDoS against several 
+DoD lPs. TUTELAGE is blocking
+
+the malicious IP from
+communicating with any DoD
+
+machines.
+SECRET/[REL T0 USA, FVEY 29
+
+UNCLASSIFIED/[FOUO
+
+QUESTIONS?
+
+UNCLASSIFIED/[FOUO 30
+
+ 
+

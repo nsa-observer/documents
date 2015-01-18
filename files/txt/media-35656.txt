@@ -1,0 +1,755 @@
+TOP SECRET/[SHIREL TO USA, FVEY
+
+(U) CLASSIFICATION GUIDE TITLE/NUMBER: Computer Network Exploitation
+(CNE) Classification Guide I 2-59
+
+(U) PUBLICATION DATE: 1 March 2010
+
+(U) OFFICE OF ORIGIN: Tailored Access Operations (TAO)/S 32
+(U) POC: TAO Classification Advisory Officer
+
+(U) PHONE: 961-67945
+
+(U/IFOUO) ORIGINAL CLASSIFICATION AUTHORITY: SIGINT Deputy Chief of
+Staff for Operations and Support,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description of Information I Classification/Markings I Reason I Declass I Remarks
+
+A. (U) GENERAL
+
+1. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO performs computer specific targets, level of
+network exploitation (CNE) success or capabilities remain
+
+classified.
+
+2. (Sf/REL) The fact that SECRET/[REL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, performs success or capabilities may
+remote subversion raise the classification level
+
+and/or require
+compartmentation.
+
+(U) Foreign releasability
+decisions on specific details
+relating to remote subversion
+are handled on a case-by-case
+basis. Contact TAO CAO for
+further guidance.
+
+ 
+
+3. (S/lSI/IREL) Identification of SECRET/[SI/IREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+specific remote subversion FVEY specific targets, level of
+methods used by NSA/CSS or success or capabilities may
+TAO, to include: raise the classification level
+- Endpoint access, exploitation, and/or require
+or operations compartmentation.
+
+- On-net access, exploitation, or
+
+operations (U) Foreign releasability
+
+- Software implant access, decisions on specific details
+exploitation, or operations relating to remote subversion
+- Accessing or exploiting data are handled on a case-by-case
+at rest basis. Contact TAO CAO for
+
+further guidance.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. (S/lSI/IREL) The fact that SECRET/[SI/IREL TO USA, Sec 1.4 (c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, performs success or capabilities may
+physical subversion, to include: raise the classification and
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+- Close access enabling,
+exploitation, or operations
+
+- Off-net enabling, exploitation,
+or operations
+
+- Supply chain enabling,
+exploitation, or intervention
+operations
+
+- Hardware implant enabling,
+
+require ECI protection.
+
+(U) Foreign releasability
+decisions on specific details
+relating to physical
+subversion are handled on a
+case-by-case basis. Contact
+TAO CAO for further
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exploitation, or operations guidance.
+
+5. (U) The association of any UNCLASSIFIED/[FOR FOIA 3 N/A
+specific ECI name or trigraph, OFFICIAL USE ONLY
+with NSAICSS, ECI, SICINT,
+or intelligence
+
+6. (U) The association of a CONFIDENTIAL/[REL TO Sec. 1.4(c) N/A
+specific TAO ECI name or USA, FVEY
+trigraph with CNE and/or TAO
+
+7. (U) The fact that a specific UNCLASSIFIED/[FOR (U) If the details of the
+individual is cleared for 3 OFFICIAL USE ONLY association reveal the fact
+specific TAO ECI, when there that the ECI is TAO’s, then it
+is no association between the would be
+ECI and TAO CONFIDENTIAL/[REL TO
+
+USA, FVEY, in accordance
+with entry 5.
+
+8. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A
+TAO conducts CNE for foreign
+intelligence collection.
+
+9. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, performs CNE to success or capabilities remain
+support U.S. Government CNA classified.
+efforts
+
+10. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, trains, equips, and success or capabilities remain
+organizes the U.S. Cryptologic classified.
+System to support the CNE,
+CNA, and CND requirements
+needs of its customers
+
+11. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, provides CNO- success or capabilities remain
+related military targeting classified.
+support
+
+12. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, provides success or capabilities remain
+intelligence gain/loss classified.
+assessments in response to
+Combatant Commander
+(COCOM) CNO targeting
+
+13. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+
+TAO, as part of CNE
+operations, develops and
+supports analytic modeling and
+simulation techniques to
+support CNE/CNA efforts
+
+ 
+
+ 
+
+ 
+
+ 
+
+specific targets, level of
+success or capabilities remain
+classified.
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, targets, collects and success or capabilities remain
+processes computers, computer classified.
+networks and computer-to-
+computer (C2C)
+communications without
+reference to a specific
+operation, activity or target
+
+15. (Sf/SI/fREL) The fact that NSA SECRET/[SI/IREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+or TAO, as part of CNE FVEY specific targets, level of
+operations, targets, collects and success or capabilities may
+processes specific computer raise the classification level
+protocols (such as email, instant to TOP SECRET.
+messaging, file transfer
+protocols) (U) Details may also be
+
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+16. (Sf/SU/REL) The fact that SECRET/[SI/IREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, remotely success or capabilities may
+introduces code into target raise the classification level
+computer networks to facilitate to TOP SECRET.
+foreign intelligence collection
+
+(U) Details may also be
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+17. (TS/[SI/fREL) The fact that TOP SECRET/lSI/lREL TO Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of USA, FVEY protected by one or more
+CNE operations, conducts off- ECIs and/or a different level
+net field operations to develop, of foreign releasability
+deploy, exploit, or maintain (including NOFORN).
+intrusive access, without further
+detail
+
+18. (Sf/SU/REL) The fact that TOP SECRET/lSI Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of protected by an ECI.
+
+CNE operations, conducts off- See remarks for foreign
+
+net activities at specified releasability. (U) Foreign releasability
+
+locations other than NSA/CSS decisions handled on a case-
+
+facilities by-case basis. Contact TAO
+CAO for further guidance.
+
+19. (U) TAO project names, in UNCLASSIFIED/[FOR FOIA (3) N/A
+association with CNE or TAO, OFFICIAL USE ONLY
+with no amplifying details
+
+B. (U) PARTNERING/COLLABORATION
+
+20. (Cl/REL) The fact that CONFIDENTIAL/[REL TO Sec 1.4(c, d) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of USA, FVEY specific targets, level of
+
+CNE operations, collaborates
+with Second Party Partners to
+conduct CNE activities
+
+ 
+
+ 
+
+ 
+
+ 
+
+success or capabilities may
+raise the classification level.
+
+(U) Details may also be
+protected by one or more
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ECIs.
+
+21. (Cl/REL) The fact that CONFIDENTIAL/[REL TO (U) Foreign releasability
+NSA/CSS or TAO, as part of USA, FVEY decisions handled on a case-
+CNE operations, collaborates See remarks for foreign by-case basis. Contact TAO
+with specific Second Party releasability. CAO for further guidance.
+partners on specific ECIs
+
+22. (Cl/REL) Details of the CNE SECRET/[SI at a minimum (U) Details indicating
+collaboration between specific targets, level of
+NSA/CSS or TAO and Second See remarks for foreign success or capabilities may
+Party partners releasability. raise the classification level
+
+to TOP SECRET/[51.
+
+(U) Details may also be
+protected by one or more
+ECIs.
+
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+
+23. (Sf/REL) The fact that SECRET/[REL TO USA, Sec 1.4(c, d) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of FVEY protected by an ECI. Contact
+CNE operations, collaborates TAO CAO for further
+with unspecified Third Party guidance.
+
+Partners in support and conduct
+of CNE activities
+
+24. (Sf/REL) The fact that TOP SECRET/ISI Sec 1.4(c, d) *25 years (U) Foreign releasability
+NSA/CSS or TAO, as part of decisions handled on a case-
+CNE operations, collaborates See remarks for foreign by-case basis. Contact TAO
+with specified Third Party releasability. CAO for further guidance.
+Partners in support and conduct
+of CNE activities (U) Details may also be
+
+protected by an ECI. Contact
+TAO CAO for further
+guidance.
+
+25. (U/fFOUO) The fact that UNCLASSIFIED/[FOR FOIA (3) N/A (U) Details indicating
+NSA/CSS or TAO, as part of OFFICIAL USE ONLY specific targets, level of
+CNE operations, collaborates success or capabilities may
+with a specific US raise the classification level.
+Government/1C entity
+
+(U) Details may also be
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+26. (Cl/REL) The fact that CONFIDENTIAL/[REL TO Sec. 1.4(c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of USA, FVEY specific targets, level of
+
+CNE operations, collaborates
+with a specific US
+Government/1C entity on a
+specific ECI
+
+ 
+
+ 
+
+ 
+
+ 
+
+success or capabilities may
+raise the classification level.
+
+(U) Details may also be
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+C. (U) TOOLS AND TECHNIQUES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27. (U) The existence of CNE UNCLASSIFIED N/A N/A
+tools, with no further
+details/context
+28. (U) Cover names of CNE tools, UNCLASSIFIED N/A N/A
+with no details/context
+29. (S/lSI/fREL) When associated SECRET/[SI Sec. 1.4(c) *25 years (U) Details indicating
+with remote subversion, at a minimum specific targets, level of
+details/descriptions concerning success or capabilities may
+CNE tools, to include: See remarks for foreign raise the classification level
+- Specific type (i.e. releasability. to TOP SECRET.
+hardware/software, etc.)
+- Purpose (U) Details may also be
+- Capabilities protected by one or more
+- Concealment Techniques ECIs and/or a different level
+- Electronic signatures of foreign releasability
+- Combination(s) of the above (including NOFORN).
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+30. (SI/SII/REL) When associated TOP SECRET/ISI Sec 1.4(c) *25 years (U) Details indicating
+with physical subversion, specific targets, level of
+details/descriptions concerning See remarks for foreign success or capabilities may
+CNE tools, to include: releasability raise the classification level
+- Specific type (i.e. to TOP SECRET.
+hardware/software, etc.)
+- Purpose- (U) Details may also be
+- Capabilities protected by one or more
+- Concealment Techniques ECIs andfor a different level
+- Electronic signatures of foreign releasability
+- Combination(s) of the (including NOFORN).
+above
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+31. (U/[FOUO) Technical details UNCLASSIFIED/[FOR FOIA (3) N/A
+concerning specific software OFFICIAL USE ONLY
+vulnerabilities, when publicly
+known, and that are exploited
+for CNE activities
+32. (S/lSI/lREL) Technical details TOP SECRET/lSI Sec 1.4(c) *25 years (U) Details may be protected
+
+concerning specific software
+vulnerabilities, when not
+publicly known, and that are
+exploited for CNE activities
+
+ 
+
+See remarks for foreign
+releasability.
+
+ 
+
+ 
+
+ 
+
+as NOFORN on a case-by-
+case basis.
+
+(U) Some tools may be
+protected under an ECI
+and/or additional handling
+caveats.
+
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+D. (U) OPERATIONS and TARGETING
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+33. (U) The fact that NSA/CSS or SECRET/[SI/IREL TO USA, Sec. 1.4 (c) *25 years (U) Details may also be
+TAO, as part of CNE FVEY at a minimum protected by a different level
+operations, targets a specific of foreign releasability
+country or international (including NOFORN).
+organization
+
+(U) Contact TAO CAO for
+further guidance on levels of
+success as well as for more
+specific targeting details such
+as individual(s), specific
+government entity(ies), etc.
+
+34. (Sf/SI/IREL) Association of TOP SECRET/ISI Sec 1.4(c) *25 years (U) Details may also be
+cover names for off-net protected by one or more
+operations (i.e., physical See remarks for foreign ECIs.
+subversion activities) with releasability.
+amplifying details (e.g., (U) Foreign releasability
+specific electronic components, decisions handled on a case-
+systems, their host facilities, by-case basis. Contact TAO
+etc) CAO for further guidance.
+
+35. (Sf/REL) Association of cover SECRET/[SI at a minimum Sec 1.4(c) *25 years (U) Details may also be
+names for on-net operations protected by one or more
+(i.e., remote subversion See remarks for foreign ECIs.
+activities) with amplifying releasability.
+details (e.g., specific electronic (U) Foreign releasability
+components, systems, their host decisions handled on a case-
+facilities, etc) by-case basis. Contact TAO
+
+CAO for further guidance.
+
+36. (Sf/SI/fREL) Individual details TOP SECRET/0’81 Sec 1.4 (c) *25 years (U) Details may also be
+of CNE activities, such as: protected by one or more
+- Target information including See remarks for foreign ECIs.
+intended target network and/or releasability.
+device (U) Foreign releasability
+- Vulnerability being targeted decisions handled on a case-
+- Target infrastructure by-case basis. Contact TAO
+
+CAO for further guidance.
+
+37. (TS/[SI/fREL) The fact that TOP SECRET/0’81 Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of protected by one or more
+CNE operations, is attempting See remarks for foreign ECI.
+to exploit or has succeeded in releasability.
+exploiting a specific (U) Foreign releasability
+vulnerability (e.g., in a firewall, decisions handled on a case-
+operating system, software by-case basis. Contact TAO
+application, etc.), and a specific CAO for further guidance.
+entity or facility within a
+target’s IT/computer structure
+
+38. (Sf/SI/fREL) Facts related to TOP SECRET/0’81 Sec 1.4(c) *25 years (U) Details may also be
+the description of U.S. See remarks for foreign protected by one or more
+hardware or software implants releasability. ECI.
+and location (e.g., specific
+organization and Internet (U) Foreign releasability
+Protocol Device/Address, etc.) decisions handled on a case-
+on a target’s by-case basis. Contact TAO
+IT/communications system CAO for further guidance.
+
+39. (S/lSI/fREL) Facts related to TOP SECRET/ISI Sec 1.4(c) *25 years (U) Details may also be
+
+the exact timing, location,
+
+ 
+
+at a minimum.
+
+ 
+
+ 
+
+ 
+
+protected by one or more
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+TOP SECRETI/SU/REL TO USA, FVEY
+
+ 
+
+participants, off-net or on-net
+operations, CNE command,
+control and data exfiltration
+tools/capabilities and locations,
+used to exploit or maintain
+
+See remarks for foreign
+releasability.
+
+ECI.
+
+(U) Foreign releasability
+decisions handled on a case-
+by—case basis. Contact TAO
+
+ 
+
+ 
+
+ 
+
+intrusive access to a target’s CAO for further guidance.
+IT/computer structure
+
+40. (S//SI//REL) Combination of TOP SECRET//SI Sec 1.4 (c) *25 years (U) Details may also be
+details of individual aspects of protected by one or more
+CNE activities, that would See remarks for foreign ECI.
+allow a specific target to take releasability.
+specific counter-measures, such (U) Foreign releasability
+as: decisions handled on a case-
+- Specific target network or by-case basis. Contact TAO
+device an_d CAO for further guidance.
+- Specific capability, tool or
+technique used for exploitation
+of vulnerability
+
+41. (TS//SI//REL) The fact that TOP SECRET//SI Sec 1.4(c) *25 years (U//FOUO) Details may also
+
+NSA/CSS (or TAO) acquires
+cryptographic enabling
+information through CNE
+activities.
+
+ 
+
+See remarks for foreign
+releasability.
+
+ 
+
+ 
+
+ 
+
+be protected by one or more
+ECI and/or HCS.
+
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+
+ 
+
+(U) *25 years: Declassification in 25 years indicates that the information is classified for 25 years from the date a
+
+ 
+
+document is created or 25 years from the date of this original classification decision, whichever is later.
+
+ACRONYMS/DEFINITIONS:
+
+(U) Computer Network Exploitation (CNE): intelligence collection and enabling operations to gather data from
+target or adversary automated information systems (AIS) or networks. (Per DCID 7/3, Information Operations and
+Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June 2003)
+
+(U) Computer Network Attack (CNA): operations to manipulate, disrupt, deny, degrade, or destroy information
+resident in computers and computer networks, or the computers and networks themselves. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+(U) Computer Network Defense (CND): efforts to defend against the CNO of others, especially that directed against
+US. and allied computers and networks. (Per DCID 7/3, Information Operations and Intelligence Community Related
+Activities, effective 01 July 1999, administratively changed 5 June 2003)
+
+(U) Computer Network Operations (CNO): CNE, CNA, and CND collectively. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+(U) Information Operations (IO): actions taken to affect adversary information and information systems while
+defending one’s own information and information systems. IO is an integrating strategy. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+TOP SECRETI/SU/REL TO USA, FVEY
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+(S/lSI/IREL) Intrusive Access: Refers to CNE operations involving remote manipulation, hardware/software
+modifications, or sensing of environment changes in a computer device or system, and/or occasionally the facilities that
+house the systems.
+
+(S/lSI/IREL) Off-Net Operations: Refers to covert or clandestine field activities of personnel carried out in support of
+CNE activities.
+
+(S/lSI/IREL) Physical subversion: Subverts with physical access to a device or host facility. Other terms sometimes
+used to connote physical subversion are close access enabling, exploitation, or operations; off-net enabling,
+exploitation, or operations; supply-chain enabling, exploitation, or operations; or hardware implant enabling,
+exploitation, or operations.
+
+(S/lSI/IREL) Remote subversion: Subverts without physical access to a device or host facility; obtains unauthorized
+permission. Other terms sometimes used to connote remote subversion are computer network exploitation; endpoint
+access, exploitation, or operations; on-net access, exploitation, or operations; software implant access, exploitation, or
+operations; or accessing or exploiting data at rest.
+
+(S/lSI/lREL) Supply Chain Operations: Interdiction activities that focus on modifying equipment in a target’s supply
+chain.
+
+TOP SECRET/[SHIREL TO USA, FVEY
+

@@ -1,0 +1,2659 @@
+ 
+
+ 
+
+ 
+
+NIOC MARYLAND ADVANCED COMPUTER
+NETWORK OPERATIONS COURSE
+
+Coordinated by
+
+ 
+
+ 
+
+— NA VIOCOM Maryland Center of Excellence for Non-Kinetic Options —
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+° Content
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O lions —
+b 2
+
+ 
+
+WHY ARE WE TEACHING THIS?
+
+ 
+
+ 
+
+° 5 Pillars of IO:
+— OPSEC
+— lVllLDEC
+— lVllSO
+— E W
+— CNO
+° The next major conflict will start in cyberspace
+— Whether we recognize the signs is another matter
+— Recent conflicts have already shown the importance of CNO (Russia/Georgia)
+
+— Think China will make a move on Taiwan without bringing down their communications
+networks?
+
+- As lW officers (or DC) — we are expected to know and understand
+CNO and communicate with decision makers
+
+- Recently announced plans from Command in Chief and Pentagon
+officials emphasize cyber space operations
+
+° Basic 1810/IDC quals are a good foundation, but CO/XO want you to
+know more about CNO
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 3
+
+ 
+
+ 
+
+Course Overview
+
+ 
+
+ 
+
+Wednesday, April 1 1 th
+Location: OPSZB
+
+2341 1 8-1
+m T 09 'c Briefer
+0730-0900 CNO Intro/ TAO Overview LT -/ CTN1 -
+
+CTN1 —/ CTN2
+0900-1 000 Analysis -
+
+CTN1 _ / CTN1
+1000-1 1 00 EAO -
+1100-1200 Lunch
+1200-1300 [OD/Scanning CTN1 -
+1300-1400 DNT ENS _
+1430-1500 TAO Brief/Tour ENS -
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 4
+
+ 
+
+Course Overview
+
+ 
+
+ 
+
+Thursday, April 12th
+Location: OPSZB 234118-
+
+3
+Time To ic Briefer
+LTjG-/ LTjG-
+0800-0900 CND Intro/Threat Brief (S:—' U:
+CTN2_/ CTN2
+. _ (S: -
+0900-1000 REd Team Brief  U: —
+)
+LCDR_ (s: -
+1000-1030 Blue Team Brief -; U:—
+CTRl Brown/ CTRl
+1030—1100 jCMA Brief —(5.- _-
+U:_)
+CTN2 _ (S:-
+1100-1130 Hunt Brief -,- U:—
+)
+1130-1300 Lunch
+
+ 
+ 
+
+CTN2 - (s: -
+' U:
+
+— MUM Milena  Center of ExcellencH‘ons —
+5
+
+  
+
+ 
+
+Course Overview
+
+ 
+
+ 
+
+Friday, April 13th
+Location: OPSZB
+
+ 
+
+ 
+ 
+
+2341 1 8-3
+
+m M Briefer
+—POD CTN2_
+0900-1 000 000 LTjG -
+1 000-1 1 00
+1100-1200 Lunch
+1200-1400 PKC/PKI (Asymmetric Encryption) LT-
+1400-1430 Debrief/Discussion LT -
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 6
+
+ 
+
+ 
+
+W110
+MEEHDG
+
+ 
+
+-Autnmated
+
+ 
+
+ 
+
+ 
+
+ 
+
+H Li m a n  r'l atnl  d
+
+ 
+
+-meimalAu:eas
+-Fh1rsical lnterdidim
+-Muﬂi—Staged
+
+ 
+
+ 
+
+   
+   
+   
+
+Glfmswecyherﬂpa'dims
+{0G0}
+
+Who: {I'll-HEB”
+
+ 
+
+DnD Glam] Inrmanm'
+GIG (mp-mm
+EDGE-1}
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+'IIII'I1Erl:I1lJII I
+
+ 
+
+"me: TUTELAGE {.mi}
+NGDﬂG: HAWHE‘I'E 1:.me
+m3 EINSTEIN gm
+
+GHA—DFE ﬂirted}
+
+ 
+
+ 
+
+Hunﬁueﬂetwkﬂpﬂnhnrﬁ'
+(PHUJI
+
+ 
+
+ 
+
+C-nnﬂﬂadhyUS “Italy
+Pas-urns! nanDGiuiims
+Iwith “Wars
+
+Flesme
+
+ﬁmdyEPrnpuﬁ-mu]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— FLTCYBERCOM I C1OF —
+
+1r 1' 1* LLB. FLEET CYEER CDMMﬂND .I' LLB. TENTH FLEET 1r 1r 1'
+
+ 
+
+ 
+
+ 
+
+[HE-D cperaticns ccnsist cf aspects chetDIs directing cperaticn cf the BIG
+
+ 
+
+Guzna|1suppujrt effcrtstc build. ccnﬁgure secure. cperate, maintain and sustain Etc-II} netwcrks
+
+ 
+
+Desired end—state: enable pillars I:rflnfcrn1atiI:-n Assurance
+
+ 
+
+ 
+
+Achieved 1iria F‘rcactiue l~letw:::rlt Dperaticns (FWD 1}
+
+ 
+
+ 
+
+Elli-3A cperates the BIG. but UStiz‘i’BEFttizDh-l ensures cperaticn and availability
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+Pillars ct Inform aticn RESP°_n5iPIE U5 C'~T-'E|_E RECIM
+Assurance Organizations:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l‘-F1 algal
+[AD 51 MTICZI IE:
+
+ 
+
+.l WICS: E] [A n airy. m H
+
+ 
+
+MEN MET‘INARC CI lI.-'I
+
+_ _ . D p 'raticn s IZI-crnrn and . .
+Authenticatlcn ‘ I E E.;;.TF.1DED} {cTF 1mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Direct and synchronize actions to detect, analyze, counter and
+mitigate cyber threats and vulnerabilities
+
+.1
+
+ 
+
+- Protect critical missions, enable freedom of action in cyberspace
+
+ 
+
+Dyrl - mic
+
+Network
+
+Defense
+Operation 5:
+
+ 
+
+- Flexible response, incorporating Title 10 and Title 50 authorities,
+to defend the GIG
+
+ 
+
+ 
+
+Responsible Organizations:
+
+ 
+
+ 
+
+ 
+
+USCYBERCOM: NCDOC:
+m" NEW-m" 
+NTOC
+uses SIGINT HAWKEYE EINSTEIN
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+1
+
+- Enabling and attack effects in cyberspace
+
+ 
+
+ 
+
+- Support national and CCDRs’ objectives via cyber actions
+
+ 
+
+ 
+
+1
+
+- Remote Operations Center, civilians and military personnel
+
+ 
+
+ 
+
+- Enables active defense against cyber actorsfadversaries
+
+ 
+
+ 
+
+ 
+
+ 
+
+ROG Relationships:
+
+ 
+
+ 
+
+ 
+
+USCYBERCOM
+tasks
+
+ 
+
+Navy’s Role:
+Force Provider
+
+ 
+
+ 
+
+Operations
+Center
+
+ 
+
+ 
+
+NSMCSS
+controls
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLTCYBERCOM lC10F
+
+*tt LLS. FLEET CYEER COMMAND! U.S. TENTH FLEET tit
+
+ 
+
+ 
+
+    
+ 
+
+10 Department
+NlOC Maryland
+
+infrastruﬂﬂli
+TECHNOLOGIES
+
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic O tions —
+— 11
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+T A0 Overview
+Mission Aligned Cells (MAC)
+
+Manning / Placement
+
+Department Operations
+
+Summary
+
+Examples: Russia & Lebanon
+Joint Cyber Attack Team
+NCAT Vision
+
+Afloat CNO
+
+Discussion Topics
+
+ 
+
+(irate IITD)
+'c: -’
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Requiremen
+ts &
+Targeting
+
+Manage ops
+requirements
+Perform target
+development
+
+ 
+
+ 
+
+_,Fm
+
+Remote
+Operations
+Center
+
+Conduct On-net
+ops (exploit,
+collect, geo-
+
+loca te)
+
+ 
+
+ 
+
+ 
+
+Data
+Network
+Technologie
+5
+
+Develop
+operational
+concepts and
+software
+implants to
+Exploit
+computer
+networks
+
+ 
+
+   
+
+ 
+
+Telecommuni
+cations
+Network
+Technologies
+
+Develop
+operational
+concepts and
+software implants
+to exploit phone
+switches
+Develop network
+warfare
+
+Netwwmlvaﬂihg;
+
+   
+
+ 
+
+ 
+ 
+
+Access
+Technologie
+s &
+Operations
+
+Conduct
+physical access
+(off-net)
+operations
+Conduct
+expeditionary
+CNO
+Develop
+
+"firmware; 
+material‘s):
+
+
+
+"still/ﬁrm?
+
+ 
+
+ 
+ 
+
+   
+ 
+
+Mission
+lnfrastructu
+re
+Technologie
+5
+
+Design,
+development
+and delivery of
+the end-to end
+infrastructure
+that supports
+GENlE
+
+ 
+
+ .. :'. I - D.  e  It  ‘ I  a: 1
+t,  Mmﬂwgneé-éeﬁam I  r-I-u-u-  
+
+ 
+
+ 
+
+Concept:
+
+° TAO recently completed a major effort to align resources from
+R& T, ROC, DNT and MIT into mission focused teams.
+
+0 Mission Aligned Cells
+
+— Teams composed of operators, analysts and developers working together to focus on
+a specific target set.
+
+- Allows TAO to efficiently resources on high-priority projects and
+targets.
+
+Current MAC’s:
+
+° China/North Korea (NSA W, NSAH)
+
+- Iran (NSA W, NSAG)
+
+° Russia (NSAW, NSAH)
+
+- Cyber Counterintelligence (CCl) (NSA W, NSAG, NSA T, NSAH)
+° Counterterrorism (CT) (NSA W, NSAG)
+
+° Target Service Provider (TSP) (NSAW, NSA T)
+
+° Regional Targets (RT) (NSAW, NSAT)
+
+ 
+
+ 
+
+ 
+
+Leadership Positions:
+
+ 
+
+ 
+
+I RDML —
+
+l l ‘ I - Deputy Chief, TAO
+
+CAPT—
+
+- TAO Cyber Operations Integrated
+& Lead (COIL)
+
+Staff (2/2/0) - Principle advisor to TAO leadership
+for operational cyber issues
+
+ 
+
+ 
+
+[Billet Description (BA/COB/Deployed)]
+
+ 
+
+ 
+
+Leadership Positions:
+
+LCDR —
+
+° D/Chief, CT 8: Afghanistan
+
+LCDR _
+
+- In training — slated for Hard Targets Division, DPRK
+Branch
+
+LT—
+
+° CNO Coordinator — China/DPRK Branch
+
+ 
+
+ 
+
+Requirements &
+Targeting
+
+ 
+
+ 
+
+ 
+
+$327:
+R&T Influence (8/6/0)
+Endpoint Exploitation (57/35/0)
+
+[Billet Description (BA/COB/Deployed)]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Remote
+Operations
+Cenier
+
+ 
+
+ 
+
+ 
+
+%
+
+ROC Influence (9/9/0)
+
+Lead (3/3/0)
+
+Interactive Operator (49/26/0)
+Production Operator (25/14/0)
+
+[Billet Description (BA/COB/Deployed)]
+
+Leadership Positions:
+
+CAPT _
+
+- Deputy Chief, ROC
+
+LCDR _
+
+- D-Chief, STO
+
+LT—
+
+- Chief, Iran MAC (IMAC)
+
+CTNCS _
+
+° ROC SER
+
+LCDR —
+
+° Chief, Cyber Operations Branch
+
+LTJG—
+
+° Tech Lead, Cyber Operations Branch
+
+ 
+
+ 
+
+Leadership Positions:
+
+LT-
+
+‘ ° Chief, Cyber Technologies Branch
+
+° Chief, Engineering Services Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5323:
+
+Development (Officer) (2/2/0)
+Development (Enlisted) (16/6/0)
+
+[Billet Description (BA/COB/Deployed)]
+
+ 
+
+    D'rectorat D)
+
+Leadership Positions:
+
+LT—
+
+° Chief, Operations Branch
+Access
+
+Technologies&
+Operaiiuns I l
+
+o D—Chief, EAO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$328 '
+
+ATO (Officer) (4/4/0)
+ATO (Enlisted) (23/15/1)
+
+[Billet Description (BA/COB/Deployed)]
+
+ 
+
+ 
+
+ 
+
+$325 - Mission Inﬂastructure Technologies:
+Infrastructure (Enlisted) (7/1/0)
+
+S352 — Global Access Operations:
+Global Access (Officer) (0/1/0)
+Global Access (Enlisted) (1/1/1)
+
+ 
+
+1D mm
+
+Officers“e
+
+Enlisted
+
+° 182 BA /101 COB = 55%
+
+[Billet Description (BA/COB/Deployed)]
+
+ 
+
+Weekly Interactive CNE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+operations
+ALL
+Operators Ops Conducted
+All 208 100.00% 2588 100.00%
+CIV 70 33.65% 1059 40.92%
+NAVY 52 25.00% 674 26.04%
+AF 44 21.15% 343 13.25%
+ARMY 29 13.94% 376 14.53%
+USMC 11 5.29% 108 4.17%
+USCG 2 0.96% 28 1.08%
+NAVY
+Operators Ops Conducted
+NAVY 52 100.00% 674 100.00%
+NIOC-M 28 53.85% 292 43.32%
+NIOC-T 10 19.23% 133 19.73%
+NIOC-G 8 15.38% 107 15.88%
+NIOC-H 6 11.54% 142 21.07%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Target Sets - R&T
+Analysts
+
+China
+
+Russia
+
+Iran
+
+Afghanistan
+
+Pakistan
+
+India
+
+Iraq
+
+Counterterrorism
+
+Cyber
+
+CounterinteIIigence (CCI)
+Supporting Roles
+
+ROC Senior Watch
+Officers
+
+Development
+
+Tar at ' u '
+
+MAC: Mission Aligned Qell — puts analysts and operators together to increase target familiarity and
+efficiency of operations
+' Joint military and civilian entity
+
+ 
+
+ 
+
+   
+
+m - “t,
+can —l-'-------'
+
+ 
+
+ 
+
+ 
+
+° Current TAO Targets
+
+— Political
+
+- _leadership to include Ministry of
+Interior, Parliament Members, and
+Presidential Palace
+
+— Military
+- Former Commander of - Common Border
+
+Force—
+
+- Col.—--IT Directorate
+- Gen.—-MedicalComman
+
+- Gen.—- (affiliation unknown)
+- Col. —- Instructor, Army Staff
+
+and Command College
+
+- Lt. Col.—— Defense Ministry
+
+- Recent Reporting
+
+— _ Armed Forces Reviewed
+Personnel Issues Regarding Retirement,
+Communications, and Health Care
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLEET FOCUS
+
+Framework and
+support for Navy
+requirements
+
+ 
+
+Provides structure to
+develop holistic Navy
+
+   
+   
+
+CTU CDR
+[0-6]
+
+ 
+   
+ 
+
+Chief of
+
+  
+   
+ 
+
+Technical
+
+ 
+
+ 
+
+ 
+
+ 
+
+ca ability
+
+ 
+
+ 
+
+ 
+
+  
+
+Navy support to joint
+priorities
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CTE Manning
+
+ 
+
+,
+J Unix and Windows Operators:
+ExplpilerQualilied
+(Minimum Requirement)
+Routerand Firewall Operators:
+
+May shift between CTE'S depending on
+operator specialty and mission requirement
+
+\
+
+ 
+
+\.
+
+/.
+
+—C.'IE—'
+mm
+
+2 Basic
+Operators
+
+2 Windows
+Operators
+ﬁ—_
+0 erator ys
+
+2 Unix
+Operators
+
+ 
+
+ 
+
+Opﬁgagl‘ms Director [Civilian] /
+2/
+/
+_/
+Support five (5) Combined Task Elements
+i
+c115 CTE CTE CTE CTE : CND-RA
+1000.111 1000.112 1000.113 1000.114 1000.115: 1020.111
+I
+I
+
+/
+
+l
+
+ 
+
+ 
+
+ 
+
+ 
+
+7—wr—i-
+
+ 
+
+ 
+
+ 
+
+Dire torat { D) “
+
+n1; 1r v
+
+[CAT Concept of Current Navy Participation:
+gm ° Mission Commanders:
+
+' Assembled for Title 10 . LUG-
+
+eXeCUtiOn support - Qualiﬁcation based on 105 administered
+
+' Mission Commanders and by the C yber Operations Branch
+Operators provide full- ° Five (5) additional officers in training
+time support to CNE ' Operators: I n n
+  or ° 22222:: 22222222222222
+JCAT ' REQUires LOAC/ROE Briefing and Tool
+
+Training
+
+Requirements:
+° CA UI Support
+
+- 1 Mission Commander
+o 2 CNA Operators
+
+° TASKORD 11-0335
+- 3 Mission Commanders
+
+Information Technology
+
+Direoto . to [ITD  _  E: E
+- - - - - ’ . . _ -‘  llIIIIIIII 
+
+ 
+
+AUTEC testing with USS Annapolis. 18 NOV 2011
+
+- Interactive Operations - Man On the Side
+
+— Connection via: Operations
+
+NEP TUNE THUNDER - -
+
+’ — Inject usmg:
+
+BL’NDDA TE/HAWYHOUR BLINDDA TE/NITESTAND
+— Successful eprOIts at 4, 6, . .
+
+and 8 NM with 4 watt — Successful Inject at 4 NM to
+
+Access Point (AP) 100 mw client computer.
+— Predict max connection
+
+distance to standard 100
+mw AP to be 4 NM.
+
+ 
+
+VLAH‘.
+
+      
+ 
+
+PLAIN TEXT .if
+IP: 112.31.255.11
+aw: 172.31.255.14
+NE'I'IUIASK: 255.255.! 55.240
+VLAN: 4&1
+
+ 
+
+      
+  
+ 
+
+  
+
+ 
+
+ 
+
+   
+ 
+ 
+
+DIREC IONAL
+
+ 
+
+   
+
+ 
+
+  
+   
+   
+
+ 
+
+ 
+
+I
+I
+I
+: I
+I I
+I
+' I
+ANTENNA (Mlsslon
+I I Conﬁgurable Mast)
+I I '
+OMNIDIRECTIONAL
+I ANTENNA [#2
+I I Scope)
+I
+' I
+RFDU
+I I PASSIVE
+SEGMENT
+I I WIRELESS ACTIVE SEGMENT
+ADAPTOR WIRELESS
+I USS FLAIIIITEx‘I ADAPTOR
+| ANNAPOLIS an;
+SSN "1'30 NEH-max
+I FIRST MILE GATEWAY SERVER I
+I IP: 172.31.255.14  
+13w: 17:31:55.1
+I r- METIIIIILSK:255.255.255.21”:| I_ _ _ _ _ _ _ _ _ _ _
+VLAN: 441456.533 |
+I p
+I aw:
+I um:
+I VW“ BLINDDATE
+IF:
+I I GW:
+. I 
+I NRoc
+I COLLECTION I
+PDSTION I
+I
+I I _ ENCRVPTED NETWORK
+I — LINENCRYF’TED NETWORK
+— RECEIVE ONLY
+I I — THANSMITAND RECEIVE
+I
+.._____________________|
+NODE- SECNETITIEE: NAVYBIJNDDATES‘I‘STEM ‘NO' 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Questions?
+
+   
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 28
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Network Operations - Overview
+
+Overall classification of this brief is:
+
+Derived Prague-3337A? mm.
+
+Dgciassimef-baggagéﬂ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+0 Describe the following network component/terms:
+
+— Proxy Server:
+
+- An intermediary computer that completes application network requests on behalf of a
+host
+
+— Router
+
+- A layer 3 device used to route traffic between networks
+— File Server
+
+- A server dedicated to the hosting and sharing of files.
+— Perimeter Network
+
+- The network segment located between LAN and Internet, used to place Internet facing
+services like Web and Mail Servers.
+
+— Internet
+- The aggregate of publicly connected networks implementing the IP addresses
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 30
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+0 Describe the following network component/terms:
+
+— Intranet
+- A private network not normally accessible through the internet.
+— Firewall
+
+- A mechanism to filter network traffic using rules based on attributes like source,
+destination, packet type, port, and session status.
+
+— IDS (Intrusion Detection System):
+- Network traffic analyzer that uses patterns to detect malicious activity.
+— TACACS (Terminal Access Controller Access Control System).
+
+- Provides authentication, authorization, and accounting control to network devices via
+central server.
+
+— RADIUS (Remote Authentication Dial In User Service)
+
+- Authentication protocol for remote users to access network resources via network
+access methods like Dial-in, VPN, DSL, and WAP.
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 31
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+° Define the following cross domain solutions:
+
+— High Assurance Guards
+
+- Connects networks operating within different security domains. Filters traffic like a
+firewall but operates on all levels of the TCP/IP stack.
+
+— SABI (Secret and Below Interoperability)
+
+- Connection of Secret Security Domain to Security Domains of lesser classification
+levels.
+
+— TSABI (Top Secret and Below Interoperability)
+- Connection of Top Secret Security Domain to domains of lesser classification levels.
+— Bastion Host
+
+- A host on an internal network that is also publicly exposed to the Internet or another
+public network. Usually used for service hosting (web, email, etc) or as part of a
+firewall solution.
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 32
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+° Describe the location of the following components in a simple networked
+environment:
+
+Proxy Server
+Router
+Firewall
+Workstation
+DMZ
+
+Switch
+
+DMZ Segment
+
+   
+
+3999.939:
+
+  
+
+Internal
+Network
+
+a.
+“‘ \u
+
+    
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 33
+
+ 
+
+Wireless Networking
+
+ 
+
+ 
+
+0 Define wireless networking to include the following aspects:
+
+— Wireless Access Point
+- Wired to Wireless bridging.
+
+— 802.11 Protocols
+- The set of layer 1 & 2 protocols defining the RF physical layer and media access
+
+ 
+
+control.
+STANDARD Frequency Range Modulation Method Bit Rate .
+— 802.11a 5.0 GHz OFDM 54 Mbps
+— 802.11b 2.4 GHz 0888 11 Mbps
+— 802.11g 2.4 GHz OFDM 54 Mbps
+— 802.11n 2.4 or 5 GHz SDM 600 Mbps
+
+- Other wireless technologies in the 2.4 GHz range include Bluetooth (802.15), cordless
+phones, microwaves, baby monitors, etc...
+
+— MAC Filtering
+- Only defined hardware addresses can connect to network
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 34
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+° Define the following application protocols/services and identity their port
+numbers:
+
+— Telnet: TCP 23
+— NTP (Network Time Protocol): TCP/UDP 123
+
+— NetBEUl (NetBlOS Extended User Interface): Non routable transport protocol used in pre-
+WinXP LAN’s.
+
+— Net BIOS (Network Basic Input/Output System): TCP/UDP 139
+— FTP (File Transfer Protocol): TCP 21
+— POP3 (Post Office Protocol 3): TCP 110
+— RPC (Remote Procedure Call):
+- SUN/UNIX: TCP 111, 32771
+- WIN: TCP/UDP 135
+— HTTP (Hypertext Transfer Protocol): TCP 80
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 35
+
+ 
+    
+
+Networking Fundamentals
+
+ 
+
+ 
+
+° Define the following application protocols/services and identity their port
+numbers (continued...) :
+
+— SM TP (Simple Mail Transfer Protocol): TOP 25
+— DNS (Domain Name System): TCP/UDP 53
+— SNMP (Simple Network Management Protocol): UDP 161
+
+— SSL (Secure Socket Layer): Presentation Layer protocol for use by applications to secure
+communications
+
+— SSH (Secure Shell): TOP 22
+
+— TFTP (Trivial FTP): UDP 69
+
+— HTTPS (HTTP Secure): TOP 443
+
+— FTPS 0:
+
+— DHCP (Dynamic Host Configuration Protocol): UDP 67
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 36
+
+ 
+ 
+
+Network Layer Protocols
+
+  
+
+ 
+
+ 
+
+° Define the following network layer protocols to include their relationship to
+TC P/l P:
+— IP
+- Layer 3 (Network) used for network addressing and routing
+— TCP
+- Layer 4 (Transport) used for application session and reliable delivery
+— UDP
+- Layer 4 (Transport) used for application communication.
+— ARP
+- Layer 2 (Link) used for Mapping IP addresses to MAC Addresses
+— RARP
+- Layer 2 (Link) used for Mapping MAC addressees to IP Addresses
+— ICMP
+- Layer 3 (Network) used for Network Diagnostics
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 37
+
+ 
+
+08! Model
+
+ 
+
+ 
+
+0 List and describe the 7 layers of the OSI Model:
+
+Lﬂ'flf H-IH'IE- Liw Hun. Funetiu-n Exian
+
+. _, _ TEII'Ié-Zl
+g: __ .
+‘Elﬂlllﬂﬂ-Htililn FE!!!:!:|.:I. " Manages thIIlFll-H I'Lup-iicaIIn-n: Schlgmling ﬁl-El‘lﬂplﬂlﬂﬁﬂﬂ
+Fra'lliders FIE-Innth and Unreliable TIC-'F'
+L'l-EI war? Mid! Err I'_'|r ljl'Jfrl'EETIﬁll UDF
+Data -
+ ,.  F'FEI'I'I'IIEI'E Lam-ml Aduraamng “
+H Uﬁﬂﬂ b'Ir Flume-1'5
+FF' Header ﬂat-“I - '
+emu-1'5 E nun-ain't: will! HM.- EDIE-'5:
+LLC: Header Data :. Address Elrur Untaclau'n EGFIHIIu HDILE
+
+Sﬂamlima 'u'nHa-En. Wirn  Ellilu'Tlllu B331 _ .
+
+11W1UIUHUIU
+
+    
+ 
+
+Entry pl inn .1an IIIthm' F'r-::-::1:I:_'.:.'i ng
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+     
+
+TEIF' Header
+
+   
+
+   
+
+ 
+
+   
+
+Tum-E Haadnr
+
+     
+
+“III-IMMUNE
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 38
+
+ 
+
+TCP/lP Model
+
+ 
+
+ 
+
+0 List and describe the 4 layers of the TCP/IP Model to include how they
+
+relate to the OSI Model:
+
+— The TCP/lP model combines
+the Session and Presentation
+layers with the Application
+layer. It is assumed if a
+program has need of layer 5 or
+6 functionality, then the
+program Will have to provide it.
+
+TCPi'IP
+
+ 
+
+APPLICATIONS
+
+OSI
+
+ 
+
+Application Layer
+
+ 
+
+Presentation Layer
+
+ 
+
+ 
+
+TranSport Layer
+TCP and UDP
+
+Session Layer
+
+ 
+
+ 
+
+Network Layer
+IFI
+
+TlanSpOYI Layer
+
+ 
+
+ 
+
+Data Linit Layer
+
+Network Layer
+
+ 
+
+ 
+
+ 
+
+Physicai Layer
+
+Data Link Layer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 39
+
+Physicai Layer
+
+ 
+
+ 
+
+ 
+
+TCP 3-Way Handshake
+
+ 
+
+ 
+
+° Define and illustrate the TCP 3-Way Handshake
+
+— The 3-Way handshake is the method
+that all TCP sessions use to initialize
+
+ 
+
+ 
+
+ 
+
+connections and session parameters. It Cﬂmhm'ter A SENS '3 Carnelith
+evnc I'IEII'IIIB MESS-HEB - EH3 I'I-EI-WE Q'ES
+fOIIOWS the_sequence SYN: SYN'ACK:_ tc E containing a that it received
+ACK. Application data can begin sending sequence number the measace In
+Eeu=lﬂﬂ- Incremuntmg
+
+with the final ACK packet.
+
+the sequence
+nLIrnbeHcelle-j
+an "AEK'H. Italeo
+
+ 
+
+Ccmputel A neceivee sends its even
+the Act: it euc-ecte and sequence,-
+the connection is new ace=1ﬂ1.5yn=3nﬂ_
+
+established-
+
+.I'-'t|| cummunicaiiun WIII --——-+
+new sen-cl incremented
+sync and acts to eneme
+a good ccn necticn.‘
+evn=1ﬂ2, aclt=3ﬂ1.
+
+ 
+
+ 
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 40
+
+ 
+
+TCP Flags
+
+ 
+
+ 
+
+0 Define and briefly describe the use of the following TCP flags:
+
+— SYN: Used to initialize the TCP by setting the packet sequence number
+— ACK: Used to acknowledge receipt of all package sequences up the number indicated
+
+— PSH: Indicates that that all data already received should be given to the application as soon
+as possible. Flushes the buffer.
+
+— URG: Urgent Data. Commonly used for interrupts.
+
+— FIN: Indicates there is no more data to send from that end of the connection. Session
+closes after both ends acknowledge Fle
+
+— RST.‘ Immediate termination of connection. Commonly used to indicate unavailable
+service.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 41
+
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— [P 1] 15 16 ___ __ _ 3-1
+4-bit 4-bit header 3-bit type of serVic-L- . -
+“Emmi Imam tm} Jﬁrbtl Imalu tangth {In bytes}
+. . . . 3-bit I . _"
+“Hint Ldﬂnhﬁmhun . l3~btt t'ra vent offset
+ﬂags 1 gm
+B'b“  “1” 43-bit protocol. 115-bit header dwksum m hyles
+|
+32-bits-Jum1F address
+32-bit destinattcnn IF add teas
+; nptitmlt [it any] If
+1 data ,3
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 42
+
+ 
+    
+
+Protocol Headers
+
+ 
+
+ 
+
+Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— TCP n 15 1t:- 31
+T
+16-bit mum:- port number mutt destinatiru'i port number
+32-bit sequence number
+Ell-bl: acknowledgnwntnumbw 10 Eagles
+. U A l‘ R S F
+ﬁlth?" 'fﬁﬂf' R c 5 5 v I lb-bitwindawaiae
+“5 :2; I: H T N N
+Iii-hit TCP checksum Iii-bl”: urgent pointer
+I
+f optima-[if any) i
+f dataiiEany] T
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 43
+
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+0 Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+— UDP
+n 15 15 ___ I :n
+16-bit source p-u-rt numbﬂf 1ﬁ~hit dwinatim port number T
+BhftEﬁ
+Iﬁrbn Lam'ngth l-Erbit UﬂFchL-«tksum : l
+If data {tinny-J: f
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 44
+
+ 
+
+MAC Addressing
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to MAC Addressing:
+
+— LENGTH OF MAC ADDRESS IN BITS: 48
+
+— DISPLAY OF MAC ADDRESS: Hexadecimal Format 00:8e:f0:59:31:ae
+— LOCATION OF MAC ADDRESS: First 48 bits in message
+
+— MANUFACTURER SPECIFIC BITS: First 3 Octets
+
+— HOST SPECIFIC BITS: Last 3 Octets
+
+'Jlll
+
+HI tﬂtrl L-"|1tl:'!I'.l-:l_ 3r:| nilL-I -1-‘I1 t'ﬂtrl hlit nth-l “I31 (Flu-I
+"I2.IIH't_I=l ;_ :JIIIIUIILH _ HIHJIII'I [JHIH'EH _ illtlmlﬂl _ [JIII'HJHII
+
+f'n'l [-'|Il£l|'.-'|I'lII'LI'l-lHl-II] !1:!
+
+II‘..'I [tllnhalIIﬂ-mi} m
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 45
+
+ 
+
+ARP
+
+ 
+
+Discuss the following as it pertains to ARP:
+
+— ADDRESS RESOLUTION.”
+
+- ARP (Address Resolution Protocol) facilitates the mapping between hardware
+addresses (MAC Address) and logical network addresses (IP Addresses). This
+
+mapping can be stored in a file or can determined through ARP broadcast requests on
+a local network.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 46
+
+ 
+
+ICMP
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to ICMP:
+
+— ICMP is a protocol that defines a collection of message types commonly used for network
+diagnostics.
+
+- Layer of the OSI model: ICMP (usually) consists of Layer 3 (Network) messages
+transported by IR
+
+- Ping: Message Type 8 (request) and 0 (reply). Used to determine if a device is active
+on the network.
+
+- Traceroute: Uses a combination of the IP time-to-live (TTL) field and the ICMP
+messages 11 (time exceeded) and 3.3 (port unreachable) to determine the route a
+
+packet takes through the network.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 47
+
+ 
+
+Routing Table
+
+ 
+
+ 
+
+0 Discuss the routing table as it pertains to the router:
+
+— The Routing Table Stores What networks are reachable through each interface along with
+metadata about that route.
+
+1U.1.0.ﬂ "ij-a... 1132.110  10.3.0.1] “‘91.. 1114.111?
+
+.f' 5"“
+E A ’31:} —lSﬂ B ’31 —[SU C ‘ ED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Routing Tobie Routing Tobie Rooting Tobie
+1ﬂ.1.ﬂ.0 E1) 0 10.2.0.1] 3121 ID 1113.11.12} SD 1)
+1ﬂ.2.ﬂ.0 BID 0 10.3.0.1) S1 1] 111.4111) ED 1)
+113.21.131.11) SD 1 10.4.0121 S1 1 1132.11.13 SD 1
+1D.4.ﬂ.0 BID 2 10.1.0.1) SCI 1 1111.111} 31) 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 48
+
+ 
+
+lP Addressing
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to ranges of IP addressing:
+
+ 
+
+Firs-1
+
+EM 0 + Una: it. Address
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Ciassfui networks were the original method of
+distributing address groups to organizations.
+. . SEEM I] + Elm; E Address.
+- Class A: First 8 bits for Network ID and the last “"3
+24 bits for Host ID.
+- 126 Networks: 16,277,214 Hosts/net
+
+ 
+
+- Class B: First 16 bits for Network ID and the last
+16 bits for Host ID.
+
+'3 + (31:15: C Address
+
+ 
+
+ 
+
+ 
+
+ 
+
+' 16,384 Networks : 65,534 Hosts/net
+' Class C: First 24 bits for Network ID and the last mm. EH? mm D Wm
+8 bits for the Host ID. m
+
+ 
+
+ 
+
+ 
+
+- 2,097,152 Networks : 254 Hosts/net
+
+«roan
+
+ 
+
+Chm: E Muir-em
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 49
+
+ 
+
+TCP/IP
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to TCP/IP:
+
+— Number of bits in an IP address: 32
+— Number of octets contained in an [F address: 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬂ 3 Il-Iﬁ- 2'11 32
+Harm'orl ID Hm! II}
+5} [MB 2 in El [2‘ mil Close A Address
+- Hmk ID Haul ID
+1  lb":- 3 IE    Ell—155- E  FEE-5
+1 1'9 ﬁllfgéal  Class C Address.
+I .l I  Murmle-ilmﬁdcrﬂs Class D Mdreﬁﬁ
+] I l l Fhwilm1ﬂrlwm Elms E Adult-ea:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- va6 has 128 bits, roughly a 300 trillion 300 trillion more
+— 90, 000, 000, 000, 000, 000, 000, 000,000,000 times the space of in4
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 50
+
+ 
+
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+° Discuss the following as it pertains to the following protocols:
+
+— TCP
+— UDP
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 51
+
+ 
+
+lP Subnets
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to IP Subnets:
+
+— Number of bits used in a subnet mask.
+
+— How the subnet mask identifies the network portion of the of the IP address.
+— Borrowing bits from the host portion of the address.
+
+— Benefits of subnetting.
+
+ 
+
+Hml ll: Clutt- C Helm-ml:
+“a biliI :01] 13.95. r:
+
+r1I1_1|11IIII1%II11111I_1|1"EE,'EE'§:"’
+“bah-ml.
+2.55- 255 2,55 2“ Hum
+
+; - I
+
+I Subn-m II} B'rt
+
+ 
+
+EDE- |3 9d
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.u' Hm‘l II]- Pii-h.
+
+' .- _I:' |?5d:urmhs_
+255- 3:” 255 123 I215 Hmltmh]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 52
+
+ 
+   
+  
+   
+   
+
+TELNE T
+
+ 
+
+ 
+
+0 Discuss the following as it pertains to TELNE T:
+
+— Use: Create a Network Virtual Terminal session on a
+— Type of connection: TELNE T uses TCP as the
+— Default port number: 23
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 53
+
+ 
+
+References
+
+ 
+
+ 
+
+. Authorized Self-Study Guide lnterconnecting Cisco Network Devices, Part 2
+(ICND2): (CCNA Exam 640-802 and ICND Exam 640-816) by Steve
+McQuerry. Publisher: Cisco Press. Pub Date: February 13, 2008. Print
+ISBN-10: 1-58705-463—9.
+
+. Cisco Networking Simplified, Second Edition by
+. Publisher: Cisco Press.
+Pub Date: December 18, 2007. Print ISBN-10: 1-58720-199-2.
+
+. TCP/IP Guide, lst Edition by . Publisher: No Starch
+Press. Pub Date: October 4, 2005. Print ISBN-13: 978-1-593-27047-6.
+
+. TCP/IP Illustrated, Volume 1: The Protocols by .
+Publisher: Addison-Wesley Professional. Pub Date: December 31, 1993.
+Print ISBN-10: 0-201-63346-9.
+
+by ,'
+,' . Publisher: O'Reilly Media, Inc. Pub
+Date: 2000/06/26.
+
+. lntelipedia Articles.
+
+. NSA Wiki Articles.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 54
+
+ 
+
+Questions
+
+ 
+
+ 
+
+° Questions?
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O lions —
+b 55
+
