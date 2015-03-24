@@ -14,6 +14,10 @@ exit_msg(){
 refused (){
     mv "$f" "$REFUSED_PATH"
 }
+
+
+cd $MYPATH"/../"
+
 # check files exist
 if [ ! -f $OCR_TODO_FILE ] ; then 
     touch $OCR_TODO_FILE
